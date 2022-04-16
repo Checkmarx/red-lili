@@ -1,0 +1,50 @@
+{
+    "_rev": "14-3c216d4b473a154d344dc9f2b523a935",
+    "time": {
+        "0.0.1-security.4": "2021-11-29T15:22:39.430Z",
+        "created": "2021-11-29T15:22:40.660Z",
+        "0.0.1-security.5": "2021-11-29T15:22:40.765Z",
+        "modified": "2021-11-29T15:22:43.566Z"
+    },
+    "_id": "bfxuilib",
+    "name": "bfxuilib",
+    "dist-tags": {
+        "latest": "0.0.1-security.5"
+    },
+    "versions": {
+        "0.0.1-security.5": {
+            "name": "bfxuilib",
+            "version": "0.0.1-security.5",
+            "description": "security holding package",
+            "repository": "npm/security-holder",
+            "_id": "bfxuilib@0.0.1-security.5",
+            "_integrity": "sha512-22DxdWNAQlmLzlICulSDINr+106yXvuE9enubfF5Q4D1BQPb94VwvrkfvuLwxAGkB8dEp6ul2xvc4BfSj8l53Q==",
+            "_resolved": "/tmp/tmp-8-Dts4KzMTdYqz",
+            "_from": "file:/tmp/tmp-8-Dts4KzMTdYqz",
+            "dist": {
+                "tarball": "https://registry.npmjs.org/bfxuilib/-/bfxuilib-0.0.1-security.5.tgz",
+                "integrity": "sha512-22DxdWNAQlmLzlICulSDINr+106yXvuE9enubfF5Q4D1BQPb94VwvrkfvuLwxAGkB8dEp6ul2xvc4BfSj8l53Q==",
+                "shasum": "f222bb3ee8a85e78b57a2ad678f1354020d78b8b",
+                "fileCount": 2,
+                "unpackedSize": 424,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhpPBACRA9TVsSAnZWagAAWg0P/jp/KYH1VzD1BSStTPDP\n3xAdor83T20+eclJ0tCEhkuT2dyBMlb9AkLF1eqKc0sI/7AcAxt12ZxvJRg/\n+gxW7ZvdyTpAV/v/36xLsUI9xp70y/wSfRHAkf8cVXd0B3k/OeMueB1bnBTw\n7jK+KjTY7eaama/fYixsfHp5aSVl8boKJx9LaaY+mOGQey8xBirwkBujMW+C\n8+epPdjletPtgFylUUXjHgeItbHhirrASx3qHB6sRizNIWG7eHIEs/znArjL\nEeFfduSlLJ3yfgDsYHG1sJaXtg35cZl3pUYLEtov77Wetxe70DQUJqEfvLiP\nrB4nwKz6UVq2AJwLfGRYQE8FoKbU2wGGBcMVKDShyfX4bMjz/MRyOVpSbmxZ\n1yVDQRHPOWTyOR9b8SBzkbalf6tzn1fs5wEV282gMF8a6hXL0rkXCo2qcYfm\nHz86v/NNWNzDynrjqxNVUbqfkLEgA1ahdQ/0fLHkK038mF2HLZVNuDXsZ1Wb\nSyYB9VDQgjkjdW1M/zHSDb/IbVUM3gcGutmBglyigd6zXphAGGMF0+SmJCt4\nRIFoeW3TuKhRGiuV9oivrDCGn9VzoDGyBXIDV/uM3V2r6ulqnosIXfBUXix9\n3FcmjiGVtTtpobD+rbGaqpLMPVqm9QON0Z/B+QP5bOE7EfJyaFaqJNUVr5tc\n2368\r\n=6pCS\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "npm",
+                "email": "npm@npmjs.com"
+            },
+            "directories": {},
+            "maintainers": [],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/bfxuilib_0.0.1-security.5_1638199360660_0.4515689667052545"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "maintainers": [],
+    "description": "security holding package",
+    "repository": "npm/security-holder",
+    "readme": "",
+    "readmeFilename": ""
+}

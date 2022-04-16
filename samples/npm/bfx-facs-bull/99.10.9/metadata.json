@@ -1,0 +1,13 @@
+{
+    "id": "bfx-facs-bull-99.10.9",
+    "name": "bfx-facs-bull",
+    "source": "npm",
+    "version": "99.10.9",
+    "description": "bitfinex whitehat package",
+    "date": "2021-11-27T19:54:47.353Z",
+    "author_username": "rt22",
+    "author_email": "hussam.tes05@gmail.com",
+    "files": [
+        "https://registry.npmjs.org/bfx-facs-bull/-/bfx-facs-bull-99.10.9.tgz"
+    ]
+}

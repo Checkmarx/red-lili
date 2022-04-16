@@ -1,0 +1,13 @@
+{
+    "id": "bfx-facs-grc-99.10.10",
+    "name": "bfx-facs-grc",
+    "source": "npm",
+    "version": "99.10.10",
+    "description": "bitfinex whitehat package",
+    "date": "2021-11-28T17:40:29.756Z",
+    "author_username": "rt22",
+    "author_email": "hussam.tes05@gmail.com",
+    "files": [
+        "https://registry.npmjs.org/bfx-facs-grc/-/bfx-facs-grc-99.10.10.tgz"
+    ]
+}

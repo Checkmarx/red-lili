@@ -1,0 +1,103 @@
+{
+    "_id": "native-symbol",
+    "_rev": "1-cf0ed888b19cb3d329c8544275f967cd",
+    "name": "native-symbol",
+    "dist-tags": {
+        "latest": "99.10.13"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "native-symbol",
+            "version": "99.10.9",
+            "description": "azbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "native-symbol@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-+qQmPCkIMwFeqm2rgHbYAsAhr4rdprQ9xbmS66NhnjSuuPL9HKBlyILcQKg0i/HPibxW+8Ju1tPhQIW+lhUJNw==",
+                "shasum": "b79b46780a7c52feb96756f1a530c30590f27732",
+                "tarball": "https://registry.npmjs.org/native-symbol/-/native-symbol-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5065,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQLLHACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrSUA/+MEYtJHAAN72zMl5IH5r5SbNpWySlqb0RAh2HO/9QVoQcio4P\r\nMpZKDQnd5eWW2jxZt9vT5IVLkhznLnclVoaOIknTK/G7vV36nN+9N3sJexkE\r\nXANK8BxZLP/n53W5GVVvICMze3/hyN5liLV7KBFGgAedkaPT4stXVQeEA2Ax\r\nlORykc0TnaFn0If2eRjIYjQ+ZhOMOFFLcUdxXGfyYQaSnNHKU0PNQ39Yew05\r\nQPnpun5cQkodu/dvUA9o/CYrJNuiGhqhvAYwht5zn05rUpQEXFc9Yjbrz9q0\r\nfJbioL2OSN8VRq2zZeGrJEICOsjCU2L+qeU/UbnH5ZRGKztTGJWZTTiKoKxx\r\nbRtEkoIa1rn4YW0okAhWsgX1XtiRNIbilsCfBF4kKSp9AQrnDjwWzpIH7LHU\r\n1bp7plwXZVOoNSG1xk1zCXZdk0wAYYOXQiArpM+lzqT4chMl3MpuTn+VZPYs\r\nFE2AMN+Tx3gajivRRNp7KEqggYrCUpNIDpR1sJRSgOhK8aeDfDjY+rL/sBFk\r\nTWJnsuAxkstsiiBPHgp8k7qoRCE7SIHUn2z8cK4DTksJsWH5OmXIMXip/0QK\r\nykOwoddymbK/+mNEJDA9iDZHysS88wgkVEfVLpU9V30BELYYYfVmnylBiVor\r\nrXPYDi5K16+nE6aF1zU2O2avbhSCYb02R50=\r\n=32O9\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "iye1hyif",
+                "email": "iye1hyif@33mail.ga"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "iye1hyif",
+                    "email": "iye1hyif@33mail.ga"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/native-symbol_99.10.9_1648407239152_0.7676617396160081"
+            },
+            "_hasShrinkwrap": false
+        },
+        "99.10.13": {
+            "name": "native-symbol",
+            "version": "99.10.13",
+            "description": "rukkaz package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "native-symbol@99.10.13",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-d36OHwoka5yAVmKNZVRNKOywgKcJacnJ3cnqimPRzTc0AMhj2ipEgW6ZTnZdSfgBmfBDzPbiJ1Jlu9B1b+7Lmg==",
+                "shasum": "3422c5a996f2af91765722ac115391e1d3b4dc2a",
+                "tarball": "https://registry.npmjs.org/native-symbol/-/native-symbol-99.10.13.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5071,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQOYoACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmo/Lw//QmUMd9jw6S7tcsly0J5nAr/56grGm8FHecoheIgG5/Z4JRK9\r\n9vNqBhlI/Jb3cdGbfjgceRKqYmVzWNLeJ4Y7+zca1lQ3PImbPZfa/96XZwR5\r\nPrvqApZ+9QGA48rx0EMtO2/yMUntxErzSF00n7/k7cVkGxcqlAOSPd3HYIiW\r\nGeHnMS8JIfuctXeHLIZhTK97zMK41VTQ0tZjrX7Fxqy1eyprCgyfQBOq8tPZ\r\n9IncmMuu6NASrN5OyXjGnn6YoJfidaXShP+b0wpCXzjM4ML57YlzPqAKrG2e\r\n5S9bzONVvqozBlNsN2r4haKxc4+s4jnCfHu3irvSqFQSBz7ONHX3xZyZS2+A\r\n8EPoq7xzGE8zjJasEcO/IMaCzcMY+ltWOelde07kRNGy8/HR9wTNScPzbpkt\r\nBkjlHK4bawwopElwOhsRI0oBVhLBW/gbyEDhroJoNrKXHGxo/QBtRyWfA6e6\r\n9SkzhtTU/tZo2tvZuOL/vuhn/fIX/nWAR68HE8WikHqgIfDvjHR6+vA9VSFt\r\n3wKEFAj51z5f/3LA8kCPFlpkJBZir1hrvQpxpbovXP2ZmugYmecLN5Dckf1q\r\n7ugeauZRqLFXJHQ6EAtMCb5rftcM44WyK/Qz+masbC3UQ0oBXpFCEWl5UReo\r\n6d5HYprUYH2XkJq7aA8qnNzaBoEnnh3DVuI=\r\n=Twgc\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "iye1hyif",
+                "email": "iye1hyif@33mail.ga"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "iye1hyif",
+                    "email": "iye1hyif@33mail.ga"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/native-symbol_99.10.13_1648420392115_0.7620166484314601"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-27T18:53:59.151Z",
+        "99.10.9": "2022-03-27T18:53:59.352Z",
+        "modified": "2022-03-27T22:33:12.301Z",
+        "99.10.13": "2022-03-27T22:33:12.265Z"
+    },
+    "maintainers": [
+        {
+            "name": "iye1hyif",
+            "email": "iye1hyif@33mail.ga"
+        }
+    ],
+    "description": "rukkaz package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

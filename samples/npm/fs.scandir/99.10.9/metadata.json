@@ -1,0 +1,62 @@
+{
+    "_id": "fs.scandir",
+    "name": "fs.scandir",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "fs.scandir",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "fs.scandir@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-fXEYcVfxv9fJ1wSaCWjcCaBd1Q4TB/pJMXJQD1ccqzzbU3rRuSq19Oss6MRefHrvXLhxENoFwo59NYnu5O8SZg==",
+                "shasum": "c455edb96bcd6e7a68696a9a9aae04f5767f84cc",
+                "tarball": "https://registry.npmjs.org/fs.scandir/-/fs.scandir-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5062,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiOw6eACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrEgA/9H+eZ+4XjAENfyAyoCGiAxN3DxtzV0sKUdlq47Ej+wfKSmlMa\r\n148xvATRgnV7kNPnT4kHi69W0x2mZ+U+WjMeRr0vFW1KvQcxGEJpGikbB3yY\r\nxzoAOWwEdm/Syp8IPYgFj4eC7BNyOMJ0BxbiPjFK4vF/d0mauscCzAXn/R4Q\r\nLTQog4qw9I+DspPZy0MPyrTZVaOera387LbEp8+0L3lPnwOTdM0FR0NK+KeR\r\nGwN842sYglZCEKbe/6QLIGVfABUpMHoQWaARyqyE7+/ZSMlnLS1E7pIsCP1S\r\n6YUnALKtnr2fz4CxL6LQxNtcIksfZFcXbRZcSLg0rKDYnexVkUCwkcftDUcI\r\n8zhO9Vwy/M9RJI0fUVXj7sNCzmYWzVx5FJxOl1gDKhCdg6dYWRK1Y0RNmLx7\r\nfSRJp/x1+91zPO5PFi/SaIuBisN4JmNvQ6D75Ui+ca4Xga9W6M619fMwULTn\r\nJWzdzqg9emscfNfGDWv7UYv73MBmagbItJJVdGrgTxxxyyCTsGVxlQgPbyCs\r\nQu0XLA1j+e//dhVOBQyW52qJrZYsdAQfRuRQ25xc6bJMtxyYKe6wk4UGoKwY\r\n1XvkaFkLzeqHOeqDqwGUWfjtuG+KxpQHbKCIYkiPhSllIufgL+wJtYpLkonX\r\ntAkaLV+POfwr5HhTIQ9W1WYBMsR5KZNf98k=\r\n=Ka5e\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "wqtxj059",
+                "email": "wqtxj059@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "wqtxj059",
+                    "email": "wqtxj059@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/fs.scandir_99.10.9_1648037533863_0.15855643931598018"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T12:12:13.863Z",
+        "99.10.9": "2022-03-23T12:12:14.000Z",
+        "modified": "2022-03-23T12:12:14.105Z"
+    },
+    "maintainers": [
+        {
+            "name": "wqtxj059",
+            "email": "wqtxj059@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

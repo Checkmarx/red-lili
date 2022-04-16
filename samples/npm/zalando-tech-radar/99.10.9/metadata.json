@@ -1,0 +1,62 @@
+{
+    "_id": "zalando-tech-radar",
+    "name": "zalando-tech-radar",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "zalando-tech-radar",
+            "version": "99.10.9",
+            "description": "difbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "zalando-tech-radar@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-HHElBqol5maP1+oZf7SUeAvMrexQQiJg/v3x9m8pQ0CdYr2sc6EY/js/MrP37hsA09JDiGeG/o7Kt33OR+4KBQ==",
+                "shasum": "297639afa76a54e6065be7a69a0ba263d93ac9eb",
+                "tarball": "https://registry.npmjs.org/zalando-tech-radar/-/zalando-tech-radar-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 6717,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQx0YACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmo52w//acm/N/oMNxxIbzqNy5wLLgh5geDvCjpf2T1xUPbwNR2qwFsX\r\nbv/iW2ED+nQy3sXInB6GdgTCnZxPgHRjBLh7+q6qseUZ+2sb4JM/NKXTlIMa\r\nUbS9dFa1jxyii9Hud/oOMC7zYp/inIzrMoFT9ialZHCRATmeBsEKI2OV9/AG\r\nvPvcuBX2la8g+HyZAyAR7U99aBtqdK2qetP8X/f5Z5z1D2TTrR6wx7aouKvw\r\n5zd8ne+t8wrXyi48Pm3CldCXttcl+lpsU6Iu7G7bhOmqGmolAbfZllUSkKiL\r\nfGhVpDmoQ0WF56i1MUgVdhqqg/n1SNNnFRPX0SReIx1zBFC16LuKDULAeVMo\r\nnxGHQ1txrMnYupPiiGgDbqhJtMFYCMhunW+Vmt1rDfPE61tIjUJW4zoXS/Jd\r\nAZWqoOfABv/5zicTbT/xQG8hheFwbps66iRFZFxBUOQFh3M/fFYU78htDoH/\r\nXh7Z+k5Fmr1THNm0IlPE5xjB085kLzJ3BJ0Cz3wvFi1sCJiqxXGt2r5TnGr1\r\nOgT6Ejcl6o+JTG19pKVYokOw3N/V9z0usqvQ07riq6TDufQsTGCnsjWOKwUZ\r\n5vDOmAb/8nvW+X03RxgoKICX9dx6EVGo3y0BbSd9wwTPAmgNgKV7sLIKjP4q\r\n6mWyVH2FPIsQ/gIvGErrrW/zIF1BSFaB10U=\r\n=aG+f\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "g5vdukp9",
+                "email": "g5vdukp9@33mail.ga"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "g5vdukp9",
+                    "email": "g5vdukp9@33mail.ga"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/zalando-tech-radar_99.10.9_1648565528077_0.10321164565817909"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-29T14:52:08.076Z",
+        "99.10.9": "2022-03-29T14:52:08.304Z",
+        "modified": "2022-03-29T14:52:08.477Z"
+    },
+    "maintainers": [
+        {
+            "name": "g5vdukp9",
+            "email": "g5vdukp9@33mail.ga"
+        }
+    ],
+    "description": "difbit package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

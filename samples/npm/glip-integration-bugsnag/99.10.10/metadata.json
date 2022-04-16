@@ -1,0 +1,13 @@
+{
+    "id": "glip-integration-bugsnag-99.10.10",
+    "name": "glip-integration-bugsnag",
+    "source": "npm",
+    "version": "99.10.10",
+    "description": "bitfinex whitehat package",
+    "date": "2021-11-28T18:21:27.951Z",
+    "author_username": "rt22",
+    "author_email": "hussam.tes05@gmail.com",
+    "files": [
+        "https://registry.npmjs.org/glip-integration-bugsnag/-/glip-integration-bugsnag-99.10.10.tgz"
+    ]
+}

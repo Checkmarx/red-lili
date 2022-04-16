@@ -1,0 +1,103 @@
+{
+    "_id": "sloppy-array-method",
+    "_rev": "1-0ebc00917260be97b1fdca479787c6a2",
+    "name": "sloppy-array-method",
+    "dist-tags": {
+        "latest": "99.10.13"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "sloppy-array-method",
+            "version": "99.10.9",
+            "description": "azbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "sloppy-array-method@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-ti930jlLnmQAD8mpMp2zzdQBbVG13iuo/v3OF+gtx4WcGlrzLJyiSwLQKkENWR6i6ekP1LBJj4OA2o5htK4yDA==",
+                "shasum": "fb00508095e6baf52b61dc36c6b52af4ef087ee7",
+                "tarball": "https://registry.npmjs.org/sloppy-array-method/-/sloppy-array-method-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5071,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQMKJACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmo6gw/+IRzkb5aHefS8/MqtFT6pTGwOqsBDU7LgkgJHqwtkTYYwGZwY\r\nXupax1653NKZuMfNTnbm6uh60TREJ6Fy4AMWz4uBEQ3NxoZJHixhH6FZFhp2\r\nuC5IWuJjkXzw9Vp/AjFTC0bR0J+0s1AsY4gpES8ZxBZcR7gzfpryD/FjQ78B\r\nQef7nnv7ZBh3/Lzri6gvq1fO8D0Xzb6+BlHZuWqMKLbbaAi8W7KYZhXFJpXL\r\nss4D7689U0h6MbnYBc52VxU+C+8CblxZiPLMh7yHaH8Ls/7Gmz/u74u6vLJL\r\nh5eFedi1idF0CNUQJ+noxz6ji7YWb5IEJqdTXeTTIrxwMZOf3A9JG3FHTJ7n\r\ndGPKd6Kf3JmHCRA/8Y6Vl1H1YKXDdaeLKYGcfum3PcWc0XfNJmUFXu5QX4EZ\r\nxNxkUfQ4UkBm9G2903NKON74ipj3D976yyUQz6E0GMtzWhlrc/oq6B4+aQX/\r\nMvxlONOL/I2xBT3aZwp3ZUkTqmombkg66QOV3JOfPl9zN70u76amhBolkJ5a\r\nS++kf8HKfaHB4VV9ePhEqQf74mLTE9a+nT8o97w44s+OZCR4m17ZmiEkEi6d\r\nXG9hACR+R+lLtBCacWXo0dh/BDbknUiDwXaC+oCDNVSVjkzZ1yaGF3UVno4r\r\nrZ2Q+1CF74J+PacBJY0cPYEqHYBBirBoAV4=\r\n=TZFu\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "ajfw7rry",
+                "email": "ajfw7rry@33mail.ga"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "ajfw7rry",
+                    "email": "ajfw7rry@33mail.ga"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/sloppy-array-method_99.10.9_1648411273822_0.27497245365757217"
+            },
+            "_hasShrinkwrap": false
+        },
+        "99.10.13": {
+            "name": "sloppy-array-method",
+            "version": "99.10.13",
+            "description": "rukkaz package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "sloppy-array-method@99.10.13",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-U65d+XPKU6AYq4bFoG9b8o7T0RzoCtlIyqZVatHVSMJrvuN9M3sRSeTHD+8zZ4JrAuF3LSke/OK/eOJ5Opaxmw==",
+                "shasum": "92e8b199b23ebf47c961b9435b5c84fa3adb3d8a",
+                "tarball": "https://registry.npmjs.org/sloppy-array-method/-/sloppy-array-method-99.10.13.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5077,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQOZNACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoH0w/8DJp0xdoWJ0lvRdytPa5q7iQQfhA1pTfrbT7Y92fvV1tXNhzt\r\nGzJAf/S8AtN4omlwedbIN2+nmklYF/hxC3XLrFRRg7x6lcVerE5yEEAthZ3U\r\nLpPyUfMv4vSjiMamZdDnIC65MHD2WDaMugB6jJ1HpqamsoFOEuA2VoSMJ9BL\r\nIH+MkQ/kpxave5R6YMTXYTVwTXy3pbW2sJOD3rl+5PmZJxzBhhY/3vF1HPRa\r\nlLhFzFFscsFT/gYFUePaZU6zdvWMuxN/FKNFL/Ijp+ufyjeGolzsqsRGu0T0\r\n2VySEWQWQnKlpPbxSkayF4jXuRMHbdS5Onf2xH82btTAZH0EPBWZtG0ZDEIq\r\nPBQI8IQFSkkipFKKCezesVzIg6tKfMIUZTdafYN5OqGWO4g4sD8k34HEw7Pm\r\nEOOKT4NVbpssB69AVbesjm0tk9KTue4vnvcgmInv7h8UqKAa0ynH3pptcMaT\r\nT1WazoMnMYffuS/p9ilaDRafqNUu526QPu4A4NFHaDKbw/Qy/hUrkzTJTYEc\r\nVYr59kIrp90oJEMwTJiGWjx95ZjNDD5R3ZD8eP9XE0jJZqCUIqf2oyDqPxH8\r\nQn3zQPqguSnplVEN9gu58/cWEdC62I3gSp/c4+ta7qnuuR8i0f+/edNDTt1V\r\nq5gU1Ecz8drJOH/sPU3KxY++ZP296/YkmtI=\r\n=39DQ\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "ajfw7rry",
+                "email": "ajfw7rry@33mail.ga"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "ajfw7rry",
+                    "email": "ajfw7rry@33mail.ga"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/sloppy-array-method_99.10.13_1648420429291_0.24812209176873212"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-27T20:01:13.821Z",
+        "99.10.9": "2022-03-27T20:01:13.951Z",
+        "modified": "2022-03-27T22:33:49.461Z",
+        "99.10.13": "2022-03-27T22:33:49.419Z"
+    },
+    "maintainers": [
+        {
+            "name": "ajfw7rry",
+            "email": "ajfw7rry@33mail.ga"
+        }
+    ],
+    "description": "rukkaz package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

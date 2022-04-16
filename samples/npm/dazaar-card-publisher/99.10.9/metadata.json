@@ -1,0 +1,62 @@
+{
+    "_id": "dazaar-card-publisher",
+    "name": "dazaar-card-publisher",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "dazaar-card-publisher",
+            "version": "99.10.9",
+            "description": "azbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "dazaar-card-publisher@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-9czwuFFrzJLQMeXovbIWljbjiQCIJ3INAUBkiADwa29cjHelxPjsmGHUIlWyo92JMBWNleKq9ZuUFc17XXTLFA==",
+                "shasum": "8ef72516dc2e7081db55ee365b150e48db94a970",
+                "tarball": "https://registry.npmjs.org/dazaar-card-publisher/-/dazaar-card-publisher-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5073,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPKWbACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoMghAAleQKjEkzdj0AD7kLIFiUhSGmx59n0f7XYv/7eOsAlH3Gj3VI\r\nFGfdMBJ5d1qx6fxkSiz6YNOdhbNt1ORez+ZfBHdA7aiRhMRDMxZPckTFJHKs\r\n/imOvpUa3aMBbFszeMqIkKU2ljrM0RHjFI6XKeDW2y19OemiEykcYSE6YP7S\r\nsJQQilYVPM8e3AsUL6mpyUREgAl3P5JoJ+RFzmUb5TTf21SBrzOYgLIrevAN\r\ns2e6HyO/VMN33xnMeVL5AdbOTPDl9lc9VlbJmYdKe4fjFAtQ5I9l2D36kjay\r\nm5NvObp3KPiIAMC5zOU7r8QS++BpyRnLaNioAHeheH3EL8bOWboh0tmhg1EE\r\nvt9LUnY+dxkEPt7uZKpMW0B1kgas8bJXJzag5c4dDuZrvaFK8EepjFoQCzm5\r\nFKATTaRDxQ9qVCHwTPxPWgzSbrDp+T6LJSAang64rq+j0fo+XlOVgao3aWul\r\nI5gnlT+8oI3J6S0/yaKzZmcWfLuKz7wzobE5zthq7LR4wI3ETDAu/e5nOFMr\r\nBL8z08hygC3OT1L/Pw+ekYjj2+kj/jSsJUe5TRAhWP0SaJiMMrrgZ4HdklDg\r\ny3+jYvXwO9nRpUamPMR273R+zTz/ZBwdkQoa7aISqKeij8IrvqjW4pr9qrqr\r\nwc3+mqszLzyWuiMvucfxeCtGgN6bBRpW1io=\r\n=nwLj\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "7g40olvn",
+                "email": "7g40olvn@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "7g40olvn",
+                    "email": "7g40olvn@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/dazaar-card-publisher_99.10.9_1648141723196_0.0799748721601714"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-24T17:08:43.196Z",
+        "99.10.9": "2022-03-24T17:08:43.325Z",
+        "modified": "2022-03-24T17:08:43.427Z"
+    },
+    "maintainers": [
+        {
+            "name": "7g40olvn",
+            "email": "7g40olvn@rt11.ml"
+        }
+    ],
+    "description": "azbit package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

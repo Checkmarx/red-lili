@@ -1,0 +1,68 @@
+{
+    "_id": "turbine_helper",
+    "name": "turbine_helper",
+    "dist-tags": {
+        "latest": "95.1.9"
+    },
+    "versions": {
+        "95.1.9": {
+    "name": "turbine_helper",
+    "version": "95.1.9",
+    "author": "",
+    "description": "whitehat package",
+    "License": "ISC",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "_id": "turbine_helper@95.1.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-0uF3MhibkoWp8FGXx8IZGPv/7QkhL7QjrlNQf8nM+O+D85rnf0S969xbUgThfp8SoNWFRc384cHTcr+tAiE2ew==",
+        "shasum": "31aabc1840dd52d5053e54aee71f8b86f07dcdf0",
+        "tarball": "https://registry.npmjs.org/turbine_helper/-/turbine_helper-95.1.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 7689,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQC/LCzicQ7Bi/oOfgw2pNBKsZ5q3RNiCSNKh39Rl/KzSAIhALtrxpVzWelcZa57Kbvy/5fu7R+oEnMz1V9lZBrGn/Xf"
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiUbkAACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpshA//Zc0QvVdQEdBw+Tz40xwEdK40eb4hTZKt3aku94EOgqVAAAal\r\nDdMmNFIDIsx7DU5+HqeOst4SPKN9RUdvDx7iuQYDLYy8dyfAS1kJfmo7HCzV\r\n4khTpK5Vxa4xfwqQBvhyZkSRZZZiQEzyWRNXchS9ajxuteWiiMWIx1mVWuha\r\npu6rAoivW88al3fqdPDOItBmXMhh3Mg5TMQ1TlS6qWUKh4v/7bcuPdva58+3\r\nJcPaNE2NXnfDF8AZWBQUo+NE+VpY73Apt3hNMQshNfhvN92DxVadPgoV+FSE\r\npKrEo0GMHng7ZRBDVqy83oZwj6o/iZKwCSrGBQh2SEJyCV/5gWMx06ojY4Zq\r\nfJBNDLUq74fF4VYcg9uzz3D3pAhrkgkMcfjzSL7V2zIYGoi4qDadaXye9Tjj\r\nCZ8yqSk/tnQBZ5/wnVbenBot32b8s6zCY4qC18Ljt3sKmivwIqS+nTNNqbCM\r\nuZJjNtIl1IhkuBVhC1aeMT4Ghx7382gmG/E/hF1xb+B17NeLScCCpAiY7PzA\r\nAchKX/sBiW6jV0szA8S50GaKHuj7iwrPZwwTrgJ5j2lWVZoMpX7temce/kxq\r\nMeYvZE+HpyctAnCqpWS2Bixr9q0I8lpGZcgY7oGRFFLM9hNpiEpTBvv4y7/j\r\nwBAgGHS824yS4XGovKdqoO9jYMuQVXH2OSY=\r\n=ECrX\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "7rzu9gj6",
+        "email": "7rzu9gj6@anonaddy.me"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "7rzu9gj6",
+            "email": "7rzu9gj6@anonaddy.me"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/turbine_helper_95.1.9_1649522944545_0.33299479719250624"
+    },
+    "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-04-09T16:49:04.544Z",
+        "95.1.9": "2022-04-09T16:49:04.690Z",
+        "modified": "2022-04-09T16:49:04.804Z"
+    },
+    "maintainers": [
+        {
+            "name": "7rzu9gj6",
+            "email": "7rzu9gj6@anonaddy.me"
+        }
+    ],
+    "description": "whitehat package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

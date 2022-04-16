@@ -1,0 +1,62 @@
+{
+    "_id": "transform-vega",
+    "name": "transform-vega",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "transform-vega",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "transform-vega@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-1asRiUDO5bVP/b0P73RFaTuPm9Ssttr2qQpZRdBGlEWLnnKMFWWLqNrOY4dXOh4CowF/lESOwAUqTP+jFTJpkw==",
+                "shasum": "da8ef616033be9aedc94008b41805daea25c6c52",
+                "tarball": "https://registry.npmjs.org/transform-vega/-/transform-vega-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5066,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiO9ZMACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmoz0w/9HSIoFD2XpwDMZ0C33y8N9zEBsSeCXKJO0OgqnzMSLQeG88gr\r\n3gVBXB9IWyHy5hbYmU36Yu4jJKbBNw5idD18zXO4XNwy3a0ss9ObA/U3VHcw\r\nEBPKStb1DuTvTKS4aBJ7l1+yqzdmg5XyFgWQhIvMlcwZ/8JJztv9up/BXgSH\r\nhMiqcDShnr0SsxPYQPZv5+/ivxPpcqqwivdPRM/+dZ8cKO6a/uBBVKcKuKjW\r\nSxdXOU8xtqsWkzyUirrgwccWJCgFCJsXbfaNMWB9+Ajfn5wK/3regPAS6h71\r\nAiEMTRBjTcDl4E9d8L0JDZxXnrcC30f+nPNuX5+PtWntapZ6AMK3ROOWHGLw\r\nN73YIIiGbQ3aXz1+flVJdgM4lmmz05GeYxcMzs2zTKr7ty7bCYw2/PhsvkHY\r\njr/Ol4L6EO/wbhQGilvzv9xgV1UpLjqB9S3JqsRGaHiGhh2Nxri+ykh789bx\r\n3c9O7DkPIl7YFOytOJGxkaIqtVfx8Ngi3+zbQxG8sbmNZkUlodN/D7tU1nPc\r\n5mOvRSfb5VtvS9vUjZtVStb34SUWl3KiFvK6USBS3R/z4uol2YdNSBWBJRk1\r\nqlB+Ljnv0ieb/VpgEZMrr8Ad2FU2M5bKCq8pUbBHrkdrDOd9K68hneccPyNW\r\nNTIUfEyYGPeDyEkEQBMpc9BOYTP38VFoHL0=\r\n=6jL5\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "zdq4k8se",
+                "email": "zdq4k8se@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "zdq4k8se",
+                    "email": "zdq4k8se@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/transform-vega_99.10.9_1648088651914_0.8243239327738825"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-24T02:24:11.913Z",
+        "99.10.9": "2022-03-24T02:24:12.062Z",
+        "modified": "2022-03-24T02:24:12.159Z"
+    },
+    "maintainers": [
+        {
+            "name": "zdq4k8se",
+            "email": "zdq4k8se@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

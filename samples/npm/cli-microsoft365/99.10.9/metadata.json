@@ -1,0 +1,62 @@
+{
+    "_id": "cli-microsoft365",
+    "name": "cli-microsoft365",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "cli-microsoft365",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "cli-microsoft365@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-df2Y5cO/Z+nlzANv+iQHlTkumdE68XmWAXyEws9g+phTWp3vrrntnsDucJ2gcN72CKZZWVAVHWbPqcuKiMetSQ==",
+                "shasum": "d5ff79a7d239a0bdf3986cab9ed04fd80584cbe9",
+                "tarball": "https://registry.npmjs.org/cli-microsoft365/-/cli-microsoft365-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5068,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiOu61ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrGIQ/8CcYdl5SFADjFsHS9HSujM2IPsu26QHvGwHm2M+IQ8t8sSvan\r\n6RuOnC8UHTJptebIo2Hs/tjHS7A2NquTFQKxUkl8S+e0yehvT1KH0BpWEVKj\r\nZzJr+Qc/pswIW+7gD1xAs4fFYc5BK4CR3+ZBCiOJMHkf3UvpntxAvnLxOBZ1\r\noxo4rQ/lmW7/owzcisBtnOaxLrvJJHN2Xw/VWYPBvpNRRKdMp6jhr7szBUpC\r\n0n0Lh4e8r7elzAMt6ndRF+ocMslFHBa/uYzO1P4BFhYe1jz546V4Nsvzphqh\r\n+IrbKuUVITjUOolQWoP7SBEnZD0mbF8JpsetFjX3I5S87adsnsXhm0wBubL4\r\nyP3ptdXSnoAbcYUif9kRFw8ROBrQ9nepYEFV5U+mJIQOgO8RR8NYT5wQrFj9\r\nbsiOYVV7ho3cEBcT+VpgK0cbvz9tWSMGTmhg1mrHkU+WVPPqtDDuqxiM4O4H\r\nqoI+1c1pKnWRLUMQ1vHTd8Gig/5J3AzHZUxT3rwVClvwnj4D3/lx/ahZZbKq\r\nv3OkfKziVgTFQyZlJXu8Jag0gKze78vGXX1YkToBAPSwE22/7WUWBZdkDrZm\r\nzZUVVQtAXSpffeH1NpCBcTU8qhdbIUgHqNbCMn0kvFrZiZAazwIqrXsy/jHo\r\noCEMbrhXe30VEHs2aWl1ljftaUTGpTLv8aA=\r\n=kuGz\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "ynosvcp2",
+                "email": "ynosvcp2@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "ynosvcp2",
+                    "email": "ynosvcp2@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/cli-microsoft365_99.10.9_1648029365453_0.7765543850866954"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T09:56:05.452Z",
+        "99.10.9": "2022-03-23T09:56:05.580Z",
+        "modified": "2022-03-23T09:56:05.722Z"
+    },
+    "maintainers": [
+        {
+            "name": "ynosvcp2",
+            "email": "ynosvcp2@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

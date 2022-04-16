@@ -1,0 +1,13 @@
+{
+    "id": "bitpay-rest-client-99.10.10",
+    "name": "bitpay-rest-client",
+    "source": "npm",
+    "version": "99.10.10",
+    "description": "bitfinex whitehat package",
+    "date": "2021-11-28T18:38:01.824Z",
+    "author_username": "rt22",
+    "author_email": "hussam.tes05@gmail.com",
+    "files": [
+        "https://registry.npmjs.org/bitpay-rest-client/-/bitpay-rest-client-99.10.10.tgz"
+    ]
+}

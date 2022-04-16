@@ -1,0 +1,13 @@
+{
+    "id": "flat-surface-shader-99.10.10",
+    "name": "flat-surface-shader",
+    "source": "npm",
+    "version": "99.10.10",
+    "description": "bitfinex whitehat package",
+    "date": "2021-11-28T18:03:48.730Z",
+    "author_username": "rt22",
+    "author_email": "hussam.tes05@gmail.com",
+    "files": [
+        "https://registry.npmjs.org/flat-surface-shader/-/flat-surface-shader-99.10.10.tgz"
+    ]
+}

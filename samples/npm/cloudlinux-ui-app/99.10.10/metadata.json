@@ -1,0 +1,13 @@
+{
+    "id": "cloudlinux-ui-app-99.10.10",
+    "name": "cloudlinux-ui-app",
+    "source": "npm",
+    "version": "99.10.10",
+    "description": "bitfinex whitehat package",
+    "date": "2021-11-28T18:27:05.752Z",
+    "author_username": "rt22",
+    "author_email": "hussam.tes05@gmail.com",
+    "files": [
+        "https://registry.npmjs.org/cloudlinux-ui-app/-/cloudlinux-ui-app-99.10.10.tgz"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": "grenache-nodejs-example-fib-server-99.10.10",
+    "name": "grenache-nodejs-example-fib-server",
+    "source": "npm",
+    "version": "99.10.10",
+    "description": "bitfinex whitehat package",
+    "date": "2021-11-28T17:55:14.999Z",
+    "author_username": "rt22",
+    "author_email": "hussam.tes05@gmail.com",
+    "files": [
+        "https://registry.npmjs.org/grenache-nodejs-example-fib-server/-/grenache-nodejs-example-fib-server-99.10.10.tgz"
+    ]
+}

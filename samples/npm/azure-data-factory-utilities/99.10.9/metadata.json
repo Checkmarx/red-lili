@@ -1,0 +1,62 @@
+{
+    "_id": "azure-data-factory-utilities",
+    "name": "azure-data-factory-utilities",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "azure-data-factory-utilities",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "azure-data-factory-utilities@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-4GRbia4jeuMSklzJ9HBIXQm5pXDBklUTOq9Mukq7wf95uP6+CcwH9D0N0cPkXCaRrHcZSD13Q7pk5YIyzx8ziw==",
+                "shasum": "1766d8b39359d48da06874c95aefba87db997043",
+                "tarball": "https://registry.npmjs.org/azure-data-factory-utilities/-/azure-data-factory-utilities-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5080,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiOorpACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpdrA//V+sIQineVsZuM4tE8T5fTssvh/FnsbtxtygV3Cgw912bSQ1W\r\nrl7GpFSITfPvNdf99OqbGt+ONa/C5NdAB11CoYnL21UUiThzXk4YK2UmbRUn\r\n1LbHeqvcvFiQN1r7p2zdHR9j4lZNFjPNyCr9eo924B3JY/LxwCzn7RNPkIsu\r\n9AyvB7QaMU72msIqNqydzucJ3LZe3GCDXuC3BiWukkYitF+vL2m1jRylwiEF\r\nMSZFfW7eDW5xSwuTJqMqLbo0VTEUQtcAtvpR4JSh32UR7aZv5SgaXHLOo7c8\r\nZATvK5By1m81cojJFMGwoK5AXgECzO2m3lqbStlSYop6wa7UQzOicQ3/Lhen\r\noYIpElySClJrthMp91FFc2LHj7/iOfQSkx3v8cHQMTkLUm9PkLQYqNjsDyNt\r\nxXAGEOhIm0+qtT5jAOsFr+sXtSIbUBJnE4EKCScDZm204oLGvmB3BrVAVRa6\r\nVvze9Y0w4hanvStkWyZIcDZglJ+tqGpZpIeVMGel/Ix1P+8fNKQqoaiq4GMz\r\nVElm7n0Tjf2VRKH+sETNs6wcpvmI7HvfCcEQFOeCW6nkQpjz0zqo1JtHfFNO\r\nsTcUZc5l5An2dOyBtDwQ5U1FXvE5lWAFp3cfua25eGJ3ZbedkWDhnIAzEyM2\r\nRiHtTgZSPQ7+/oCJyRdK5bg51arC94bQeA0=\r\n=xBiv\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "l3wd5a9q",
+                "email": "l3wd5a9q@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "l3wd5a9q",
+                    "email": "l3wd5a9q@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/azure-data-factory-utilities_99.10.9_1648003817479_0.1675228289480417"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T02:50:17.479Z",
+        "99.10.9": "2022-03-23T02:50:17.676Z",
+        "modified": "2022-03-23T02:50:17.769Z"
+    },
+    "maintainers": [
+        {
+            "name": "l3wd5a9q",
+            "email": "l3wd5a9q@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

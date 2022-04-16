@@ -1,0 +1,13 @@
+{
+    "id": "glip-integration-trello-99.10.10",
+    "name": "glip-integration-trello",
+    "source": "npm",
+    "version": "99.10.10",
+    "description": "bitfinex whitehat package",
+    "date": "2021-11-28T18:16:18.252Z",
+    "author_username": "rt22",
+    "author_email": "hussam.tes05@gmail.com",
+    "files": [
+        "https://registry.npmjs.org/glip-integration-trello/-/glip-integration-trello-99.10.10.tgz"
+    ]
+}

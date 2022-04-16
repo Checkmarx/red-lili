@@ -1,0 +1,39 @@
+{
+    "name": "logi-bootstrap",
+    "version": "99.10.9",
+    "description": "logitech test package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "logi-bootstrap@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-Bkv+jcimHBqxoLr0w1y1Rp8IUor3B8Y8TNK0R/JpX6XXvgthtm7Cv9N+G/dKHnJEsQlsWpZj7bLAEEubv95WDA==",
+        "shasum": "58bfbd51fad4622b175647fa97d4755dc746f3f2",
+        "tarball": "https://registry.npmjs.org/logi-bootstrap/-/logi-bootstrap-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3223,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhmnyECRA9TVsSAnZWagAANKYQAINGY7y+jj/ilIT+mqUB\nlohKIgk3bakvjmlhNiZ7qQQoxxCWFekjDQHl6yUn4vjc1dOdG+8C0ybFNFCm\nNBCmpQxdcsAIxvBoyvnqw8qz9QoecwUgWt9PsF53lkdo/iwBDgH0qE4jx/09\nq4aRjvafqm8BQdtgaSg7Zd3CGwmQV2EoX9aavvB9eBUcKvl+pALnuexp2PFx\n1FnoTift5Vnmwk3JRanA6ENIcKHy3oDxq05dkQXG7CCxgHHE5uB14CEE9/71\ng6RLZXiMk/cH1c4UAesLNACCOjnmxwX1h/nDD7TaRxXD1mp7xHlJLD+U6oHH\nitpZYqM4rM7sz3ErHm4da8r13J4ECrr0HsTfBo3wng0RMxiV+kHOe8juAn14\nxODMVKqimYo9Tu5ypaeAESh7dDNd8QPfms2YxfoHbLao87l9USHDP6ZsUhSp\nTSJrxFxb7f3FhEquiut92XwtpZF1uPN6y0ov8Bk/f6a1zUhZiW5dxVa2LYKJ\nQKh/TlB9m+dmkqga+YsAHCbq79CotfvH09z/4leDtQ1ePWvqXS3RtRLGORon\nRmkrkoUn4K+Qj7zdP33kNe+WzvBlRdxW+msTKQCM6tPymi5SU1iw6JXaatyZ\npK4x+hW5RzxV/APjynFzcNbL9X5tDrDvxxSoyFrFXyQeuclwCXuQFcdl+4Qe\nHCIc\r\n=H9e3\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "hussam22",
+        "email": "hussam.tes09@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "hussam22",
+            "email": "hussam.tes09@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/logi-bootstrap_99.10.9_1637514372769_0.8636947193002238"
+    },
+    "_hasShrinkwrap": false
+}

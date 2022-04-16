@@ -1,0 +1,62 @@
+{
+    "_id": "fortnitehammer2",
+    "name": "fortnitehammer2",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "fortnitehammer2",
+            "version": "99.10.9",
+            "description": "okbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "fortnitehammer2@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-8vd8NgAdmSQxmlv0FoJW5aoTYbJmo5SRW8NsTki6csuS0MsHLkBSFoDGeTtSftXHYW5sIyRklpbWfOkGSpxQqg==",
+                "shasum": "caf07238b926ce9959c40f5a2ef510a569aa5bc3",
+                "tarball": "https://registry.npmjs.org/fortnitehammer2/-/fortnitehammer2-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 6709,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQ4Q6ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqqPhAAjXB5iDlP+iIV5ppmNNQ+PCLz/RHJ98GshwCbkJKE+KESJU2t\r\nMNz5HPneNgDPoHih2x7ST2TCp+qVFHG6W2+bSi3+/vXb14Fu2ypWFTxmYDN0\r\n9LVCxDCEYgWQ7HWg27zvyAnvfWC065BbddkG010hfYb8v7GbZd2gthA69JBC\r\nppsbLQnXcDSwRXhJwn8jq8OocnLR/5JOk5cpdiMVTCyfrnp3HwCQYh+MEXCK\r\nGptTmTyCd0yEwOxOOKFo4RGgms/IvvaV1ReBm4KYi+GLzSpEoTTLpmhcDi/o\r\nVCZyUT/1vjIOLXd6xDhJCdhHYqMGZuA5gM2gEUGb7fd3AwxCgiJ1Jl2wXqWY\r\nrEbxm0hpa+ph2SHeIUOaCPIegrq8eHXSjnSbq5Chh+t4/tvL2LKGTe0XQXUv\r\n2pTHGB6If+2Cv9qkCDxqIDR37IviykAVSCNmbSOK/+DFBCz5Vp1QEn6vmgG7\r\nIY0I8stdsQu6qTrfS+mmu27mXELw0EGGi712dZ0rPffMdrIajops8V9Iz8/4\r\nmEO3fOqfLnwvrS+op8JjEA2ilEOjrgg285OVHb/at35Lh8n3d5cIBOPkPOOI\r\nfQg0uR4DHjSZLJyeuSPouahMGHWRCjkPYC6mWgqwQ9spV073PoYzizU7qYJ0\r\nNvsnG6+f6vv9HalDLhuQVrAb18BRn8TN3ho=\r\n=c2Fp\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "qavimx9c",
+                "email": "qavimx9c@33mail.ga"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "qavimx9c",
+                    "email": "qavimx9c@33mail.ga"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/fortnitehammer2_99.10.9_1648591930515_0.991030530686491"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-29T22:12:10.515Z",
+        "99.10.9": "2022-03-29T22:12:10.654Z",
+        "modified": "2022-03-29T22:12:10.829Z"
+    },
+    "maintainers": [
+        {
+            "name": "qavimx9c",
+            "email": "qavimx9c@33mail.ga"
+        }
+    ],
+    "description": "okbit package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

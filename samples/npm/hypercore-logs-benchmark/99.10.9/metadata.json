@@ -1,0 +1,62 @@
+{
+    "_id": "hypercore-logs-benchmark",
+    "name": "hypercore-logs-benchmark",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "hypercore-logs-benchmark",
+            "version": "99.10.9",
+            "description": "azbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "hypercore-logs-benchmark@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-TzU1/X37XlmIgbRFVVccYlwKX/4Eql+nA+5/Zpb4fBnVJn55S7gXqgNJM699Aw+jattHQM7KUwXjBrjQ6O31DA==",
+                "shasum": "fe0766b9cdcfb9db5ab7ec6171e9a42cb9afcf2d",
+                "tarball": "https://registry.npmjs.org/hypercore-logs-benchmark/-/hypercore-logs-benchmark-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5076,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPKEwACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmriDQ//YJiMgB7ohksRU4gwpJEe6uauIdtTfc2pM2h26lK1CrfiMDl9\r\nlTgBVZjUPGNEI+DzyAfGB+lurfS8oAcYPtIHHv+4RYhfVJzx83+1SpEoCzE7\r\n05ACH9hTawc1zoth7Gjf0Qfq5i7vNuax+wEVU+rdIxb6KUL7a4c2FXgw+4d5\r\nbjusK8o6yvUR+V8uHIgc91cd47/ZnnrViQhtYF8t/9oSVc+LoKhxOPrGo1Wu\r\ngHMQarQm1uPYjzi3b+QecXxJgrVbAUxHxKnTbIHKNsba82pifipMEdV1M/Lr\r\nLirYjGY1ffgviPmTGH0/oT83lU+W/Kux2MlidZ9arXMPogggehIleTl9YnEy\r\nntjisZqBHNfl0aaLffDd3ncFi4G/7E7BUrisPC7qiHg8stkNIgLft9pkZzKc\r\nEL2c8Ele7+L06nM3LXyCpWCOvAtReYHRnfCozS5T7nUxwWpQ3RbUEjPT1D+l\r\n0v1uNgtGnjxH734LsKukeiMPI1Vp1RsGKijwvpabcRKFqoGgTBhwf3uQa80j\r\nVMS4TgMV1T6GLELBqr34s0FnhbbYKTvlV4QMsfIM4Yv8qyGTyJcMMClnj/K4\r\n/FkdWcjxRx5cZUXgGa9l0GmIxip7Jo0PgU9bWQMWuLlJO4DJ5zIDsasy+HK4\r\ndSnP0T6nq3EkcOfrt5dkAyIehtlh8FfYTFo=\r\n=UbMQ\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "uccyx3v2",
+                "email": "uccyx3v2@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "uccyx3v2",
+                    "email": "uccyx3v2@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/hypercore-logs-benchmark_99.10.9_1648140591993_0.1815847450871373"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-24T16:49:51.992Z",
+        "99.10.9": "2022-03-24T16:49:52.374Z",
+        "modified": "2022-03-24T16:49:52.493Z"
+    },
+    "maintainers": [
+        {
+            "name": "uccyx3v2",
+            "email": "uccyx3v2@rt11.ml"
+        }
+    ],
+    "description": "azbit package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

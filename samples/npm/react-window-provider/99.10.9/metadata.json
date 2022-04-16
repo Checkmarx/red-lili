@@ -1,0 +1,62 @@
+{
+    "_id": "react-window-provider",
+    "name": "react-window-provider",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "react-window-provider",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "react-window-provider@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-Ig6clgan05HGES+2lOrGILTSqd454aF1tkbr+b64y2C2uG2Bd5ssVXRCU9BoRUc/LIrUeuY5YuwMde5xm8z/8Q==",
+                "shasum": "a77502d95bb538d133f8adedf9c7feacdaf2be7e",
+                "tarball": "https://registry.npmjs.org/react-window-provider/-/react-window-provider-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5073,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiO7ETACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmonyQ/+MXDHrN2LKKc+iRjjHkrcCFd/r42Ve/N9K2/56qxaxFMbVu/J\r\n/lNPaKwBmqFKSpgqC8P7TYUhc+l+a8pyQCsWBv2tt53KObEhTBWGgZI9dRVu\r\njx6HspdhTXJfpWo62RaMgs8Ra8U3QYCvIwDrKPmBMSFHZVmnw/8ypSS9/TFu\r\nnOmsEOkFJ/Uk3Rw3AgLyhtt/QRvLQVUt4kXzYApyL094PG3q9q08ubUUzsCb\r\nEFzLol8MoBgC7urRC26Q9OieFNKSolygZj1nsw6873PUerC6ZFP5e9+xJ5To\r\nTaJirAwFopYRfGZijUtyEP1JyeHpVGJztPdzZKOOh3LMwrF1Kr6nRWmxpZHc\r\nN7YZt0DpbHlh7ZfSnjTCAsNoVYA0jrdXYVmUzHOGaJtZY9LO8DPNOQZEXUqH\r\nDLkIiWAlL73AgU4ca3UQrH/xFnrYQRoL5tcUVeP8BQAxGm9WkvzvUgXl8My8\r\nfIU1FRGzDoZ+/WDN+/ZD7yF95tXcfc6TAPGJfXK5J9JtY1Fnb71wsN9HOD/+\r\nE7Do+IoIULFdhFrA8buGiMqJlYf1DwfS6Qis4sz5qJs0c7jtXuMcUIvJyQwx\r\njag0tGjQszWHPLnbyLCuD0FfxxXBjKU/J+K8SweYzrr0k2hf/5rhFNhtzK3M\r\n1chCML2R84XCT+RJyx45a7jhERbfXcjIlMQ=\r\n=hqeu\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "z9p2a2fq",
+                "email": "z9p2a2fq@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "z9p2a2fq",
+                    "email": "z9p2a2fq@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/react-window-provider_99.10.9_1648079123079_0.5106965455880719"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T23:45:23.078Z",
+        "99.10.9": "2022-03-23T23:45:23.233Z",
+        "modified": "2022-03-23T23:45:23.396Z"
+    },
+    "maintainers": [
+        {
+            "name": "z9p2a2fq",
+            "email": "z9p2a2fq@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

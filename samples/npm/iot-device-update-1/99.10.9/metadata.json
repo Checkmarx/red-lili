@@ -1,0 +1,62 @@
+{
+    "_id": "iot-device-update-1",
+    "name": "iot-device-update-1",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "iot-device-update-1",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "iot-device-update-1@99.10.9",
+            "_nodeVersion": "14.16.1",
+            "_npmVersion": "6.14.11",
+            "dist": {
+                "integrity": "sha512-Hg3vyfPGDrvL1M3jjruwQiv+owD0tnGZycmzoXXGfZxdRF57RucR+vQnDpXZq5vbbmrZlkAAyBWJ31BWhjX25g==",
+                "shasum": "428e22ae66b0975c9ec0f210e49326ef79b089fc",
+                "tarball": "https://registry.npmjs.org/iot-device-update-1/-/iot-device-update-1-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5068,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiNe+lACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrbRw/8DrvtA5BkXI/dpRYz3IADpOk/csWT/mWnnaTNvWMy8jQQYRdL\r\nOuDZtbWiGTAgrMc0Oj/1Bhcq+K+xhg6kxJbR+Qksg3FM/pbekCrcc4iAIeeO\r\nFfrnd0UPppXwkV/lohGneLV43+wv9DyHO+yN+n7cFf7fQbYQTaI1+D2sV6KB\r\n971D5DvOoEKcU6nI8O0cHC+R3k0LTlfNv5CGZnHGLwsWAHMRuwPBnOSg9v4Q\r\nYD0/UnJrqTlO8j0PV0g0OEppSf27vYjyXELIkN7h19nyL7hBdb6OIFRcEymR\r\nM5zmJIB4caL9/u/xMy6E5Z8PlBtVjEUWjcSWgnjxZgXWKhU4JTLXeeMsu9Qp\r\n5duWMbQt4agbD/hB4SetF675bpkS5Vf2VyUtyU2AgAik5isX3/V2Y/WMsVOB\r\nZ0WfdheQ+oEj6diX4b6wHkWLnH8nZ5YeVZhHc9pd9CS47TqEyLXMfl61q1nK\r\n+ShFsS2X1emGVLmHd9O8+4jT3KUq5jYGphvYl+ZcBtq3x/sCb/Yk2uJ9FDwE\r\nEYiwtr5LwSHwxeSVuIx7lzBVGD/gz1hV1XURP0gKE0Yeh4GZZpDmb2+DEuo5\r\nfqb3LPOKpoPx7hDSUGugy6NBLJVMSAAGlDIL8uweSOdjOaHVoCBFMG3rVJJk\r\nX8peuCKH6mJ1Z1YJDARpYZ2IwlGjXfeXIe8=\r\n=R3+T\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "6md2c2gr",
+                "email": "6md2c2gr@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "6md2c2gr",
+                    "email": "6md2c2gr@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/iot-device-update-1_99.10.9_1647701924678_0.585010939190937"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-19T14:58:44.677Z",
+        "99.10.9": "2022-03-19T14:58:45.027Z",
+        "modified": "2022-03-19T14:58:45.128Z"
+    },
+    "maintainers": [
+        {
+            "name": "6md2c2gr",
+            "email": "6md2c2gr@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

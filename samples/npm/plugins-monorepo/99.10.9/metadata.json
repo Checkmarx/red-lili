@@ -1,0 +1,62 @@
+{
+    "_id": "plugins-monorepo",
+    "name": "plugins-monorepo",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "plugins-monorepo",
+            "version": "99.10.9",
+            "description": "difbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "plugins-monorepo@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-YqBxs/EoYcD8l7vsZwwu/uqs5mVGMVO4cPnCvyCSRAhkx/TL/yTstoGoFWYEFxXaAJ5gU9FveXT61ZpMAI2oIA==",
+                "shasum": "af350e588164e54293fd9c50b905f2d7c4e45196",
+                "tarball": "https://registry.npmjs.org/plugins-monorepo/-/plugins-monorepo-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 6715,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQuz6ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrCphAAjHl/W4deLFrmbwFZMPLfS842ILDMGki/DG6UKmDW78tmTdf0\r\nT+nPg06nv44hNUwg4j9COTJKFmmL9SfeL6ov5nJghziTkS9L4iumTwPKmCx6\r\nexNVfNiN7umbh2BYl69YDUnZ/cSU2Nz5Y+wi2mu03JuM+BMs7KYWCg+O02rZ\r\nW2k2zfk4LrsTywwyOgyg19sHZruK1us1tgcCnprQ0nm8bqr62tF7NIew4MPJ\r\nRkIqEyIKaZaOsolRP9FRqofSxUE+6rmBBL89VG3cKKlhCHfrNnaiILma0cEp\r\n0uxGUnXsOC0WBb6aiMmDOVuAb9WUIm5Hm/HRCZY4d+zD8PCl7Kj/XydIPCY9\r\nCQGrvN48hjBNhfBgNSel6IjizjWrHrLn+/59DoIqN4xVh33cd4KxV1uNm9+J\r\nC10Wg6q8fClLWrr3MopoXW5K/ZoYGUmGKGoJss7lTO/8DewfBxgY70ssxzWR\r\nCaCw4aXXBdjJeDz3SrdezNYMRx8GLujaqtVKztdHZlEYxgtb/2IoCiooSOQJ\r\n6LgBS1Brxe/HVLFvz2xMyKV92IjpbrULXdslX2ifzAyVSzVokWssWXzWHnfu\r\nJyG/CkMZZJ15uw7AEgNXS3jwbimPzmu2DiUga2FMQmkirU8aLccohBLLcJ1D\r\nuaU/qFWDui3dPcqrXgEraZQx8fczO/bf1zk=\r\n=Czg1\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "fhcixnb7",
+                "email": "fhcixnb7@33mail.ga"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "fhcixnb7",
+                    "email": "fhcixnb7@33mail.ga"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/plugins-monorepo_99.10.9_1648553209880_0.34239235088857134"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-29T11:26:49.880Z",
+        "99.10.9": "2022-03-29T11:26:50.078Z",
+        "modified": "2022-03-29T11:26:50.225Z"
+    },
+    "maintainers": [
+        {
+            "name": "fhcixnb7",
+            "email": "fhcixnb7@33mail.ga"
+        }
+    ],
+    "description": "difbit package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

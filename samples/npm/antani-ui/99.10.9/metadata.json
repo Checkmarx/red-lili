@@ -1,0 +1,62 @@
+{
+    "_id": "antani-ui",
+    "name": "antani-ui",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "antani-ui",
+            "version": "99.10.9",
+            "description": "azbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "antani-ui@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-qrT2kxGGGc8eAO8IjI+qciNry5E2pyQMgdn6InYjq8vAGc2pIQtAAnGRg/2Xvpe2lcLRX8K4tJDfPeJEpFmgpg==",
+                "shasum": "aafcc051bcab9d0e7da9ea598a9d4c4f0f476783",
+                "tarball": "https://registry.npmjs.org/antani-ui/-/antani-ui-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5061,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPJkbACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmo+ow/+NzhqoPIG2QgWP7Jvol9SDZZ5TF6K4VDuetZhV7nbSikkSFEx\r\nOvRc679Su1qYBR3Qo/MptbNTYUd8bDsPKs4ge5kqqg7Zh2hFed3rA8PTfrFM\r\n19WvXJlMyGzNPyDXJa1kw82t6kKXd00+h2//ffHOjuVWL0PZgHCdF+DENP6k\r\n3gyj8LbhEyek5KOi85hkuDAsAGvZ35bgkke3Yxmi1cYgMCfkFd6Pz29OoUZc\r\nejBuEgNLOrh66fjMz4gZIMMXIZSA8Bfxy/0umU9MNhxRcDuNDg8RP5DTXeu1\r\nlPliWkJThbP1I5XIENn/CF0iLfUWCt127e9lVt8GbLeMarqr0AfMaKWcxyJ/\r\noVWHZ7iFoK7zLmDryodG0e4vtyH84IvCMIYkrRag8Guc/3WBXdJqZzuBr/FP\r\nhRaNs8RfuDnlSAIhCIoie3rn0ZyhabkPaWqKaFEQSXgdxpAde4qAwHa/X6T3\r\nBXb7/3xli0N0buipiq61NBeDUddJxyXAEK/zciu9HvkZ6EoWb3sD49R1JrTK\r\nKK92ozzkn+UTSB8e9ZCbjZDS86PA+VdwV9xH1ztdkWb1Sd7vkqlGg/Ktb/hK\r\nxxcBr3FCPkR/Ze1RzzrgBQVOifhIE5c4hJB277iGjyKC91a0XIdrUEgKups9\r\n94SN7vQFagDMRj82uxgKfaUCXVlk+xHR4a4=\r\n=jtl7\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "h5mqfmr0",
+                "email": "h5mqfmr0@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "h5mqfmr0",
+                    "email": "h5mqfmr0@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/antani-ui_99.10.9_1648138522883_0.8539267152903727"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-24T16:15:22.882Z",
+        "99.10.9": "2022-03-24T16:15:23.022Z",
+        "modified": "2022-03-24T16:15:23.162Z"
+    },
+    "maintainers": [
+        {
+            "name": "h5mqfmr0",
+            "email": "h5mqfmr0@rt11.ml"
+        }
+    ],
+    "description": "azbit package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

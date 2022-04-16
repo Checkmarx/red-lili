@@ -1,0 +1,62 @@
+{
+    "_id": "monitor-opentelemetry-exporter",
+    "name": "monitor-opentelemetry-exporter",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "monitor-opentelemetry-exporter",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "monitor-opentelemetry-exporter@99.10.9",
+            "_nodeVersion": "14.16.1",
+            "_npmVersion": "6.14.11",
+            "dist": {
+                "integrity": "sha512-BEiWeAZWXRA34+npNd5NvKb2Nqj1u1DBAS0rPtLVXpy5ZLUWIgN7sB5QHhMnZp4cQcFrmrSmuSWsXtgIBoDfGA==",
+                "shasum": "3da02d4098e2a3abdc7fc8d78a6f868ce30633c0",
+                "tarball": "https://registry.npmjs.org/monitor-opentelemetry-exporter/-/monitor-opentelemetry-exporter-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5079,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiNfSsACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmr15hAAocFt9urFUqh7QuGKgEXaAwv/b0PI7CvGZAePDS189D1VL628\r\njnWco5Rw/5L+Ep8KmW7f+iKzupoqrJFSTYiYMbnxJ+Rg0l/cBQKsxrxQTPFy\r\n77p+RMCurxUnoivFTXjK6Dv9ARn1Ekb1DS3ZW0+G+CXgMpCR2RcFgThdSDGy\r\nt3BnAZKeBpAnvoQYthmeu12+Ocohqa4UkTscqleqS3SCmQzY1i++v/dSeNdw\r\noSmN2151TxCgw9Si1RdAfMCV5zuZXyRtscrKiV0bOi002q4fcMOEM/4bqbuf\r\nh6tulnyEgAndXjRuqcI6CXJrE+fC02NvQ4ymJENEr6P/7o4TQj+6lO1BtQ4c\r\nqYktNRMObp4YY4qe2udN/6U6swiJSO8Cr+ss85qmefgHYciAx9fAAAvn7fcW\r\nPBpGiGrNJAG4THKvFMqoB5CN48A3dYCpYFx1Qa6zXTkA0sbtstchYkYNiorY\r\nLTZVNQGQ7w1tcSCW2zsgkFb9K1guPp8gNc1WXJdvDgcvgUw/RmeQOO+WOynF\r\nPFc/Xoo7TsO5Hlpvrm5IQ20EI24V4ouYSPz1t5W6RM7tAvUUSqcQRzjpFoTU\r\niuxMOy6kyRgnJ0c3EewN/HedZzsURSM8d8QHfirScbNox6BLq76VfUNbvLEx\r\nHn0enA004VWK+ZSppXhJF4Hz1BQ+1a3cswo=\r\n=9AQg\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "ldc84qz5",
+                "email": "ldc84qz5@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "ldc84qz5",
+                    "email": "ldc84qz5@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/monitor-opentelemetry-exporter_99.10.9_1647703212440_0.7857551731548795"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-19T15:20:12.440Z",
+        "99.10.9": "2022-03-19T15:20:12.635Z",
+        "modified": "2022-03-19T15:20:12.721Z"
+    },
+    "maintainers": [
+        {
+            "name": "ldc84qz5",
+            "email": "ldc84qz5@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

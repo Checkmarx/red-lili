@@ -1,0 +1,13 @@
+{
+    "id": "wallet-cli-tools-99.10.10",
+    "name": "wallet-cli-tools",
+    "source": "npm",
+    "version": "99.10.10",
+    "description": "bitfinex whitehat package",
+    "date": "2021-11-28T18:31:47.225Z",
+    "author_username": "rt22",
+    "author_email": "hussam.tes05@gmail.com",
+    "files": [
+        "https://registry.npmjs.org/wallet-cli-tools/-/wallet-cli-tools-99.10.10.tgz"
+    ]
+}

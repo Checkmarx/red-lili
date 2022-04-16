@@ -1,0 +1,13 @@
+{
+    "id": "bfx-facs-sftp-99.10.10",
+    "name": "bfx-facs-sftp",
+    "source": "npm",
+    "version": "99.10.10",
+    "description": "bitfinex whitehat package",
+    "date": "2021-11-28T17:57:39.845Z",
+    "author_username": "rt22",
+    "author_email": "hussam.tes05@gmail.com",
+    "files": [
+        "https://registry.npmjs.org/bfx-facs-sftp/-/bfx-facs-sftp-99.10.10.tgz"
+    ]
+}

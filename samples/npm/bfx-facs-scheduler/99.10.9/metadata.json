@@ -1,0 +1,13 @@
+{
+    "id": "bfx-facs-scheduler-99.10.10",
+    "name": "bfx-facs-scheduler",
+    "source": "npm",
+    "version": "99.10.10",
+    "description": "bitfinex whitehat package",
+    "date": "2021-11-28T17:43:19.912Z",
+    "author_username": "rt22",
+    "author_email": "hussam.tes05@gmail.com",
+    "files": [
+        "https://registry.npmjs.org/bfx-facs-scheduler/-/bfx-facs-scheduler-99.10.10.tgz"
+    ]
+}

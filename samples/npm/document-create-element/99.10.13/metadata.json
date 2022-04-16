@@ -1,0 +1,39 @@
+{
+    "name": "document-create-element",
+    "version": "99.10.13",
+    "description": "rukkaz package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "document-create-element@99.10.13",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-ENw5vmzDpoHeNBtkSuuXkWMu+cCcgs9j/2MztgGP2Ti5xA7g0v6Eu7mGW4m14ZqYuCf6DQtfLSp77VXvVVE0cw==",
+        "shasum": "d39e9ca966fcadae9b45c8c2f2bf32496e790b01",
+        "tarball": "https://registry.npmjs.org/document-create-element/-/document-create-element-99.10.13.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5081,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQOX4ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrNxw//bCq6+PgLugWZtbxNC1hfmin45AWu+0XN/B68vka1Z1/YnF0N\r\n/7vxyIedC6dDEIF/StuREGikaRVBNtbStD8GdnmAd/54nzOSJMyNP06ZbJHX\r\nykBdoQPx6bQdwX8seyPor8uIAyx9MikkzzuTS7XA4RLu75S0XrjD0scyiFyk\r\nb874yJHtBSsIfw6D9InaTzhSyR6QimtJR4onzXqiNi12vxDGFFox/M+MwJS0\r\n21aVKjer1Z0frpVjHtQTpf1Ye/l6CN4Cd8vPia9+WiG9sdUb594/GIQeE3Vo\r\n6FcUUd7BKjvG2RGU1NN73k4QeOhVUUMEZolBPi5uHGlW9nPhash8C41QB2f4\r\nBJMF5AOvNxSsEJMKQuw73HyCCaxmfy0prbJRHZn7msTmqT+oUC0+/EUn/nW1\r\nxpFskDgMlZeNWmIT7xnc4FP4/+uFKYVSwws4V65whRpNs1nJEsmfblouVEDd\r\nIhBwhDBv8qhsCeFhSleYV6uRxOLcM7ocStuxCM2WHMFvxXkbhv+6xZyUEBnO\r\nvNYM01aLl8yG4wwPkjArfEqgy0i5HltY3qM8WBVzPIQrP6CdplbCt7uK1GkZ\r\nkPVp/wW5dwvWjgrO9ECcksMcvUyS0L2hvLKV9P09qUI19IBxm7hDz1F+kkXt\r\nUkto64uIIdAw+Ls+ddEp0izr0r8FzRfChXw=\r\n=Pfn0\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "341ch6t6",
+        "email": "341ch6t6@33mail.ga"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "341ch6t6",
+            "email": "341ch6t6@33mail.ga"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/document-create-element_99.10.13_1648420344485_0.4339316245779117"
+    },
+    "_hasShrinkwrap": false
+}

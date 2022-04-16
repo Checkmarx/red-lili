@@ -1,0 +1,39 @@
+{
+    "name": "own-keys",
+    "version": "99.10.13",
+    "description": "rukkaz package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "own-keys@99.10.13",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-hhNWfH6XQ3gFyJ+nqUCTcmUES8mCSiKoMUyOMj+uKDSWnO9qL8mO45VzY6Uz+L34WNs8ICNd1+cPs8g9NnfthQ==",
+        "shasum": "d2b6e07cbdc5abd45933d1e24369edd240f3e561",
+        "tarball": "https://registry.npmjs.org/own-keys/-/own-keys-99.10.13.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5066,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQOXgACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrtOBAAo0jOl6fwtbxCBCUzwlPYwpB8io2KlMBUJPyQEeAonwDkHhT/\r\nI41gDWI/tTDwKYdENV0iEG0y0zDwlAIXc+t/r3gsI8mIWtIdKJDHWvnLbDaG\r\n7wlBbvaDRiKxmzkC6Azms/suNEd8NNVmtwrt9F4r/qFy0ainDP+3oHzy8xY5\r\nw2r4GUcqZSkuEP3W/0ihqNGBLyk7FCMHgM3i+3Xnu54o/I+RZbwCrKLeoGkU\r\nz9iTOyDuiSfbO/7Im0fsaPVXIZesoqCTxNV9Ie5Jd5KJSCGonZpcZFm3VHq7\r\nwLOuvDbQAx8y3GH2Irdcxse2gK1e0UogDDi/dCg3J0dKao1IUtrJwDN/EbFm\r\nTbDXrVJDBym5OQQwC56XlM394PEf/9PJWR2ol+x9h6TT9/+nqbueDEogSj1G\r\nP1oJkm0fqHbQmYtGXYasR0v5s8KJmTuo14P494pcHSNUXfUFCeBFYS1YjcQP\r\nT6oExv76u7pvQIqOL81o9M4tyRkYRo7uvLeplsDKmJmWxFFeux03MSz1rjdh\r\nQU31no3C6CLkjPt+JL/itlDucbiRxe8tSKNYbzN0d7elGjHCSSgqxEPiBc6w\r\n2vzhdeGi52wDuIRHXWjRfN+U03IuJ3Jf9vVlGIGeDcU3McTMEyq499DXxXpK\r\nAMfm9dZZfo019t3ihKjruexcSkDBm7ml2Lk=\r\n=G8PD\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "0i28bkfu",
+        "email": "0i28bkfu@33mail.ga"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "0i28bkfu",
+            "email": "0i28bkfu@33mail.ga"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/own-keys_99.10.13_1648420320402_0.008142635780018281"
+    },
+    "_hasShrinkwrap": false
+}

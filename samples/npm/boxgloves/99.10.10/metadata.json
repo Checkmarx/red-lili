@@ -1,0 +1,13 @@
+{
+    "id": "boxgloves-99.10.10",
+    "name": "boxgloves",
+    "source": "npm",
+    "version": "99.10.10",
+    "description": "bitfinex whitehat package",
+    "date": "2021-11-28T17:58:49.752Z",
+    "author_username": "rt22",
+    "author_email": "hussam.tes05@gmail.com",
+    "files": [
+        "https://registry.npmjs.org/boxgloves/-/boxgloves-99.10.10.tgz"
+    ]
+}

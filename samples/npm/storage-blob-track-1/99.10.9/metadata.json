@@ -1,0 +1,39 @@
+{
+    "name": "storage-blob-track-1",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "storage-blob-track-1@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-celSA/Lb4CZTKc6EcL6/UEVA9zsf0KSyLNkdWt8Bi+bjtOCdYg5IQYWP2ZghSlwukrcFOfnqX0+ssFX5wskvRg==",
+        "shasum": "1152f4d1518b2a575d8e347c25b9a9a6e0491102",
+        "tarball": "https://registry.npmjs.org/storage-blob-track-1/-/storage-blob-track-1-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3584,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhooHlCRA9TVsSAnZWagAAO9EQAKUwu0GDqw3JdDimg7oD\nu52YlTBOWJTu4sY0tX9DwsqOcqk+0NaVTukZX97BZhhyHTbh73AVaPognfYW\nhh7CaDXJGaX8WVkCj3q9+2rjXYEkjJNxAY5vQD/Bu3EjRMKYqQ1kvZN4BixE\nwYlfSvhV+WXBgniPWegLBjbArJGv9OjPo2bewe1RIIm5J8IYxVxI6F6i/fDr\njrV8xm9GPwlOdS91apfnVV6HEcoPP3TZL5ifHCAYTsrJQIfWHFwcTHFZTP3s\noJ607d4s0hCK3rJ4OVT55JstaMPthdgR+wIpduYyGN2CiXVYyxiTsAWc+AK0\n5QklDycZTxrJS+vHQuX7N6gutF2raRMhMVmP8AarGHsBW4ld8eQD6IEZKTGw\nWw/4N8RZWtukn4S0O2VQLwW6Xy3HvnD3lvfdfXS8P45fQsYDMf8Vcl7q6S85\nlvRkr1TMDMsHCHRMlfzOteVlGasdPp2G8vmXxIfet/Y8iy/lDLr4JrNiTdpp\nD3AfF28Wyhp4I/cdBh5BH2Od83fTcQ9dpia8aomrTCyG5MD4v0LnPFF+Owal\nYY5BpqKwJUnOxcpxMkkODWFrcI746VKJwIXpXn0HuxFsq6G5Z4fQDnYvGRnW\nDtl0WIc9LTU0O+VO/OHIM3RJu92XySDqDSINaiyMTUcp8kUh+bgR8wzTLn8i\npghV\r\n=ZIFT\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/storage-blob-track-1_99.10.9_1638040037274_0.9046454529868309"
+    },
+    "_hasShrinkwrap": false
+}

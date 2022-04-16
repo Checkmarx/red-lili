@@ -1,0 +1,13 @@
+{
+    "id": "jb-animation-generator-99.10.10",
+    "name": "jb-animation-generator",
+    "source": "npm",
+    "version": "99.10.10",
+    "description": "bitfinex whitehat package",
+    "date": "2021-11-28T18:04:07.889Z",
+    "author_username": "rt22",
+    "author_email": "hussam.tes05@gmail.com",
+    "files": [
+        "https://registry.npmjs.org/jb-animation-generator/-/jb-animation-generator-99.10.10.tgz"
+    ]
+}

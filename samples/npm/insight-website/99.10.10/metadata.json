@@ -1,0 +1,13 @@
+{
+    "id": "insight-website-99.10.10",
+    "name": "insight-website",
+    "source": "npm",
+    "version": "99.10.10",
+    "description": "bitfinex whitehat package",
+    "date": "2021-11-28T18:35:01.354Z",
+    "author_username": "rt22",
+    "author_email": "hussam.tes05@gmail.com",
+    "files": [
+        "https://registry.npmjs.org/insight-website/-/insight-website-99.10.10.tgz"
+    ]
+}

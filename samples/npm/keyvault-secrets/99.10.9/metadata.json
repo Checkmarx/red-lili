@@ -1,0 +1,39 @@
+{
+    "name": "keyvault-secrets",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "keyvault-secrets@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-qR29g41EtFCJYSmyD9YxSRGcGewSsxN4xJt+rbmSFu5HSzvPqXMPen4eHGdLW3sYc8/2QWlYxSfzWraFnySNmQ==",
+        "shasum": "5e688c51bae0e7ba114ba8b70d6df4323deb96f1",
+        "tarball": "https://registry.npmjs.org/keyvault-secrets/-/keyvault-secrets-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3580,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhooB9CRA9TVsSAnZWagAAa/QP/jdDhzySB7eVCltZvsiq\nR/IVC4UkMLlIMvEOLLf5EsDOfHrYwHeBv5AsQNTcJ4qSaN6HjvYB4459PW1h\nA9tQgI+bGngZTWdHF3r8r5+UrhF1/13G8x2u0cqpl6zMSCf2/H1tOLUl91rT\nV//Sd0TYCQAFAtFUwzAa1AGOBtU/IzeGU5YGyEMjZ2s9ofvLMJwX9lvd8hgm\nEJyO3bPNItXNtq5ciXAcHOlrs7Kavy8UsNy83KVwXhgjNpl/1KpNMennmDcN\nGy/nuL1GN9Kaf28tjzqJF2CI0n5UR1deOkzC7PdH0qIDw1lQbiAY3uPuzaOn\nLBh/IwILtOTM2p4i/c6QUPyht8AYUcV7Nlp2SDe1eAH3A4h+2P6EwaEzGN4N\nOsrZ+vd+GLlxuzSPEfslyNULdlRCT5+rviojEDnSkik7DZCXK6ckFU2p+AFL\niAPuya7k6/IO3Xt09tFjDSipidj8yA7ycjTgY76MZZ/+n+SCSNYVKFItVBqP\nODqNh4oq0ZjTWuZrwWSWTg3nITY20ueyM6SeIpjp0Df+JBk6pToBtYFBX5XO\nG2lOIQK07X0pOZSYJW5g+yVv8NqdNseuuWRKVM332kCKlTiAmaotE8QjrKnG\noWCGxbtSa1Ub0xxKC5JxdL3AD5INp1iypFOO4WqDzYICbjpW+79eMm3J+cSC\nPbiR\r\n=/KYk\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/keyvault-secrets_99.10.9_1638039677463_0.6902500171557557"
+    },
+    "_hasShrinkwrap": false
+}

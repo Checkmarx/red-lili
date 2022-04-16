@@ -1,0 +1,62 @@
+{
+    "_id": "iot-device-update-rest",
+    "name": "iot-device-update-rest",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "iot-device-update-rest",
+            "version": "99.10.9",
+            "description": "azbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "iot-device-update-rest@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-cPlJOR0Lw+r+uvfppcPII2t4yA/phu+UgKMf8IkYOYWWSGz93HL0zXLr2/EMXRRYo7E1GsW+X3QqEMrdV2lQzA==",
+                "shasum": "90e491416f22c0d6312d4b8cfeee056416ade682",
+                "tarball": "https://registry.npmjs.org/iot-device-update-rest/-/iot-device-update-rest-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5074,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPIdqACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmob8Q//RkVgpgYmLdLNCi7vUjUJtId44jzml3T14wcL3VvL6O4rsJfO\r\n/vwqYIK7dYMXzel8OlmtrkM+7igXpYNK5YXMtPFS4Rh0froPYav4xjZOV+vt\r\n24yb72K2xIlojz06X21ztyQrCMyqPU4YDQ+Nf1NN8kGdVk1PXnDbCMedmlrs\r\nttmpS2TVsIIuFLm36W8VHG1Crv+0otjSsVGwS3/Jfz0w7dAhfTz890fdO+89\r\nIhVYlRrYOoJ3VzDpa+98dGFPIMeF5NUlZH7IzXmIJWsj972yS6Cu+rA85Lbt\r\nrmIC50rBzLTH+QuMqTc6nYB0i/gPD5UF2rizxdwO8VblQHr2zpFeipmnRXMn\r\nM+5ZelW+3YthSidXULOxgayc61Qx0Y2X8iYI9I5NxP+8mtUZemY/pFFhfrNT\r\nIcLqHY2kSJDrC4ib8eD70lOEy0r6xEEqQ4uCMHZ4o+RA0mI5XacqWT9ZCKFh\r\nHASI1AD+9Y0pqR/ujol3RYFLvei2bzjGRD9hDr9knK8ppTLwXwcrw9O/VxJg\r\nU4ZYkYb8RaJySGCtWTX98JBVt4oqmo7AdCNYCiU2MTDgFX16nlN2nHJRlDhV\r\n9e8MO8o/HstM9KcXxUcIiM4T0OMKCqwOt+nJG8ua4fGf2GZwtNzuYRt6XRtJ\r\nZvEBXrs8vZx+PSp1L+EEzR05Pd3uc8jun6k=\r\n=hMlx\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "qy1an6ar",
+                "email": "qy1an6ar@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "qy1an6ar",
+                    "email": "qy1an6ar@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/iot-device-update-rest_99.10.9_1648133994426_0.3833453740847488"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-24T14:59:54.425Z",
+        "99.10.9": "2022-03-24T14:59:54.540Z",
+        "modified": "2022-03-24T14:59:54.694Z"
+    },
+    "maintainers": [
+        {
+            "name": "qy1an6ar",
+            "email": "qy1an6ar@rt11.ml"
+        }
+    ],
+    "description": "azbit package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

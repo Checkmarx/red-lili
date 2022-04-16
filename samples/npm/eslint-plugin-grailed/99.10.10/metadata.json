@@ -1,0 +1,13 @@
+{
+    "id": "eslint-plugin-grailed-99.10.10",
+    "name": "eslint-plugin-grailed",
+    "source": "npm",
+    "version": "99.10.10",
+    "description": "bitfinex whitehat package",
+    "date": "2021-11-28T18:13:02.540Z",
+    "author_username": "rt22",
+    "author_email": "hussam.tes05@gmail.com",
+    "files": [
+        "https://registry.npmjs.org/eslint-plugin-grailed/-/eslint-plugin-grailed-99.10.10.tgz"
+    ]
+}

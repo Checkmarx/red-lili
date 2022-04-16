@@ -1,0 +1,62 @@
+{
+    "_id": "azureazure",
+    "name": "azureazure",
+    "dist-tags": {
+        "latest": "99.10.11"
+    },
+    "versions": {
+        "99.10.11": {
+            "name": "azureazure",
+            "version": "99.10.11",
+            "description": "azure whitehat package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "azureazure@99.10.11",
+            "_nodeVersion": "14.16.1",
+            "_npmVersion": "6.14.11",
+            "dist": {
+                "integrity": "sha512-ndMX5UTF2rHqvMnWcqVmBjvzSYXMgzs+87clEJ1RHuj9sK+AtdxQv/vveHO42Q6XSzSl4K5L3HE9VuEBdmKVXw==",
+                "shasum": "3a269959e1b11fecc28861f8d1d259e0a52a478b",
+                "tarball": "https://registry.npmjs.org/azureazure/-/azureazure-99.10.11.tgz",
+                "fileCount": 2,
+                "unpackedSize": 3421,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiJLeaACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoCahAAmnREeLytlSeUqo1/rc5r0RYqotEPJl8eYFEm9ZchEqGRVHfN\r\n5ljjuyvxBSuxPO9jLgLei/p7nLgPr33DhQe1eieP7r9j6lA+IIOIeDGWlyKH\r\n26HLLe8XdBT2e2WAtsEWKtkw+7si3L8dTbMy1jvPZHaKWveRX2mb5fHVo6/0\r\nemN+Nmzf+xk788qqKT7JWvQJQBGTDV/rt03ZRyHzt2FyjwxlxVLAn19mOsk9\r\nV8Y/p6IfF5BWJRKtxXJiq0xXbyTp8Izk2kfCQ7DOGmmPVvyx3kkEnimKhpyz\r\nsz6HwzORPr9Yk9Qw3Ja2gFh2N7bUobgPc7Q8JdZUAIVhkKzyhBrjxcoEvsKZ\r\nvlaZaswZ47OAP2scA61MVFvDTCwO+epL5EAsf/hkRBYuvjsYKuB8HuLSdgXY\r\n/LScfXALupiFMpbrg7I5py6XSxu/ntsMTXB5cXUj7JChgypxvsc2mUuEQM4Z\r\nVuazPW4d15F6QK9e13DbNLILwqVGugMj6dEFAq2wlJ0qDZqKBSFZQwcEYkoj\r\nENCRgHNdx3ryqxemzJ3hwm1cFCv6A/5bYItmud0X82nNryh0O+cU+L46c9la\r\nr3DaSbN8s1NnEixgpBpLQpL0r2wrrXuqIo6Y48BoKkp3y2JzOuOedWzZiOsW\r\nWuWmLPyfqrlUZ367mH1CR84P887fjQMR0i0=\r\n=Mah3\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "azureazure",
+                "email": "azureazure@rt11.33mail.com"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "azureazure",
+                    "email": "azureazure@rt11.33mail.com"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/azureazure_99.10.11_1646573466624_0.09730052165629832"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-06T13:31:06.623Z",
+        "99.10.11": "2022-03-06T13:31:06.794Z",
+        "modified": "2022-03-06T13:31:06.888Z"
+    },
+    "maintainers": [
+        {
+            "name": "azureazure",
+            "email": "azureazure@rt11.33mail.com"
+        }
+    ],
+    "description": "azure whitehat package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

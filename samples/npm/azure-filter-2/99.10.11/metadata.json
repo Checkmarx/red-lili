@@ -1,0 +1,62 @@
+{
+    "_id": "azure-filter-2",
+    "name": "azure-filter-2",
+    "dist-tags": {
+        "latest": "99.10.11"
+    },
+    "versions": {
+        "99.10.11": {
+            "name": "azure-filter-2",
+            "version": "99.10.11",
+            "description": "azure whitehat package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "azure-filter-2@99.10.11",
+            "_nodeVersion": "14.16.1",
+            "_npmVersion": "6.14.11",
+            "dist": {
+                "integrity": "sha512-S3fCGwBm2qE87AYQa0UjDxFSQARxq74BlSpYN6ySu9WR5gffUcZbna1Y1MMcMNk1H/FS/5ViJv12gd11ayFdyA==",
+                "shasum": "bfcd2967658380e3ad02c51d617bd54c89e97f2d",
+                "tarball": "https://registry.npmjs.org/azure-filter-2/-/azure-filter-2-99.10.11.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5017,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiJRt4ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpbmBAAkALHhLwSriHou/nubLZzOiv/pfeUIdzMbyl8Gj6NTklcfZ8y\r\njv033+MGuqyF0PAfmsnbIIil2n0F8Bk7BaU17+d+OrWo6SaSTFeIxyaXUWij\r\nbXqrAYsomRcvBrboM6ENsgkWZKDuJj9HCtQ+irZWqkKhqAKegms8jdxrOOg8\r\njYxFZuUATTY3ezpw8a5Az2AoyVtzF6oBm62hoIb67pXTg6OGwXcwq5JTRWA/\r\nbHz0ot94xtdWMGESyrm2S+tXj5uPE+gjZ+BzBFMHLJHniGB+I3W6/UHqIcKN\r\n8xjCyLpbSqovvE4Ty47M6z31tng8fnCj70hzxYivYTspTxnRmubov5KtQe7V\r\nxXzpI5o2CRxCYy8tH+y1l9utneGvtwf2pnvhKUG76oZsHhVdLEn9ziz/KMen\r\n7QPMHkV9kPNiK3YEI4pL2gS65cPQWSC2LTzgLmZuF6KkByGl5GH+cSHuR8ou\r\nvJXNf7Xeeva3ZhIh1HoTOuJpQWxNvkl6VC4pYUntCL+YtSTuitKFZ2n1vePq\r\nz81OT6VN0xolUom94zuB3Lgj9g/RqKkcur7Pqz9JeT1msSaaHC0aOhhLIUeC\r\nUXC35h0J0QqlkR6ESpam/iXmoUIq65SVUU6pqwf7oXmiJRYIpdVvSN9+nbnd\r\n11F/GOo6kT4vk5GAcEK9O8OuXO5hozeaMc8=\r\n=XAEm\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "azure-filter",
+                "email": "azure-filter@rt11.33mail.com"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "azure-filter",
+                    "email": "azure-filter@rt11.33mail.com"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/azure-filter-2_99.10.11_1646599032111_0.14041592130840952"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-06T20:37:12.110Z",
+        "99.10.11": "2022-03-06T20:37:12.244Z",
+        "modified": "2022-03-06T20:37:12.352Z"
+    },
+    "maintainers": [
+        {
+            "name": "azure-filter",
+            "email": "azure-filter@rt11.33mail.com"
+        }
+    ],
+    "description": "azure whitehat package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

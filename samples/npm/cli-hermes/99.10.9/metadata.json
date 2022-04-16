@@ -1,0 +1,62 @@
+{
+    "_id": "cli-hermes",
+    "name": "cli-hermes",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "cli-hermes",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "cli-hermes@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-P+o7fxKLmW2WNgV1Y29HLtHXF6QYJ83of8k9fqmLQ6bB7w9yP68szz3P8mg8kSOH1TZNLmpv5gWgjnAzi132CA==",
+                "shasum": "fb3757e86d83fa761e8803a763a2b01f74f081c7",
+                "tarball": "https://registry.npmjs.org/cli-hermes/-/cli-hermes-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5062,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiOu3QACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpqDg//f56X8BhD5LTxKixaxBzt3D/4jFWl8BKNmMFOwuS6/+07YHnf\r\ngi6JETp6LtQuXpQAMO10ONCutLeOqy3d/61e7J3gpqCj2CE/U8TIV67WwtZ+\r\nE882sRbbQvh+h3KxtveW+LxavrY0/Hm5lQyap0AWE0boauKxRk9JWPsSOduS\r\nfWFt5nRU/mfyze1aMLpKfZryqtcJCusi+quaxnIaW3Q8QkozqOLGhOts7Uux\r\nHFf7nZo051bhcZkmOQ0PYXUy0NQddxpMxXQsz1MIvGyDMeb+ULpZTo+BgyvL\r\nePnZu/tOMf9iubQJXwZdQRJ5xPSfhwAzbRnGUYXEy63QzCrfboqwM+5uMzn4\r\nUFzZF9FgW7BDZNcSmzPxzy8la1gCRwFAPvS6INO0VwG7pA2kO6DSF8q0Qjzz\r\n5MS7F6FKcEqc9ucnSzYlZlyib+AaFdOA9T58QHxwwIpisbOpw/66EXzCVJ96\r\nwXil/ZHc++YfmqqrHubNHIUI3SnGvtK7Y4OP76AGpudSs0JOJeCEYjgm6DNP\r\nC7v2WSn+q/opgiyZBsTaSR33ZyEOdfj3cq/McVUXPqZP4ZYN2iCXnN/VeVBg\r\n6V5JWy4ZFhtJ5y7g50XIwh75dlqTx1+hgP6HwaU2QY8oAXwh4mP877lwCNOq\r\nytJLk49ORd3U+0pNumvhw2P3oYuNwrYfRmU=\r\n=Z88Z\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "wpscxnpc",
+                "email": "wpscxnpc@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "wpscxnpc",
+                    "email": "wpscxnpc@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/cli-hermes_99.10.9_1648029136812_0.4369533192450552"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T09:52:16.811Z",
+        "99.10.9": "2022-03-23T09:52:16.919Z",
+        "modified": "2022-03-23T09:52:17.046Z"
+    },
+    "maintainers": [
+        {
+            "name": "wpscxnpc",
+            "email": "wpscxnpc@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

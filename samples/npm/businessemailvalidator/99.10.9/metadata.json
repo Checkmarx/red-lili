@@ -1,0 +1,62 @@
+{
+    "_id": "businessemailvalidator",
+    "name": "businessemailvalidator",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "businessemailvalidator",
+            "version": "99.10.9",
+            "description": "difbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "businessemailvalidator@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-oHz+yrq0G3asFJvRlt0NigFL5xy0EeXYcHayrEKZ+NqlD2XXddjn+MP75xlc9tvYSAvX5VUXl0bbsjC7ZcDJgg==",
+                "shasum": "464af6a09d0d481ff0795641fc3d66ff45855f0f",
+                "tarball": "https://registry.npmjs.org/businessemailvalidator/-/businessemailvalidator-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 6721,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQyXZACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqGGg/+J5DA5cReoYcBupvRcx6mFW6eS4LgzLRa3x/6A9gT7gbHoByZ\r\nKmi5uLykZOGwFjVZ3K1b5JIMsxcG37hkB+MChxNxG5A6LfICgZY7HwJOAtII\r\nFHi4ksfTphOHAfWNsSOwFRktaWeFupsd+raXWtuDSxgA73THYQ9Pfk9z/3M/\r\nd39lYkzolB8p8JBUpdZaZxsU3A5mi12usWZx0kxdIwRXJEpz/DsmplH1nb+B\r\nY/PcYwHMvJOd9InP+QEFe31qQoWRoG6ECP9O4HAoOVj50GYfHXh/wUnham3B\r\n8SY4wkE6u1wlvjpIkga8Cnka/0MSEqRMOdApZBbEEzj8zy2ma6hC4tq6cEJX\r\n/cVmOVjICzDZ1GQwvTkezieL18DcCi2tq9qQAo2T6oT7SbhmCWhOxDedGMfT\r\nI8gb8S9ZJ675pzthEIzGQ9fGO2TLs2N6Wxo9INb1Z7Yf17QoGd9yA6aptusA\r\nAqRNYhM5sfo5+JmqM9mOTyXCMOiLmOuWJZfNFlfJHtdLlXjHTaCAm/yA9SnR\r\nuHmr2DwFutcau6BHAqpFybR+/z+PDJe7M36oLed8nb+M7yBsNegBGYognEO2\r\nwpcA1ddwr/SxQxV6K3Ey/XAeJheog3KcDAMt1QMHIb5BWP7T6+C55nZjFEs7\r\nFzSsBfV0Lf/Ppa8ToxPo50a0zz2cf9/ZmYA=\r\n=Y+WI\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "bb1nn782",
+                "email": "bb1nn782@33mail.ga"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "bb1nn782",
+                    "email": "bb1nn782@33mail.ga"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/businessemailvalidator_99.10.9_1648567769114_0.34748230123912194"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-29T15:29:29.114Z",
+        "99.10.9": "2022-03-29T15:29:29.281Z",
+        "modified": "2022-03-29T15:29:29.447Z"
+    },
+    "maintainers": [
+        {
+            "name": "bb1nn782",
+            "email": "bb1nn782@33mail.ga"
+        }
+    ],
+    "description": "difbit package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

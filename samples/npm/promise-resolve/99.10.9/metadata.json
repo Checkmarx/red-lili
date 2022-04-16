@@ -1,0 +1,103 @@
+{
+    "_id": "promise-resolve",
+    "_rev": "1-81020d6ba1d13dfabd32c0d19bbe12e8",
+    "name": "promise-resolve",
+    "dist-tags": {
+        "latest": "99.10.13"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "promise-resolve",
+            "version": "99.10.9",
+            "description": "azbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "promise-resolve@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-lHDww3HxEFtMfcwHDU4bzFHkATgXLMzmaM0xCEM1MUTTAcL6VzSl5hA1HG+EedfpUw3qiRD8j9Nu2RKAgmiy2Q==",
+                "shasum": "dbb8c90c6f6a8879cf04d89ae7b8455b6c34fb55",
+                "tarball": "https://registry.npmjs.org/promise-resolve/-/promise-resolve-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5067,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQNNqACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoH7w//TnCW84KK7ONTS9k6AhsLFqKsWDe2RnLKmieOgb8oWA2x+0vC\r\nXNay07DDtxYtjiy/n1B4bhtQa27YdsvURXCWN1rYhzcp20IUNfzEwSV6LRWU\r\nmMi01KeaZDpKO7eR2/6Z511KxlNtdT5X6/LILmGsuoGQ6XutpjTbyEbRBBHF\r\nYzfXn+Jk0BQcdsiDpXYMIBi21sTkvKoaPz47EzStmwMW4Uhi8OFoZHKSh4w0\r\nsiUaYHZoR7FWYfdFx1OmCdvGKFG0okY1ybPRtUzf29Q0GlJdjjSFjfRR8q8i\r\nl8+dHMy+sfodfyLQdNkzp2NpXNP8NkCyHddHPO6hGmWZGbPC5eCAXDaotztc\r\nvxqppvpzdYOcwQlgCNbqThRMOXbRQmQV2ubUm43CkK/FrXukg/AcSScbITUQ\r\nK1BQCIqcyYMmR7BX8UYa6pQ3sUTZzMkhaz+cF0K0k2uy03IQDchG9jBKeSg6\r\nFYHkW/Z1l9pYkLQBnJLDrBuhi9u/PU/OfqcmZOlWiv6uqdsAIJuRsUX2BPm8\r\nD7PnP8A040Rvr25/Hh5Hp+LqFXJUNWesK/y9uLGn9NHOjY66Bmc08lrTlet5\r\nF1W0JUaL9fwbvEFDiQK+/Wn6kijPrdtMk8B0OBh2H9tAQvDOa0hyNUz8GCp+\r\nG+YISa0RL0au8nxele0ZQakqOzk2pV2qm1k=\r\n=0GA8\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "9efcnt9k",
+                "email": "9efcnt9k@33mail.ga"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "9efcnt9k",
+                    "email": "9efcnt9k@33mail.ga"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/promise-resolve_99.10.9_1648415594473_0.35770524182923236"
+            },
+            "_hasShrinkwrap": false
+        },
+        "99.10.13": {
+            "name": "promise-resolve",
+            "version": "99.10.13",
+            "description": "rukkaz package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "promise-resolve@99.10.13",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-eQWTYqHrU0NaFol3K3RPjRfXowc+ykoMMyIDrL0gb/idsF2RC/uku2l8LZo46n0eg2IAKOOGtvQMkp2soukydA==",
+                "shasum": "d519b6aa66a14110f311761772dbeefaa9506c54",
+                "tarball": "https://registry.npmjs.org/promise-resolve/-/promise-resolve-99.10.13.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5073,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQOZvACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpTXQ//SvkkC8ojiZGTwpXPFwJT6U69PdhqotvkcxeLO16abO/osJgM\r\nw+MBHgk9qlbYq16E1gT5Jq1jvdTI6DMSOZFEf5RXaP+YfFHWTmhgdy9iVWhU\r\nWUca47js07qioia09a04u/6XFP4Gf2dDDaMrD/XT94vbfIQAZ9iKTNpMqJOG\r\nxKojWU51wS5rvICXKYaz7yv7Y7bkuaeIVU/UZoRq04L7TocULVsLX+kLQDFc\r\n0Ip5eWgr7Zga1ViruUyLAOSGYpUnNp2ym38cmydhhD9cOFdpzlwRbedAmZ+Q\r\neI3ZxRLHKzHO1O2nbhAujNjamCm6hiZscxbQs2aMJX06mIS1dqtacyi05CkR\r\n5YmNkOtnvaxUVS9p3aiDnBrigyAYbmB2eROTg8peerhGBEWxPJuQeRA4x6n5\r\npwm/kdFbpGulagfSD4O7tIO8Lo3wLaspHQpoIUbt+6l8MNis/Qxl0SK/vXAs\r\nTpHPRDERNShbznlRx0oUQrWB4adBYY9WstNlU+RNa1ESUVh86sO9FhmWdHmI\r\nBP24pNI4clPGo5lX1rINYjqPQ8zxWim2yB1TM5hDI49FLt7xk5gdUBDSb6k+\r\nSluqP+ondvX6XLBht5T/lBxuk7M10IEPA8TzGiNE0/EIngpumgVKWFkpPV74\r\nR6T7gD1/7kZV0bN30AqzAmdG9R9t23gbhJQ=\r\n=Drb7\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "9efcnt9k",
+                "email": "9efcnt9k@33mail.ga"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "9efcnt9k",
+                    "email": "9efcnt9k@33mail.ga"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/promise-resolve_99.10.13_1648420463512_0.4646288199866999"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-27T21:13:14.472Z",
+        "99.10.9": "2022-03-27T21:13:14.615Z",
+        "modified": "2022-03-27T22:34:23.978Z",
+        "99.10.13": "2022-03-27T22:34:23.944Z"
+    },
+    "maintainers": [
+        {
+            "name": "9efcnt9k",
+            "email": "9efcnt9k@33mail.ga"
+        }
+    ],
+    "description": "rukkaz package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

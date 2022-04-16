@@ -1,0 +1,13 @@
+{
+    "id": "moonbeam-mongodb-99.10.10",
+    "name": "moonbeam-mongodb",
+    "source": "npm",
+    "version": "99.10.10",
+    "description": "bitfinex whitehat package",
+    "date": "2021-11-28T17:56:54.319Z",
+    "author_username": "rt22",
+    "author_email": "hussam.tes05@gmail.com",
+    "files": [
+        "https://registry.npmjs.org/moonbeam-mongodb/-/moonbeam-mongodb-99.10.10.tgz"
+    ]
+}

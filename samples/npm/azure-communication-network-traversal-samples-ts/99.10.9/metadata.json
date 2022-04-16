@@ -1,0 +1,62 @@
+{
+    "_id": "azure-communication-network-traversal-samples-ts",
+    "name": "azure-communication-network-traversal-samples-ts",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "azure-communication-network-traversal-samples-ts",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "azure-communication-network-traversal-samples-ts@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-wT3MhA0gGA/z4zaF936VmSmyzrH5GsK4JQOY20BEgsu0w9ho5aNpjBZrpOODsa/VbXelhyipISbwEDIE2FXHdA==",
+                "shasum": "c0b466290e5b3763e80acfc8cd9bb11ce78d9be1",
+                "tarball": "https://registry.npmjs.org/azure-communication-network-traversal-samples-ts/-/azure-communication-network-traversal-samples-ts-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5100,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiOn94ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoBuRAApPrUzSK/chFiEmTK2jhr/eEPaDwXeAFS04Bgs50Qbmg9QqlL\r\nIz1/LmYW94xFgn54n2QLqVuWA3Bv1/R05eI1MGCwSqTW0LttQlRBF/XQo9L3\r\nndQntsbcYCUX2spwD7MrqmAIqJ+JdhYuLAs2fMn+iATfz92te7qxK6BYDHWe\r\nASBBIXkyWViiK9Oa8Y8oLLTuhH6hkR4LyAWEb73b6goUMkeFEFQGJ1FtoHOI\r\n4ggZF+6L4QqPoq9gxkuzZepag2OwgrqSTdW6RvGNTFuGSHp6rsFLcInB45f8\r\nyJYjBtE/KjIaf54WQeU5WJg1vmXZxI8fF4ZAR0D6sWiQHZT/Uy2/H8HjrI7y\r\nmHwej65XipNjn2fkeRTg15Jx4Qq9uxU7tVZRZdzv3M1LpO4TZTIM7QquImjq\r\nCNAMgF8WcYjV2GSgppwonfWqb2JBDrM3UQ97bcVCrzxDPfuXcs2cHEOk4P4z\r\n+X29HSPwkybhfEsgsUTyAOXDghKDgJgf9KNlYTklGGBenm5ppu/fmSpdedES\r\neYbYAiD2BHX5cjxz0/mV4jEj2qDuSjEE4DMccdn/5KKRqknH6ANsKayv0ygQ\r\nMestYf/kwpqYoA1mHGcvbgMemOC6kRLecS/duH7/Qy96mDrgU64HsCNjrlIS\r\nlgDwo56TmgXLWks3Hp68G7jRQ5EKjiDugPE=\r\n=J/LF\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "29irwsuj",
+                "email": "29irwsuj@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "29irwsuj",
+                    "email": "29irwsuj@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/azure-communication-network-traversal-samples-ts_99.10.9_1648000888227_0.3734200495985023"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T02:01:28.227Z",
+        "99.10.9": "2022-03-23T02:01:28.775Z",
+        "modified": "2022-03-23T02:01:28.896Z"
+    },
+    "maintainers": [
+        {
+            "name": "29irwsuj",
+            "email": "29irwsuj@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

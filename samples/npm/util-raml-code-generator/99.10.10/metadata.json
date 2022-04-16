@@ -1,0 +1,13 @@
+{
+    "id": "util-raml-code-generator-99.10.10",
+    "name": "util-raml-code-generator",
+    "source": "npm",
+    "version": "99.10.10",
+    "description": "bitfinex whitehat package",
+    "date": "2021-11-28T18:30:22.767Z",
+    "author_username": "rt22",
+    "author_email": "hussam.tes05@gmail.com",
+    "files": [
+        "https://registry.npmjs.org/util-raml-code-generator/-/util-raml-code-generator-99.10.10.tgz"
+    ]
+}

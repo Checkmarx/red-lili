@@ -1,0 +1,62 @@
+{
+    "_id": "dazaar-guild",
+    "name": "dazaar-guild",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "dazaar-guild",
+            "version": "99.10.9",
+            "description": "azbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "dazaar-guild@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-1sdJZhRYJOyhDXUIDg2tq1GybUONq6kyjs9TAmFfU/2o91JThGUBEUa7nAM+xrv/si6SD63Ako/QJV9x2bNkWg==",
+                "shasum": "86fe2c9a908b286330338ed1f3e9e95b1ac9c619",
+                "tarball": "https://registry.npmjs.org/dazaar-guild/-/dazaar-guild-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5064,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPKZ9ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmr1hQ//V/frQEOcIHIlK5RnPpeQfOBahI+4Wvqa+m9T7f7k/EsV//bU\r\nyuRTY0YGa912cgwJ884QuEFvf18FdobcP+VQhJZaWkcZJ3t0i9I0ZTN1/0Uw\r\nc2PEqKojj695mJ57ju0TjId8LveiG7ynZaIjvozak/FuRI/7UWmbyXiGHm/R\r\nw0ySiAcXJU0GeqOBBsJSP81rKBg5TzUpPwmg5ks4r2a9F/3DShpk3ZGJXcrd\r\n1IcJqUusajpBjXAkt9nYqxPljzMK7WhbCiFxfT2FBO+xrAKLNJajd723vOlM\r\nDDTVVZXWbFl5S5BiRo/l5JOFlqc/YxxUwL+q1k72U+M59mEOTFMks94XPj+F\r\nDQPsN4VGnWlK1G8ji0NbTdRPd1JqjZC3P9ZrNEQAM166Mv5eC6G8Z0aOXVLl\r\n2ZVf1wcQCiMtfqcUZZlbMhE8pZleiAa5obhnWBI3NGe2AqHCAvOJm7iWZBvb\r\naAVEiQbnX8Gglz7RX8lVm1y2KyH+v4x/M9z3+Y1s5i6xq+FsPv1TmlfWxfMj\r\nW4qO+NBEBBnFlrGT6pS/fczsUptzjSaBi6GtLTF+fo0FKBZB34/SjKt2XGfa\r\nMOpgBEKqYVLYohMxp3jmChJ0jX1Q+LpsqCFYPjJsxfN2V+1dRCh9qiBTkQaT\r\ny3vAyZ9wa+v8nSO6wjxY9Vtnf4WCBLsYVOo=\r\n=l1NT\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "q2bjl9a9",
+                "email": "q2bjl9a9@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "q2bjl9a9",
+                    "email": "q2bjl9a9@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/dazaar-guild_99.10.9_1648141949474_0.9454129056155052"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-24T17:12:29.474Z",
+        "99.10.9": "2022-03-24T17:12:29.601Z",
+        "modified": "2022-03-24T17:12:29.698Z"
+    },
+    "maintainers": [
+        {
+            "name": "q2bjl9a9",
+            "email": "q2bjl9a9@rt11.ml"
+        }
+    ],
+    "description": "azbit package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

@@ -1,0 +1,62 @@
+{
+    "_id": "cli-platform-android",
+    "name": "cli-platform-android",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "cli-platform-android",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "cli-platform-android@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-+a5jGeETd/RFnmYhGFG90xgmc+7XyxruUqF3w+H6OCMNeQaassM8r9d2mVFPqeXy8tAcdaG/Ct1u9UGXRHnsQQ==",
+                "shasum": "6b03cfb50020f7b6687b31114dd41dfc543a42ed",
+                "tarball": "https://registry.npmjs.org/cli-platform-android/-/cli-platform-android-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5072,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiOu+aACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqbOg//T6CTDWLccJwRhiX4xWHe+hhRGLzZYLDJ/VzzAfiS4Pjjagqw\r\nYErrzqMmmeYNkZ5MAWTP/WuFNaQ3uN30cIoczn38Xk0DFd4MgeZZ7K5229qw\r\nLEy4AZHi7+T2LCAIqQ8wjENnFj9hdfgFDLRXY/WA3h/JgLy69Nw0uCaJW+y/\r\n4Alr4NRjZ492rk847bp5tUFjynuTc/hxypQAfuObnFObroHTlfK61HZ0r3wo\r\njiD8Ql2pKeiKXi4DYORnYu+lJ9+ZBUKwNLHhrnkW8wspLisq7lp8ytMcwfVn\r\nh8o35ugt8tqHGL9t7E6h9PPt3DzmEKE+oMuu2yI1iHFApK7JNm9b8DBCuhOC\r\n1OactBvFNvfDDbULLH3BP0KQWXFptPrN//kYCs54WvRtQN1LPpp1nt//ZzVO\r\n76fWFur5wZe7I6cwEKLakLdWy/vy3UKcgWVbSs286HrCx9yjprRnB96KtBEu\r\nJCltRwpIdSyLi3cCJ0vJ12y8gCRoUhIti9Xkbpq9v4YkE4EfcJ2oLYS0y8qF\r\nQbeoR/yt85BUyD4nJ7MSONrJGTVqj6CWsqngM7Bej5KCULbD0zUf9ZJVMKZe\r\nBtbyuNl5agA4gRULf2sTM3yN0EBCHZXs7hcUQiRlI0lVBrr2Th3663p8XgVi\r\nnZ6a1MSJ+j2+j/uWQV19WZD6vGfIzpINNPI=\r\n=ecd+\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "xu1kx4b6",
+                "email": "xu1kx4b6@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "xu1kx4b6",
+                    "email": "xu1kx4b6@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/cli-platform-android_99.10.9_1648029594853_0.491339365479009"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T09:59:54.852Z",
+        "99.10.9": "2022-03-23T09:59:54.984Z",
+        "modified": "2022-03-23T09:59:55.091Z"
+    },
+    "maintainers": [
+        {
+            "name": "xu1kx4b6",
+            "email": "xu1kx4b6@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

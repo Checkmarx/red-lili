@@ -1,0 +1,13 @@
+{
+    "id": "bfx-util-net-js-99.10.9",
+    "name": "bfx-util-net-js",
+    "source": "npm",
+    "version": "99.10.9",
+    "description": "bitfinex whitehat package",
+    "date": "2021-11-27T19:47:18.564Z",
+    "author_username": "rt22",
+    "author_email": "hussam.tes05@gmail.com",
+    "files": [
+        "https://registry.npmjs.org/bfx-util-net-js/-/bfx-util-net-js-99.10.9.tgz"
+    ]
+}

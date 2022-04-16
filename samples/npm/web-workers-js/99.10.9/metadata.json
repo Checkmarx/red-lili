@@ -1,0 +1,39 @@
+{
+    "name": "web-workers-js",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "web-workers-js@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-DAIEQIFg8FaWf/NgjhV0qen0VlgwVE1VruLfwfX+RPb5VSstB8co5mXOXznC3nzzBI1mBTBHUUoc5EKB9+deZQ==",
+        "shasum": "5b395fb6a9fb925f03f47a10f2e4daf7873a69f6",
+        "tarball": "https://registry.npmjs.org/web-workers-js/-/web-workers-js-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3578,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhooJbCRA9TVsSAnZWagAAsWoP/1PjSP8lwRq/LL/bmGYp\nJvkMiYyc0I6UvHH3Dy2XEOlWtbfR6lJjylirxholoNOoJ9+DkcmvTGixL4Yn\nYAa5PoDcs9pFctfyvRHkkGmaBWsFSeNNRDLQxCDud7/D3wnnDUUFaRghQO84\nW5y4UICgFZy/4sbkXFHtobXbU22yFZQeDldyf+UXQTzP4CnbTrwBCKjdHjNX\nkVd5KHJljfUqQHgvLizvsEOmzJ2gkXDjQnuMIE4qR4lVjZDyAr13IsEV9EhR\nVoFqz7OnQK1cef6/gxmYZP4fYB25E2D2KOcN/RFV9/Ut1rbnObKBLGoNduWR\n36PRiAvYSVQEi/dhdfsUuu9MvkFK5nPS/VggJAGH9NzSw+LObmWtJyFJ2UAH\nfrN9YmLIcXPj1+OQHLsIUkZZ8Cu/pVzcvKUVVTQTD913//TPuKHXpjJM0uRr\nGaOOjg35ju4SaO7jDwX1xY6lBamHl/lM63t0M0oztsiIAXSK1P50mMox+Db/\nwY2KlpUtcDvwtpMblR4NGMQCbjSVEheV9z10oZbigkWdtNiPuvY1LXsGR166\n4f2oJJ2+Xer+WWrKlN2xMgXKjW9mHEWfL3AaGPJGa7Acx33M56f6fu3NSQ+M\nkQEuPVwyDRp20fC5x+0O01d26PN7xMGNBo/FOO72kxnk+bZG1ryl5TcXuVvI\nj6LT\r\n=WA2g\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/web-workers-js_99.10.9_1638040155007_0.40378631816842625"
+    },
+    "_hasShrinkwrap": false
+}

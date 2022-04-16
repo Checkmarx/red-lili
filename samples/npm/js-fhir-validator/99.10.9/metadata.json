@@ -1,0 +1,62 @@
+{
+    "_id": "js-fhir-validator",
+    "name": "js-fhir-validator",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "js-fhir-validator",
+            "version": "99.10.9",
+            "description": "difbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "js-fhir-validator@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-nGYYfIL8Wkm5dtNvFqFM8qukWoC3kKdLFvdo5xYnRZ6kV72dyHdoQBn6y+SrZx4eqiS5aj/EVGsn8iFOA05Zgw==",
+                "shasum": "0343dd02b61fa5deebf6107afe71811434bad12f",
+                "tarball": "https://registry.npmjs.org/js-fhir-validator/-/js-fhir-validator-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 6716,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQxRbACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpGlQ//QYhj8nq9V489bBt/lBe1o/YbZXtv6B2/GhvOWk9P/95CV9yI\r\nNnktzo/uqB5RLm2ns8FJ33TJ68aG1HbI1UUZe1mx2Pz77aOqayMz46GH9zNa\r\nb2qnUM4b5tQa1t3CXpM9VURCesUMgREATYrlXZI1Rk83G2DP6SuLcijem7l9\r\nzckF2NvtRuaX0PpKP44P2T71V4bii3sKZ79Nhr5y15w2KL3ej9ArSryn3RBX\r\n5CBtNaATc0oj/W0QdEpGkXwm5Za6yvxMJH+niqlv+POef540/rQnbm+Q5fqL\r\nD6+PSwiwMwXt7Xzg1xqs4ykxcBDkD9DTemY+CnJ8MAXrxsbepkzhZWIKVrq7\r\n1MvDL0XbjEC+/jDUipntjF6ZunORcRCdUcJ6+LEyn3fvbPjdKVMEKwf6VcFH\r\nYcJyZzgMZZ0Rws730GbiTLHEOJbAbPb0B37eM+ErQUOI8ZEVAQBuyVwADCT6\r\nNBLQdQJuV/yHFtO/DYeXtMU6xYqIWG/s26OrzTvbxiut5ifecYvr8IKC7oqB\r\nXo2QOLJJMnDT/6UT36MM6h9X/TEi23sDuLKNd45VOGzp+Q+MXpgZxMEIwazB\r\nYn2PNTtmMVhWbes2GR20Ncl/hfTII0FrBtnsx34GaPwkYfPOUtX0WJ/MCibM\r\nIgsMjq4bU4OwZoPsKnxFggK+UuB4jBz2SL4=\r\n=7Tz8\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "v9918xos",
+                "email": "v9918xos@33mail.ga"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "v9918xos",
+                    "email": "v9918xos@33mail.ga"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/js-fhir-validator_99.10.9_1648563290739_0.8097749032984467"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-29T14:14:50.739Z",
+        "99.10.9": "2022-03-29T14:14:51.064Z",
+        "modified": "2022-03-29T14:14:51.181Z"
+    },
+    "maintainers": [
+        {
+            "name": "v9918xos",
+            "email": "v9918xos@33mail.ga"
+        }
+    ],
+    "description": "difbit package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

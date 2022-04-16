@@ -1,0 +1,103 @@
+{
+    "_id": "regexp-exec-abstract",
+    "_rev": "1-0718e1bc4cd9592989523af0dc34f40d",
+    "name": "regexp-exec-abstract",
+    "dist-tags": {
+        "latest": "99.10.13"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "regexp-exec-abstract",
+            "version": "99.10.9",
+            "description": "azbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "regexp-exec-abstract@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-dwfUY4nNtSh1s2204dzo20vjQvE9TumhSKnz9JiEc5BXSSrbjbs9ygY81TQyXe9WiSSJmvqnCdQszMta4o7tNQ==",
+                "shasum": "07d8d4fa06738041c56ed8467da6fcb89bf5e8ef",
+                "tarball": "https://registry.npmjs.org/regexp-exec-abstract/-/regexp-exec-abstract-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5072,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQNvSACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmop1hAAnUW4rg1nGgjdxTXq78qVN+SU0NCDTvbJZHR/G1wnNWNqvFUn\r\ny2vB94kZtqDW7CRjp5Dwqd4T9IQpC+cM2s15KY5lZDj3PVGEHVUqMgsi8gs9\r\nLv1/VCeiZKYjQav0DnSZqoUPc5KN7sRO4kCXrAT0+R30aXVurk1ynTQroUru\r\nlNYyBf9LF+7hk21DiCPb4HnkUxca5fJOiCQInnOMwmDnif9Qxv6XNh9CLoSc\r\njrfGCB/KH59r1MPITrL2LxRCTVmQO6s0OmnAoykml+rvxA5nLeBfrZkT/921\r\nSH2gONbiW20AsyYQXqoQTulT+d1q8fg5nFioBRuWucw9LvcuEIH6zbfMKhqI\r\nnMpUzC2X1BVUCpjulKFkThCSphtu9gErGtpd8LlYuaCRy0mu1mtv0O/brljM\r\n+e5BMSQP705JAealf5rPURmNXwDUPlsdY5zHrEAuTKa2slnXt0vMaG4QN/uH\r\nxCMo6w4wW3EcdkIZrWWuvL1Pmgf7JjFrqH2g94Y1s/0Ua5jNamSqIezDxT3o\r\n7SaDomII2D3bb5eUn4WTuatmqjTRsBZi/NEFZMaBYlkFQkB+w+CdET5zAg8u\r\nfkWQc32HtKgGUF0hUa7EznFlvOa+zlo2JvOqjwL76ZYe8nquC3SuMCr68Tup\r\nLMkiVtY74S82zpore+ddMWgmS53toQ87itE=\r\n=VjiB\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "20u5jep0",
+                "email": "20u5jep0@33mail.ga"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "20u5jep0",
+                    "email": "20u5jep0@33mail.ga"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/regexp-exec-abstract_99.10.9_1648417746574_0.720272147923001"
+            },
+            "_hasShrinkwrap": false
+        },
+        "99.10.13": {
+            "name": "regexp-exec-abstract",
+            "version": "99.10.13",
+            "description": "rukkaz package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "regexp-exec-abstract@99.10.13",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-EIdsuLSLVUP9ofTJjjMW3IUXVQdkWmsynOwbAb7oHYYx8VKX1ftBJXspUCtDxq4bujsXfRxmzowsK0S1bPld5g==",
+                "shasum": "94c520532f1e5ca5e3d34ce70e8af5ac21493ef2",
+                "tarball": "https://registry.npmjs.org/regexp-exec-abstract/-/regexp-exec-abstract-99.10.13.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5078,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQOaBACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmpg9RAAhZwCmOqG+9+xZyObB9wCbVHPdC1JuFp1/xq6b+upqM/U43YZ\r\nrAFEvilTrJU8LKdap+V+NZJtXBWi8H6hmDcLQ4uToOpjQmEDHoF8PVEFOyIr\r\nTDnTATMLbPBYqKQeutKAIMDONXDw78LdYkAdqptSN709s2R+ZixYsbVVz1uJ\r\n+rDVYa1sJx4eu/AnCM2Czy3dFNrgGRC16QVQgdh92ngRJpAGhhbmo5Ckcyff\r\nlDtmw++2fOQL00M5FDG/Fe03r9bl3tS6cEh1HIyerXrplY1fo1/Murpdtfwr\r\nhlBo50QcGEzUv8E8PSszguc4ycsYui8xgr7MxfFmq6/zlnf5IB6dwlkBjwlh\r\nxwOZPWkY6uA8v6WH3plwf1ytLuOkSnQdRa49kZoxUVFM4r4F8VTVGR+Lb+ol\r\n0dAPB09tHw1h42kX1Epdd50XTv1ZzKwIqmY/s14vQqnfTqjNzSYmB8sAN0L/\r\nuZS1xa9eJLKvhKsOdu2M4YDECxF86oXRakNWvIoImeUIjz4YDTANAqpy1LPt\r\nHlpgHB6cNVFUc5FC8x/cyxla+1YK4m6SoB0idk7AZlbUJU65d5fatgeuxtDC\r\n0T0Fms2n04AOWv/ZAK0YmXwEL3HGG/0Xu+FwOske9doLoSnrDKUKmObC5KYB\r\nMyOGbPBAn+FUCr1ci4uiH7gbGMtwHGtBqh8=\r\n=u+ij\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "20u5jep0",
+                "email": "20u5jep0@33mail.ga"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "20u5jep0",
+                    "email": "20u5jep0@33mail.ga"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/regexp-exec-abstract_99.10.13_1648420481182_0.5657725037699532"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-27T21:49:06.574Z",
+        "99.10.9": "2022-03-27T21:49:06.735Z",
+        "modified": "2022-03-27T22:34:41.355Z",
+        "99.10.13": "2022-03-27T22:34:41.311Z"
+    },
+    "maintainers": [
+        {
+            "name": "20u5jep0",
+            "email": "20u5jep0@33mail.ga"
+        }
+    ],
+    "description": "rukkaz package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

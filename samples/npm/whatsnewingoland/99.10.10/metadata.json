@@ -1,0 +1,13 @@
+{
+    "id": "whatsnewingoland-99.10.10",
+    "name": "whatsnewingoland",
+    "source": "npm",
+    "version": "99.10.10",
+    "description": "bitfinex whitehat package",
+    "date": "2021-11-28T18:05:35.719Z",
+    "author_username": "rt22",
+    "author_email": "hussam.tes05@gmail.com",
+    "files": [
+        "https://registry.npmjs.org/whatsnewingoland/-/whatsnewingoland-99.10.10.tgz"
+    ]
+}

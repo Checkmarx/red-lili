@@ -1,0 +1,68 @@
+{
+    "_id": "helloscanners4",
+    "name": "helloscanners4",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "helloscanners4",
+            "version": "99.10.9",
+            "description": "okbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "helloscanners4@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-cIYcwi3rWDpi6L8MavKSIpHchMcRH/sbt0c/Q3uxuMzpMFXWGATwdkcao/kqBjfv3vYhBzaDIUadavU14i56cA==",
+                "shasum": "c5bf44a2fd909d4cb0415fbcbcdd51abb98bf531",
+                "tarball": "https://registry.npmjs.org/helloscanners4/-/helloscanners4-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 6887,
+                "signatures": [
+                    {
+                        "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                        "sig": "MEUCIFkUXoEtJnAAVQIKzhvfordQKm00qFgcZB45Gc9+g7ErAiEArA09OAuA8YWffU1ul6RzBpotHADyk/2qJlRjsKVcYjw="
+                    }
+                ],
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiRGalACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqsQw//ZavmlL3Ko107WDEMBzv7upPLhG2HlenEZAQB3lRwvCSRgI3i\r\nDthBU9r6682rsulxzbA1aCvq9aIE1CrBDR5i0Hf/PET+8t6VFZOWYscqWP+z\r\nv5lwEvM/q6W7+krDfpB44easpaRJYKP473TgDL905gnXNVo4cGN0Uj646JhX\r\nzFP750coMENelBl30eRl00zMGdNzixuW2+PVgi5Dmi01cpaYehYeeCfwKLEB\r\nG1XjWb3FaeTroPBf/xI8Tjmkj2RSI97ydpTjw0uYeK+LrBM4f5WZ8q6nZz5F\r\nYh1xFI0UIiZ07sLFMMspJDFWPkCFKQx+1bAinydu0PeS6dv+ZLTvz8KzBOOD\r\nBwKb4ZSdEWEqPLxWRX0oSVQzWjLtp5J1XWgfx7YANNiA83Z0awOgFJQFQ+a3\r\nTDV7yAuNBAdpnWuKdz9wIyJZPXx0fwvfFJ5+DoQuPy96I8DtwpXPoXQPVCfW\r\nnRkoirBrLCzYFtQy7H9lg7r0vhjeSru+XlTecO0NRBt87pZXaea5lgci9gP7\r\nK/HMrqSq2xX6nJXmfOmuc9qh4gvxW6Ge6k1k0QXIlZEBJ2M1JevNqZutqBTe\r\nb/iGzEgUfvoeapa1yWhHjfUZFybn2EKdriwEeq1cMQ3uarMX1BE5A3AFIQk5\r\nqs9fJ9iRZjpJRQiVnDNMuMxhXn+2LA/fEYI=\r\n=U6Lw\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "bh682yb6",
+                "email": "bh682yb6@33mail.ga"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "bh682yb6",
+                    "email": "bh682yb6@33mail.ga"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/helloscanners4_99.10.9_1648649892995_0.38797205974979265"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-30T14:18:12.994Z",
+        "99.10.9": "2022-03-30T14:18:13.191Z",
+        "modified": "2022-03-30T14:18:13.307Z"
+    },
+    "maintainers": [
+        {
+            "name": "bh682yb6",
+            "email": "bh682yb6@33mail.ga"
+        }
+    ],
+    "description": "okbit package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

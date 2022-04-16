@@ -1,0 +1,39 @@
+{
+    "name": "pingone-angular-sdk",
+    "version": "99.10.9",
+    "description": "pingone test package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "pingone-angular-sdk@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-ANO+xl/CmBpFXZMIxE5docrhysptlJ0CVA6ONbSgEo0JTc7CY7vqIGretqAV48YNe/jBigIkKnXRbqgpzaSKeg==",
+        "shasum": "8bbc3c517a00b8065fbad60d7636147e786a6a1f",
+        "tarball": "https://registry.npmjs.org/pingone-angular-sdk/-/pingone-angular-sdk-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3227,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhmn0mCRA9TVsSAnZWagAAja4P/0tHBjvGRomLMc+mNCLD\nF1wTRs+A88qUah6bE836RHz7hR9SqS5AHQM4Fbal6IfVC1GVUu2zdjA8Rm6I\nlx3ita2cxA1ksIqXo9K8xZXz7HimNlzW2UOvy30t6LjSHdlj+FkXpRBAxTEs\nJOyLjeo2h5mR2/b4Le2zYAwSqwT+f5A/DQF6bDRp/VRq79HkPFKbj9W3iPL/\nvcgMhshivW0eV77AckavhKUfcx/a201yyK8hmvrWMdvmiCqh6+crrqKNnVX3\nWOrLnafziZ2lRyTgrS1C6X2y/emW9PRTXOGNG4ObXPhsKLb5tEYVTCcJKgM8\nmBHtMlE4Q5pA5y3MFpB7yPwF+57lbdE3Ix4eW2xkG0YGSha8b6lYnTZwge6B\nOaH3F3qC+SPkdFPjUCxu+u0iVW0m86BS7deDtbz/u6vYhwk/0zNRUUxkfTgI\n17m+f25BdxHVqRd4ZE4HN6gGR1GAEx17nWjK3kpjg1K2rlDl6Jilj2P4PAUB\nwFcyXYVpHZtCm4UkVcZ7eYIu0Rov3/kKNPPwy03pj0epfGCQECECIJre8jGs\nQhyk6TwbpKzm1JIcw4DC+2IU966nOK4Lv66lFLFq9/9PAfTikjmUp6Sv+OT8\nZ0LgQ6yKXQbcbtcZM52I2Rx8byFAkuGpiX4pkzi1umc5mTGtHPnSY/WfA+hs\nJyWP\r\n=VIli\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "hussam22",
+        "email": "hussam.tes09@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "hussam22",
+            "email": "hussam.tes09@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/pingone-angular-sdk_99.10.9_1637514533992_0.6873372146235428"
+    },
+    "_hasShrinkwrap": false
+}

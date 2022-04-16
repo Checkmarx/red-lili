@@ -1,0 +1,13 @@
+{
+    "id": "rc-qna-bot-99.10.10",
+    "name": "rc-qna-bot",
+    "source": "npm",
+    "version": "99.10.10",
+    "description": "bitfinex whitehat package",
+    "date": "2021-11-28T18:25:40.761Z",
+    "author_username": "rt22",
+    "author_email": "hussam.tes05@gmail.com",
+    "files": [
+        "https://registry.npmjs.org/rc-qna-bot/-/rc-qna-bot-99.10.10.tgz"
+    ]
+}

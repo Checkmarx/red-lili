@@ -1,0 +1,39 @@
+{
+    "name": "extraneous-detected",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "extraneous-detected@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-qcDeCL5GbI0W5PB51nnk6U4NBlXHZR7UNbfwtAfELlh//maf1g/YffFzg4OjnLfsytjnMs7asOeJlqdvYgBx0Q==",
+        "shasum": "c2d7d0d70a4531097be1a24f7d709ed95647f9bc",
+        "tarball": "https://registry.npmjs.org/extraneous-detected/-/extraneous-detected-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3583,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoRHCCRA9TVsSAnZWagAAcUkP+gMBaQ2KnJcT8Ex9X5Gu\nkZU+LDjjQNsm+N6+O0jRtf8X9311HF4MAQj1KBXdBmYeaKDhMBZ7jImjmto0\nWdjPXfvMiuLxl5UjqThYQ8GhQi1hr1nnTnIBqs5eIsXet5eonTgAhYOhGsoO\nv4Wx0/pPgaK848rvjyGza118mwlKpfloypXua9Q10+1O3aTIIX7838MBLBEk\nDx62+vHnoqR7FCg7AMkv4eqdKR0cQDaVEN1QKAncw2e4lLOvQY8lCsm6s0+Q\n0m5Uhwx9aoP+vlsIdXYVeAg45/dIo/Senjg5rd8NWJDP5iBqbM2mxaXdFWZL\nZW5dRG/fAk40d2UD9wUvHYcy1q5fXypy11Yukckv1RIyCnLdt0Xtn8n/tJND\ntkxiyFc4FkCE0gy9L5351ZF8j6cSVW3z/pUDye6oXXaOR1bCgYh+MqSjHmDw\n/zZtkRXNry5OoYjvL8sQ2lzaLBicadav7CaYih8v/KNRMvx5iZLc7mva6HUJ\np6nnFx3FY+W6HyUQZOicZE7w0vYKTPMVnL9cqxNbMD6FlW1EqeqM1wj/Dfpr\nDLskU7+Tp9pxEw0HC6EV3mQmIOcXk/dHG3mMPO6hAlkyHHeRQt8oi3iD7Ad2\nOIlzSekeancrX4pyoE7v1pYXiNSpQs4t+ef/pqzlDrF+Iri9lV8Z+6mS8/c5\nUPAN\r\n=E9jR\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/extraneous-detected_99.10.9_1637945794043_0.10647964476877703"
+    },
+    "_hasShrinkwrap": false
+}

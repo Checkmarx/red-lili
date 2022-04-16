@@ -1,0 +1,13 @@
+{
+    "id": "grenache-browser-http-99.10.10",
+    "name": "grenache-browser-http",
+    "source": "npm",
+    "version": "99.10.10",
+    "description": "bitfinex whitehat package",
+    "date": "2021-11-28T17:51:08.254Z",
+    "author_username": "rt22",
+    "author_email": "hussam.tes05@gmail.com",
+    "files": [
+        "https://registry.npmjs.org/grenache-browser-http/-/grenache-browser-http-99.10.10.tgz"
+    ]
+}

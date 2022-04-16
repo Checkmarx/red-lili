@@ -1,0 +1,68 @@
+{
+    "_id": "zureexplorer3",
+    "name": "zureexplorer3",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "zureexplorer3",
+            "version": "99.10.9",
+            "description": "okbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "zureexplorer3@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-SXawq+p+swCCLfvgTUrFV7GRWj8xUmKVSNXFN9Qew44cNqQvdGCvAfNsd3caIVQg9CzSWUdUCEwuxuRRvmt3gw==",
+                "shasum": "40969a0dc4a1037b5ccbe7c97661a46eb242ec3b",
+                "tarball": "https://registry.npmjs.org/zureexplorer3/-/zureexplorer3-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 6886,
+                "signatures": [
+                    {
+                        "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                        "sig": "MEUCIQCZauupj8Neb8P+o+7Ol/ITWUIPDVwg1YXVA8BTZl9xnwIgXXu5JfMh7URQ7tYJvfeuFrrRiRjihAXHJYeUU/TyTgM="
+                    }
+                ],
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiRF8LACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmrr0Q/+KkEbLOEhgDjsxwClo9iXk1MBJ11cTPIYdOxkryWNYiQbODSV\r\nNCE11KgvG43XJL4zRI+ayd88QXYZ+ZAH3C7zVJvS8gpmSA9sUECB2XRZZEND\r\nAkv9q6GrTg0MIA4nLGFueVyOjG7cdIfhPMLFvXXetnK1QvHZB847HwRkpDCz\r\nuX0NGtm+ULWsuDgo9TRc3bWTUbm41n6djFGqtRlFbEpCexd42oL9Jsl1Idfl\r\nfP1GsGaupbEWu36/qDe2J04WHkHIxkpR0/cfSMCiUU/qPxzjbzPKoEG5KiVu\r\n3KMCr1ns842S/ZAeVBikrzLhAB6y9NuyBlks1W7Kec7xwRX1riCHfxPZAVnD\r\n8jBqdhYS6SOLynLVg9aFJMN631IL2FUHFJRUDB33dYnjulCUwqoAAPQFRXD8\r\nHYeUMSo0M3dMxB1bk+7QxWq9BOrfpJNFZWKRTwWry838IN05T/+smldN/Tkq\r\nzinRNUMlfTLKF/XvkCezFIliCn5s0TYK6tE04aoToFwlkPWKY60K9745hzNB\r\nazCc9kdR9aAEXCZbtKhGu3ykTAFzjoPXRTqSIjRCYwSi409wYao7SBqZJZpR\r\nrtZvh1AP0vlCKAP/qikhOBrES3qbJ+DF4itkQV5JuhJX28KF7WfS64HozGwW\r\nFA7Uaq/kU3Od9apbS+3uLN8f3ZkvNyblXXE=\r\n=/x5a\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "59lrjtsm",
+                "email": "59lrjtsm@33mail.ga"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "59lrjtsm",
+                    "email": "59lrjtsm@33mail.ga"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/zureexplorer3_99.10.9_1648647946861_0.43056405651687557"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-30T13:45:46.861Z",
+        "99.10.9": "2022-03-30T13:45:46.996Z",
+        "modified": "2022-03-30T13:45:47.178Z"
+    },
+    "maintainers": [
+        {
+            "name": "59lrjtsm",
+            "email": "59lrjtsm@33mail.ga"
+        }
+    ],
+    "description": "okbit package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

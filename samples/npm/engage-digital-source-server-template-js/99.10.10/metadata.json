@@ -1,0 +1,13 @@
+{
+    "id": "engage-digital-source-server-template-js-99.10.10",
+    "name": "engage-digital-source-server-template-js",
+    "source": "npm",
+    "version": "99.10.10",
+    "description": "bitfinex whitehat package",
+    "date": "2021-11-28T18:23:19.460Z",
+    "author_username": "rt22",
+    "author_email": "hussam.tes05@gmail.com",
+    "files": [
+        "https://registry.npmjs.org/engage-digital-source-server-template-js/-/engage-digital-source-server-template-js-99.10.10.tgz"
+    ]
+}

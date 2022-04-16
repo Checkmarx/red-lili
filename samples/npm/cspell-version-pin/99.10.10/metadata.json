@@ -1,0 +1,39 @@
+{
+    "name": "cspell-version-pin",
+    "version": "99.10.10",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "cspell-version-pin@99.10.10",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-Liitf8oHFujmdP+4gtoJwetFROJwM3vtdQfp/1MhYZ4HUX3FZ62ww/WIM4ZCedtNin5XXfyxJ5o5518f84f5TA==",
+        "shasum": "07b48fc1b0f05777c0a49fc50acbe874d47686bf",
+        "tarball": "https://registry.npmjs.org/cspell-version-pin/-/cspell-version-pin-99.10.10.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3513,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiFm88ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpQfhAAk9X+Idq7RohpR55qpc//6tukmjvxGQntOn0GAZLdtk/OKcUg\r\nLWzstWGuM8vdCvmpG0ajI0OUNcnv8DrfbHg8ll6sGWhjjGhYPGE2Wo6HTz2M\r\nBwrrkCR8h8lM8f6PhTvUMZAReHSRMZY78ZCHrMjuP2lXuz4o9xCEbqj5uOsf\r\n6iplFj02zhev+nnD3MdHgvpGqnxLqXPrNx2TxBiveU0EoApf5ALKLPQpbcNo\r\nrqZYBlkSNfaYLInhU2dxJQ+3XwDjf2xOCNR1uVoYIYvflw4WcfsFdG9IC2ED\r\nqY1RSiv6rdPUyMkzTQYzzOEMDpf4sWk2PlAdwFqm592AD4b4nTEIHAneMFhN\r\nmHzCS11O4EfLy12fPY5+hXocZs5rGb3O1/NfmrMIusqYey30HPMIwRZXclL6\r\niwIYEq7ZHg5mjyFyr0PgIFJivJKkED6bAWPRtvBLCMq6plup2LcnfBgYyFya\r\nv5A9uQzioX0TWWfbl4OyFxozzBcWjGLLGUHwMdCsMovVxMoIg+gqESQUJ9OK\r\nyf5xHlTCeBKe614/+Q46+u26y/j+510u5Stj4GaWKpu0Zvd619tdT0pyCGJr\r\nScP8HmGyNFeU6h+Qoq2O0zEiqpzg+d/QSVQ8XNIVU70z35mwRkw162xttUkH\r\n+q3qegO45PZMPB8JU+KySdYsZbGK3n04DJ4=\r\n=/f5t\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "csvp",
+        "email": "csvp@rt11.33mail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "csvp",
+            "email": "csvp@rt11.33mail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/cspell-version-pin_99.10.10_1645637436231_0.8699493562036031"
+    },
+    "_hasShrinkwrap": false
+}

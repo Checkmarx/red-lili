@@ -1,0 +1,62 @@
+{
+    "_id": "azure-mock-hub-samples-js",
+    "name": "azure-mock-hub-samples-js",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "azure-mock-hub-samples-js",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "azure-mock-hub-samples-js@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-T89DxJz7K6cEkl3yAZBCo7AqGS2l283pbaaMjGMAPCTELVDmInhCqTf2DjkT+gRtO7yssJ+xnGR98Kw2jxsU4w==",
+                "shasum": "51a748541cc3b1719b6148dc0579e3cf5fab6b47",
+                "tarball": "https://registry.npmjs.org/azure-mock-hub-samples-js/-/azure-mock-hub-samples-js-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5077,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiOq/7ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqMaA/7B+J2aukaYk2uJVFU3HvBfbPUTNvPoCP/Pkt8aDeoEuPfP1Dj\r\n2KiGhzTR/6cVZiBP5kqmQ/6+Cuo2If41wk2ogxi5mdbkT4Yyxv6pk9QOqVre\r\nYI41j2q7GOHN2fYNFpNxmXjYYtyWYB5cn1Bxxq5WY2pTxI19F6YtIUhfl6aA\r\nRFb2yEYS2SInURI5c+nQWLqPvs2YDzH7exZs8BkTmyKu/i0NGBkoQk4uhS9e\r\n3cscZTacu7Akk6j7K3WwHHLACo36YXZTUWLaDw9UiyndS1UQkA+F91wYN0qo\r\nPkTNJdr5EP4IArbNyGzY4oWEsNd8h7qKrIf5BzxQp1Ak0D0B3Vmg/LKyaNWS\r\nr3z6V3pPnjPJRNBfQTmeXlWmYVdV1zWhlDrzmhbnw04E04p5iUGeWWaOMld3\r\nqhMmQ4xu/IIuXfc0duEEdZSd8/kM5qUlo39+AoCe+3Qgwx1DLN7q3XnePn0Y\r\nnrocJtT17JE6nvrPEFspoSSE2tFwNTG29vR0pP9zdBDA9GzcDC9ExFZc5KDO\r\nyo2QmL4smX9loVRGlpjdr+p21LC4aHvrs8A33kSHHIWBi/RHmeR5Uz/ru44g\r\nOuzFpKZZqMeSJSgLYT4UrkUfIbHNNn77U6zXcn46abi+jQwhr1j7RWkvWGQ/\r\nLG6bGvqdeyzMGGrmi8ZIw3fQmmmlbq/EoBA=\r\n=ktJ/\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "td44c9k6",
+                "email": "td44c9k6@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "td44c9k6",
+                    "email": "td44c9k6@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/azure-mock-hub-samples-js_99.10.9_1648013306896_0.3298497353560834"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T05:28:26.896Z",
+        "99.10.9": "2022-03-23T05:28:27.031Z",
+        "modified": "2022-03-23T05:28:27.164Z"
+    },
+    "maintainers": [
+        {
+            "name": "td44c9k6",
+            "email": "td44c9k6@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

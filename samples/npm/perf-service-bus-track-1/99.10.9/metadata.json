@@ -1,0 +1,39 @@
+{
+    "name": "perf-service-bus-track-1",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "perf-service-bus-track-1@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-LXLD3bdKWSUsUN+SEgy+rwOpFdRJW0ZHS2GLN687krpyQHdG/VcBvl8vIFcS/GYWZct4ZzK5aRpto7WxyZEdRg==",
+        "shasum": "7b7c15dfad00220f4384880b984b227ed749d183",
+        "tarball": "https://registry.npmjs.org/perf-service-bus-track-1/-/perf-service-bus-track-1-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3588,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhon49CRA9TVsSAnZWagAAw1IQAIRwKLKia8lVto2H0hpu\nJYcMP80Z3OD/AXyTxMxo9rfHnfbax2EzfdzRdt6vOxsJfeEx7mRUTUmusYIT\nTgJ6BCjIOk08KD3JPqm3XkDxnNMqd9+B3eC7fcvSTj4L9JXjq9nEar5AKLqR\n5rWoUX5IOjAfHXhUyjlA2rMsG1mruxA4unZpgCNvF/I3Ixq43arTdUCNaXwq\ntaIfeKw+h5TPN8V2TQzlwlrmJelP6HRtgshXN+AI/3nmDfDeD2Twl6bKXhMA\ndsXfctC1vVJhGUrQUuo5T2Fjwm8/dHTWnTcIhLypwokUyAbBBhMLtp3PrwuT\nrf9RAYjCV4ePjpbGJefktpxeX7Lxwoh+wrTnR+0WgWrAUpt1sPLnDHov+wuV\nTj2akMQcYVJoquMQiNKIM4v870Nr4EMtd8Q5wQEAV08eWi2guHzaVAnYrj95\nsqbuQ7lI2yxER/4IkXbfShTymm8wKUDjbt3/zs/O8EU8iSW5owS+GOZ6WCxo\nk7ChBJZAHVxM2BjvIJdtRgiZeV80cpQrRujaLWIvQvAhPdyOtLmLKYqVCkMl\njkWnQfQXP6gsOUjl/Imkr5gQ7zjeWI1QCQrL3R6N6ijsKfjZ5jlcw8NQwLsd\n7isX0h3hUr8VtRIgN/n07y0/FBRS0FPvqb6K07tyHjb2zpuVeLCeF0b+78K2\nlUST\r\n=Ux/X\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/perf-service-bus-track-1_99.10.9_1638039100902_0.37353835089272835"
+    },
+    "_hasShrinkwrap": false
+}

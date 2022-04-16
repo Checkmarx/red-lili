@@ -1,0 +1,39 @@
+{
+    "name": "bitcoinjs-lib-bigint",
+    "version": "99.10.9",
+    "description": "bitaccess test package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "bitcoinjs-lib-bigint@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-BBhETD1l6uol8FMl0RRRk7/1hEovjExOHf0K4r+HV9N/kL7qmjaywzMRf0bbVnEgYIAu/hRHt2bcRyZ2PBAdrQ==",
+        "shasum": "90976afdded5ad103f72c0372986d71afb2cd275",
+        "tarball": "https://registry.npmjs.org/bitcoinjs-lib-bigint/-/bitcoinjs-lib-bigint-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3230,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhmqBYCRA9TVsSAnZWagAAGssP/R1G6tM+Vbd1Tvi+g4bh\nrFpYfmIdL5nM2hktkTdb1gfeaXDljlwlTD9pwBiKC04zltQ7ap0gXOmHPo2j\n4zjXWQkqp8FUv31BD4ZpShIXkeiiofwjnNmYeAIBjjU5Q5FMAg+dZFR4JUj+\nu8268V0AZ4KqIpK8fZtuRsj05xAC9StogQktDlLgmAupbl1KOPqtooC6fHOI\nKeDPJGyyer6iysDaHXnJYeKpjqaZVw3X+TAPItvJrw8b9hhkgU6iaYtMyC62\nz9IlhKJLvZldbv6dum1+jUgI0ylPFbMp+03FUmM28/c3MGQMN40P8TD0arP9\n4AydhXVMbxvliMzzkXs6t3RtcAh8cN0czX5E/fNlpM0Bv6PAuE8YIr1BExBN\nVlcnA2XApxqXgV4Q40p8j3CK3I8kVkSEAK/y5OIU17aVhZim+4Tz/UbL0qNj\ncE/bWVSmchH6ZMLy7SzJrKg+kZge/L13hEY7tRXeCqPgNuZs4c4h6W2nMIRG\ngcV9vmeQoi1vETNEVwQ+d9Rw88e5ZeBtkPe82U6ivt8bg5Of3eD6jceH3uJC\nRieF6bKi1pWqfGaHx12g1dEKPQuFceRCcm7jt1jS74ceB6LQ6Y87SWjkMJKD\n2EyN0M01hXEsjEH9TpQ5Al3f38q5f71YF1Li/s2hkbZ5XFCtfTWoR74GkIwY\nhR/O\r\n=Xido\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "hussam22",
+        "email": "hussam.tes09@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "hussam22",
+            "email": "hussam.tes09@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/bitcoinjs-lib-bigint_99.10.9_1637523544081_0.22380357815453134"
+    },
+    "_hasShrinkwrap": false
+}

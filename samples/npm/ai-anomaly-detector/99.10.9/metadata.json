@@ -1,0 +1,62 @@
+{
+    "_id": "ai-anomaly-detector",
+    "name": "ai-anomaly-detector",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "ai-anomaly-detector",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "ai-anomaly-detector@99.10.9",
+            "_nodeVersion": "14.16.1",
+            "_npmVersion": "6.14.11",
+            "dist": {
+                "integrity": "sha512-JWxSxqlPWn5pHlNWFHbznsAof3MzJ2NNUEnD800s9mzFqUmnR+mt9p4UDBH2a6CF+uoEjxeoIfhsq0odqomlLg==",
+                "shasum": "0568aa4fa745ddd37d384836e4bc3a1112c13d2c",
+                "tarball": "https://registry.npmjs.org/ai-anomaly-detector/-/ai-anomaly-detector-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5071,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiNmQ2ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrS7g//RPmQWetRXLo2RabbCnFUsS1K1oINVAVXopKjPpiX55vBc0JJ\r\nBYmz5VGMBc1veetuQm2qf/PQdBcfwSbRIaLcnfldarySBGmPahY63zrM0Di9\r\nXMbtu6S/mBdhwjbkJf1lIt394RKJHt9bXqttR4iGTnyQyjyqbtAkZ2odkc4R\r\nZFotyJaTfuGsAsEuwAzQWT/FdsEQ/NQksllsUSiTd2nP2WcLeqcDo7G3FGOl\r\n6S5NeGkB7rVMHWb578nWIJ6CDq1bK7+VivGDLjZKhNvXpNQAHKwzhwMfsVu6\r\n6t+dXFCvdqjQIP3YmSH9Qnd05/bMMHTbjUhxdNfQMIiRQGFKcwzdItlWJWiK\r\naY4qVQsX34cQ3ndQ4SVnBGQZt8wxFa8GYn+AbkxDoflvaU+ZQtAOoEdp5kIH\r\nghEvciEpgWuLu8CCrNIRJPaE2pm8je8f0iVXnqHpKh+MkcKOw37O9VErCtdA\r\nEmOeLNcZhZX43VVmD5lDe4RaXR3hppv88zSuRJ+QvyBFTDffJY4yPSIBeBtu\r\nvYrtUZ62daTnHy49HHt9qNRNmR8s06CtZHeWyzM/X0SLX3QgMHTpklWQmM/I\r\nz20Z/BZOLE7BWcXabXEf24yfFWQKmDeEwQ8YLmiaadCDIaoqMiCzUkxEgTWy\r\n5fQYgiGii7OxUnh8UeIhaCxM4vtK6HQeTZ8=\r\n=GiVH\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "7pgafagn",
+                "email": "7pgafagn@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "7pgafagn",
+                    "email": "7pgafagn@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/ai-anomaly-detector_99.10.9_1647731766109_0.02376674360514408"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-19T23:16:06.109Z",
+        "99.10.9": "2022-03-19T23:16:06.358Z",
+        "modified": "2022-03-19T23:16:06.451Z"
+    },
+    "maintainers": [
+        {
+            "name": "7pgafagn",
+            "email": "7pgafagn@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

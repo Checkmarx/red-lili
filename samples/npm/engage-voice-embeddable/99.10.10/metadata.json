@@ -1,0 +1,13 @@
+{
+    "id": "engage-voice-embeddable-99.10.10",
+    "name": "engage-voice-embeddable",
+    "source": "npm",
+    "version": "99.10.10",
+    "description": "bitfinex whitehat package",
+    "date": "2021-11-28T18:18:54.153Z",
+    "author_username": "rt22",
+    "author_email": "hussam.tes05@gmail.com",
+    "files": [
+        "https://registry.npmjs.org/engage-voice-embeddable/-/engage-voice-embeddable-99.10.10.tgz"
+    ]
+}

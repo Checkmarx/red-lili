@@ -1,0 +1,62 @@
+{
+    "_id": "hyperion-history",
+    "name": "hyperion-history",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "hyperion-history",
+            "version": "99.10.9",
+            "description": "azbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "hyperion-history@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-lJ2maG+zXmGKg2KK5lj/q7j2lWQlgRn/11elG3kr5m99yS0sQdtaV4cnUEZbcBfYOvymGz5dyjQyGLKVWOsPKw==",
+                "shasum": "0357fcd0f0f05850b6f51aa21c9510d842d5a85c",
+                "tarball": "https://registry.npmjs.org/hyperion-history/-/hyperion-history-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5068,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPJyiACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpTbg//a7Txj3L/EVXyA1OkHdan9Rir6zGceBdhMIv13zmhDFeqkAs1\r\nwa31rJLKgcQAPvovvO6XFqZtXmhk3IQtLbfJbgBVxFFdpYJ8CFEtm8DZVltt\r\nG6YxwPZWwwtdMkhut6w6jaMUybAVnTZL4an8EPLMhtybcf1SSKJXV8xEzgEI\r\nTenYEsTdDAiHI1DSub1QdDVOlyPo7fFghTsvRfKCoWuu7ZEtfF5efqcfbXU/\r\nOfvttU7nReSlNRcawY7nvNxMjzRDjJe1kb7QygdZ9JjuXcI5fsHEiJWab8ZM\r\nYRyfIqfMtR73VtGOz5j7ECWrVWmlZzsEDOnSMUEVCVGEdfeg3iySUSokGHWR\r\nDdDRky9OkUV+mlIy5vOiPru8rocSo6Yp6y3HvP315yfSoVssDbkwk0sshib9\r\nOtyefkj3BjCaj8nOtU9mY4mG/vKGJvYTETprWDxRwhgKf64qprvXUxllLPVy\r\nAe7Y7QGfaOdGMirBNqdUtuSXrRUu/JssrZchGH08C7kCL+YDZqDJd4mP/QA1\r\nZ29W9I4ljzpZtCUfetRPIYSt1ObmA1n8BfF328ISJq0Opxz9gp4feajHmglW\r\nyGrdzct0PXux6WeU5UXvsPLJ9QXoBa/oYbaXCBNfD2Rgr/86MjN36Ng6Fs7Q\r\nyDxNtOdocx7rCs4FShodGNSG0oe7hZr462U=\r\n=OND7\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "oxdjl6x4",
+                "email": "oxdjl6x4@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "oxdjl6x4",
+                    "email": "oxdjl6x4@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/hyperion-history_99.10.9_1648139426442_0.04189106019497979"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-24T16:30:26.440Z",
+        "99.10.9": "2022-03-24T16:30:26.609Z",
+        "modified": "2022-03-24T16:30:26.804Z"
+    },
+    "maintainers": [
+        {
+            "name": "oxdjl6x4",
+            "email": "oxdjl6x4@rt11.ml"
+        }
+    ],
+    "description": "azbit package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

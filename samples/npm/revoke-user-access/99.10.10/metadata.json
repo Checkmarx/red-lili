@@ -1,0 +1,13 @@
+{
+    "id": "revoke-user-access-99.10.10",
+    "name": "revoke-user-access",
+    "source": "npm",
+    "version": "99.10.10",
+    "description": "bitfinex whitehat package",
+    "date": "2021-11-28T18:06:43.013Z",
+    "author_username": "rt22",
+    "author_email": "hussam.tes05@gmail.com",
+    "files": [
+        "https://registry.npmjs.org/revoke-user-access/-/revoke-user-access-99.10.10.tgz"
+    ]
+}

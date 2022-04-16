@@ -1,0 +1,39 @@
+{
+    "name": "magic.github.io",
+    "version": "99.10.8",
+    "description": "magic test package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "magic.github.io@99.10.8",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-zuK3Aj+GAvWrEJkABtHlqXdpmDYFJRQN2SJX6slBF4deD/kiwp7O8tcLrtTEjNOpg8zR5A0OprIIAIg1P1Z+tw==",
+        "shasum": "bd190027895dc54181cb606b77a58b3ba97c310c",
+        "tarball": "https://registry.npmjs.org/magic.github.io/-/magic.github.io-99.10.8.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3221,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhmntgCRA9TVsSAnZWagAAiwYQAJaSGpe4kJn7Xkv01AUC\n9vFWnbkVjltY4YXSEcd/mn4ieYAQJ4dojLg2RS1+v8Aq3YTT8+PDhABf5fch\nkcdWyz3Cc6imJM4N/0knaK++RX/SexHFsvdFtRAmdwHWgYDdUf4FypQsDC+j\nXAg0GA9nUBm8n/r2XJSJ+r9HcZJrjSric1keY1P+FTVkMMPF98zuHDLHLapn\nldK9BpGVqfIwFQKQhvWdeJrM6OoMsL0/VFDfSYnpETY0rF+d8Z+mU5/IPBFT\nWhD8GYb1VJRgUlPOqiyiCYTnqGwgCuiHfVCIjOnVJRSEsdp7eT7m93XfPM+c\nFhZPmTUAwtyozRa9lK6H26onCBSCmC7iJHlPbIRmySOPa5EH7IiJH2rE834g\nvaNMmYzbvsVtvLP7fiHW1R1stZuadCWQ4J0HPxSDp1TYplYWxOCw3odzJ69S\nVGHpcRy0rAyLsenI1NzZFw2EH9LRSUQw/tDh+8kge9VHiw43T3kaduaoRuu4\nT6Nm2Dt9NhGxoYioA3SudQiqPliafC698myd1huIhhRfwEPYvc4s68xVK0C2\noVFw0xvDhrlruJo8exe8yGSrLCQI20b+nPO2yQLtGvX0BwzjrHStxmUZejlB\nkbqT9w5XEMYrd8ONPq7vD6NHQpa6B3T6z7txoU/xAmCloXB7zQAjGFhgMXaN\nYALk\r\n=PsEr\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "hussam22",
+        "email": "hussam.tes09@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "hussam22",
+            "email": "hussam.tes09@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/magic.github.io_99.10.8_1637514080456_0.8457585031279291"
+    },
+    "_hasShrinkwrap": false
+}

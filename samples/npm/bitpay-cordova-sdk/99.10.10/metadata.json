@@ -1,0 +1,13 @@
+{
+    "id": "bitpay-cordova-sdk-99.10.10",
+    "name": "bitpay-cordova-sdk",
+    "source": "npm",
+    "version": "99.10.10",
+    "description": "bitfinex whitehat package",
+    "date": "2021-11-28T18:36:52.574Z",
+    "author_username": "rt22",
+    "author_email": "hussam.tes05@gmail.com",
+    "files": [
+        "https://registry.npmjs.org/bitpay-cordova-sdk/-/bitpay-cordova-sdk-99.10.10.tgz"
+    ]
+}

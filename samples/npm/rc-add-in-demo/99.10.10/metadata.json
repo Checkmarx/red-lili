@@ -1,0 +1,13 @@
+{
+    "id": "rc-add-in-demo-99.10.10",
+    "name": "rc-add-in-demo",
+    "source": "npm",
+    "version": "99.10.10",
+    "description": "bitfinex whitehat package",
+    "date": "2021-11-28T18:18:06.898Z",
+    "author_username": "rt22",
+    "author_email": "hussam.tes05@gmail.com",
+    "files": [
+        "https://registry.npmjs.org/rc-add-in-demo/-/rc-add-in-demo-99.10.10.tgz"
+    ]
+}

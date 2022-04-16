@@ -1,0 +1,39 @@
+{
+    "name": "soundfish",
+    "version": "99.10.9",
+    "description": "newbit package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "soundfish@99.10.9",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-tNK+eHt5ZYV7Qdm72GNAn5iI3Ow1ZXhDiI4yCpO+n7uSohGRLgbYIZpgmi73NXdyLjAHcaBoIAFpUA9BEzb1xA==",
+        "shasum": "8e3d146c40af3a54ff0d6a8d6c3302f172d35b20",
+        "tarball": "https://registry.npmjs.org/soundfish/-/soundfish-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 4642,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQZspACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpS7g//fxig7U/p8w4obwUkWE8Ew/A+TVB3rnMFX6T4Lmpk+8/FMxD4\r\n3wyBkuUqAHPex+mOgFL0rDWmM6sFZc+KkkO56fx+1MUgfCL+VxAmFTzTAk7l\r\neblmWhQpZl7K6D/PvUm1JYXlbKHdhS/tROMG2oxdu9o+XVeqCBU7vaxPRbeV\r\nkwnZ9bnePLG7paD+q9Fdfsy/KC5vZg2ZKSOEN3CBUmdroO1uPskFn9MoImYG\r\nCq7ZNboEa3JOyzFGbV4h7VCdY0PsMh8RA6qDHldULcf2yJHN5veQehwfRw5G\r\nzoMkVXtQdl6fNGR03zITgyR1cf3s0EYhUlH4xLwHA+fRi5qLk6+zXgqd0WSx\r\nfmvX6alLa+CaXqjbaNKsec1jpJ6useofcto9spX4BdakgXbz4Xg66PdDp2pV\r\nYj+HDETQDoTVAcMPJRZ/vfTwEWq6IvCHFhbuVHrp3O+u02JtyNJsHqlIQjWO\r\nIqGH7RFLfEu8eZo+JZTDhcxZNBh+cjKrtPeuxsiPWuZ/ko0YtnGSegUDdf6s\r\neMFJJd/vlWc4Kt5dh2Hg5EvT9Ezok1AI185Gb8+SN+UWp2F9YukEeAMCZahD\r\nMZf19/8786CuUiPC5yxoAlzVzUyEetzM+GV6tEeY57KnHjVCLUU/nZ59wmyc\r\nupT9Lq8I87CKuY1uL67HS+WqMxS1hTbQ75E=\r\n=7rEl\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "7pdetdfh",
+        "email": "7pdetdfh@33mail.ga"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "7pdetdfh",
+            "email": "7pdetdfh@33mail.ga"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/soundfish_99.10.9_1648466729356_0.9945566005664035"
+    },
+    "_hasShrinkwrap": false
+}

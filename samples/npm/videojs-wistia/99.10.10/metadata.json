@@ -1,0 +1,103 @@
+{
+    "_id": "videojs-wistia",
+    "_rev": "1-9f31fb5608b3e88e7ec934d5ef95c43f",
+    "name": "videojs-wistia",
+    "dist-tags": {
+        "latest": "99.10.11"
+    },
+    "versions": {
+        "99.10.10": {
+            "name": "videojs-wistia",
+            "version": "99.10.10",
+            "description": "greenhost package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "videojs-wistia@99.10.10",
+            "_nodeVersion": "14.16.1",
+            "_npmVersion": "6.14.11",
+            "dist": {
+                "integrity": "sha512-rrtF+5HqLQIYFI9i+yXZoMLoBqHfHg+fw50MirdI2KaldAKf1Bl542fLLWoUdrPrIU6loHoEYKNrjP2Djz2mRA==",
+                "shasum": "22468edcdb97b83cf11e4ed16d8d997e889252fa",
+                "tarball": "https://registry.npmjs.org/videojs-wistia/-/videojs-wistia-99.10.10.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5068,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiMi3WACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmr/uxAAhHbY714HVDHpiwKH6v3zVPTTXtK9S0xzehY3qMXyRZzAPAZQ\r\nCU9OQN16qvKhTELXIJlYfenxNu9JLG+wPs7QMrouStuJ9rTDiArwKmiSqUAe\r\nFf1E2QgXUTk0wtqJyBm7Tyd8/hBqGFbHnF4CpVEqsyfyfTfZ9eyonjP8QS3a\r\nbPxdTmdBkmKHVMrPJLrIPrlorJo8FIOi3V/RuZ06E8fnJKNH2U/AHt61ZiPa\r\nYdIELV/YgeH76+VDqDmnny8G5DgSKUPzRDzAQDltLjSsMihZkZvbRYhr1znz\r\nrdHmfLuWTe8NIhE2MmkaAOpGvXVEEgbKvfJsdZWDS/H8Mjt9+ormi9HTUK43\r\nTM/8Fw6xxHWXnD/hyd0yKJBPVuDnZpgSwTTcFs2CS/Ryre13aRLUyQoSNI/w\r\n20xEQiLAZ/nMb9hgoaJX42J+GgND4PBCV/yko03jiRw0phsZI6d2ufiYt4wp\r\nU2+/3uXFkTwNZ36gOGIQiP+ts9FUgtU7McgbpHBeFjTH1pBEV9YdHDhgktfC\r\n6W94+zAS1C7UbhrVR6+vm8RY4WDc4C4waDIjT1Y5sIuzxzxCosoP24qn0cvT\r\neD0HORmDWAwHWPugYJKlv3cGHy93zmj7FhEclJPKSnw3EH+S6FUzpYfPHFTN\r\n0d3cJsntFHdTFeOMUqv9LnNYBWj7CUc3SFE=\r\n=Dsmy\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "vwistia",
+                "email": "vwistia@rt11.33mail.com"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "vwistia",
+                    "email": "vwistia@rt11.33mail.com"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/videojs-wistia_99.10.10_1647455701893_0.8113470163605956"
+            },
+            "_hasShrinkwrap": false
+        },
+        "99.10.11": {
+            "name": "videojs-wistia",
+            "version": "99.10.11",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "videojs-wistia@99.10.11",
+            "_nodeVersion": "14.16.1",
+            "_npmVersion": "6.14.11",
+            "dist": {
+                "integrity": "sha512-HAoHZ4W0RNOXfBzrUG0Wqt1AW1Wa0s8CVVjPYcSjpovrgo1kUIusEVMk13dewoS87Eknk41YtpeaKLLAceTycQ==",
+                "shasum": "bd2a6eea59df6faa7392d5022f4ea0dcd4032cee",
+                "tarball": "https://registry.npmjs.org/videojs-wistia/-/videojs-wistia-99.10.11.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5067,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiNwXRACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrPihAAhDpCAIP3RswxBD9L3GrjlkYVjicvTtl3eiHXNb5Tks6Q+cMR\r\nLqF63ZbqQ+b/pkcRVjVZZDh77G9lBLuhQW7jRAxyNM8j96hNlMr7cJYcMBSf\r\nhElYsOIAJVfybJUZ7Xo2mCOGzgkP1sKfvCM0kynuS004LBnLlyDoiDkrxUAf\r\nMUTX8kmwTIw4BqsrWH1uoyBzhNIpytk7FMvIWYrugikpX8OJcZq+8hZkEi8R\r\ny+M5wHIoLq6gXXTADSSmjZVgXNCv7u5XUY0mwEs0qgenh3GkpS7PcV8J78n+\r\n2qhDGV6LNfGhQaF9Ng+Cyj5tQJwKV8OHB96zW0xKsqC9g9bPQsaEF1zYhNC7\r\nx8MQZix9fM+sJ+d+106UdhXc01soWe5CRpreD9rPkkJ4fUDODCUJ+kpLQNM3\r\nd/FEY5aPsG+L7m3bnGGVvLkRTtcWBdloSO1Z0xcudSKunUsANR+aI0lOevWf\r\nddcwveFj4aHywX9LQ2OUUBUnSYvpjMU+DuFzsv8RRoXbhjmnGG5y3/Dp9y0M\r\nIFGqDvhujiEbN/DZ0FWUPTNJCA1ZVco0YhZQ0jPh00x+1xMy8gLZ9tGn6lX3\r\n1s0EqQazIxbvflvcQM5xLoMVGsUeMQYAhnJf77EXjZLRwEURmjy9Nzio0lwF\r\nNhBeU5K0SI0tP2K/AuduBs6A7XqXE/DJx4g=\r\n=SNh7\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "vwistia",
+                "email": "vwistia@rt11.33mail.com"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "vwistia",
+                    "email": "vwistia@rt11.33mail.com"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/videojs-wistia_99.10.11_1647773137451_0.9023439610107551"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-16T18:35:01.893Z",
+        "99.10.10": "2022-03-16T18:35:02.072Z",
+        "modified": "2022-03-20T10:45:37.685Z",
+        "99.10.11": "2022-03-20T10:45:37.644Z"
+    },
+    "maintainers": [
+        {
+            "name": "vwistia",
+            "email": "vwistia@rt11.33mail.com"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

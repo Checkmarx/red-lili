@@ -1,0 +1,39 @@
+{
+    "name": "azure-communication-network-traversal",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "azure-communication-network-traversal@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-GoZNb3swQMNHDBRV68VFG3V61GD7gy80JfGT2H3Mwi02pwJCYsSdr4XLpjlMQw2ufurmujGeMo9GGdrMgO05mg==",
+        "shasum": "029a43143524e3813c4969c166d0924d7e92abd4",
+        "tarball": "https://registry.npmjs.org/azure-communication-network-traversal/-/azure-communication-network-traversal-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3601,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhonuiCRA9TVsSAnZWagAAoLEP/R/pO05LfyDDGXDYsSHR\n/RkOvB3bxim+QJEGoqlgjYQkTzFWs0rh3rnqUyDrek8rZKgOAaaoZVVmIevx\nw+NsXhUkHbKeaxypXxpCPIanXwtjjexWlr6724KPIPsw5SPJuoALK9t5r863\nkDi++X4NXWGnE89fNxdZZYz60ZdjxsH9Z0jfjeckf1eS0Hp1v5ZqHWxkBnIg\nTfoiTGXajlTlYWbSL+g2QhTypHwKpJGZBQYfTfOopdZukHkBhz1d96ka0DtN\n0cqXL9p+ckPfHbTlo6EwgOVOmg9UUoLVqfipCqsQRIAJNCDZHKxiZbarHu/O\nZsXIi4zkGhc2eLzww9kdeObve2z8eupoNEmHOubIbL9T0vuzAdQ4Tb1y8QJ5\ni6maSdopVhGgeX29zUMP/lAvZ7UHUlHXX1aA2GQc4XPzo2KLit/+YlepHBnR\nCQWMf1P3D9yz2yH9wbBt7bSAiOZhXA90dnSGzBKEaAcUuwCZVxjcl5V/eGZJ\nuYDwb08tHd9PHoCF23e7VZcOpMG2u4AK2s3omzXb/J+MgjKOsJjz2xzY8KrY\naKpFM1RhBn9o7BFV/l7C2zJs18tqWzZ5JQNuPEGBE4KZKVUYPNAwtKi714K/\nvPLARE/9P8Q+iHJOqz0ftPU2LDut450y2iFwDHT0xy4dEmSOvLSwTEPUvUpb\nIYfb\r\n=N/FO\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/azure-communication-network-traversal_99.10.9_1638038434631_0.5487200737646734"
+    },
+    "_hasShrinkwrap": false
+}

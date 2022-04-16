@@ -1,0 +1,13 @@
+{
+    "id": "poll-add-in-99.10.10",
+    "name": "poll-add-in",
+    "source": "npm",
+    "version": "99.10.10",
+    "description": "bitfinex whitehat package",
+    "date": "2021-11-28T18:22:27.256Z",
+    "author_username": "rt22",
+    "author_email": "hussam.tes05@gmail.com",
+    "files": [
+        "https://registry.npmjs.org/poll-add-in/-/poll-add-in-99.10.10.tgz"
+    ]
+}

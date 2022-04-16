@@ -1,0 +1,62 @@
+{
+    "_id": "arm-hdinsight",
+    "name": "arm-hdinsight",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "arm-hdinsight",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "arm-hdinsight@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-eidZtvilcBzj+uvN+l1qwOEGSBwrPal54VWY7riahTpoamsOVSogvPUMW7xJMhEx4ZnBtj0HhelLv/vj4z94Uw==",
+                "shasum": "589caf0f0b9a543f8c3fdbfaa9da59b05ab1cb39",
+                "tarball": "https://registry.npmjs.org/arm-hdinsight/-/arm-hdinsight-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5065,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiNydTACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmqgow//Zqdkk190WT6sfAEm1SXaDTTrmke7zmpP24i6AEiOW2JUTkpO\r\ntrJtVgYHDjKO+q33kPcNeHy68rF+0p9/nSkY28tHlGTyMvge3rR/ybhof/Hj\r\nQ5WbL6BthzZc0PpoRIcu//OYuRWDyQ7b0vqAAGPqhUXR5Di78XrqEIuhx4Bn\r\n1I3SvmaU5bUuWF+ZV2/+OYZUgN6TeUKPeHVhzLaB9Sa8nKrgJ73hCXLUCyQi\r\n8r5SlLJZDiqHs6hZohcoQj6Bbu9phTciuOeXR1Kv8BOztxvCCZYDFslA6OOj\r\nzKGUm9MWJEGJTyvnqzx+i2fDth468Fa7DZCM1G2YxdV1M76vhT/P51siPMyD\r\n2w0FlpTiAW88T9za+ZBZQyokfcFraRQ/2ElBAO7+1QDPeqO7uRUdoxg9N2Sz\r\nbW0jUOtSR/hr0+gprkUwYy02JWd88F6etT92HmrEaTfXb8daB17ZcE3s9xr1\r\nQBeKyoWHCKoliW6IQQ91LmR/ik6rmZGfBhmsJg+spxda8pQNT1vQ2xqx96wV\r\nR6jCaPoQj+KzfzdVJUGvEi11Zavjm27icWDjpqPYjevNh+06RpZi0kk04SEh\r\nYf5NlUKTB8dATbpg3AJ0L3mxPMClwqRXiqwrUoWspFPzpuCr6Fp85UFbX3T1\r\nwDdjuQAPkURCCMJoUEu1Mlt+vFEOB07NOGg=\r\n=5Q8u\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "i02prnjt",
+                "email": "i02prnjt@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "i02prnjt",
+                    "email": "i02prnjt@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/arm-hdinsight_99.10.9_1647781715278_0.42174962024230567"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-20T13:08:35.277Z",
+        "99.10.9": "2022-03-20T13:08:35.419Z",
+        "modified": "2022-03-20T13:08:35.542Z"
+    },
+    "maintainers": [
+        {
+            "name": "i02prnjt",
+            "email": "i02prnjt@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

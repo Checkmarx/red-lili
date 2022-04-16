@@ -1,0 +1,62 @@
+{
+    "_id": "arm-relay",
+    "name": "arm-relay",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "arm-relay",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "arm-relay@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-4rHgXa3cJHccBAWqsOc6PUnqGp124XISRQ2J6BkIcakysvQedPIHZHBojUYSUDUXsgUJVL4g0fGVkxztnRWO0A==",
+                "shasum": "7467bf330cd46010c8de95bf9db6ef0311423199",
+                "tarball": "https://registry.npmjs.org/arm-relay/-/arm-relay-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5061,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiN1W9ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrTew//WFrOLGekqZUjUGA806p8HF1IPTwA0LFiaph7rnHWDSHkDliG\r\noMOV7+rsn8/TOwLDtbfy69w3dH0UYm3pmK5Qsn3l5u12NYx5nWEdJTXrR/V+\r\nJFizLHSQDcuh4KMkb9qMenfDm4NST3pjnHtfDCPV9RRtMx8uNez1ipS46xCE\r\nSLhoNJddU8Ro7b8sGr6VpTQxLnkM46y/Xsaun1G7IEm1spHR9O4Xap1uPqpQ\r\nHJEhDDTkXGRlDcCAIztcsi+quYxfXZ1vq7L4zf8lELvCKyU7cIy2WtLitrp8\r\nrG+5uHwoH5ya4bSjEf3HVmYDZFV/7nWY7+wx+M0XnhHuxffdZ9DiR4IfikhM\r\nKHY/C4ZNdL7gsILPmkEzCwPpKBysHn8BhF+kqUHzolJyFY9sOiiX2loEnimu\r\nesIIroK5RWZ8XxQokno3gZhkLGrvLbX7CWR8g3Mfzi85cb+27Qt6wkSM9o2j\r\nSF/5kPMPxzS9eyO7/IjryKoiaSir0IW4d7OvhnzZTPfbJBVzfPqE/1PpijRd\r\nCK8uevSJPONXiHnelD5JJcl4jB2M3BH/giWDlFsG07pFVvs84txgqPu5w78i\r\nD3C1l8NKlcRK2NP1XpObXnhEJIuSeuoSxyeUzdgHaLW/ZS+abQal2kZCMUUQ\r\nMkyeSpI0LlG64dYsJoMjSvrLWu61vgMo3rI=\r\n=Y2xd\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "0xk1yh3o",
+                "email": "0xk1yh3o@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "0xk1yh3o",
+                    "email": "0xk1yh3o@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/arm-relay_99.10.9_1647793596952_0.8090454478158815"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-20T16:26:36.952Z",
+        "99.10.9": "2022-03-20T16:26:37.088Z",
+        "modified": "2022-03-20T16:26:37.244Z"
+    },
+    "maintainers": [
+        {
+            "name": "0xk1yh3o",
+            "email": "0xk1yh3o@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

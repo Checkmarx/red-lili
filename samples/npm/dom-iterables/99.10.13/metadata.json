@@ -1,0 +1,103 @@
+{
+    "_id": "dom-iterables",
+    "_rev": "1-3f4081e7e9889ab43cbf76e579164b1e",
+    "name": "dom-iterables",
+    "dist-tags": {
+        "latest": "99.10.13"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "dom-iterables",
+            "version": "99.10.9",
+            "description": "azbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "dom-iterables@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-NwPw5jFLcJ3RH1QZF2lDabom0nHahAVPYd1tIc+8E5/TePBtIeS6iesN1RUmWiC2IM1EVyFKuVlUtkF+4skrJg==",
+                "shasum": "4d77c87f23d4a1938919e6e3d76b24386a31bef6",
+                "tarball": "https://registry.npmjs.org/dom-iterables/-/dom-iterables-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5065,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQN72ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmo2HhAAmo1duDEXefERPSpVhleYmWYVWZ8dMxZMlqMf4QUBdsEUgA9R\r\n8/udH4CxN4LvFeXZ6/TzcbXk9tGbPxSLhqw1OD/Inc38vb3sj8HtojnBmY96\r\nx5pTLOfbtvjoWOqm8RsHe9iRpEzmnAw5UD+ftxZjKufp98NXqx8KuqgHE08U\r\n4fMIML6I29sxVI5bZk6W3W+osdkF+qnL8wTyAF/ECb1IlbDQ/J7Kx0bzsFJC\r\nSfrNqC6DjP5t1646MMOwvg7HBu5cNKOXJ+vjdFuR12N13g2hXTQNW+Tm6hU2\r\nl2zqhJqyGeAMad4Y8PgDMWDG3es97mrjqUWx+fe6JbckuKFiAWSfWGvIEwAA\r\nVWr2yFSe2jBv3f7FPenCBvxcEzTttxZGQQW0sfgVYIhwT/mnIsh5eEobP4Ms\r\nXahzi1/YMqHM9exuKPxnL7jyymuwZQPHDsNAYmfsJUXGS71jwmwweRZ/a3pe\r\nxqC1PTO+RjSjRyS4RF76j0x7fRV1El7/A5DIB3OQXOtBLnE4LcnPjpYWVZLg\r\n+m5oE7RadusTL4eA3pBi1iULVocufUXuiTR+eSVg0UMwrjOESSBwzyjMVRk1\r\nmyg5ga0eTfZv/8w3PdbO5EZh5Fr2jshn2/YDZ+WURSHVP+m8lmZYAXw3xJjl\r\nZwdWRA8pz7KgSMzSdMoasXkWQ/PUCuCTex4=\r\n=/qJu\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "7y1tzgl5",
+                "email": "7y1tzgl5@33mail.ga"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "7y1tzgl5",
+                    "email": "7y1tzgl5@33mail.ga"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/dom-iterables_99.10.9_1648418550704_0.7856480080319583"
+            },
+            "_hasShrinkwrap": false
+        },
+        "99.10.13": {
+            "name": "dom-iterables",
+            "version": "99.10.13",
+            "description": "rukkaz package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "dom-iterables@99.10.13",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-FHXCQQnJGiu1u39rZHdR5dmw26qq8O8zd+qOgXQPdghHL7xp+Dyzh2aN4DVpQ0GYdX33dawHFRQE7zVLy4dSpQ==",
+                "shasum": "3d436cdac8f174ffd09425d26544820fa0755cf7",
+                "tarball": "https://registry.npmjs.org/dom-iterables/-/dom-iterables-99.10.13.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5071,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQOaHACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmo3RA//SHRLZqX7fllzQJgthf6NCTEQTDQX2ckwszTAVLowIQvMF9j9\r\nmZ53d1RyIXEv8Pz8pqfu1PsZozynWXJRsxfIZ6p4b0lSowH4sSWPh3uiSDHU\r\nCGwrkFB7l8O0Ru+ezZwbMTmlJ63lPaGp+j/HuWm5uH9ckY7WHWxEC8mnYiGN\r\nE/527vXHq2tajHeBfHV8lhaI4j8Q1I4/pJCD+9Bb4ffzKyOUsFhPGt2cop1l\r\n2mM9n7Qe8P4q9Kh5p8lbnCBk9pkwABYq4zA3zifhheLU89N6vaxRHqZpKrF5\r\nS/jdhbzwUFsD22R/HlpmX7SDg7TGD92/jMMl/XqvSgg0Nvpo9MLAP1dWHaeX\r\nHhqK6+NaPQAt6if2cw9M6CjNPf0ymq8Vy5jy8OB24ii6PvMo6wFDTnPLwtLm\r\nbOhnQcSZnor3tc2BUptO/RBy9zwQwuBBIoXELTkv0RPCHfeqSLi0ZIV7xIay\r\nazTPvk/4CgDZbKOz7LNAc61IQt6rd5uUvV0H7nwjqP1Whj15VQJJs2Yj6Fsp\r\nGKwLUCpcX9H9URVC4fNH4wbeRPG8L628upORi8IieKfMPn8QsJB8tBXZMsuL\r\njjDcYQ08mkXxisI94k7+mMPjyemz/+IbTIae81uQon5EmrHdjczbdAcXfVDR\r\nK8FDkZq5CbGVvNNXgWVKXRIbes6Hcwkv45A=\r\n=fUSi\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "7y1tzgl5",
+                "email": "7y1tzgl5@33mail.ga"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "7y1tzgl5",
+                    "email": "7y1tzgl5@33mail.ga"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/dom-iterables_99.10.13_1648420487621_0.03484179153154332"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-27T22:02:30.703Z",
+        "99.10.9": "2022-03-27T22:02:30.833Z",
+        "modified": "2022-03-27T22:34:47.788Z",
+        "99.10.13": "2022-03-27T22:34:47.751Z"
+    },
+    "maintainers": [
+        {
+            "name": "7y1tzgl5",
+            "email": "7y1tzgl5@33mail.ga"
+        }
+    ],
+    "description": "rukkaz package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

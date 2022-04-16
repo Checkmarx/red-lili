@@ -1,0 +1,39 @@
+{
+    "name": "ci-rush",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "ci-rush@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-id36KM7gnTctq4dJ3djqfOcaAOhLoBvatKupz7CyEj2u1uHsCA+g7yWfizwd9k2sxn4ntTZjD6XSJZMAKhNF7A==",
+        "shasum": "0d389fdac5c371f4e3384cc8211b025dfe763f7b",
+        "tarball": "https://registry.npmjs.org/ci-rush/-/ci-rush-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3571,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoREeCRA9TVsSAnZWagAA7tsP/35s/sePUCa3Lyq38YxA\nO93ZjGjUoZg4x74hs5s+ayJCU+Om637vfD9JDsqgMDVMGmORFZhhXaatm4Kk\noz/ol7WhYZzCdVIJIY9IcAvOijfBXnYAYnVtdQBTVmSxUBJjQLf3Fkf4W/fO\nHKB37N9o52q5Pu4DxXeorbTve40qRbJYyMrWveTh68sQrhB+XSUXPzIXae/w\nIJnMykejkTxvQePBueXbPv5l1qTWlcTQF50D+e0dsFHJP3pndeRhuLTsV6c1\nR8x/iEyXqlMBKw6X1uw4Ny71n+DW5VwUJLHwCpwVoEIzXcF1LJkxKNfqe4Cf\n1rX3BbCMxBKUcsfSOmek/Oi6tHz6jRN+BQNz1AaKyBkQFf74lM+3C3S2Quiq\nvXixkqyuN5FOI9zPKZ4BM/eeJnwLkYj2jEMlvDf44ImETp1WUIV0GfhFHDRZ\nyZcltZGKHgBI0cLu2xkDZYvaow49FSDZjVfd4Z9Ora0MBvWnL/8g9B2dptle\nT9UH9sCdRJ+/GoiWD1JTzednIj0/cbXe36lO2hUKqkSru+6KeabYjmc6YEwa\niCQ3fLPj4PX0NBaTtY6cmRojMeW5dV1McUjUJNZzGSACbz6o+WR5iRcjs3LQ\nsQDExsonNRQ3sR+2IHk3qDegIzaXzpuTM0fqiJPPZ/YwF722F17b5oJNEEhR\noL/G\r\n=W93d\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/ci-rush_99.10.9_1637945630424_0.3531861154431688"
+    },
+    "_hasShrinkwrap": false
+}

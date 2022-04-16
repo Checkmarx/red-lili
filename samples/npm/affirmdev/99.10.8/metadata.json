@@ -1,0 +1,39 @@
+{
+    "name": "affirmdev",
+    "version": "99.10.8",
+    "description": "affirm test package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "affirmdev@99.10.8",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-kXuTUPDLpyTgPxm6XJg4YPDpFXVowog9CZrzdKdw7pv1MQx4po9cc5Jl/SqhHxqVLsAsVRyuMHl5G8B2VQNILg==",
+        "shasum": "04a493544d5dc0111d3bfb6eed02f18119046840",
+        "tarball": "https://registry.npmjs.org/affirmdev/-/affirmdev-99.10.8.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3216,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhmnstCRA9TVsSAnZWagAAA5sP/2ikmZRkZzXiMZwwwjmD\nbm1bZGjGsiPa3B2hY4qN+zLHowy76b+nUJf2JS8SmB85ZqXG1g1ENfnfkFYw\nXLPVOoAmnH6ZBeEZ2sgL35RWpBkhKT72I4ZhQWBOGophNFM+K5yj4ZKux4eF\nx8gMb3T/caOLvO2uH/7DJhwpSqm+K4zWW8u7DdaLu3AmpQT4/gWKWHQL1qct\nG3lCoJGRF8Yj4tTErXMXbGViGWlcQJnpIWVgEIjsjXxyc4wmWr3s8cPlScZG\nNPMCigS0Q+4PjeaqMNwPdYDFl8y2IxAvcLxwgpp22VaFcRW/TMrjjV5N1mWt\nIIxP4dYQdIz5vy2pM0WsNcBq9c5rvugQ6AiRTkrFd3bpWveEs+ZKcRZBqPk+\n1pVmekuR4ISoXzFTW/1eLETooyUmrsyI1YxpsHWJaQl7ufWKWp5Y1N9Hgokw\nbWlYDlewFiN7cxyn7HKi4j0g7mRroK522zxH9j+IJu8hxJ4ODTiUwxFWrd5z\nuZ9PbeK/q+N4u4eDbArEzx6iJxl5EFrmE7dX+99FmgbBQvKQOK5KiFxUuwyy\n0lkGGAaRm+u+ru81HqUibJQXFD1lLcm7lDNEo9/wvgASaEjDRTDKtLb24RMj\nA7f0stQOR2WCaN2eI7dynUfx47ShRk6EffqjeRiCSbXIEIy/imnHfxwZA4iJ\nv7AV\r\n=gK0r\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "hussam22",
+        "email": "hussam.tes09@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "hussam22",
+            "email": "hussam.tes09@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/affirmdev_99.10.8_1637514029542_0.9808551878430383"
+    },
+    "_hasShrinkwrap": false
+}

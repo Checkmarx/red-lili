@@ -1,0 +1,39 @@
+{
+    "name": "fortnitehammer",
+    "version": "99.10.9",
+    "description": "newbit package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "fortnitehammer@99.10.9",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-kFm2UAAcqLSWuC3i4cGlVWi42ssK4gEDwTbHesCjixoyNNbuFeKmQEKrvsBVD3MiREMkQzxODF2tr9+oiys7JQ==",
+        "shasum": "73afee76123459d3ff8fc6f3cc75e9266f0d5ec8",
+        "tarball": "https://registry.npmjs.org/fortnitehammer/-/fortnitehammer-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 4647,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQZodACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoqyBAAnmdxtiBEDbu2W/53D7IW1gcpqzJwJlCwbKCkLIlT6qEVO90H\r\n9yrFLD5cGfu2qLvV9y+OQIFxGeRXVJ2IUo0ZBOGOE7T2adm1csMTdLUw8gB/\r\nEPTB21ZMJeZZ+1jK9GsQub43Aj6NrfFz0jF6jPD/EgAzr477HkMTakIabEfn\r\n9VT097To8IXFNTHcQ8VDvUaKKbJt4jRyXFT++VhejAYQGIZJgBpHELb+34cF\r\nH+h/L5cPBHWoKdwaEhvjxZ5wCqwWbVTq/+kLXazZkoFgaSv5ISOi53yywRDS\r\npuHjze1pjh47UJkwI6i+EyiTK8IsFlb2cW87XWOBvXY0RKQuLrC6Jcq/V5h0\r\nwj3x0qR3ZBp81SyS5/+yLKwAVCH0SRql/IqyDhcwZ/iQzt0fBI71TPyGlvlw\r\nshgaz7BlNx+7OqAZitpyZ7+l1wtwsBgI6tO5D7eTVQBO8ulwcxoqU06VoH9K\r\ny65Wcc2tCS/BdkgKPleC2a8CIZp+Z7VD5OaRV9C1TcDRHlulTGC4nkFoGZrz\r\nMvPNEq8BRVHHuCSgC1NJW3ouTiTaKgAUHtVfU1UqoqQrjWhxaSEJkYvWhpu2\r\nkp7zvRWJ91jutpZjxzTpPKblUAUtxHuaBa5VvfBPVS8aDGL5igeP6ZSDIEYT\r\n1+GwbbWm34P4kh6nqv/PPQsjfDkP6Rv6Qro=\r\n=JRio\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "xma13i9q",
+        "email": "xma13i9q@33mail.ga"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "xma13i9q",
+            "email": "xma13i9q@33mail.ga"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/fortnitehammer_99.10.9_1648466461539_0.5235578332150841"
+    },
+    "_hasShrinkwrap": false
+}

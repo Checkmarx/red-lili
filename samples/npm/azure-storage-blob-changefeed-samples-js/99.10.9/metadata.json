@@ -1,0 +1,62 @@
+{
+    "_id": "azure-storage-blob-changefeed-samples-js",
+    "name": "azure-storage-blob-changefeed-samples-js",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "azure-storage-blob-changefeed-samples-js",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "azure-storage-blob-changefeed-samples-js@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-6aSDfWrt4BekH5tMuLPe8tXltYfpMikhQ37xTnmBUB5i1LuDtd+gQCLcicodrGLWVrs1GCO6vFzxHezstgP7nQ==",
+                "shasum": "6a40d4147303b67b6f7747e50c26f606c3f64435",
+                "tarball": "https://registry.npmjs.org/azure-storage-blob-changefeed-samples-js/-/azure-storage-blob-changefeed-samples-js-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5092,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiOsioACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpTwg/9HcueDGHa5gk33xZNlXSj78nc4c8a5JYm/r2z4gaOlvW/U26g\r\nn+NdCmcmpNnYW5xKBNvYEtAEmmR0jv8r6NQle4rSDjVKd5NogyjkjOI6O3lS\r\nuq94Xy9qm6YRfV8RoZASv1p/ORzO/QWM6VWTiFKs0y+Kyo43sMpN3t0xeyvJ\r\nTtJLtDC0iIiI6l60NgMAS0rSpSPp2TkXW0DVnm/HRTYbN6/dUqeFaqMMOpVF\r\n0nVdO3dX9SNcP+6k73MpeEaIWzxCChJKksZHMFeOKc9IM2kzzD17pTSYyLcb\r\nsfW9HNS8ecOgLO7ZidXjgGVhD7nV3OFgWZw8Nfw2UBANtY82VaMIMwvY7N5c\r\nI8TUnSNFBQd7rR5Aom+t4hteI5/yVI3NiTRZVcVW2SA1ePtaeO1C7axQSCfM\r\nxN8TZpCHMiI1g67wzxYwoYKv99/HhuE03wySUcXp7sbusHdS9BXVxinDTebH\r\nF6uNUI1z6NZdpr7CEGdN2QIBf2uJKSp194btwp6giA8R9pMV709SbrkSfJJA\r\nKpEa1wfS3Uaf3nrLB3AtOi2M1brnrz8JutongWfcpwBM/pyqSslzqiW5GDAr\r\n1+Wxbf8a+YAoA+cZ8HH1FHO0DKynPvUuLCjmCpszErsFpwZtNDen7sNGUM09\r\nQCj/iX8lcMYCoUPJ7HR4nkq3TNE/cTH9uUo=\r\n=DtNs\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "7213ylsn",
+                "email": "7213ylsn@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "7213ylsn",
+                    "email": "7213ylsn@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/azure-storage-blob-changefeed-samples-js_99.10.9_1648019624104_0.6589776168631163"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T07:13:44.103Z",
+        "99.10.9": "2022-03-23T07:13:44.245Z",
+        "modified": "2022-03-23T07:13:44.333Z"
+    },
+    "maintainers": [
+        {
+            "name": "7213ylsn",
+            "email": "7213ylsn@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

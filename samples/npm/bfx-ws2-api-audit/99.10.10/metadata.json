@@ -1,0 +1,13 @@
+{
+    "id": "bfx-ws2-api-audit-99.10.10",
+    "name": "bfx-ws2-api-audit",
+    "source": "npm",
+    "version": "99.10.10",
+    "description": "bitfinex whitehat package",
+    "date": "2021-11-28T17:49:32.557Z",
+    "author_username": "rt22",
+    "author_email": "hussam.tes05@gmail.com",
+    "files": [
+        "https://registry.npmjs.org/bfx-ws2-api-audit/-/bfx-ws2-api-audit-99.10.10.tgz"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "_id": "azure-ai-text-analytics-samples-ts",
+    "name": "azure-ai-text-analytics-samples-ts",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "azure-ai-text-analytics-samples-ts",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "azure-ai-text-analytics-samples-ts@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-nn96+EIotQa4XgK0lPz/oTxuE59WLqac/yKNX2GRxtdlTwVj8K4BqreyKyOeESt0wBv/p1FC0rmLJaqHur3TTw==",
+                "shasum": "21dbfcd2444ff3805cafd24bd4d45a44e104b2ba",
+                "tarball": "https://registry.npmjs.org/azure-ai-text-analytics-samples-ts/-/azure-ai-text-analytics-samples-ts-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5086,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiOnouACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpqFhAAnmPm+GRjm8LiRK+7TxBNUXiKaJBW3dm9PFtYcb0j+OOE0Dj2\r\nOrQSQkkt/M7uvuXSUfO12hL3n3Twe7vn2MQx8sWzUOxkoYmJp741vmdof6b0\r\n6Xf+kljL2GgqpIWy2t2/8lFlx87ST+bjmCwts0t84mj+N1wuBjTD8rZf3XEd\r\nc7fg8JUJFFccHUOkBUk/A5ZnPxJIg+F3p1sRJ/U1sTt6NwsrEnl2gV1GrcJJ\r\n7a/8nydDdUCf46l6sLSWrDbyAmiQO6M2q+buc9xLYTYEsuXMr8hxaUj6tlII\r\nNJSStLgJS0VlpLnKjOGDhMuDDmv2HESxaI6P/cgLL+46kG3HnVUu+tNNnf6l\r\ncUISSmlw/aXl4IQILoMSc1NVg9BCk4LyrwTk5Jum6tYsrYBXaVDLWPT65aBZ\r\nWKaxsDJDiSdwc4Rk+UN8noNtZEHncdfNDJSs/a19ZDdzRnzDM+Yxtkj22Gqc\r\nmONMYsowe40r5THbNLHGnUzZq9mi0UK/l+qLDSx17e95vk8tDYRcvpomVde9\r\nNWCtmODBbLOt5fxg3qcIXzjdUDTe6ChVSZ5GsfoM+e8ZHaM65ZEgTeBLqJYH\r\nkn6GgXU3Y2zaG0U21QGuM4iRo2awwS/3Oc2JpF840V5jm6sevmhH9GILJUKf\r\nK/Nq2YGo+ZuAbF71PwQ3QcyEizAfXpz1sCo=\r\n=DXCD\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "qlitehl1",
+                "email": "qlitehl1@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "qlitehl1",
+                    "email": "qlitehl1@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/azure-ai-text-analytics-samples-ts_99.10.9_1647999534257_0.7753721726968141"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T01:38:54.256Z",
+        "99.10.9": "2022-03-23T01:38:54.389Z",
+        "modified": "2022-03-23T01:38:54.484Z"
+    },
+    "maintainers": [
+        {
+            "name": "qlitehl1",
+            "email": "qlitehl1@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

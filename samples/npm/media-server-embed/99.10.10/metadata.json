@@ -1,0 +1,62 @@
+{
+    "_id": "media-server-embed",
+    "name": "media-server-embed",
+    "dist-tags": {
+        "latest": "99.10.10"
+    },
+    "versions": {
+        "99.10.10": {
+            "name": "media-server-embed",
+            "version": "99.10.10",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "media-server-embed@99.10.10",
+            "_nodeVersion": "14.16.1",
+            "_npmVersion": "6.14.11",
+            "dist": {
+                "integrity": "sha512-vJh3rltczEXXO6teA6dJwMZTsjDvmG+j14tKUe6d77TwpTo2B91++y+GkPmDhnXVrFrzIHqF65o/ieJ+VL5YsQ==",
+                "shasum": "9fa2a16349a386f31ca9626d5f89afe87b61ffd9",
+                "tarball": "https://registry.npmjs.org/media-server-embed/-/media-server-embed-99.10.10.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5068,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiMiHZACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrP4A/9G6m004AOk9+t86gOLUF5zfcgaOXoofFAm+IzDFgqG55pkvP7\r\nYxu1MgEZu3frxJnEaFRhi77zfmHEOWtXZ/KSBglrOPtCfZrjNfoP5zCbNP9G\r\n27gGslE4HzcNSbrndGUjcsShr6FwcwAuH5UQrZ3pG+GHr5/I+eo692dbCyEM\r\nWcSbhKYn27sTUK5eOHGwtgtiPmbv2SomHXud+Oc1YrzLD3VLdjIhD5dKaMzu\r\nd3Wt/4waCmRrK3HZY9xWmvk82Oa9IAA7Nl0W6Q5xo+X7Tb59BwkrAi3xZcc0\r\nsK3eZ/twxkislKeydTxevNd16h4rS2zeoPzfGB4QRuVQb9e0NAEhwaBW5JTr\r\nzbYmC3VDnPTtsndVrR4XvCKXWRp0OmQmQIni1F6i+GcNF0anGwlT6Nm0X58H\r\n0pmK/2nm0IxtIU9K/6V/CMoMt8YqfS1OXHozOE8J/Y1LpA9PzMSnbiOYHtS9\r\n/XD0sML+B+DpkI59eWpgSzj40Bv8wahLBWkU3sL1LKUZc3pc5NoDR3e4ff1x\r\n6tCX1uW+W5oepNFNhJ0ntaPyoKHBLlVk5p16q9U8Kjjm91zB1N2ujBE7Od3F\r\nGFvvmcYrDDzHWBm5rQr32aaWsLse0d1uqV1eVJPAmdqdccZmzRELx8ZxlxEF\r\nMXn5ts6Mi35CNNTeQKBH1Fq4rZIGWKyIfN0=\r\n=EE20\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "mediase",
+                "email": "mediase@rt11.33mail.com"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "mediase",
+                    "email": "mediase@rt11.33mail.com"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/media-server-embed_99.10.10_1647452633191_0.4054974409813392"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-16T17:43:53.190Z",
+        "99.10.10": "2022-03-16T17:43:53.333Z",
+        "modified": "2022-03-16T17:43:53.460Z"
+    },
+    "maintainers": [
+        {
+            "name": "mediase",
+            "email": "mediase@rt11.33mail.com"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

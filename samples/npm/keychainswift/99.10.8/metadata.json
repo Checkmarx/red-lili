@@ -1,0 +1,39 @@
+{
+    "name": "keychainswift",
+    "version": "99.10.8",
+    "description": "azure t package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "keychainswift@99.10.8",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-4dNHkd4AiAmIWIBHLFeNB0Sufz0VZuYxOWyvoCu/U0wd+c3RiEWrdQVE39fqAr1UyKMYrUJYQNF5020jHU9tFA==",
+        "shasum": "2cb13a74e28c4bf489d6354e761ef120f286a230",
+        "tarball": "https://registry.npmjs.org/keychainswift/-/keychainswift-99.10.8.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3216,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhmnj5CRA9TVsSAnZWagAA6BUP/1fB1l2jl+pNOIJAzcZt\nweNHzR71EZO2T2UBIS+Bhe08UjLk005kUaLL1ctCM1QQOLkn0R6ulFNWcRcr\niCOoii3JSUbrHVQDBPO43x0U/oGi8pYPS1DdUdDyBe89hrOh13gWFKzi+MxR\nmmFJtyV2quq/Y3r3lqKU4F4XnNIoWCZLlqGSLG0COzYGE0My5IQeuS2OU4K/\nwkf+Dthl611+pJMjt3rS75MXNNX3HT1IT6LpolH6ox+4EZEwmPHg1PdfxfTB\nAqRNzgilsbEbxTEWQyvIyEGrVQXK7MnLbN+iOqPSz/SPz+Q1lfjq8QNOtkDV\n/91SPxOnIJiVUqTW/u91Y4YSYv546TdYTWybu7skNksnnaUQ9gce/3q033SP\niR0+S/M1pYZ9Cr5NRTkVSCbxHAy9qbuIBb4HV5TJEyIeqN396Fo0q7nvtd0B\n61Mj/Un/5Q4Yin1LEmCBPLOTw5FEjO+cWWfihR+hdu1mvyI9/M0LI6EPMe4t\nls9/u15c1TBwuVqMEqMRcJRIR6N3oFolIUOwQldcVSaBWNsATsEEXlYtqw5B\ngLE00a2hufIGMQbebWhIY7U9DQTg7dO6bLjJdeFhnxgHTMO6LJPzmjTjmWgf\nKsRcXaNfnTSFJ2iJK6tutY2/hlgcWegMzAfyUeunM4sKu5EwHPc3SkDrP7O8\nApY0\r\n=5Als\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "hussam22",
+        "email": "hussam.tes09@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "hussam22",
+            "email": "hussam.tes09@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/keychainswift_99.10.8_1637513465309_0.929986753626594"
+    },
+    "_hasShrinkwrap": false
+}

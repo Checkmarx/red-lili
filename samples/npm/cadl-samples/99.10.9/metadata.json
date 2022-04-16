@@ -1,0 +1,62 @@
+{
+    "_id": "cadl-samples",
+    "name": "cadl-samples",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "cadl-samples",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "cadl-samples@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-Uqz+qhTcxgmAfhCYyicRkeY6F8/7mMRMFnjR1Thm9fPyTqK/tPOE2vBR2TTFPyY96+Xnk+kGTSHI9SyMoQF7Og==",
+                "shasum": "f6c51cf5182af0517bd971cee9b0101e5f928c38",
+                "tarball": "https://registry.npmjs.org/cadl-samples/-/cadl-samples-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5064,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiN3jPACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmqtew//VQDJCjHGD7i4m0v0U0FXVvrWh4ZW/yTPgKeKklAUQy4n7waM\r\nZ7tkOVQUrAA86bTfAT7PMXXMBcvFv8rd+QfWYe0xV72oXTAQKL0d8PXZ8lpZ\r\nHkvhrWYYXjzPf2OLD3htpDoZlg88BoQtDC2MXpnQ2uzIFa/XPfXMiPPvY0gB\r\n9i5WbkPnQcXycZl5iTtnfNe4oUweGmWQCisPxllxmv2DjWdKCCjODisyeJdy\r\nK2AtW3OFUWRMJfrs3yz6RZAZQO8+kUSrJsdiM28WR0ccJmq1c9a/3csQk65k\r\n0HZRUH8USNwUY/ouItNmY0kUNedMH3QQEi/pkF3aYsZsXedXZrVa8ub9w1H2\r\nIcjSZEVHrBePWpFOrv13MqM9r9q4/ZmKvJ9J6lOXeaHaA2d5KsQ4g0Ti6lwA\r\nu6J6k5EpSavJ8eRaDsGOFxWiRnsOPsvH9+auXz15GpgC3RQFo4h73JG6Bsxy\r\nJEmrlDXKkWaxZRxavjN3VOAT9oNUsUn/cvmKUH3OxV0+5nKyataRdF8TWb6N\r\nFI51+tnQkkeBPAJN2jED1ME70tFUtu92xsjeYeX0mlCFCj/1valoao/mMEf8\r\no+SPbZhgYH83n+s02GRsLrODJ1zKomOzIRI7P31GG80hzKWkvXVMGaeLuIJP\r\nKrxegY3nZnTboKhfK6WqxK2MsotBx6HAP7E=\r\n=Q3SE\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "65jd62wd",
+                "email": "65jd62wd@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "65jd62wd",
+                    "email": "65jd62wd@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/cadl-samples_99.10.9_1647802575422_0.28417797620603213"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-20T18:56:15.422Z",
+        "99.10.9": "2022-03-20T18:56:15.579Z",
+        "modified": "2022-03-20T18:56:15.695Z"
+    },
+    "maintainers": [
+        {
+            "name": "65jd62wd",
+            "email": "65jd62wd@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

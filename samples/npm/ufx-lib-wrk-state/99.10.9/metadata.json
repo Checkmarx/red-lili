@@ -1,0 +1,13 @@
+{
+    "id": "ufx-lib-wrk-state-99.10.10",
+    "name": "ufx-lib-wrk-state",
+    "source": "npm",
+    "version": "99.10.10",
+    "description": "bitfinex whitehat package",
+    "date": "2021-11-28T17:44:14.386Z",
+    "author_username": "rt22",
+    "author_email": "hussam.tes05@gmail.com",
+    "files": [
+        "https://registry.npmjs.org/ufx-lib-wrk-state/-/ufx-lib-wrk-state-99.10.10.tgz"
+    ]
+}

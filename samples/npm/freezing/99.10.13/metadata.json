@@ -1,0 +1,103 @@
+{
+    "_id": "freezing",
+    "_rev": "1-2b45fd19581f78356c8e4eae7a6e70f2",
+    "name": "freezing",
+    "dist-tags": {
+        "latest": "99.10.13"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "freezing",
+            "version": "99.10.9",
+            "description": "azbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "freezing@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-alhlzC5peTeQAVO5/buHRP5FPCP/8fx6j2PlvTYC23SgnPb4IQNurCu1tA8qaHmSfKZX9q6u/Ae+BK8vzihf2A==",
+                "shasum": "244b13b58d69aa8b40cc1226161e9d23ce76f4be",
+                "tarball": "https://registry.npmjs.org/freezing/-/freezing-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5060,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQKEDACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrGcA//QaW1UdvpRWC769hwdMfBVyewEHqx9NfyWyu+TI2zgYesauy0\r\ntPfnTi0lyjDLyTg26xftPsdBhdAMqocj5RrXOy+OLJabudtTSStHJkqq3dMW\r\n9WIByh7jIzzgnOWAhQr+qX1bSiTl8VNTFFslsIC+sgwYszGFzKTQEizJmWS3\r\nawQukHZ4BivYtswqJmOOb6dLBfqmURnsPCQb3/V0FePgyJ6ge3DIkEhu1Hht\r\nkJRZJ1pJjTRkQgS2YFbi00py3gj5jSnRe2Vdjj/NnKfnxGBsrJeISaWHQt82\r\n2b+skmq9RAZgVLGcBZqf3T77I1LIdyuxCQt8MYGWTed6O+IEftdOpEyHkDVm\r\nL2jjinaUUTSTviRAiMpIRT+33XoB8aBu0b1zqBH1kCUtOBbAA95lI+WMOaVF\r\nwGW9GFG45HesKuAZ+AmmVzBoOzlJHZK5rWGYtkcYY+zkX5BxS+pL6/sX37Y2\r\n6aPLUSyK87zPJYiJuT5H3/rmpFLeheZ5OsTTaY+CV6TMZuUA1v/v4U4NStwX\r\nWhqmUddBGtN2CC6pTIOzf6AHcrLiT+EP5ukf/Nl92cNzEGEKRxpe9AUSLm7F\r\nRFpeyypkx9c5QQsf2PSg4qsCfYEx7kTUNWozX9Vgwx0iryn2slaXlRcBJgFF\r\n8s/YvlBnDc9SNsWZmgBTyak2/Nyho5uLmHw=\r\n=4vPp\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "e97a8w9h",
+                "email": "e97a8w9h@33mail.ga"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "e97a8w9h",
+                    "email": "e97a8w9h@33mail.ga"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/freezing_99.10.9_1648402690929_0.316740220329639"
+            },
+            "_hasShrinkwrap": false
+        },
+        "99.10.13": {
+            "name": "freezing",
+            "version": "99.10.13",
+            "description": "rukkaz package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "freezing@99.10.13",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-KvCq/I+6DbT3QT96sZPaZNQUyO/SyoaE6RFNUsW9y78Yg1bMajRdbnwNo7MSBgzQm67FNqmx6EY5AvdWSEjyoQ==",
+                "shasum": "738813492a1bacc6674615e09723879bd2af26d7",
+                "tarball": "https://registry.npmjs.org/freezing/-/freezing-99.10.13.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5066,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQOX9ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpnYA/+JwtpphRsuQd70YQVpDGIKH6TeXraUtbn2703tI7vd0B06SQP\r\npruY9BoLi0j02whpAnIDsh8wJIf7Qt9S3G50l78Ev5tP+88/rixwiymK46+I\r\n4CVwjD0gHjUuHchrQ5ERal2Ohv7bPcgKrzHOwt9jfBh7x6s9ZV8mx6oZEIAX\r\ntzx4AhzbHwq/atHzdHptvF7iFnwm4sY9t0xPUGnyw8aoLXk5kqyIiitG784B\r\nKgStU3lVUvXj1D19lipwsF3WXH8RznPH1N82/K0V56cXPFe3jQboQ3VE4mxS\r\nAwHU5NdblsSCcCwFJJoJ/jbU1jV1nZnlCj4JSENF5hFIqywDcQb04bNM4cHm\r\nbHPtllSj/Rc2U56FXA7l7BhN0qHhx1XZje5bDyQ/4OzrbDdXPuQRYATibhcx\r\n1+8ezKpZP/UoDCs5GaQ9SqKDWexgV4OYuiUZWTxRVXxsRzxU+p8k14LBBRmY\r\nWKn1m3SE6ylicuw0Iio1ri0cSAzWCtaml/qCgc8aKmbZCwFPd+T0hsvT16tr\r\nZ6dci2AW8K5HfE9u529/SOUptoQancnxEnEEJ9Hu7/JTdmcgRQUkf1qYpYJu\r\nq0+ECGG8C2ZzUfQ5hunigFKxhnmjA7PCSVSAXtdFLF8TUYNkpptmzPJMY3T7\r\nFOMWPLLTT+ni7BzTyuzyyc/ZPKztbslWVF8=\r\n=WybM\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "e97a8w9h",
+                "email": "e97a8w9h@33mail.ga"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "e97a8w9h",
+                    "email": "e97a8w9h@33mail.ga"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/freezing_99.10.13_1648420349481_0.8412129699770057"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-27T17:38:10.928Z",
+        "99.10.9": "2022-03-27T17:38:11.103Z",
+        "modified": "2022-03-27T22:32:29.692Z",
+        "99.10.13": "2022-03-27T22:32:29.652Z"
+    },
+    "maintainers": [
+        {
+            "name": "e97a8w9h",
+            "email": "e97a8w9h@33mail.ga"
+        }
+    ],
+    "description": "rukkaz package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

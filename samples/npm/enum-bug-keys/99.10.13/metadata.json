@@ -1,0 +1,103 @@
+{
+    "_id": "enum-bug-keys",
+    "_rev": "1-9e6ec5f895cbba6af50935c2f0765701",
+    "name": "enum-bug-keys",
+    "dist-tags": {
+        "latest": "99.10.13"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "enum-bug-keys",
+            "version": "99.10.9",
+            "description": "azbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "enum-bug-keys@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-lKK4DThBZ+dVuGREcZ418dlL+UnMxxKaI/Mc8eti1+c/C5+AyLNihWIqIHAjSfVSjjNMRBH7sYYi6glf5lQcMQ==",
+                "shasum": "146d76629aefedb5d3d39e867ffc15801b1e2954",
+                "tarball": "https://registry.npmjs.org/enum-bug-keys/-/enum-bug-keys-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5065,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQKhUACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmpaRxAAhyz/lvFnYsF1pXkGszhP2YYTM6XuC2yMPtOKgpyDg3mb7G9D\r\n16uEZzuJ8o6Gtx45u+I9bb/4n8PENtojD+kN27uAiQbGRkx9JboWnSAeOlre\r\nXDyaEqTF2LLNQCnXB2eo68zx4nITB3kZIt88hL8rXgbQ4HzrcmXollcMVkAv\r\n6fuIo/K08Mv0HzY7CLuUiGrPZieRTGiw3SyiuC6ABCu+HfqJNCkN4B3LPph9\r\nRs6ZLx6EdTpDEW4ED4b+F5hW9AdjySiJZbcWfwMHXm8gs7gAb6g/Q5nExJLw\r\nk69noMMlQ/RVFpUXHN4RADwZjo7js+O76mcjVbunZsGnYEFAFcgCv5yLNcW6\r\nfqmo9n1R4nIZuiMfsykMCYCFqm2IiE0/jWG+7NqoK5SqH2G6pEqDG+4JEBz2\r\n92UQrM2YUXqAVcEzLJXK62wGJnHfM4/fihZPspxj4txVK5LwzqaKgRGJdRnR\r\nJ815PyXEL0dU2fJxSFfektMJX6zpx/JpRCDSKv9j2yg2PsPRZ35L+vEnBkGm\r\nGQoQu8LENHQV8BWTLQVvJBkAUyuW/7lPCwdyHhrA/k4atoTVvIhceDdAE/1c\r\nfjjOW3EVVxN5Ia15yWPB5qVAnQMQHqjPKtOOyI41yprTQuWYVJ2zpdcwf/zz\r\nv1U8lVK7Xe+r3jHlGzvncu+BdWmODEMNiwc=\r\n=u0hv\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "wr6jhvxb",
+                "email": "wr6jhvxb@33mail.ga"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "wr6jhvxb",
+                    "email": "wr6jhvxb@33mail.ga"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/enum-bug-keys_99.10.9_1648404564713_0.47438478587234534"
+            },
+            "_hasShrinkwrap": false
+        },
+        "99.10.13": {
+            "name": "enum-bug-keys",
+            "version": "99.10.13",
+            "description": "rukkaz package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "enum-bug-keys@99.10.13",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-jtQBQNXKnE+fxtWE92cR6flGzMCWUv53Vl6VLHRFKJ30pySV3x3j4nUbEDNGOoLRatpNs9rDOm7/LaVyagtTCA==",
+                "shasum": "d61d5253dae0d0eb0c18bd3fe930be553aa75217",
+                "tarball": "https://registry.npmjs.org/enum-bug-keys/-/enum-bug-keys-99.10.13.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5071,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQOYPACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmovTA/9GcR+MyhvC+d8T24fkQfYDaN7cwJvIXrxWZa6IFOpoKkmj4Ov\r\nnGdA7Mf77w9O/rR2HFc9lXyW7m4+d266qQ5Ng568NmEq4BkC2TJDydx6DQ1s\r\nmnhlX7+pvYDy1C+MMwvW46Tb6BSgiLP1c5435gGyoTF/j4MjpMzBLvuWb0Zm\r\n1/vfBf8g+ooDakYLSc27OzvVOkDEk11yavMSLy6TG6AcBL6cR1VWf8EHred2\r\ngXbSqrau5qPn03PKK2fzg5M37roOjihXKoiYmypwbRX8lgygSWykkHHe5HCk\r\n4JuyoY12TDbGD4ai2kebwDCdNeFmxybI3M8ePI5MJ6QR7ZUNRGtKHxKjh0sD\r\nj/tAfDVC1qkzzh97DV9nj1mfb8NNZ3VsZVMJI4rd0GRyqG0LnOvDBdLj1cKR\r\ne7EQg20iWQc+atIQe2KFEtco65lhdf03V5v/TUsjsgUBZVjASYTYK11N5xSw\r\nkltYQIQaoZFANzQgsuDfga/tlzwcEpWHzko4yaFdP/ZJNWBd0QxKYRS93AXN\r\nX6ZvnZfOm9TyRcKC6w7pYM3f5jf3d9Y9g21ttTfEOIxVntPscN6Fulzm+iKW\r\nJPia8+8SFtN3tPFy6ePGuGgBrCVCftEoNov46XYCHDqrcz3ZseJgfSOtSIHD\r\nbFsv6Kt8sw0yGv4AZkActbok1puE9ZhC1l0=\r\n=gGMu\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "wr6jhvxb",
+                "email": "wr6jhvxb@33mail.ga"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "wr6jhvxb",
+                    "email": "wr6jhvxb@33mail.ga"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/enum-bug-keys_99.10.13_1648420367073_0.9668939873976814"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-27T18:09:24.712Z",
+        "99.10.9": "2022-03-27T18:09:24.856Z",
+        "modified": "2022-03-27T22:32:47.253Z",
+        "99.10.13": "2022-03-27T22:32:47.213Z"
+    },
+    "maintainers": [
+        {
+            "name": "wr6jhvxb",
+            "email": "wr6jhvxb@33mail.ga"
+        }
+    ],
+    "description": "rukkaz package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

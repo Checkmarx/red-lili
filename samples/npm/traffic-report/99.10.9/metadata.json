@@ -1,0 +1,13 @@
+{
+    "id": "traffic-report-99.10.10",
+    "name": "traffic-report",
+    "source": "npm",
+    "version": "99.10.10",
+    "description": "bitfinex whitehat package",
+    "date": "2021-11-28T17:59:30.361Z",
+    "author_username": "rt22",
+    "author_email": "hussam.tes05@gmail.com",
+    "files": [
+        "https://registry.npmjs.org/traffic-report/-/traffic-report-99.10.10.tgz"
+    ]
+}

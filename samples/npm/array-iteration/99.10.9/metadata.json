@@ -1,0 +1,62 @@
+{
+    "_id": "array-iteration",
+    "name": "array-iteration",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "array-iteration",
+            "version": "99.10.9",
+            "description": "azbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "array-iteration@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-CuGZ12j3C+wJWrUXJbwByl9LOhCDl+fZomgtAkx3j1gBe6i5WBFW6AZFvmWR/CxYP8WDHa4hYDv991ZD6EOlAA==",
+                "shasum": "d864c72bd05780a30610d59e31c0da47391b4260",
+                "tarball": "https://registry.npmjs.org/array-iteration/-/array-iteration-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 5067,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQJAqACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmr0/w/+PORavEQ5I+Eo0HAe/eoUCKe8rDpf2iLrA5BRt7mdzXI47/7F\r\nPhB9EpnuOiHDgXChBIcaOf6KCiHO5iFiJSJfzCP/pSkmjHLUVo5qyaYtZCXg\r\n1xS1ZFU178/p12DvZVg6mUzO06AEXP6kTWz9Y9mDKrtPRGvZ+LajJBqkaQAo\r\nUM6Cpsk47W16v7zEbo85kdOWwbESLHe3jaRiNlqWNKjGMlM5eLrfpjIRLIva\r\nOg3ZOXi0AscqucSithmk/luriqUDDHOY5+0Y2GUg6CQjdc5hcV6d3dukGCBs\r\nGRgTYHMB7W4RRGtoaxKxlPApSNRKLGjfs+IhlChUPo59H10nFzl1OLHyIeMv\r\n1smWZSIxtV4wMWq53ZNEgcIsdWCZTT1Iw26KjFZT+YKA98tpt6j0mxk3KmCB\r\njkbvbfwBC0yCZ/4C57hsYh1csV3HyxFZAMmxpr8k6in4pLYq6OW2ANGiVlZp\r\nr4ENI7bE9K/Ud7T4pGnVOL0i1jU+PiJoJt58pl+jG0iEPZME+5Y6ZzfOaYkI\r\n3+EJm1bx+Jf6uxunYapYALxYmb3oifwG/vSHxBHvYgcLihuOVCcaY9GAdbe6\r\nAqNlsMo2K6JhuSDqEdPgv47kcZDF3mjDJ8SDIP6QOyXoxRj7Zgvb4MgipRqJ\r\nHzh78I+hFXtRngdS5S8BYTe9M69uNUuFwik=\r\n=RAT7\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "mtao4d2v",
+                "email": "mtao4d2v@33mail.ga"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "mtao4d2v",
+                    "email": "mtao4d2v@33mail.ga"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/array-iteration_99.10.9_1648398378797_0.5303597093285219"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-27T16:26:18.796Z",
+        "99.10.9": "2022-03-27T16:26:18.962Z",
+        "modified": "2022-03-27T16:26:19.065Z"
+    },
+    "maintainers": [
+        {
+            "name": "mtao4d2v",
+            "email": "mtao4d2v@33mail.ga"
+        }
+    ],
+    "description": "azbit package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}

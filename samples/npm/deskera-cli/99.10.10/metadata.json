@@ -1,0 +1,13 @@
+{
+    "id": "deskera-cli-99.10.10",
+    "name": "deskera-cli",
+    "source": "npm",
+    "version": "99.10.10",
+    "description": "bitfinex whitehat package",
+    "date": "2021-11-28T18:30:55.098Z",
+    "author_username": "rt22",
+    "author_email": "hussam.tes05@gmail.com",
+    "files": [
+        "https://registry.npmjs.org/deskera-cli/-/deskera-cli-99.10.10.tgz"
+    ]
+}

