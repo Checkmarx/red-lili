@@ -1,8 +1,4 @@
 export default {
-
-  router: {
-    base: '/red-lili/'
-  },
   server: {
     host: '0'
   },
