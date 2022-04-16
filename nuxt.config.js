@@ -13,7 +13,7 @@ export default {
       {charset: 'utf-8'},
       {property: 'og:title', content: 'RED-LILI Tracker'},
       {property: 'twitter:title', content: 'RED-LILI Tracker'},
-      {property: 'description', content: 'Tracks software supply chain threat actor which has published 1580 malicious packages'},
+      {property: 'og:description', content: 'Tracks software supply chain threat actor which has published 1580 malicious packages'},
       {property: 'twitter:description', content: 'Tracks software supply chain threat actor which has published 1580 malicious packages'},
       {property: 'og:image', content: 'https://user-images.githubusercontent.com/1287098/163688843-dbe65fb6-961a-48de-bc58-c77c72774383.png'},
       {property: 'twitter:image', content: 'https://user-images.githubusercontent.com/1287098/163688843-dbe65fb6-961a-48de-bc58-c77c72774383.png'},
