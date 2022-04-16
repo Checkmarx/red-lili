@@ -1,7 +1,6 @@
 [
     {
         "antiSandbox": true,
-        "automation": true,
         "available": true,
         "date": "2022-04-13",
         "name": "wf_storage",

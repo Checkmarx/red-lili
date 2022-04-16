@@ -156,7 +156,7 @@
                 </div>
                 <div class="selected-package-modal__footer">
 
-                    <a target="_blank" href="https://github.com/checkmarx/red-lili/samples/" class="selected-package-modal__footer__button" v-if="selectedItem.sample">
+                    <a target="_blank" href="https://github.com/Checkmarx/red-lili/tree/master/samples" class="selected-package-modal__footer__button" v-if="selectedItem.sample">
                         view sample evidence
                     </a>
                     <div class="selected-package-modal__footer__button selected-package-modal__footer__button--primary" @click="selectedItem = null">
@@ -315,7 +315,7 @@
                                     {{ exfiltrationEndpointsCount }}
                                 </div>
                                 <div class="summary__item__info__description">
-                                    Exfiltration Servers
+                                    Exfiltration Addresses
                                 </div>
                             </div>
                         </div>
@@ -665,16 +665,16 @@ html, body {
         flex: 1 0 calc(50% - 10px);
 
 
-        &__logo{
-            padding-top:$padding;
+        &__logo {
+            padding-top: $padding;
             display: flex;
             flex-direction: column;
 
-            @include responsive($breakpoint-mobile){
+            @include responsive($breakpoint-mobile) {
                 align-items: center;
             }
 
-            a{
+            a {
                 padding-top: $padding;
                 font-size: 12px;
             }
