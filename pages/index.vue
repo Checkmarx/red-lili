@@ -76,7 +76,7 @@
                         </div>
                     </div>
 
-                    <div class="selected-package-modal__body__bullet">
+                    <div class="selected-package-modal__body__bullet" v-if="selectedItem.server">
                         <div class="selected-package-modal__body__bullet__icon">
                             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                                 <path
@@ -479,7 +479,7 @@ export default {
         },
         exfiltrationEndpointsCount() {
             let servers = new Set();
-            this.items.forEach(item => servers.add(item.server));
+            this.items.filter(item => item.server).forEach(item => servers.add(item.server));
             return servers.size;
         },
 
