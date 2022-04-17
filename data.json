@@ -23,6 +23,54 @@
         "version": "99.10.9"
     },
     {
+        "antiSandbox": false,
+        "available": false,
+        "date": "2022-04-17",
+        "name": "dontbuythisshit",
+        "obfuscated": false,
+        "sample": true,
+        "server": "",
+        "subprocess": false,
+        "username": "by7ffyox",
+        "version": "99.10.9"
+    },
+    {
+        "antiSandbox": false,
+        "available": false,
+        "date": "2022-04-17",
+        "name": "thepackageisinstalled",
+        "obfuscated": false,
+        "sample": true,
+        "server": "",
+        "subprocess": false,
+        "username": "qbop4r44",
+        "version": "99.10.9"
+    },
+    {
+        "antiSandbox": false,
+        "available": false,
+        "date": "2022-04-17",
+        "name": "thepackageisnotinstalled",
+        "obfuscated": false,
+        "sample": true,
+        "server": "",
+        "subprocess": false,
+        "username": "gfxk6p3l",
+        "version": "99.10.9"
+    },
+    {
+        "antiSandbox": false,
+        "available": false,
+        "date": "2022-04-17",
+        "name": "todayiswedensday",
+        "obfuscated": false,
+        "sample": true,
+        "server": "",
+        "subprocess": false,
+        "username": "f9yxoijj",
+        "version": "99.10.9"
+    },
+    {
         "antiSandbox": true,
         "available": true,
         "date": "2022-04-12",

