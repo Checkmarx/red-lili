@@ -5,7 +5,7 @@
         "name": "wf_ajax",
         "obfuscated": true,
         "sample": true,
-        "server": "3faa13bc25347fa55cff.d.requestbin.net",
+        "server": "636o3.fuzzdb.cf",
         "subprocess": true,
         "username": "leftwing_tenore",
         "version": "96.7.9"
