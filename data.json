@@ -1,4 +1,15 @@
-[
+[{
+        "antiSandbox": true,
+        "available": true,
+        "date": "2022-04-15",
+        "name": "wf_ajax",
+        "obfuscated": true,
+        "sample": true,
+        "server": "3faa13bc25347fa55cff.d.requestbin.net",
+        "subprocess": true,
+        "username": "leftwing_tenore",
+        "version": "96.7.9"
+    },
     {
         "antiSandbox": true,
         "available": true,

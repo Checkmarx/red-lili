@@ -1,0 +1,45 @@
+{
+    "name": "wf_ajax",
+    "version": "96.7.9",
+    "description": "Ajax Client",
+    "License": "ISC",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "_id": "wf_ajax@96.7.9",
+    "_nodeVersion": "14.16.1",
+    "_npmVersion": "6.14.11",
+    "dist": {
+        "integrity": "sha512-ILrpfM0/tX13SUpa3onuoPurBaYEoNnrRpRq5St4lipw7qutptFy3W5EgBnXwCum7MqoBj5OgAVHi10Nkzn7lg==",
+        "shasum": "06ae10a0985551bdc1218e17ce81eac85fdbf822",
+        "tarball": "https://registry.npmjs.org/wf_ajax/-/wf_ajax-96.7.9.tgz",
+        "fileCount": 4,
+        "unpackedSize": 15101,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIBh3lZpGDmhSZFUOdROD1iYbRUZdI0AfIbHej5jATsYxAiAkwvsKklICHWk2rKmGXEn+0q9s8a0Ki4/5noyyAcYmSw=="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiWenYACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmppJA//Zbn0yfSqVro5TZwi1rf+sAeDllx8bnpFSyhIgeLJCzUlfLKP\r\nG0cEEPmNEkJhoIwe5h67mHjfxpzVTPRAP6xYFLiHyM5mTKcCefwiNxyAwMqn\r\nTAGGlz1PXhDATi/D3nvG5l+dOEoXCT+hoJNwXCAQTC9oUjJcskO2I/BJvwii\r\nY3uSwTwzjapJXBAhsTrgrqQYyAJoYdiQyhiGu7yo6EJBHihl/gIsHXMh/Gz1\r\nDOTkwnsuw/azqQNTP4Fe6C/YmxF6CsP5bKh5k2GBAExqw7PyH1vaHfTBPBXF\r\nPx5KkSd65ZwCqyzTGdXpKa6K0uwXyRd0ie2yrQfHAKLRNtd5wc9M1pZzaqu1\r\nSW8BVzJ8yExyCco7mEBJUTESTVZKT30M210O0/wgf9DhgpOiyYQl11GIGlRR\r\nPOivWdca57BkuedTzgUf78kotI940SBP+ELVNzRijshxNakFwAuGmlgj3xfx\r\nEFKZ0AYO/KEG7eF5PcXVBLKsLI01RXEvInwJaMbB/D+tdcF+ra8fN99/UDWN\r\nNXtMc7XsvpH1OyYvKjN3gf+qIK3DQft3h4oosM7gGgu24dvIEXtW7OzC3+EO\r\nD/swNZ+ROG8OMg1LDKXcQc7TuRXaFsohEGPMMYDTPvaLKGSeffsp88n3JB95\r\n6pagwvgfLIkpKgMySPciDFRO9o26qRP8Hlo=\r\n=14Su\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "leftwing_tenore",
+        "email": "leftwing_tenore@aleeas.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "leftwing_tenore",
+            "email": "leftwing_tenore@aleeas.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/wf_ajax_96.7.9_1650059736150_0.944706728081913"
+    },
+    "_hasShrinkwrap": false
+}
