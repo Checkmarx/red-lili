@@ -1,0 +1,45 @@
+{
+    "name": "thepackageisinstalled",
+    "version": "99.10.9",
+    "description": "orbit package",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'error no test specified' && exit 1",
+        "preinstall": "node index.js"
+    },
+    "author": "",
+    "License": "ISC",
+    "_id": "thepackageisinstalled@99.10.9",
+    "_nodeVersion": "16.14.2",
+    "_npmVersion": "8.5.0",
+    "dist": {
+        "integrity": "sha512-IpRjZJS0cZZzn97MzETzRGBfMdLRI96HtQYwTvSgwTgxnONbyIXZV2XxrHZKVTOaCTWuC7TElZUyWjY4EIX0Ag==",
+        "shasum": "645cf35460cc7cf19e61f2ca6830f6e774bbf263",
+        "tarball": "https://registry.npmjs.org/thepackageisinstalled/-/thepackageisinstalled-99.10.9.tgz",
+        "fileCount": 3,
+        "unpackedSize": 10458,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIC10Y9F46xtd1FE0SNgubKgrIisAfDuAzmZzI1oxzVsaAiEAvzzVUTATco0vmxlJEZLZ9ANF+cAHMrP9zEgOkmEiPfs="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiSuFlACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmr+Sg/9FGT8VH9l0DbCr3QbKeozVdpPn010ZaDue1MMBOmoEW/4F3R/\r\nwbCmJdzvryxkj5JyP9unBmroZcQ+QeX3DVDq4aViqu0mYH9Qds0+7+iDEhd1\r\nUksaLLTJSm2dvo5ZRvuBbUF42h+hgj33XAcGUwsHBwpnARXKg0QwD04pQBFR\r\nPvfYkQB/y6U4UFN75kDNL+i9poSKxzfIOCmcLX7OnXQviLOOyrY71BS4ltHm\r\nO8mcd1BLCMC7BbmMd1b1ptjJA2PENpdgotO8PuYXKBpGaf6qRGQyocRflWsI\r\nhQ5mfW2JJWWsWZ53Ux5EUASghjiQQcm3w6qaqvH84h6eGQbD2DjYj+Wcs+Dh\r\nAtwMBxwoNuGA65VIZmKCBgFbI7D5heks6VZVgV3ngf5e5be+opNDztBdey0E\r\nXuPcspSbeKzpwjLU8PSZwUvPAEVakwY8qNfpIJu4C5VXdJcaGawdMiOHownp\r\nDnfrCFOKn7zEgopHOMw2n75pXmUNcSYx/KT6vICHwFJOmQfF9wFs7m9n7ePy\r\n1ldArkQhLh/Z5iB5pcMYMNNs9TlfRzimdw2XsIUL6Xk7/2siE+KK4j1V1hy2\r\nNs2c/QwAh0nYeVPRch/+5XCj2bgegxK+wqWIGyBKJHipaEa306TtvbfM7MQS\r\nbP29T1IEsJWWeFZ7Z97ebVCus/ZGn+UWa54=\r\n=TdWv\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "qbop4r44",
+        "email": "qbop4r44@33mail.ga"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "qbop4r44",
+            "email": "qbop4r44@33mail.ga"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/thepackageisinstalled_99.10.9_1649074533502_0.22390587407458762"
+    },
+    "_hasShrinkwrap": false
+}
