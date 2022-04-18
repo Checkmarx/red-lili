@@ -61,6 +61,7 @@
     },
     {
         "antiSandbox": true,
+        "available": true,
         "date": "2022-04-09",
         "name": "turbine_helper",
         "obfuscated": true,
