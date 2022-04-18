@@ -2,6 +2,18 @@
     {
         "antiSandbox": true,
         "available": true,
+        "date": "2022-04-18",
+        "name": "wf_storage",
+        "obfuscated": true,
+        "sample": true,
+        "server": "636o3.fuzzdb.cf",
+        "subprocess": true,
+        "username": "leftwing_tenore",
+        "version": "99.10.10"
+    },
+    {
+        "antiSandbox": true,
+        "available": true,
         "date": "2022-04-15",
         "name": "wf_ajax",
         "obfuscated": true,
