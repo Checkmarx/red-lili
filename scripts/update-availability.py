@@ -1,6 +1,6 @@
 import json
 import os
-
+import sys
 import requests
 
 script_dir = os.path.dirname(os.path.realpath(__file__))
@@ -37,7 +37,7 @@ def main():
         with open(data_file_path, 'w+') as f:
             json.dump(data, f, indent=4)
 
-        print('::set-output name=updated::1')
+        sys.exit(1)
 
 
 if __name__ == '__main__':
