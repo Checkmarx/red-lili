@@ -17,16 +17,16 @@ jobs:
 
       - name: Run availability check
         id: script
-        run: python scripts/update-availability.py
+        run: python scripts/update-availability.py && echo ::set-output name=updated::1 || true
 
       - name: Get Timestamp
-        if: ${{ steps.script.outputs.value }}
+        if: ${{ steps.script.outputs.updated }}
         id: timestamp
         run: echo ::set-output name=value::$(date +%s)
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
-        if: ${{ steps.script.outputs.value }}
+        if: ${{ steps.script.outputs.updated }}
         with:
           commit-message: "fix(): update availability"
           title: "fix(): update availability ${{ steps.timestamp.outputs.value }}"
