@@ -2,6 +2,8 @@ name: Update Availability
 on:
   schedule:
     - cron: '0 0 * * *'
+  push:
+    branches: [ master ]
 jobs:
   update-availability:
     runs-on: ubuntu-latest
@@ -17,7 +19,7 @@ jobs:
 
       - name: Run availability check
         id: script
-        run: python scripts/update-availability.py && echo ::set-output name=updated::1 || true
+        run: python scripts/update-availability.py
 
       - name: Get Timestamp
         if: ${{ steps.script.outputs.updated }}

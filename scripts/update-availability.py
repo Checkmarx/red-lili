@@ -36,8 +36,7 @@ def main():
     if updated:
         with open(data_file_path, 'w+') as f:
             json.dump(data, f, indent=4)
-
-        sys.exit(1)
+            print('::set-output name=updated::1')
 
 
 if __name__ == '__main__':
