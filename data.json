@@ -1,7 +1,6 @@
 [
     {
         "antiSandbox": true,
-        "available": true,
         "date": "2022-04-18",
         "name": "wf_storage",
         "obfuscated": true,
@@ -13,7 +12,6 @@
     },
     {
         "antiSandbox": true,
-        "available": true,
         "date": "2022-04-15",
         "name": "wf_ajax",
         "obfuscated": true,
@@ -25,7 +23,6 @@
     },
     {
         "antiSandbox": true,
-        "available": true,
         "date": "2022-04-13",
         "name": "wf_storage",
         "obfuscated": true,
@@ -37,7 +34,6 @@
     },
     {
         "antiSandbox": true,
-        "available": true,
         "date": "2022-04-12",
         "name": "wf_apn",
         "obfuscated": true,
@@ -49,7 +45,6 @@
     },
     {
         "antiSandbox": true,
-        "available": true,
         "date": "2022-04-11",
         "name": "wf_scheduler",
         "obfuscated": true,
@@ -61,7 +56,6 @@
     },
     {
         "antiSandbox": true,
-        "available": true,
         "date": "2022-04-09",
         "name": "turbine_helper",
         "obfuscated": true,
