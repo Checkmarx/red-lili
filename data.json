@@ -7993,7 +7993,6 @@
     {
         "antiSandbox": true,
         "automation": true,
-        "available": true,
         "customServer": true,
         "date": "2022-03-23",
         "name": "babel-plugin-svg-em-dimensions",
