@@ -214,6 +214,7 @@
     },
     {
         "automation": true,
+        "available": true,
         "customServer": true,
         "date": "2022-04-02",
         "name": "dontbelikethat",
@@ -224,6 +225,7 @@
     },
     {
         "automation": true,
+        "available": true,
         "customServer": true,
         "date": "2022-04-02",
         "name": "helloboy634",
@@ -353,6 +355,7 @@
     },
     {
         "automation": true,
+        "available": true,
         "customServer": true,
         "date": "2022-04-01",
         "name": "nosoawesome232",
