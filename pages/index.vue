@@ -644,7 +644,6 @@ export default {
             let servers = new Set();
             let usersAmount = {};
             let datesRange = new Set();
-
             items.forEach((item) => {
                 if (item.server) {
                     servers.add(item.server)
@@ -658,6 +657,8 @@ export default {
                 }
                 datesRange.add(item.date)
             })
+            this.search = ""
+            this.filters.users = ["single", "multiple"]
             this.serversFilter = Array.from(servers)
             this.filters.servers = Array.from(servers)
             this.filters.usersMap = usersAmount
@@ -1293,6 +1294,8 @@ html, body {
 .graph-card {
     display: flex;
     flex-direction: row;
+    place-items: center;
+    place-content: center;
     border-radius: 2px;
     flex-grow: 1;
     box-shadow: 0 0 30px 4px #BC0000;

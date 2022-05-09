@@ -155,7 +155,7 @@ export default {
             app.stage.addChild(viewport);
             viewport.drag().pinch().wheel().decelerate().clampZoom({minWidth: width / 4, minHeight: height / 4});
             let simulation = d3.forceSimulation(Object.values(nodes))
-                .force("link", d3.forceLink(this.graphData.links).id(d => d.id).distance(-10))
+                .force("link", d3.forceLink(this.graphData.links).id(d => d.id).distance(-10).strength(-100))
                 .force("charge", d3.forceManyBody().strength(-300))
                 .force("center", d3.forceCenter(width / 2, height / 2))
                 .force("x", d3.forceX(width / 2).strength(0.01))
@@ -193,7 +193,9 @@ export default {
 
             this.dragEnd = function onDragEnd(evt) {
                 if (this.currPoint.x === evt.data.originalEvent.x && this.currPoint.y === evt.data.originalEvent.y) {
-                    vm.$emit('itemSelected', vm.graphData.nodes[vm.currDraggedNode.id])
+                    if (vm.graphData.nodes[vm.currDraggedNode.id].icon !== "server" && vm.graphData.nodes[vm.currDraggedNode.id].icon !== "user") {
+                        vm.$emit('itemSelected', vm.graphData.nodes[vm.currDraggedNode.id])
+                    }
                 }
                 evt.stopPropagation();
                 if (!evt.active) simulation.alphaTarget(0.1);
@@ -309,11 +311,8 @@ export default {
                         item.gfx.width = 40
                         item.gfx.height = 44
                     } else {
-                        if (!node.available) {
-                            item.gfx.width = 76.2
-                            item.gfx.height = 89
-                        }
-
+                        item.gfx.width = 76.2
+                        item.gfx.height = 89
                     }
                     item.gfx.id = node.id;
                     let currName = name(node)
@@ -340,7 +339,7 @@ export default {
                     item.gfx.on('mouseover', (mouseData) => {
                         vm.currDraggedNode = node
                         const text = new PIXI.Text(currName, {
-                            fontSize: 20,
+                            fontSize: 30,
                             fontFamily: "roboto",
                             fontWeight: 700,
                             fill: '#000',
@@ -349,7 +348,7 @@ export default {
                         });
                         text.anchor.set(0.5);
                         text.resolution = 2;
-                        text.position.y = -60;
+                        text.position.y = -110;
                         item.gfx.addChild(text);
                     });
                     item.gfx.on('mouseout', () => {
@@ -392,8 +391,13 @@ export default {
         },
         graphWidth: {
             handler() {
-                this.app.renderer.resize(this.graphWidth, 444)
-                this.viewport.moveCenter(this.graphWidth / 2, 444 / 2)
+                if (this.windowWidth < 1200) {
+                    this.app.renderer.resize(this.graphWidth, 400)
+                    this.viewport.moveCenter(this.graphWidth / 2, 400 / 2)
+                } else {
+                    this.app.renderer.resize(this.graphWidth, 444)
+                    this.viewport.moveCenter(this.graphWidth / 2, 444 / 2)
+                }
                 this.useSimulation.alpha(1).restart();
             }
         },
@@ -412,6 +416,7 @@ export default {
 .container {
     width: 100%;
     height: 100%;
+    overflow: hidden;
 }
 
 .no-data {
@@ -424,8 +429,6 @@ export default {
     flex-direction: column;
     place-items: center;
     place-content: center;
-    width: 100%;
-    height: 100%;
     user-select: none;
 
     &__title {
