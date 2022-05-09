@@ -120,10 +120,8 @@
                             </svg>
                         </div>
                         <div class="selected-package-modal__body__bullet__text">
-                            Published by NPM user account <a target="_blank"
-                                                             :href="`https://www.npmjs.com/~${selectedItem.username}`"><b>{{
-                                selectedItem.username
-                            }}</b></a>
+                            Published by NPM user account <a target="_blank" :href="`https://www.npmjs.com/~${selectedItem.username}`"><b>
+                            {{selectedItem.username}}</b></a>
                         </div>
                     </div>
 
@@ -670,10 +668,10 @@ export default {
     },
     computed: {
         selectAllServers: {
-            get() {
+            get(){
                 return this.filters.servers.length === this.serversFilter.length;
             },
-            set(value) {
+            set(value){
                 if (this.selectAllServers) {
                     this.filters.servers = [];
                 } else {
