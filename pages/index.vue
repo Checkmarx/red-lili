@@ -669,15 +669,14 @@ export default {
         }
     },
     computed: {
-        selectAllServers:{
-            get(){
+        selectAllServers: {
+            get() {
                 return this.filters.servers.length === this.serversFilter.length;
             },
-            set(value){
-                if (this.selectAllServers){
+            set(value) {
+                if (this.selectAllServers) {
                     this.filters.servers = [];
-                }
-                else{
+                } else {
                     this.filters.servers = Array.from(this.serversFilter)
                 }
             }
@@ -1243,7 +1242,7 @@ html, body {
         height: 400px;
     }
 
-    &__padding{
+    &__padding {
         padding-top: $padding;
     }
 
@@ -1289,10 +1288,6 @@ html, body {
 
         &::-webkit-scrollbar {
             width: 8px
-        }
-
-        &::-webkit-scrollbar-thumb {
-            //background-color: #B20000;
         }
     }
 }
