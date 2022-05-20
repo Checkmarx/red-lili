@@ -66,7 +66,6 @@
     },
     {
         "antiSandbox": true,
-        "available": true,
         "date": "2022-04-09",
         "name": "bfx-hf-func-data",
         "obfuscated": true,
@@ -127,7 +126,6 @@
     {
         "antiSandbox": true,
         "automation": true,
-        "available": true,
         "customServer": true,
         "date": "2022-04-03",
         "name": "dontblowthisoff",
@@ -140,7 +138,6 @@
     {
         "antiSandbox": true,
         "automation": true,
-        "available": true,
         "customServer": true,
         "date": "2022-04-03",
         "name": "sameethinghere101",
@@ -153,7 +150,6 @@
     {
         "antiSandbox": true,
         "automation": true,
-        "available": true,
         "customServer": true,
         "date": "2022-04-03",
         "name": "theremontada12",
@@ -202,7 +198,6 @@
     {
         "antiSandbox": true,
         "automation": true,
-        "available": true,
         "customServer": true,
         "date": "2022-04-03",
         "name": "nodefreaksolivan",
@@ -254,7 +249,6 @@
     },
     {
         "automation": true,
-        "available": true,
         "customServer": true,
         "date": "2022-04-02",
         "name": "venzuela-oil",
@@ -307,7 +301,6 @@
     },
     {
         "automation": true,
-        "available": true,
         "customServer": true,
         "date": "2022-04-01",
         "name": "dortmond22",
@@ -342,7 +335,6 @@
     },
     {
         "automation": true,
-        "available": true,
         "customServer": true,
         "date": "2022-04-01",
         "name": "venzuella333",
@@ -363,7 +355,6 @@
     },
     {
         "automation": true,
-        "available": true,
         "customServer": true,
         "date": "2022-04-01",
         "name": "somewhereinbetween",
@@ -743,7 +734,6 @@
     {
         "antiSandbox": true,
         "automation": true,
-        "available": true,
         "customServer": true,
         "date": "2022-03-29",
         "name": "zureexplorer2",
