@@ -23,6 +23,7 @@
     "webpack": "4.46.0"
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@pixi-essentials/cull": "^1.1.0",
     "sass": "1.50.0",
     "sass-loader": "10.1.1"
