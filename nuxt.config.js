@@ -2,6 +2,9 @@ export default {
   server: {
     host: '0'
   },
+  router: {
+    base: '/red-lili/'
+  },
   ssr: false,
   target: 'static',
   head: {
